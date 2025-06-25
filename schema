@@ -1,0 +1,50 @@
+{
+  collegeName: string; 
+  // The full name of the college or university offering the program (e.g., "University of California, Berkeley")
+
+  programType: string; 
+  // The classification of the program, such as "Major", "Minor", "Certificate", "Concentration", etc.
+
+  programName: string; 
+  // The official title of the academic program (e.g., "Psychology B.A.", "Data Science Minor")
+
+  degreeAwarded: string; 
+  // The credential or degree conferred upon completion (e.g., "Bachelor of Arts", "Bachelor of Science", "Minor", "Certificate")
+
+  fullProgramDescription: string; 
+  // The complete program description as written by the institution, including structure, goals, and academic focus
+
+  shortProgramDescription: string; 
+  // A brief summary (1–2 sentences) of the program's purpose, audience, and value
+
+  requiredClasses: string[]; 
+  // A list of required or core classes (typically with course codes), including prerequisites where relevant
+
+  learningOutcomes: string[]; 
+  // A list of expected competencies, skills, or knowledge areas students will gain by completing the program
+
+  similarPrograms: {
+    title: string; 
+    // The name of a similar or related academic program
+    link: string;  
+    // A URL to the related program's official webpage
+  }[]; 
+  // An array of objects representing alternative or related academic programs at the same institution. This should include majors/minors in the same field or similar topic. For example, similar majors to Biology could include BioEngineering and Chemistry.
+
+  links: string[]; 
+  // A collection of URLs pointing to official pages about the program (e.g., department site, catalog entry, advising page)
+
+  programDuration: string; 
+  // The expected length of time to complete the program. 
+  // Should include both the number of time periods (e.g., "8 semesters", "4 quarters") 
+  // and the system used for grading periods (semester, quarter, trimester, etc.)
+
+  creditRequirements: string; 
+  // Description of the number of credits required to complete the program. 
+  // Should include the total (e.g., "120 semester credits") and indicate the type of credit system used (semester, quarter, etc.)
+
+  additionalInformation: string; 
+  // A required field for any additional or supplemental information about the program. 
+  // This should include any details not covered by the other attributes, such as special requirements, admissions information, 
+  // internship opportunities, or other relevant notes.
+}
