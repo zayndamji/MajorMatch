@@ -1,0 +1,78 @@
+{
+  "collegeName": "Name University",
+  "programType": "Major",
+  "programName": "Biology BS",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The BS in Computer Science focuses on the design, development, and testing of computer systems and algorithms. The program covers the fundamental principles and practices of computer science, including the theory, design, and implementation of algorithms, computer architecture, and software engineering.",
+  "shortProgramDescription": "The Computer Science BS program provides a comprehensive education in computer science, preparing students for careers in the field.",
+  "classes": {
+    "requiredClasses": [
+      {
+        "department": "CS",
+        "number": "106B",
+        "id": "CS106B",
+        "name": "Programming Abstractions"
+      },
+      [
+        {
+          "validClasses": [
+            {
+              "department": "MATH",
+              "number": "23",
+              "id": "MATH23",
+              "name": "Linear Algebra"
+            },
+            {
+              "department": "MATH",
+              "number": "21",
+              "id": "MATH21",
+              "name": "Discrete Mathematics"
+            }
+          ],
+          "numberOfClassesRequired": 1
+        },
+        {
+          "validClasses": [
+            {
+              "department": "MATH",
+              "number": "15",
+              "id": "MATH15",
+              "name": "Calculus"
+            },
+            {
+              "department": "MATH",
+              "number": "16",
+              "id": "MATH16",
+              "name": "Calculus"
+            }
+          ],
+          "numberOfClassesRequired": 2
+        },
+        {
+          "department": "CS",
+          "number": "101A",
+          "id": "CS101A",
+          "name": "Math Example Course"
+        }
+      ]
+    ]
+  },
+  "learningOutcomes": [
+    "Understand the fundamental principles and practices of computer science",
+    "Design, develop, and test computer systems and algorithms",
+    "Apply mathematical and computational thinking to solve problems"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Computer Science Minor",
+      "link": "https://bulletin.stanford.edu/programs/CS-MIN"
+    }
+  ],
+  "links": [
+    "https://bulletin.stanford.edu/programs/CS-BS",
+    "https://cs.stanford.edu/"
+  ],
+  "programDuration": "4 years",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Relevant information."
+}

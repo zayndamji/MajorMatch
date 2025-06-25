@@ -1,4 +1,26 @@
-{
+Class {
+  department: string;
+  // The department (e.g. CIS, COMPS, BIO)
+
+  number: string;
+  // The course number associated with the course (e.g. 4, 5, 6)
+
+  id: string;
+  // The ID that exists to identify the course (seperate to courseNumber); may be called CRN; if not available, put the department + course number.
+
+  name: string;
+  // Full name of course (e.g. Introduction to Programming)
+}
+
+Requirement {
+  classes: [] of Class and/or Requirement;
+  // Set of classes that would complete requirement
+
+  numberOfClassesRequired: number;
+  // How many classes needed from the validClasses list to complete requirement
+}
+
+CollegeProgram {
   collegeName: string; 
   // The full name of the college or university offering the program (e.g., "University of California, Berkeley")
 
@@ -17,7 +39,7 @@
   shortProgramDescription: string; 
   // A brief summary (1–2 sentences) of the program's purpose, audience, and value
 
-  requiredClasses: string[]; 
+  classes: [] of Class and/or Requirement;
   // A list of required or core classes (typically with course codes), including prerequisites where relevant
 
   learningOutcomes: string[]; 
