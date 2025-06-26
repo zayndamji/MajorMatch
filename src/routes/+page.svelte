@@ -3,8 +3,8 @@
 </script>
 
 <section class="section has-background-dark is-fullheight">
-  <div class="container">
-    <h1 class="title has-text-centered has-text-white">Universities</h1>
+  <div class="container has-text-centered">
+    <h1 class="title has-text-white mb-4">Universities</h1>
 
     <div class="is-flex is-flex-direction-column is-align-items-center mt-5">
       {#each universities as university (university.id)}
@@ -13,14 +13,18 @@
           href={university.path}
         >
           <div class="media is-align-items-center">
-            <div class="media-left">
+            <div class="media-left mr-4">
               <figure class="image is-64x64">
                 <img src={university.imageUrl} alt={university.name} style="object-fit: contain;" />
               </figure>
             </div>
             <div class="media-content">
-              <h2 class="title is-5 has-text-white">{university.name}</h2>
-              <p class="is-size-7 has-text-grey-light">{university.description}</p>
+              <p class="has-text-weight-bold is-size-4 has-text-white">
+                {university.name}
+              </p>
+              <p class="is-size-6 has-text-grey-light">
+                {university.description}
+              </p>
             </div>
           </div>
         </a>
@@ -31,7 +35,7 @@
 
 <style>
   .university-box {
-    width: 90%;
+    width: 100%;
     background-color: #1a1a1a;
     border: 1px solid #333;
     transition: background-color 0.2s ease;
