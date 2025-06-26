@@ -1,17 +1,16 @@
-export const prerender = true;
+export const prerender = false;
 
 import { error } from '@sveltejs/kit';
 
 export async function load({ params }) {
-  const major = params.major;
+  const majorId = params.major;
 
   try {
-    const data = await import(`$lib/data/stanford/${major}.json`);
-    return {
-      program: data.default
-    };
+    // Adjust path as per your project structure
+    const majorData = await import(`$lib/data/stanford/${majorId}.json`);
+    return { program: majorData.default };
   } catch (e) {
-    console.error(`Major not found: ${major}`, e);
-    throw error(404, `Program "${major}" not found.`);
+    // If import fails, throw 404 to fallback to catchall route
+    throw error(404, `Major not found: ${majorId}`);
   }
 }
