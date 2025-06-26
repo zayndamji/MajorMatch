@@ -4,7 +4,9 @@ const fs = require('fs');
 const schema = fs.readFileSync('schema');
 const example = fs.readFileSync('example.json');
 
-async function scrapeProgram(collegeName, programName, shortProgramName, programLink) {
+async function scrapeProgram(collegeName, programName, programLink, outputFile) {
+  if (fs.existsSync(outputFile)) return;
+
   const content = await AI(
     `Format ${collegeName}'s ${programName} program (${programLink}) using this schema:
     ${schema}
@@ -20,13 +22,13 @@ async function scrapeProgram(collegeName, programName, shortProgramName, program
 
   console.log(content);
 
-  fs.writeFileSync(`data/${collegeName.toLowerCase().replaceAll(' ', '').replaceAll('`', '')}/${shortProgramName}.json`, JSON.stringify(JSON.parse(content), undefined, 2));
+  fs.writeFileSync(outputFile, JSON.stringify(JSON.parse(content.replaceAll('`', '')), undefined, 2));
 }
 
 // Stanford
 async function stanford() {
   const stanfordMajors = JSON.parse(fs.readFileSync('input/stanford.json'));
-  for (const major of stanfordMajors.slice(0, 3)) {
-    await scrapeProgram('Stanford', major.longName, major.name, `https://bulletin.stanford.edu/programs/${major.name}`);
+  for (const major of stanfordMajors.slice(0, 6)) {
+    await scrapeProgram('Stanford', major.longName, `https://bulletin.stanford.edu/programs/${major.name}`, `data/stanford/${major.name}.json`);
   }
 } stanford();
