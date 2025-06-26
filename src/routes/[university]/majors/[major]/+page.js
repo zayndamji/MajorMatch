@@ -7,7 +7,6 @@ export async function load({ params }) {
   const universityId = params.university;
 
   try {
-    // Adjust path as per your project structure
     const majorData = await import(`$lib/data/${universityId}/${majorId}.json`);
     return { program: majorData.default };
   } catch (e) {

@@ -9,8 +9,7 @@ export async function load({ params }) {
   const university = universities.find(u => u.id === universityId);
 
   try {
-    const majorData = await import(`$lib/data/${universityId}/majors.json`);
-    return { majors: majorData.default, university: university };
+    return { university: university };
   } catch (e) {
     // If import fails, throw 404 to fallback to catchall route
     throw error(404, `University not found: ${universityId}`);
