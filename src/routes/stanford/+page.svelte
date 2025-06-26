@@ -4,18 +4,6 @@
 
 <section class="section has-background-dark is-fullheight">
   <div class="container has-text-centered">
-
-    <!-- Breadcrumb -->
-    <nav class="breadcrumb has-succeeds-separator mb-4" aria-label="breadcrumbs">
-      <ul>
-        <li><a href="/" class="has-text-grey-light">home</a></li>
-        <li class="is-active">
-          <a href="#" class="has-text-white" aria-current="page">stanford</a>
-        </li>
-      </ul>
-    </nav>
-
-    <!-- Stanford Icon -->
     <img src="/images/stanford.png" alt="Stanford University logo" class="stanford-icon mb-2" />
 
     <h1 class="title has-text-white mb-4">Stanford University</h1>
@@ -65,13 +53,5 @@
   .major-box:hover,
   .major-box:focus {
     background-color: #111;
-  }
-
-  .breadcrumb a {
-    text-decoration: none;
-  }
-
-  .breadcrumb li + li::before {
-    color: #666;
   }
 </style>
