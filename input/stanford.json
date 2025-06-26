@@ -1,0 +1,4650 @@
+[
+  {
+    "_id": "AA-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Ready for your breathtaking career designing today and tomorrow's air and space solutions? This program immerses you in the principles and techniques to advance piloted and autonomous aerial vehicles, robotics, space-based telecommunication solutions, and related technology-intensive fields.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Aeronautics%20and%20Astronautics-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.0201",
+    "code": "AA-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "AEROASTRO",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "AA-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Aeronautics & Astro (BS)",
+    "name": "AA-BS",
+    "programGroupId": "AA-BS",
+    "status": "Active",
+    "transcriptDescription": "Aeronautics and Astronautics (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "AA-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with an overview of the critical elements of modern aerospace systems. You choose whether to focus on aircraft, spacecraft, or disciplines relevant to both.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Aeronautics%20and%20Astronautics-01.png",
+      "altText": ""
+    },
+    "cipCode": "14.0201",
+    "code": "AA-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "AEROASTRO",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "AA-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Aeronautics & Astro (Min)",
+    "name": "AA-MIN",
+    "programGroupId": "AA-MIN",
+    "status": "Active",
+    "transcriptDescription": "Aeronautics and Astronautics (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "AFRAM-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Experience the captivating study and understanding of people of African descent as a central component of American culture. Your coursework promotes study and research across disciplinary and departmental boundaries — anthropology, art, art history, economics, education, drama, history, languages, linguistics, literature, music, philosophy, political science, psychology, religion, and sociology, among others — and provides you with an intellectual foundation for graduate school or professional careers.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/African%20%26%20African-Amer%20Studies-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0201",
+    "code": "AFRAM-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "AFROAM",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "AFRAM-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Afric/Afro-Amer Stu (BA)",
+    "name": "AFRAM-BA",
+    "programGroupId": "AFRAM-BA",
+    "status": "Active",
+    "transcriptDescription": "African and African American Studies (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "AFRAM-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with this compelling minor that provides a foundation for understanding the people of African descent as a central component of American culture through interdisciplinary coursework and independent study.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/African%20%26%20African-Amer%20Studies-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0201",
+    "code": "AFRAM-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "AFROAM",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "AFRAM-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Afric/Afro-Amer Stu (Min)",
+    "name": "AFRAM-MIN",
+    "programGroupId": "AFRAM-MIN",
+    "status": "Active",
+    "transcriptDescription": "African and African American Studies (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "AMSTU-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "With coursework across various topic areas — history and institutions, literature, culture and the arts, and comparative race and ethnicity — you’ll discover how different disciplines approach the study and interpretation of American life. You’ll also define and pursue your own thematic concentration in areas including feminism, gender and sexuality, anthropology, religion, sociology, education, music, film, African American, Chicana/o-Latina/o, or Native American studies.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/American%20Studies-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0102",
+    "code": "AMSTU-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "AMSTU",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "AMSTU-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "American Studies (BA)",
+    "name": "AMSTU-BA",
+    "programGroupId": "AMSTU-BA",
+    "status": "Active",
+    "transcriptDescription": "American Studies (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "AMSTU-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a compelling minor that provides a broad understanding of American culture and society. Building on a foundation of courses in history and institutions, literature and the arts, and race and ethnicity, you’ll learn to analyze and interpret America’s past and present, forging fresh and creative syntheses along the way. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/American%20Studies-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0102",
+    "code": "AMSTU-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "AMSTU",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "AMSTU-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "American Studies (Min)",
+    "name": "AMSTU-MIN",
+    "programGroupId": "AMSTU-MIN",
+    "status": "Active",
+    "transcriptDescription": "American Studies (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "ANTHR-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Study human beings and human societies as they exist across time and space in a way distinct from other social sciences. You’ll give central attention to the entire span of human history and the full range of societies and cultures using methods especially attuned to questions of social, cultural, and biological diversity, issues of power, identity, and inequality, and the dynamic processes of social, historical, ecological, and biological change over time. Your coursework and experience deliver excellent preparation for living and working in a multicultural and globally-interconnected world.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Anthropology-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "45.0201",
+    "code": "ANTHR-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "ANTHRO",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ANTHR-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Anthropology (BA)",
+    "name": "ANTHR-BA",
+    "programGroupId": "ANTHR-BA",
+    "status": "Active",
+    "transcriptDescription": "Anthropology (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "ANTHR-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a compelling minor that provides a broad understanding of human history and the full range of societies and cultures. Your coursework and experience deliver excellent preparation for living and working in a multicultural and globally-interconnected world.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Anthropology-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "45.0201",
+    "code": "ANTHR-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "ANTHRO",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ANTHR-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Anthropology (Min)",
+    "name": "ANTHR-MIN",
+    "programGroupId": "ANTHR-MIN",
+    "status": "Active",
+    "transcriptDescription": "Anthropology (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "ARCHA-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Learn to analyze human heritage and bridge former and present societies by examining the past through its material remains. You’ll get direct access to the experiences of a wide range of people in numerous cultures across the globe through an interdisciplinary approach that draws in equal parts on the humanities, social sciences, and natural sciences.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Archaeology-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "45.0301",
+    "code": "ARCHA-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "ARCHAEOLGY",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ARCHA-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Archaeology (BA)",
+    "name": "ARCHA-BA",
+    "programGroupId": "ARCHA-BA",
+    "status": "Active",
+    "transcriptDescription": "Archaeology (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "ARCHA-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your primary undergraduate field of study with a minor in Archaeology that introduces you to the field of study and how to bridge former and present societies by examining the past through its material remains.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Archaeology-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "45.0301",
+    "code": "ARCHA-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "ARCHAEOLGY",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ARCHA-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Archaeology (Min)",
+    "name": "ARCHA-MIN",
+    "programGroupId": "ARCHA-MIN",
+    "status": "Active",
+    "transcriptDescription": "Archaeology (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "ARTHS-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Your undergraduate degree coursework in Art History prepares you to understand works of art, architecture, and design from various perspectives, including the original context of their making and reception and their subsequent circulation, collection, conservation, and display.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Art%20%26%20Art%20History-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "50.0703",
+    "code": "ARTHS-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "ART",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ARTHS-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Art History (BA)",
+    "name": "ARTHS-BA",
+    "programGroupId": "ARTHS-BA",
+    "status": "Active",
+    "transcriptDescription": "Art History (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "ART-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your primary undergraduate field of study with a minor in Art History that provides an overview of understanding works of art, architecture, and design from various perspectives.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/ART%20Programs%20Image.png",
+      "altText": ""
+    },
+    "cipCode": "50.0703",
+    "code": "ART-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "ART",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ART-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Art History (Min)",
+    "name": "ART-MIN",
+    "programGroupId": "ART-MIN",
+    "status": "Active",
+    "transcriptDescription": "Art History (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "ARTP-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Prepare for a career in the visual arts and hone your creative capabilities. This flexible program delivers diverse courses, a production-based curriculum, and cross-disciplinary interaction with faculty and fellow students that exposes you to a broad range of art forms, their cultural and historical uses, impact, production, and circulation. You’ll also become familiar with various studio facilities and gain experience with group critiques and exhibition practices. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Art%20%26%20Art%20History-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "50.0702",
+    "code": "ARTP-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "ART",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ARTP-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Art Practice (BA)",
+    "name": "ARTP-BA",
+    "programGroupId": "ARTP-BA",
+    "status": "Active",
+    "transcriptDescription": "Art Practice (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "ARTP-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your primary undergraduate field of study with a minor in Art Practice that exposes you to a broad range of art forms, their cultural and historical uses, impact, and production and circulation. You’ll become familiar with various studio facilities and gain experience with group critiques and exhibition practices.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Art%20%26%20Art%20History-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "50.0702",
+    "code": "ARTP-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "ART",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ARTP-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Art Practice (Min)",
+    "name": "ARTP-MIN",
+    "programGroupId": "ARTP-MIN",
+    "status": "Active",
+    "transcriptDescription": "Art Practice (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "ASAM-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate degree with a minor in Asian American Studies, through which you’ll learn about and understand the historical and current experiences of Asian Americans. At the same time, you develop skills to rigorously analyze race and ethnicity in all aspects of human life.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Compar%20Studies%20Race%20%26%20Ethnic-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0206",
+    "code": "ASAM-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "CSRE",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ASAM-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Asian American Stu (Min)",
+    "name": "ASAM-MIN",
+    "programGroupId": "ASAM-MIN",
+    "status": "Active",
+    "transcriptDescription": "Asian American Stu (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "ASAM-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "In this interdisciplinary program, you’ll have the opportunity to learn about and understand the historical and current experiences of Asian Americans, a rapidly developing, complex, and heterogeneous population for which there is neither a single identity nor community. You’ll develop skills to rigorously analyze race and ethnicity in all aspects of human life — including diversity and social justice — as you better prepare yourself to live and work in a multicultural world.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Compar%20Studies%20Race%20%26%20Ethnic-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0206",
+    "code": "ASAM-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "CSRE",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ASAM-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Asian American Stu (BA)",
+    "name": "ASAM-BA",
+    "programGroupId": "ASAM-BA",
+    "status": "Active",
+    "transcriptDescription": "Asian American Studies (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "BIOE-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Learn to combine engineering and the life sciences to advance scientific discovery, healthcare and medicine, manufacturing, environmental quality, culture, and education. Your degree opens doors for careers in research, medicine, business, law, and policy.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Bioengineering-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.0501",
+    "code": "BIOE-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "BIOENGR",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "BIOE-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Bioengineering (BS)",
+    "name": "BIOE-BS",
+    "programGroupId": "BIOE-BS",
+    "status": "Active",
+    "transcriptDescription": "Bioengineering (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "BIO-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Biology is a diverse and exciting field. Both as preparation for specific professional careers and as the focus of a general liberal arts curriculum, a major in Biology is an excellent choice for many Stanford students. The Biology major can serve as a stepping-stone for various career opportunities, such as medical, dental, veterinary school, or a graduate program in the biological and applied sciences. It can also serve as a valuable and satisfying focus of a liberal arts education for those not planning careers in science-related fields.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Biology-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "26.0101",
+    "code": "BIO-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "BIO",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "BIO-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Biology (BS)",
+    "name": "BIO-BS",
+    "programGroupId": "BIO-BS",
+    "status": "Active",
+    "transcriptDescription": "Biology (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "BIO-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate degree with a minor in Biology, through which you’ll learn to think and analyze information critically, draw connections among the different areas of biology, and communicate your ideas effectively to the scientific community.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Biology-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "26.0101",
+    "code": "BIO-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "BIO",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "BIO-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Biology (Min)",
+    "name": "BIO-MIN",
+    "programGroupId": "BIO-MIN",
+    "status": "Active",
+    "transcriptDescription": "Biology (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "CHEME-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Develop your understanding of the core scientific, mathematical, and engineering principles that prepare you to conceive and design processes for producing, transforming, and transporting chemical materials. Your coursework will cover applied mathematics, material and energy balances, thermodynamics, fluid mechanics, energy and mass transfer, separations technologies, and chemical reaction kinetics and reactor design.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Chemical%20Engineering-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.0701",
+    "code": "CHEME-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "CHEMENGR",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CHEME-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Chemical Engineering (BS)",
+    "name": "CHEME-BS",
+    "programGroupId": "CHEME-BS",
+    "status": "Active",
+    "transcriptDescription": "Chemical Engineering (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "CHEME-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your primary undergraduate or graduate field of study with an overview of the subdisciplines of chemical engineering — including chemical, physical, mathematical, and engineering sciences.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Chemical%20Engineering-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.0701",
+    "code": "CHEME-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "CHEMENGR",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CHEME-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Chemical Engineering (Min)",
+    "name": "CHEME-MIN",
+    "programGroupId": "CHEME-MIN",
+    "status": "Active",
+    "transcriptDescription": "Chemical Engineering (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "CHEM-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Chemistry is about the nature of matter, how to make it, measure it, and model it. In that sense, chemistry really matters, holding, for example, the key to driving new drugs, creating new materials, and understanding and controlling all sorts of material properties. Your undergraduate program builds foundational knowledge in the subdisciplines of chemistry that is beneficial in various careers.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Chemistry-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "40.0501",
+    "code": "CHEM-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "CHEMISTRY",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CHEM-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Chemistry (BS)",
+    "name": "CHEM-BS",
+    "programGroupId": "CHEM-BS",
+    "status": "Active",
+    "transcriptDescription": "Chemistry (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "CHEM-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with an overview of the subdisciplines of chemistry — including organic, inorganic, physical, biological, theoretical, and analytical — that support careers in various fields.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Chemistry-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "40.0501",
+    "code": "CHEM-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "CHEMISTRY",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CHEM-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Chemistry (Min)",
+    "name": "CHEM-MIN",
+    "programGroupId": "CHEM-MIN",
+    "status": "Active",
+    "transcriptDescription": "Chemistry (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "CHILT-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "This interdisciplinary program affords you a unique opportunity to explore the culture, society, economy, and politics of America’s vital and growing Chicanxs and Latinxs segment. Coursework focuses on the U.S. population with origins in Mexico, Latin America, and/or South America.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Compar%20Studies%20Race%20%26%20Ethnic-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0203",
+    "code": "CHILT-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "CSRE",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CHILT-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Chicana/o-Latina/o St (BA)",
+    "name": "CHILT-BA",
+    "programGroupId": "CHILT-BA",
+    "status": "Active",
+    "transcriptDescription": "Chicana/o - Latina/o Studies (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "CHILT-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with this compelling minor that provides a foundation for understanding American culture’s Chicanxs and Latinxs components through interdisciplinary coursework and independent study.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Compar%20Studies%20Race%20%26%20Ethnic-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0203",
+    "code": "CHILT-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "CSRE",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CHILT-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Chicana/o-Latina/o St (Min)",
+    "name": "CHILT-MIN",
+    "programGroupId": "CHILT-MIN",
+    "status": "Active",
+    "transcriptDescription": "Chicana/o - Latina/o Studies (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "CE-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Learn the principles and methodologies you’ll need to start your professional or academic career in civil engineering. Your coursework results in a solid foundation in the fundamentals common to many related specialties and includes experiments that teach you to solve engineering problems creatively.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Civil%20and%20Environ%20Engineering-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.0801",
+    "code": "CE-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "CIVENVRENG",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CE-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Civil Engineering (BS)",
+    "name": "Civil Engineering (BS)",
+    "programGroupId": "CE-BS",
+    "status": "Active",
+    "transcriptDescription": "Civil Engineering (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "CE-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate degree with a minor in Civil Engineering. Your coursework provides a focused introduction to one or more areas of civil engineering, including architectural design, construction engineering and management, and structural and geotechnical engineering.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Civil%20and%20Environ%20Engineering-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.0801",
+    "code": "CE-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "CIVENVRENG",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CE-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Civil Engineering (Min)",
+    "name": "CE-MIN",
+    "programGroupId": "CE-MIN",
+    "status": "Active",
+    "transcriptDescription": "Civil Engineering (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "CLASS-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Cultivate a broad, interdisciplinary background in ancient Greece and Rome's literature and material culture. Explore connections between ancient cultures and the modern world.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Classics-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.1200",
+    "code": "CLASS-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "CLASSICS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CLASS-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Classics (BA)",
+    "name": "CLASS-BA",
+    "programGroupId": "CLASS-BA",
+    "status": "Active",
+    "transcriptDescription": "Classics (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "CLASS-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with this compelling minor that provides a broad, interdisciplinary background in ancient Greece and Rome’s literature and material culture.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Classics-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.1200",
+    "code": "CLASS-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "CLASSICS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CLASS-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Classics (Min)",
+    "name": "CLASS-MIN",
+    "programGroupId": "CLASS-MIN",
+    "status": "Active",
+    "transcriptDescription": "Classics (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "COMMU-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Expose yourself to a broad-based understanding of communication theory and research as you become familiar with the fundamental concerns, theoretical approaches, and methods of the field, and acquire advanced knowledge in one or more sub-areas of the discipline. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Communication.jpg",
+    "cipCode": "09.0199",
+    "code": "COMMU-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "COMMUN",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "COMMU-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Communication (BA)",
+    "name": "COMMU-BA",
+    "programGroupId": "COMMU-BA",
+    "status": "Active",
+    "transcriptDescription": "Communication (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "COMMU-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with this compelling minor that provides you with a broad-based understanding of communication theory and research.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Communication-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "09.0199",
+    "code": "COMMU-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "COMMUN",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "COMMU-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Communication (Min)",
+    "name": "COMMU-MIN",
+    "programGroupId": "COMMU-MIN",
+    "status": "Active",
+    "transcriptDescription": "Communication (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "CPLIT-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Expand your understanding of literature beyond that of a single national tradition while learning how it functions in our imaginations, our languages, and our social, political, and economic lives.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Comparative%20Literature-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0104",
+    "code": "CPLIT-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "COMPARLIT",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CPLIT-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Comparative Lit (BA)",
+    "name": "CPLIT-BA",
+    "programGroupId": "CPLIT-BA",
+    "status": "Active",
+    "transcriptDescription": "Comparative Literature (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "CPLIT-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with this compelling minor that provides you with a deeper understanding of literature.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Comparative%20Literature-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0104",
+    "code": "CPLIT-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "COMPARLIT",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CPLIT-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Comparative Literature (Min)",
+    "name": "CPLIT-MIN",
+    "programGroupId": "CPLIT-MIN",
+    "status": "Active",
+    "transcriptDescription": "Comparative Literature (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "CSRE-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Through this interdisciplinary program, devote yourself to the rigorous analysis and deep understanding of the multiple meanings of racial and ethnic diversity worldwide. Learn to become a leader and contributor to producing knowledge for race and justice.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Compar%20Studies%20Race%20%26%20Ethnic-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0299",
+    "code": "CSRE-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "CSRE",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CSRE-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Comp Stu Race & Eth (BA)",
+    "name": "CSRE-BA",
+    "programGroupId": "CSRE-BA",
+    "status": "Active",
+    "transcriptDescription": "Comparative Studies in Race and Ethnicity (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "CSRE-IHN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Pursue sustained independent research on race and ethnicity with the support of a faculty advising team, an interdisciplinary cohort of peers, and CCSRE staff. You’ll synthesize the skills and insights cultivated over the course of your Stanford career to design and produce unique and impactful projects.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Compar%20Studies%20Race%20%26%20Ethnic-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "",
+    "code": "CSRE-IHN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "CSRE",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CSRE-IHN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "CompStd Race & Ethnicity (IHN)",
+    "name": "CSRE-IHN",
+    "programGroupId": "CSRE-IHN",
+    "status": "Active",
+    "transcriptDescription": "Comparative Studies in Race and Ethnicity (IHN)",
+    "type": "(IHN) Interdisc Honors"
+  },
+  {
+    "_id": "CSRE-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with this compelling minor that develops your breadth of knowledge of racial and ethnic diversity throughout the world.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Compar%20Studies%20Race%20%26%20Ethnic-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0299",
+    "code": "CSRE-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "CSRE",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CSRE-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Comp Stu Race & Eth (Min)",
+    "name": "CSRE-MIN",
+    "programGroupId": "CSRE-MIN",
+    "status": "Active",
+    "transcriptDescription": "Comparative Studies in Race and Ethnicity (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "CS-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Develop your breadth of knowledge across computer science, including your ability to apply the defining processes of computer science theory, abstraction, design, and implementation to solve problems in the discipline.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Computer%20Science-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "11.0701",
+    "code": "CS-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "COMPUTSCI",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CS-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Computer Science (BS)",
+    "name": "CS-BS",
+    "programGroupId": "CS-BS",
+    "status": "Active",
+    "transcriptDescription": "Computer Science (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "CS-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with this compelling minor that develops your breadth of knowledge across computer science.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Computer%20Science-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "11.0701",
+    "code": "CS-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "COMPUTSCI",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CS-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Computer Science (Min)",
+    "name": "CS-MIN",
+    "programGroupId": "CS-MIN",
+    "status": "Active",
+    "transcriptDescription": "Computer Science (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "CRWRIT-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with this compelling minor that offers a structured environment to expand your interest and develop your writing skills in writing prose, poetry, or fiction for film.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/English-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "23.0501",
+    "code": "CRWRIT-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "ENGLISH",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "CRWRIT-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Creative Writing (Min)",
+    "name": "CRWRIT-MIN",
+    "programGroupId": "CRWRIT-MIN",
+    "status": "Active",
+    "transcriptDescription": "Creative Writing (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "DATSC-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Build the analytical and quantitative foundation for tackling data-driven problems in science, industry, and society. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Statistics-01.png",
+      "altText": "Decorative image"
+    },
+    "cipCode": "30.7001",
+    "code": "DATSC-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "DATASCI",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "DATSC-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Data Science (BA)",
+    "name": "DATSC-BA",
+    "programGroupId": "DATSC-BA",
+    "status": "Active",
+    "transcriptDescription": "Data Science (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "DATSC-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Statistics-01.png",
+      "altText": "Decorative image"
+    },
+    "cipCode": "30.7001",
+    "code": "DATSC-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "DATASCI",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "DATSC-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Data Science (BS)",
+    "name": "DATSC-BS",
+    "programGroupId": "DATSC-BS",
+    "status": "Active",
+    "transcriptDescription": "Data Science (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "DATSCI-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate studies in the humanities and social sciences with a minor in Data Science that delivers the practical know-how of statistical data analytic methods related to your field of interest. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Data%20Science%20Program%20Picture.png",
+      "altText": ""
+    },
+    "cipCode": "30.7001",
+    "code": "DATSCI-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "DATASCI",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "DATSCI-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Data Science (Min)",
+    "name": "DATSCI-MIN",
+    "programGroupId": "DATSCI-MIN",
+    "status": "Active",
+    "transcriptDescription": "Data Science (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "DDRL-IHN-2023-08-01",
+    "campus": "",
+    "catalogDescription": "Conduct an independent honors thesis focused on democracy, development, and the rule of law, regardless of the subject of your major.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Institute%20for%20Intl%20Studies-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "",
+    "code": "DDRL-IHN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "INSTINTLST",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2023-08-01",
+    "id": "DDRL-IHN-2023-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Dem, Dev, and the Rule of Law",
+    "name": "DDRL-IHN",
+    "programGroupId": "DDRL-IHN",
+    "status": "Active",
+    "transcriptDescription": "Democracy, Development and the Rule of Law (IHN)",
+    "type": "(IHN) Interdisc Honors"
+  },
+  {
+    "_id": "DESIGN-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Draw on the behavioral and social sciences to develop a strong foundation in human-centered design and the mathematics, science, and engineering concepts needed to support it. This degree prepares you for postgraduate study in design or careers as a designer in public and private sector institutions, entrepreneurial endeavors, and perhaps, most importantly, careers that do not yet exist. ",
+    "catalogDisplayName": "",
+    "cipCode": "30.0601",
+    "code": "DESIGN-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "DESIGN",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "DESIGN-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Design (BS)",
+    "name": "DESIGN-BS",
+    "programGroupId": "DESIGN-BS",
+    "status": "Active",
+    "transcriptDescription": "Design (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "DIGHUM-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Perform humanistic inquiry using digital methods and tools that foster innovative research. You’ll develop critical skills applicable within and beyond an academic setting while complementing your undergraduate degree with this minor.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/English-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "23.01",
+    "code": "DIGHUM-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "ENGLISH",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "DIGHUM-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Digital Humanities (Min)",
+    "name": "DIGHUM-MIN",
+    "programGroupId": "DIGHUM-MIN",
+    "status": "Active",
+    "transcriptDescription": "Digital Humanities (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "EPS-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Develop a broad background in the fundamentals of the Earth and planetary sciences, and the quantitative, analytical, and communications skills necessary to conduct research and think critically about questions involving the Earth and other planets.",
+    "catalogDisplayName": "",
+    "cipCode": "40.0699",
+    "code": "EPS-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "GEOLSCI",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "EPS-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Earth Planetary Sciences (BS)",
+    "name": "EPS-BS",
+    "programGroupId": "EPS-BS",
+    "status": "Active",
+    "transcriptDescription": "Earth and Planetary Sciences (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "EPS-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Develop a broad background in the fundamentals of the Earth and planetary sciences, and the quantitative, analytical, and communications skills necessary to conduct research and think critically about questions involving the Earth and other planets.",
+    "catalogDisplayName": "",
+    "cipCode": "40.0699",
+    "code": "EPS-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "GEOLSCI",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "EPS-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Earth Planetary Sciences (Min)",
+    "name": "EPS-MIN",
+    "programGroupId": "EPS-MIN",
+    "status": "Active",
+    "transcriptDescription": "Earth and Planetary Sciences (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "EASYS-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Immerse yourself in the complex environmental problems caused by human activities in conjunction with natural changes in the Earth system, and tackle the world’s most pressing social-environmental issues, as you become part of a generation of scientists, professionals, and citizens who solve problems using systematic, interdisciplinary approaches.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Earth%20Systems%20%282%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "40.0601",
+    "code": "EASYS-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "EARTHSYS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "EASYS-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Earth Systems (BS)",
+    "name": "EASYS-BS",
+    "programGroupId": "EASYS-BS",
+    "status": "Active",
+    "transcriptDescription": "Earth Systems (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "EASYS-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Enhance your undergraduate degree in another field with a minor focused on sustainability or environmental justice.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Earth%20Systems.jpg",
+    "cipCode": "40.06",
+    "code": "EASYS-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "EARTHSYS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "EASYS-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Earth Systems (Min)",
+    "name": "EASYS-MIN",
+    "programGroupId": "EASYS-MIN",
+    "status": "Active",
+    "transcriptDescription": "Earth Systems (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "EASST-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Engage with the cultures of China, Japan, Korea, and the greater East Asia region through language, linguistics, literature, film, cultural studies, visual arts, and more.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/East%20Asian%20Languages%26%20Cultures-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0104",
+    "code": "EASST-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "ASIANLANG",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "EASST-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "East Asian Studies (BA)",
+    "name": "EASST-BA",
+    "programGroupId": "EASST-BA",
+    "status": "Active",
+    "transcriptDescription": "East Asian Studies (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "EASST-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with this compelling minor that develops your breadth of knowledge across the cultures of the East Asia region.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/East%20Asian%20Languages%26%20Cultures-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0104",
+    "code": "EASST-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "ASIANLANG",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "EASST-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "East Asian Studies (Min)",
+    "name": "EASST-MIN",
+    "programGroupId": "EASST-MIN",
+    "status": "Active",
+    "transcriptDescription": "East Asian Studies (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "ECON-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Develop a foundational understanding of the economic aspects of modern society, introduce yourself to macro- and microeconomic theory, familiarize yourself with techniques for analyzing and communicating contemporary economic problems, and develop your ability to exercise judgment in evaluating public economic policy.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Economics-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "45.0603",
+    "code": "ECON-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "ECONOMICS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ECON-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Economics (BA)",
+    "name": "ECON-BA",
+    "programGroupId": "ECON-BA",
+    "status": "Active",
+    "transcriptDescription": "Economics (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "ECON-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Develop a foundational understanding of the economic aspects of modern society, introduce yourself to macro- and microeconomic theory, familiarize yourself with techniques for analyzing and communicating contemporary economic problems, and develop your ability to exercise judgment in evaluating public economic policy.",
+    "catalogDisplayName": "",
+    "cipCode": "45.0603",
+    "code": "ECON-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "ECONOMICS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ECON-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Economics (BS)",
+    "name": "ECON-BS",
+    "programGroupId": "ECON-BS",
+    "status": "Active",
+    "transcriptDescription": "Economics (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "ECON-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Enhance your undergraduate studies in another field with a minor in Economics that acquaints you with the rudiments of micro- and macroeconomic theory and builds your competence in applying that theory to your chosen areas of specialization.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Economics-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "45.0603",
+    "code": "ECON-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "ECONOMICS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ECON-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Economics (Min)",
+    "name": "ECON-MIN",
+    "programGroupId": "ECON-MIN",
+    "status": "Active",
+    "transcriptDescription": "Economics (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "ED-IHN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Apply your studies to unique research projects inspired by your interests in education. This program enables Stanford undergraduates to extend their training in their major field of study by pursuing education courses and undertaking a supervised research thesis involving the study of education.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Education.jpg",
+    "cipCode": "13.0101",
+    "code": "ED-IHN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "EDUCATION",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ED-IHN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Education (IHn)",
+    "name": "ED-IHN",
+    "programGroupId": "ED-IHN",
+    "status": "Active",
+    "transcriptDescription": "Education (IHN)",
+    "type": "(IHN) Interdisc Honors"
+  },
+  {
+    "_id": "EDUC-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor that substantially introduces education through a broad-based and focused study of education research, theory, and practice.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Education-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "13.0101",
+    "code": "EDUC-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "EDUCATION",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "EDUC-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Education (Min)",
+    "name": "EDUC-MIN",
+    "programGroupId": "EDUC-MIN",
+    "status": "Active",
+    "transcriptDescription": "Education (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "EE-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Gain a basic understanding of electrical engineering built on a foundation of physical science, mathematics, computing, and technology as you prepare for a related career or future study in a graduate or professional school.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Electrical%20Engineering-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.1001",
+    "code": "EE-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "ELECTENGR",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "EE-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Electrical Engineering (BS)",
+    "name": "EE-BS",
+    "programGroupId": "EE-BS",
+    "status": "Active",
+    "transcriptDescription": "Electrical Engineering (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "EE-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Electrical Engineering.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Electrical%20Engineering-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.1001",
+    "code": "EE-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "ELECTENGR",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "EE-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Electrical Engineering (Min)",
+    "name": "EE-MIN",
+    "programGroupId": "EE-MIN",
+    "status": "Active",
+    "transcriptDescription": "Electrical Engineering (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "ENERGY-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Prepare for a career in the energy industry through coursework that provides sufficient depth in the energy, engineering, and environmental fields.",
+    "catalogDisplayName": "",
+    "cipCode": "14.4801",
+    "code": "ENERGY-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "PETROLENGR",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ENERGY-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Energy Science and Eng (BS)",
+    "name": "ENERGY-BS",
+    "programGroupId": "ENERGY-BS",
+    "status": "Active",
+    "transcriptDescription": "Energy Science and Engineering (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "ENERGY-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major by exploring the aspects of the energy industry to earn a minor in Energy Resources Engineering.",
+    "catalogDisplayName": "",
+    "cipCode": "14.4801",
+    "code": "ENERGY-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "PETROLENGR",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ENERGY-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Energy Science and Eng (Min)",
+    "name": "ENERGY-MIN",
+    "programGroupId": "ENERGY-MIN",
+    "status": "Active",
+    "transcriptDescription": "Energy Science and Engineering (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "ENGR-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Students pursuing a Bachelor of Science degree in Engineering can specialize in one of six major areas: Biomedical Computation; Architectural Design; Engineering Physics; Atmosphere & Energy; Sustainable Architecture &Engineering; Biomechanical Engineering",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Engineering%20Dean-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.9999",
+    "code": "ENGR-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "ENGRDEAN",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ENGR-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Engineering (BS)",
+    "name": "ENGR-BS",
+    "programGroupId": "ENGR-BS",
+    "status": "Active",
+    "transcriptDescription": "Engineering (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "66QEfbYoXsDQomIHquBE-2024-08-01",
+    "campus": "",
+    "catalogDescription": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Engineering%20Dean-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.9999",
+    "code": "ENGRBS17",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "ENGRDEAN",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "66QEfbYoXsDQomIHquBE-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Engineering (BS): Architectural Design",
+    "name": "Engineering (BS): Architectural Design",
+    "programGroupId": "66QEfbYoXsDQomIHquBE",
+    "requestStatus": "approved",
+    "status": "Active",
+    "transcriptDescription": "Engineering (BS): Architectural Design",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "BhS0crb5iSOey59K4pEu-2024-08-01",
+    "campus": "",
+    "catalogDescription": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Engineering%20Dean-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.9999",
+    "code": "ENGRBS19",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "ENGRDEAN",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "BhS0crb5iSOey59K4pEu-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Engineering (BS): Atmosphere and Energy",
+    "name": "Engineering (BS): Atmosphere and Energy",
+    "programGroupId": "BhS0crb5iSOey59K4pEu",
+    "requestStatus": "approved",
+    "status": "Active",
+    "transcriptDescription": "Engineering (BS): Atmosphere and Energy",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "amgyvgz1HuZ5s5gEbkq0-2024-08-01",
+    "campus": "",
+    "catalogDescription": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Engineering%20Dean-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.9999",
+    "code": "ENGRBS4",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "ENGRDEAN",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "amgyvgz1HuZ5s5gEbkq0-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Engineering (BS): Biomechanical Engineering",
+    "name": "Engineering (BS): Biomechanical Engineering",
+    "programGroupId": "amgyvgz1HuZ5s5gEbkq0",
+    "requestStatus": "approved",
+    "status": "Active",
+    "transcriptDescription": "Engineering (BS): Biomechanical Engineering",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "16kZ1nSLynUYAQA95BOf-2024-08-01",
+    "campus": "",
+    "catalogDescription": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Engineering%20Dean-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.9999",
+    "code": "ENGRBS16",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "ENGRDEAN",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "16kZ1nSLynUYAQA95BOf-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Engineering (BS): Biomedical Computation",
+    "name": "Engineering (BS): Biomedical Computation",
+    "programGroupId": "16kZ1nSLynUYAQA95BOf",
+    "requestStatus": "approved",
+    "status": "Active",
+    "transcriptDescription": "Engineering (BS): Biomedical Computation",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "jaikpuy4s2o1AEGK4tcF-2024-08-01",
+    "campus": "",
+    "catalogDescription": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Engineering%20Dean-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.9999",
+    "code": "ENGRBS18",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "ENGRDEAN",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "jaikpuy4s2o1AEGK4tcF-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Engineering (BS): Engineering Physics",
+    "name": "Engineering (BS): Engineering Physics",
+    "programGroupId": "jaikpuy4s2o1AEGK4tcF",
+    "requestStatus": "approved",
+    "status": "Active",
+    "transcriptDescription": "Engineering (BS): Engineering Physics",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "R33JztH6ilSLpxC7uVjP",
+    "campus": "",
+    "catalogDescription": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Engineering%20Dean-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.9999",
+    "code": "ENGRBS21",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "ENGRDEAN",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "R33JztH6ilSLpxC7uVjP",
+    "level": "Undergraduate Matriculated",
+    "longName": "Engineering (BS): Sustainable Architecture and Engineering",
+    "name": "Engineering (BS): Sustainable Architecture and Engineering",
+    "programGroupId": "JzNNOUhLu7KQWAKTAHcK",
+    "requestStatus": "approved",
+    "status": "Active",
+    "transcriptDescription": "Engineering (BS): Sustainable Architecture and Engineering",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "ENGL-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Explore the rich legacy of British and American literature through a curriculum that traces its development from the Middle Ages to the present, teaches the critical tools for analyzing literature through three broad genres — poetry, narrative, and methodology — and creates a contextual framework that opens to you the department’s wide range of electives.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/English-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "23.0101",
+    "code": "ENGL-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "ENGLISH",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ENGL-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "English (BA)",
+    "name": "ENGL-BA",
+    "programGroupId": "ENGL-BA",
+    "status": "Active",
+    "transcriptDescription": "English (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "ENGL-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major by exploring the rich legacy of British and American literature, and earn a minor in English.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/English-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "23.0101",
+    "code": "ENGL-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "ENGLISH",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ENGL-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "English (Min)",
+    "name": "ENGL-MIN",
+    "programGroupId": "ENGL-MIN",
+    "status": "Active",
+    "transcriptDescription": "English (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "ENVSE-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Prepare to face 21st-century environmental challenges as you prepare to incorporate environmentally sustainable design, strategies, and practices into natural and built systems. You can focus on coastal regions, freshwater systems, or urban energy and infrastructure.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Civil%20and%20Environ%20Engineering-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.1401",
+    "code": "ENVSE-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "CIVENVRENG",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ENVSE-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Envir Systems Engr (BS)",
+    "name": "ENVSE-BS",
+    "programGroupId": "ENVSE-BS",
+    "status": "Active",
+    "transcriptDescription": "Environmental Systems Engineering (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "ENVSE-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major by exploring environmentally sustainable design, strategies, and practices involving buildings, water supply, and coastal regions while earning a minor.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Civil%20and%20Environ%20Engineering-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.1401",
+    "code": "ENVSE-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "CIVENVRENG",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ENVSE-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Envir Systems Engr (Min)",
+    "name": "ENVSE-MIN",
+    "programGroupId": "ENVSE-MIN",
+    "status": "Active",
+    "transcriptDescription": "Environmental Systems Engineering (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "ETHSO-IHN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Through this honors program, you’ll have the opportunity to write a senior honors thesis on a topic that applies moral and political philosophy to a contemporary practical problem.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Ethics%20in%20Society-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "38.0103",
+    "code": "ETHSO-IHN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "ETHICSOC",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ETHSO-IHN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Ethics in Society (IHn)",
+    "name": "ETHSO-IHN",
+    "programGroupId": "ETHSO-IHN",
+    "status": "Active",
+    "transcriptDescription": "Ethics in Society (IHN)",
+    "type": "(IHN) Interdisc Honors"
+  },
+  {
+    "_id": "ETHSO-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major by exploring the ethical dimensions of urgent challenges facing today’s society to earn a minor in Ethics in Society.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Ethics%20in%20Society-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "38.0103",
+    "code": "ETHSO-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "ETHICSOC",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ETHSO-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Ethics in Society (Min)",
+    "name": "ETHSO-MIN",
+    "programGroupId": "ETHSO-MIN",
+    "status": "Active",
+    "transcriptDescription": "Ethics in Society (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "FGSS-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "The interdepartmental program provides the knowledge and skills to investigate the significance of gender and sexuality in all areas of human life. You’ll examine how societies structure gender roles, relations, and identities and how these intersect with other power hierarchies, such as class, race, nationality, ethnicity, sexuality, ability, and age.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Feminist%2C%20Gend.%20%26%20Sex-01%20%281%29.%20Studies",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0299",
+    "code": "FGSS-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "FEMINST",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "FGSS-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Fem, Gen, & Sex Studies (BA)",
+    "name": "FGSS-BA",
+    "programGroupId": "FGSS-BA",
+    "status": "Active",
+    "transcriptDescription": "Feminist, Gender, and Sexuality Studies (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "FGSS-IHN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Through this Honors Program, you’ll have the opportunity to write a senior honors research paper or produce a creative project related to this topic.",
+    "catalogDisplayName": "",
+    "cipCode": "05.0207",
+    "code": "FGSS-IHN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "FEMINST",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "FGSS-IHN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Fem, Gen, & Sex Studies (IHn)",
+    "name": "FGSS-IHN",
+    "programGroupId": "FGSS-IHN",
+    "status": "Active",
+    "transcriptDescription": "Feminist, Gender, and Sexuality Studies (IHN)",
+    "type": "(IHN) Interdisc Honors"
+  },
+  {
+    "_id": "FGSS-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "This minor complements any major by providing critical tools for understanding and analyzing gender and sexuality across the disciplines.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Feminist%2C%20Gend.%20%26%20Sex-01%20%281%29.%20Studies",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0207",
+    "code": "FGSS-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "FEMINST",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "FGSS-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Fem, Gen, & Sex Studies (Min)",
+    "name": "FGSS-MIN",
+    "programGroupId": "FGSS-MIN",
+    "status": "Active",
+    "transcriptDescription": "Feminist, Gender, and Sexuality Studies (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "FILM-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Art%20%26%20Art%20History-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "50.0601",
+    "code": "FILM-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "ART",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "FILM-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Film and Media Studies (BA)",
+    "name": "FILM-BA",
+    "programGroupId": "FILM-BA",
+    "status": "Active",
+    "transcriptDescription": "Film and Media Studies (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "FILM-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with this compelling minor that develops your breadth of knowledge across film, video, and digital media.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Art%20%26%20Art%20History-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "50.0601",
+    "code": "FILM-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "ART",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "FILM-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Film and Media Studies (Min)",
+    "name": "FILM-MIN",
+    "programGroupId": "FILM-MIN",
+    "status": "Active",
+    "transcriptDescription": "Film and Media Studies (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "FRENC-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Embark on a transcontinental journey, traveling through both time and space from the medieval world through the early modern period to immerse yourself in French culture through language, ancient texts, literary masterpieces, art, history, food and more.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/French%20and%20Italian-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0901",
+    "code": "FRENC-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "FRENCHITAL",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "FRENC-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "French (BA)",
+    "name": "FRENC-BA",
+    "programGroupId": "FRENC-BA",
+    "status": "Active",
+    "transcriptDescription": "French (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "FRENC-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major by exploring the rich legacy of French culture through language, art, history, and more while earning a minor in French.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/French%20and%20Italian-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0901",
+    "code": "FRENC-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "FRENCHITAL",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "FRENC-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "French (Min)",
+    "name": "FRENC-MIN",
+    "programGroupId": "FRENC-MIN",
+    "status": "Active",
+    "transcriptDescription": "French (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "GEOPH-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Expose yourself to a broad spectrum of geophysics, including resource exploration, environmental geophysics, seismology, and tectonics, while obtaining a solid foundation in the essentials of mathematics, physics, and geology that can lead to graduate study or professional careers in government or the private sector.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Geophysics.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "40.0603",
+    "code": "GEOPH-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "GEOPHYSICS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "GEOPH-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Geophysics (BS)",
+    "name": "GEOPH-BS",
+    "programGroupId": "GEOPH-BS",
+    "status": "Active",
+    "transcriptDescription": "Geophysics (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "GEOPH-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with general knowledge of geophysics to earn this minor.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Geophysics.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "40.0603",
+    "code": "GEOPH-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "GEOPHYSICS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "GEOPH-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Geophysics (Min)",
+    "name": "GEOPH-MIN",
+    "programGroupId": "GEOPH-MIN",
+    "status": "Active",
+    "transcriptDescription": "Geophysics (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "GERST-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Launch your exploration into the linguistic and analytic significance of the cultural traditions and political histories of the German-speaking countries of Central Europe. Your interdisciplinary study will include art, economics, history, literature, media theory, philosophy, political science, and other fields.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/German%20Studies-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0501",
+    "code": "GERST-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "GERMANSTU",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "GERST-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "German Studies (BA)",
+    "name": "GERST-BA",
+    "programGroupId": "GERST-BA",
+    "status": "Active",
+    "transcriptDescription": "German Studies (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "GERST-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a survey of the art, economics, history, literature, media theory, philosophy, political science, and other fields of the German-speaking countries of Central Europe to earn this minor.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/German%20Studies-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0501",
+    "code": "GERST-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "GERMANSTU",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "GERST-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "German Studies (Min)",
+    "name": "GERST-MIN",
+    "programGroupId": "GERST-MIN",
+    "status": "Active",
+    "transcriptDescription": "German Studies (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "GLBLST-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Global Studies designed to give you an in-depth, interdisciplinary study of the character of regions and their intersecting cultures, languages, history, politics, and societies within the larger context of globalization.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Stanford%20Global%20Studies-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "30.2001",
+    "code": "GLBLST-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "ICA",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "GLBLST-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Global Studies (Min)",
+    "name": "GLBLST-MIN",
+    "programGroupId": "GLBLST-MIN",
+    "status": "Active",
+    "transcriptDescription": "Global Studies (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "HSTRY-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Because we live in a world shaped by the past, we better understand the present by studying prior events and people. Learn to see yesterday’s world through analytical, interpretive, and expressive skills that take you well beyond a collection of names, dates, and events to a deeper understanding of social change over time. Learn to penetrate different modes of thought and human behavior that allow you to make better sense of the contemporary world while cultivating a crucial set of skills that help you guide its future.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/History-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "54.0101",
+    "code": "HSTRY-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "HISTORY",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "HSTRY-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "History (BA)",
+    "name": "HSTRY-BA",
+    "programGroupId": "HSTRY-BA",
+    "status": "Active",
+    "transcriptDescription": "History (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "HSTRY-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in History. You can choose a specific cultural area, such as African, American, Asian, British, European (medieval, early modern, or modern), Russian and East European history, or a thematic topic, such as comparative empires and cultures, gender, the family, religion, technology, or revolution.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/History-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "54.0101",
+    "code": "HSTRY-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "HISTORY",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "HSTRY-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "History (Min)",
+    "name": "HSTRY-MIN",
+    "programGroupId": "HSTRY-MIN",
+    "status": "Active",
+    "transcriptDescription": "History (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "ARTS-IHN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Join a diverse, interdisciplinary group of students to work on joint or individual projects that require and develop your critical and creative capacities. Through this senior-year honors program, you’ll have the opportunity to participate in workshops, Capstone projects, mentorship, symposiums, and field research. You’ll learn skills for critiquing others' work and receiving feedback on your work, all in a collaborative, cohort-driven environment.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Stanford%20Arts%20Institute-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "",
+    "code": "ARTS-IHN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "SAI",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ARTS-IHN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Honors in the Arts (IHN)",
+    "name": "ARTS-IHN",
+    "programGroupId": "ARTS-IHN",
+    "status": "Active",
+    "transcriptDescription": "Honors in the Arts (IHN)",
+    "type": "(IHN) Interdisc Honors"
+  },
+  {
+    "_id": "HUMBI-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Many problems facing humans today involve both biological and social aspects. Scientific approaches to these problems are essential but must be broadly conceived and placed within their proper social and cultural setting. The BA degree is designed for you if you prefer a traditional liberal arts degree with coursework predominantly in the social sciences and humanities.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Human%20Biology-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "30.2701",
+    "code": "HUMBI-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "HUMBIO",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "HUMBI-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Human Biology (BA)",
+    "name": "HUMBI-BA",
+    "programGroupId": "HUMBI-BA",
+    "status": "Active",
+    "transcriptDescription": "Human Biology (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "HUMBI-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Many problems facing humans today involve both biological and social aspects. Scientific approaches to these problems are essential but benefit when broadly conceived and placed within their proper social and cultural setting. The BS degree is designed for you if you prefer a scientific and technical focus with coursework predominantly in the natural sciences, mathematics, computer science, or engineering.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Human%20Biology-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "30.2701",
+    "code": "HUMBI-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "HUMBIO",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "HUMBI-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Human Biology (BS)",
+    "name": "HUMBI-BS",
+    "programGroupId": "HUMBI-BS",
+    "status": "Active",
+    "transcriptDescription": "Human Biology (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "HUMBI-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Human Biology, providing an introduction to the interdisciplinary study of human beings from biological, behavioral, social, and cultural perspectives.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Human%20Biology-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "30.2701",
+    "code": "HUMBI-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "HUMBIO",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "HUMBI-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Human Biology (Min)",
+    "name": "HUMBI-MIN",
+    "programGroupId": "HUMBI-MIN",
+    "status": "Active",
+    "transcriptDescription": "Human Biology (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "HUMRTS-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "This flourishing interdisciplinary program is designed to connect you with the full scope of human rights offerings on campus—academic, extracurricular, research, and professional pathways, regardless of your undergraduate major. You receive the structure and guidance needed to knit together a rich and coherent course of study in human rights theory and practice with professional development opportunities such as internships.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Stanford%20Global%20Studies-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "",
+    "code": "HUMRTS-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "HUMANRIGHT",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "HUMRTS-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Human Rights (Min)",
+    "name": "HUMRTS-MIN",
+    "programGroupId": "HUMRTS-MIN",
+    "status": "Active",
+    "transcriptDescription": "Human Rights (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "ILAC-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Studying Iberian and Latin American cultures means engaging in a deep and compelling exploration of the languages, literature, and cultures of the Iberian Peninsula, Latin America (including Brazil), and Latinx communities in the United States. You’ll focus on critical thinking, open discussion, and close textual analysis through your coursework.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Iberian%20%26%20Latin%20Amer%20Cultures-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0199",
+    "code": "ILAC-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "SPANPORT",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ILAC-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "ILAC (BA)",
+    "name": "ILAC-BA",
+    "programGroupId": "ILAC-BA",
+    "status": "Active",
+    "transcriptDescription": "Iberian and Latin American Cultures (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "IDMEN-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "",
+    "catalogDisplayName": "",
+    "catalogImageUrl": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Engineering.jpg",
+    "cipCode": "14.9999",
+    "code": "IDMEN-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "ENGRDEAN",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "IDMEN-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Indiv Des Major-Engr (BS)",
+    "name": "IDMEN-BS",
+    "programGroupId": "IDMEN-BS",
+    "status": "Active",
+    "transcriptDescription": "Individually Designed Major in Engineering (BS)",
+    "type": "(IDM) Indiv Designed Major"
+  },
+  {
+    "_id": "ARTS-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate degree with a minor in Interdisciplinary Arts. You’ll deepen your overall understanding of the arts, familiarize yourself with the theory and techniques of arts, and develop a diverse set of skills to become a more sophisticated scholar and maker of arts.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Stanford%20Arts%20Institute-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "50.0101",
+    "code": "ARTS-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "SAI",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ARTS-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Interdisciplinary Arts (Min)",
+    "name": "Interdisciplinary Arts (Min)",
+    "programGroupId": "ARTS-MIN",
+    "status": "Active",
+    "transcriptDescription": "Interdisciplinary Arts (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "INTLR-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Explore how global, regional, and domestic factors influence relations between actors on the world stage through a focus on political, economic, and cultural relations among peoples and states in the modern world. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/International%20Relations-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "45.0901",
+    "code": "INTLR-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "INTNLREL",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "INTLR-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "International Relat (BA)",
+    "name": "INTLR-BA",
+    "programGroupId": "INTLR-BA",
+    "status": "Active",
+    "transcriptDescription": "International Relations (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "INTLR-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with an interdisciplinary minor focusing on the changing political, economic, and cultural relations within the international system of the modern era.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/International%20Relations-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "45.0901",
+    "code": "INTLR-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "INTNLREL",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "INTLR-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "International Relat (Min)",
+    "name": "INTLR-MIN",
+    "programGroupId": "INTLR-MIN",
+    "status": "Active",
+    "transcriptDescription": "International Relations (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "INSST-IHN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Build on your interest in international security with this program for seniors from all undergraduate schools and majors. You’ll earn Honors in International Security Studies through coursework, an internship, and an honors thesis.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Institute%20for%20Intl%20Studies-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "45.0901",
+    "code": "INSST-IHN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "INSTINTLST",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "INSST-IHN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Intl Security Studies (IHn)",
+    "name": "INSST-IHN",
+    "programGroupId": "INSST-IHN",
+    "status": "Active",
+    "transcriptDescription": "International Security Studies (IHN)",
+    "type": "(IHN) Interdisc Honors"
+  },
+  {
+    "_id": "ITAL-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Expose yourself to a variety of perspectives on Italian culture through training in writing and communication as well as cultural, textual, and historical analysis.  Become a critical and global thinker prepared for a career in business, social service, government, or academia.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/French%20and%20Italian-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0902",
+    "code": "ITAL-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "FRENCHITAL",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ITAL-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Italian (BA)",
+    "name": "ITAL-BA",
+    "programGroupId": "ITAL-BA",
+    "status": "Active",
+    "transcriptDescription": "Italian (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "ITAL-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major by exploring the rich legacy of Italian culture through language, art, history, and more while earning a minor.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/French%20and%20Italian-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0902",
+    "code": "ITAL-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "FRENCHITAL",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ITAL-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Italian (Min)",
+    "name": "ITAL-MIN",
+    "programGroupId": "ITAL-MIN",
+    "status": "Active",
+    "transcriptDescription": "Italian (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "JEWSH-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "This program provides you with an understanding of Jewish history, language, literature, religion, thought, and politics to help you understand Jewish identity, thought, and self-expression within larger historical and social contexts and to develop your ability to analyze human experience from different disciplinary perspectives.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Compar%20Studies%20Race%20%26%20Ethnic-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "38.0206",
+    "code": "JEWSH-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "CSRE",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "JEWSH-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Jewish Studies (BA)",
+    "name": "JEWSH-BA",
+    "programGroupId": "JEWSH-BA",
+    "status": "Active",
+    "transcriptDescription": "Jewish Studies (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "JEWSH-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with this minor that explores Jewish identity, thought, and self-expression within larger historical and social contexts.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Compar%20Studies%20Race%20%26%20Ethnic-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "38.0206",
+    "code": "JEWSH-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "CSRE",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "JEWSH-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Jewish Studies (Min)",
+    "name": "JEWSH-MIN",
+    "programGroupId": "JEWSH-MIN",
+    "status": "Active",
+    "transcriptDescription": "Jewish Studies (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "LING-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Study the nature of human language as a fundamental human faculty and a changing social institution. Draw on courses offered by other departments and programs that round out the topic.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Linguistics-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0102",
+    "code": "LING-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "LINGUISTIC",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "LING-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Linguistics (BA)",
+    "name": "LING-BA",
+    "programGroupId": "LING-BA",
+    "status": "Active",
+    "transcriptDescription": "Linguistics (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "LING-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with this minor in Linguistics, providing a solid background for work in any field in which communication is essential.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Linguistics-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0102",
+    "code": "LING-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "LINGUISTIC",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "LING-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Linguistics (Min)",
+    "name": "LING-MIN",
+    "programGroupId": "LING-MIN",
+    "status": "Active",
+    "transcriptDescription": "Linguistics (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "MGTSC-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Building on your foundation in calculus and linear algebra, you’ll learn the fundamentals of engineering systems analysis so that you are able to plan, design, and implement complex economic and technical management systems. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Mgmt%20Sci%20%26%20Engineering-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "15.1501",
+    "code": "MGTSC-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "MGMTSCI",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "MGTSC-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Mgmt Sci & Engineering (BS)",
+    "name": "MGTSC-BS",
+    "programGroupId": "MGTSC-BS",
+    "status": "Active",
+    "transcriptDescription": "Management Science and Engineering (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "MGTSC-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a focused introduction to the core areas of Management Science and Engineering while earning a minor.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Mgmt%20Sci%20%26%20Engineering-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "15.1501",
+    "code": "MGTSC-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "MGMTSCI",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "MGTSC-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Mgmt Sci & Engineering (Min)",
+    "name": "MGTSC-MIN",
+    "programGroupId": "MGTSC-MIN",
+    "status": "Active",
+    "transcriptDescription": "Management Science and Engineering (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "MATSC-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Develop a strong foundation in materials science and engineering with emphasis on the fundamental scientific and engineering principles that underlie the knowledge and implementation of material structure, processing, properties, and performance of all materials used in engineering systems. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Materials%20Sci%20%26%20Engineering-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.1801",
+    "code": "MATSC-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "MATSCI",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "MATSC-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Materials Science & Engr (BS)",
+    "name": "MATSC-BS",
+    "programGroupId": "MATSC-BS",
+    "status": "Active",
+    "transcriptDescription": "Materials Science and Engineering (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "MATSC-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major by exploring the role of materials in modern technology and gaining an understanding of the fundamental processes that govern materials behavior while earning a minor.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Materials%20Sci%20%26%20Engineering-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.1801",
+    "code": "MATSC-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "MATSCI",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "MATSC-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Materials Science & Engr (Min)",
+    "name": "MATSC-MIN",
+    "programGroupId": "MATSC-MIN",
+    "status": "Active",
+    "transcriptDescription": "Materials Science and Engineering (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "MATH-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Mathematics is fun, challenging, and rewarding. You’ll learn to create, analyze, and interpret mathematical models and to communicate sound arguments based on mathematical reasoning and careful data analysis.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Mathematics-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "27.0101",
+    "code": "MATH-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "MATH",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "MATH-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Mathematics (BS)",
+    "name": "MATH-BS",
+    "programGroupId": "MATH-BS",
+    "status": "Active",
+    "transcriptDescription": "Mathematics (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "MATH-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major by exploring the fun, challenging, and rewarding world of mathematics while earning a minor.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Mathematics-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "27.0101",
+    "code": "MATH-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "MATH",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "MATH-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Mathematics (Min)",
+    "name": "MATH-MIN",
+    "programGroupId": "MATH-MIN",
+    "status": "Active",
+    "transcriptDescription": "Mathematics (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "ME-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Survey the discipline broadly — covering elements including energy science and technology, propulsion, nano- and micro-mechanics, design mechatronics, solid and fluid dynamics, biomechanical engineering, and more — for a  fundamental and diverse foundation to excel in your academic pursuits and career.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Mechanical%20Engineering-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.1901",
+    "code": "ME-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "MECHENGR",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ME-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Mechanical Engineer (BS)",
+    "name": "ME-BS",
+    "programGroupId": "ME-BS",
+    "status": "Active",
+    "transcriptDescription": "Mechanical Engineering (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "ME-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major by exploring the breadth of Mechanical Engineering topics and analytic and design activities while earning a minor.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Mechanical%20Engineering-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "14.1901",
+    "code": "ME-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "MECHENGR",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "ME-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Mechanical Engineer (Min)",
+    "name": "ME-MIN",
+    "programGroupId": "ME-MIN",
+    "status": "Active",
+    "transcriptDescription": "Mechanical Engineering (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "MEDHUM-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Medical Humanities encompasses disciplines within the arts, humanities, medicine, and social sciences and allows students and scholars to explore a more holistic and meaning-centered perspective on medical issues.",
+    "catalogDisplayName": "",
+    "cipCode": "51.3204",
+    "code": "MEDHUM-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "ANTHRO",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "MEDHUM-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Medical Humanities (Min)",
+    "name": "MEDHUM-MIN",
+    "programGroupId": "MEDHUM-MIN",
+    "status": "Active",
+    "transcriptDescription": "Medical Humanities (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "MEDST-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major by exploring medieval culture in a coherent framework that resonates with contemporary issues of community building, the virtual world, and mobility while earning a minor.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/H%26S%20Div%20of%20Liter%2C%20Cult%2C%20%26%20Lang-01%20%282%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "30.1301",
+    "code": "MEDST-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "HUMSCILCL",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "MEDST-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Medieval Studies (Min)",
+    "name": "MEDST-MIN",
+    "programGroupId": "MEDST-MIN",
+    "status": "Active",
+    "transcriptDescription": "Medieval Studies (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "MELLC-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major by exploring Arabic, Hebrew, Persian, Turkish, Middle Eastern, and African languages, cultures, and civilizations while earning a minor.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/H%26S%20Div%20of%20Liter%2C%20Cult%2C%20%26%20Lang-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.1101",
+    "code": "MELLC-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "HUMSCILCL",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "MELLC-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "MidEast Lang Lit Cult (Min)",
+    "name": "MELLC-MIN",
+    "programGroupId": "MELLC-MIN",
+    "status": "Active",
+    "transcriptDescription": "Middle Eastern Languages, Literatures, and Cultures (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "MODLAN-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major by building strength in two distinct modern languages and their literature while earning a minor.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/H%26S%20Div%20of%20Liter%2C%20Cult%2C%20%26%20Lang-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0101",
+    "code": "MODLAN-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "HUMSCILCL",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "MODLAN-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Modern Languages (Min)",
+    "name": "MODLAN-MIN",
+    "programGroupId": "MODLAN-MIN",
+    "status": "Active",
+    "transcriptDescription": "Modern Language (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "MUSIC-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Develop an array of tools as part of your aesthetic and musical formation through a course of study that combines breadth of musical experiences across multiple dimensions with depth in a chosen area.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Music-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "50.0901",
+    "code": "MUSIC-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "MUSIC",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "MUSIC-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Music (BA)",
+    "name": "MUSIC-BA",
+    "programGroupId": "MUSIC-BA",
+    "status": "Active",
+    "transcriptDescription": "Music (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "MUSIC-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Music that allows you to focus on a particular music-related area of study. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Music-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "50.0901",
+    "code": "MUSIC-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "MUSIC",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "MUSIC-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Music (Min)",
+    "name": "MUSIC-MIN",
+    "programGroupId": "MUSIC-MIN",
+    "status": "Active",
+    "transcriptDescription": "Music (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "NATAM-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "This intensive approach to the history and culture of Native American people goes beyond the relationship between tribes and the federal government to issues across national boundaries.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Compar%20Studies%20Race%20%26%20Ethnic-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0202",
+    "code": "NATAM-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "CSRE",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "NATAM-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Native Amer Studies (BA)",
+    "name": "NATAM-BA",
+    "programGroupId": "NATAM-BA",
+    "status": "Active",
+    "transcriptDescription": "Native American Studies (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "NATAM-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with an introduction to the history and culture of Native Americans while earning a minor.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Compar%20Studies%20Race%20%26%20Ethnic-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "05.0202",
+    "code": "NATAM-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "CSRE",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "NATAM-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Native Amer Studies (Min)",
+    "name": "NATAM-MIN",
+    "programGroupId": "NATAM-MIN",
+    "status": "Active",
+    "transcriptDescription": "Native American Studies (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "PHILO-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Train to think clearly and critically about the deepest and broadest questions concerning being, knowledge, and value, as well as your connection to the full range of human activities and interests.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Philosophy-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "38.0101",
+    "code": "PHILO-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "PHILOSOPHY",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "PHILO-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Philosophy (BA)",
+    "name": "PHILO-BA",
+    "programGroupId": "PHILO-BA",
+    "status": "Active",
+    "transcriptDescription": "Philosophy (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "PHILO-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Train to think clearly and critically about the deepest and broadest questions concerning being, knowledge, and value, as well as your connection to the full range of human activities and interests.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Philosophy-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "38.0101",
+    "code": "PHILO-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "PHILOSOPHY",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "PHILO-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Philosophy (Min)",
+    "name": "PHILO-MIN",
+    "programGroupId": "PHILO-MIN",
+    "status": "Active",
+    "transcriptDescription": "Philosophy (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "PHREL-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Find balance and depth in both philosophy and religious studies, learning to think clearly and critically about the deepest and broadest questions concerning being, knowledge, and value while engaging existentially in intellectual, ethical, and sociopolitical issues in the world’s religions. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Philosophy%2C%20Religious%20Studies-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "38.9999",
+    "code": "PHREL-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "PHILOSOPHY",
+        "percentOwnership": 50,
+        "primaryDepartment": false
+      },
+      {
+        "deptId": "RELIGST",
+        "percentOwnership": 50,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "PHREL-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Philosophy & Rel Stud (BA)",
+    "name": "PHREL-BA",
+    "programGroupId": "PHREL-BA",
+    "status": "Active",
+    "transcriptDescription": "Philosophy and Religious Studies (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "PHYS-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Build a strong foundation in classical and modern physics through a rigorous, mathematical understanding of the fundamental laws governing our universe and everything in it. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Physics-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "40.0801",
+    "code": "PHYS-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "PHYSICS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "PHYS-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Physics (BS)",
+    "name": "PHYS-BS",
+    "programGroupId": "PHYS-BS",
+    "status": "Active",
+    "transcriptDescription": "Physics (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "PHYS-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Physics.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Physics-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "40.0801",
+    "code": "PHYS-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "PHYSICS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "PHYS-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Physics (Min)",
+    "name": "PHYS-MIN",
+    "programGroupId": "PHYS-MIN",
+    "status": "Active",
+    "transcriptDescription": "Physics (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "POLSC-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Build a foundational understanding of the American political system and other political systems within the context of global forces, international conflicts, social movements, ideological systems, and diversity. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Political%20Science-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "45.1001",
+    "code": "POLSC-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "POLITSCI",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "POLSC-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Political Science (BA)",
+    "name": "POLSC-BA",
+    "programGroupId": "POLSC-BA",
+    "status": "Active",
+    "transcriptDescription": "Political Science (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "POLSC-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a Political Science minor covering the American and other political systems.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Political%20Science-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "45.1001",
+    "code": "POLSC-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "POLITSCI",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "POLSC-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Political Science (Min)",
+    "name": "POLSC-MIN",
+    "programGroupId": "POLSC-MIN",
+    "status": "Active",
+    "transcriptDescription": "Political Science (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "PORT-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Portuguese that combines the acquisition of linguistic competence with the study of the literature and cultures of the Lusophone world.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Iberian%20%26%20Latin%20Amer%20Cultures-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0904",
+    "code": "PORT-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "SPANPORT",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "PORT-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Portuguese (Min)",
+    "name": "PORT-MIN",
+    "programGroupId": "PORT-MIN",
+    "status": "Active",
+    "transcriptDescription": "Portuguese (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "PSYCH-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Begin your journey into the theories and empirical studies of human behavior, including the study of aging, child development, decision-making, morality, motivation, psychopathology, social perception, and so much more. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Psychology.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "42.2799",
+    "code": "PSYCH-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "PSYCHOLOGY",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "PSYCH-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Psychology (BA)",
+    "name": "PSYCH-BA",
+    "programGroupId": "PSYCH-BA",
+    "status": "Active",
+    "transcriptDescription": "Psychology (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "PSYCH-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Psychology that covers the theories and empirical studies of human behavior.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Psychology.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "42.2799",
+    "code": "PSYCH-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "PSYCHOLOGY",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "PSYCH-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Psychology (Min)",
+    "name": "PSYCH-MIN",
+    "programGroupId": "PSYCH-MIN",
+    "status": "Active",
+    "transcriptDescription": "Psychology (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "PUBPO-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Learn the concepts and tools used in evaluating policy options and outcomes, and prepare for entry-level positions in organizations concerned with such analysis. You’ll focus on issues such as health, education, environment, regulation, and science and technology policy, applicable anywhere in the world.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Public%20Policy-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "44.0501",
+    "code": "PUBPO-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "PUBLICPOL",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "PUBPO-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Public Policy (BA)",
+    "name": "PUBPO-BA",
+    "programGroupId": "PUBPO-BA",
+    "status": "Active",
+    "transcriptDescription": "Public Policy (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "PUBPO-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Public Policy that introduces concepts for evaluating public policy options.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Public%20Policy-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "44.0501",
+    "code": "PUBPO-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "PUBLICPOL",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "PUBPO-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Public Policy (Min)",
+    "name": "PUBPO-MIN",
+    "programGroupId": "PUBPO-MIN",
+    "status": "Active",
+    "transcriptDescription": "Public Policy (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "RELST-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Understand the complex encounters among religious ideas, practices, and communities, and the past and present cultures that have shaped and been shaped by religion as you engage existentially in the intellectual, ethical, and sociopolitical issues in the world’s religions.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Religious%20Studies-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "38.0201",
+    "code": "RELST-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "RELIGST",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "RELST-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Religious Studies (BA)",
+    "name": "RELST-BA",
+    "programGroupId": "RELST-BA",
+    "status": "Active",
+    "transcriptDescription": "Religious Studies (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "RELST-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Religious Studies that covers the intellectual, ethical, and sociopolitical issues in the world’s religions.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Religious%20Studies-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "38.0201",
+    "code": "RELST-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "RELIGST",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "RELST-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Religious Studies (Min)",
+    "name": "RELST-MIN",
+    "programGroupId": "RELST-MIN",
+    "status": "Active",
+    "transcriptDescription": "Religious Studies (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "STS-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Through a common core of courses drawn from the social sciences, the humanities, the natural and physical sciences, and engineering, you’ll build an interdisciplinary framework to understand the complex interactions of science, technology, and the social world.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Science%2C%20Technology%2C%20%26%20Society-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "30.1501",
+    "code": "STS-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "STS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "STS-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Science, Tech, & Soc (BA)",
+    "name": "STS-BA",
+    "programGroupId": "STS-BA",
+    "status": "Active",
+    "transcriptDescription": "Science, Technology, and Society (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "STS-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Through a common core of courses drawn from the social sciences, the humanities, the natural and physical sciences, and engineering, you’ll build an interdisciplinary framework through which to understand the complex interactions of science, technology, and the social world. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Science%2C%20Technology%2C%20%26%20Society-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "30.1501",
+    "code": "STS-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "STS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "STS-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Science, Tech, & Soc (BS)",
+    "name": "STS-BS",
+    "programGroupId": "STS-BS",
+    "status": "Active",
+    "transcriptDescription": "Science, Technology, and Society (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "STS-IHN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Tackle a significant problem or question related to the intersection of science, technology, and society. You’ll draw research methods from one or more disciplines that shape STS while capitalizing on unique analytical perspectives of STS as an intellectual field. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Science%2C%20Technology%2C%20%26%20Society-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "30.1501",
+    "code": "STS-IHN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "STS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "STS-IHN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Science, Tech, & Soc (IHn)",
+    "name": "STS-IHN",
+    "programGroupId": "STS-IHN",
+    "status": "Active",
+    "transcriptDescription": "Science, Technology, and Society (IHN)",
+    "type": "(IHN) Interdisc Honors"
+  },
+  {
+    "_id": "SLAV-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Through your choice of three tracks, you’ll expose yourself to a variety of perspectives on Slavic — especially Russian — language, history, culture, literature, and philosophical thought. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Slavic%20Lang%20%26%20Literatures-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0402",
+    "code": "SLAV-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "SLAVIC",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "SLAV-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Slavic Lang & Lit (BA)",
+    "name": "SLAV-BA",
+    "programGroupId": "SLAV-BA",
+    "status": "Active",
+    "transcriptDescription": "Slavic Languages and Literatures (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "SLAV-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Slavic Languages that exposes you to various perspectives on Slavic.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Slavic%20Lang%20%26%20Literatures-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0402",
+    "code": "SLAV-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "SLAVIC",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "SLAV-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Slavic Lang & Lit (Min)",
+    "name": "SLAV-MIN",
+    "programGroupId": "SLAV-MIN",
+    "status": "Active",
+    "transcriptDescription": "Slavic Languages and Literatures (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "SOCIO-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Develop a broad understanding of core sociological theories and the methodological skills necessary to understand and address social problems and inequalities in global, institutional, and interpersonal social relations. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Sociology-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "45.1101",
+    "code": "SOCIO-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "SOCIOLOGY",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "SOCIO-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Sociology (BA)",
+    "name": "SOCIO-BA",
+    "programGroupId": "SOCIO-BA",
+    "status": "Active",
+    "transcriptDescription": "Sociology (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "SOCIO-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Sociology focused on traditional sociology coursework or one focused on poverty, inequality, and policy.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/SOC%20Programs%20Image.png",
+      "altText": ""
+    },
+    "cipCode": "45.1101",
+    "code": "SOCIO-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "SOCIOLOGY",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "SOCIO-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Sociology (Min)",
+    "name": "SOCIO-MIN",
+    "programGroupId": "SOCIO-MIN",
+    "status": "Active",
+    "transcriptDescription": "Sociology (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "SPAN-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Achieve fluency in reading, listening, speaking, and writing Spanish while developing a contextualized understanding of the language through linguistic and cultural study.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Iberian%20%26%20Latin%20Amer%20Cultures-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0905",
+    "code": "SPAN-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "SPANPORT",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "SPAN-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Spanish (BA)",
+    "name": "SPAN-BA",
+    "programGroupId": "SPAN-BA",
+    "status": "Active",
+    "transcriptDescription": "Spanish (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "SPAN-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Spanish and combine your acquisition of linguistic competence with the study of the literature and cultures of the Spanish-speaking world.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Iberian%20%26%20Latin%20Amer%20Cultures-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0905",
+    "code": "SPAN-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "SPANPORT",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "SPAN-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Spanish (Min)",
+    "name": "SPAN-MIN",
+    "programGroupId": "SPAN-MIN",
+    "status": "Active",
+    "transcriptDescription": "Spanish (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "STATS-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate studies in the social and natural sciences with a minor in Statistics that broadens your employment opportunities or prepares you for professional or graduate degree studies.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Statistics-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "27.0501",
+    "code": "STATS-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "STATISTICS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "STATS-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Statistics (Min)",
+    "name": "STATS-MIN",
+    "programGroupId": "STATS-MIN",
+    "status": "Active",
+    "transcriptDescription": "Statistics (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "SYMBO-BS-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Discover the relationships between natural and artificial systems that use symbols to communicate and represent information. You’ll develop the vocabulary, theoretical background, and technical skills necessary to research questions about language, information, and intelligence, both human and machine. ",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Symbolic%20Systems-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "30.2501",
+    "code": "SYMBO-BS",
+    "contacts": [],
+    "degreeDesignation": "BS - Bachelor of Science",
+    "departmentOwnership": [
+      {
+        "deptId": "SYMBOLSYS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "SYMBO-BS-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Symbolic Systems (BS)",
+    "name": "SYMBO-BS",
+    "programGroupId": "SYMBO-BS",
+    "status": "Active",
+    "transcriptDescription": "Symbolic Systems (BS)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "SYMBO-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Symbolic Systems, through which you’ll discover the relationships between natural and artificial systems that use symbols to communicate and represent information.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Symbolic%20Systems-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "30.2501",
+    "code": "SYMBO-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "SYMBOLSYS",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "SYMBO-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Symbolic Systems (Min)",
+    "name": "SYMBO-MIN",
+    "programGroupId": "SYMBO-MIN",
+    "status": "Active",
+    "transcriptDescription": "Symbolic Systems (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "THPST-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Join our robust, non-conservatory program that combines the study and practice of performance within the context of a liberal arts curriculum. You’ll build a strong understanding of historical, cultural, and practical contexts in which live performance develops.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Theater%20%26%20Performance%20Studies-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "50.0501",
+    "code": "THPST-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "DRAMA",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "THPST-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Theater & Perf. Studies (BA)",
+    "name": "THPST-BA",
+    "programGroupId": "THPST-BA",
+    "status": "Active",
+    "transcriptDescription": "Theater and Performance Studies (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "THPST-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Theatre and Performance Studies focused on the study and practice of performance within the context of a liberal arts curriculum.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Theater%20%26%20Performance%20Studies-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "50.0501",
+    "code": "THPST-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "DRAMA",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "THPST-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Theater & Perf. Studies (Min)",
+    "name": "THPST-MIN",
+    "programGroupId": "THPST-MIN",
+    "status": "Active",
+    "transcriptDescription": "Theater and Performance Studies (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "TRANS-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Translation Studies focused on developing and applying your foreign language knowledge to produce and analyze translations.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/H%26S%20Div%20of%20Liter%2C%20Cult%2C%20%26%20Lang-01%20%281%29.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "16.0103",
+    "code": "TRANS-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "HUMSCILCL",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "TRANS-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Translation Studies (Min)",
+    "name": "TRANS-MIN",
+    "programGroupId": "TRANS-MIN",
+    "status": "Active",
+    "transcriptDescription": "Translation Studies (Minor)",
+    "type": "(MIN) Minor"
+  },
+  {
+    "_id": "URBST-BA-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Develop your understanding of the nature of cities and their impact on the world through this interdisciplinary drawing from social sciences, the humanities, engineering, and education fields.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Urban%20Studies-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "45.1201",
+    "code": "URBST-BA",
+    "contacts": [],
+    "degreeDesignation": "BA - Bachelor of Arts",
+    "departmentOwnership": [
+      {
+        "deptId": "URBANST",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "URBST-BA-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Urban Studies (BA)",
+    "name": "URBST-BA",
+    "programGroupId": "URBST-BA",
+    "status": "Active",
+    "transcriptDescription": "Urban Studies (BA)",
+    "type": "(MAJ) Major"
+  },
+  {
+    "_id": "URBST-MIN-2024-08-01",
+    "campus": "",
+    "catalogDescription": "Complement your undergraduate major with a minor in Urban Studies that introduces you to several disciplinary approaches to studying cities and allows you to explore one of five specialized options.",
+    "catalogDisplayName": "",
+    "catalogImageUrl": {
+      "url": "https://coursedog-images-public.s3.us-east-2.amazonaws.com/stanford/Urban%20Studies-01.png",
+      "altText": "Decorative Image"
+    },
+    "cipCode": "45.1201",
+    "code": "URBST-MIN",
+    "contacts": [],
+    "degreeDesignation": "",
+    "departmentOwnership": [
+      {
+        "deptId": "URBANST",
+        "percentOwnership": 100,
+        "primaryDepartment": false
+      }
+    ],
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2024-08-01",
+    "id": "URBST-MIN-2024-08-01",
+    "level": "Undergraduate Matriculated",
+    "longName": "Urban Studies (Min)",
+    "name": "URBST-MIN",
+    "programGroupId": "URBST-MIN",
+    "status": "Active",
+    "transcriptDescription": "Urban Studies (Minor)",
+    "type": "(MIN) Minor"
+  }
+]
