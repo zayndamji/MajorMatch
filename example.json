@@ -1,78 +1,49 @@
 {
-  "collegeName": "Name University",
+  "collegeName": "Stanford University",
   "programType": "Major",
-  "programName": "Biology BS",
+  "programName": "Computer Science (B.S.)",
   "degreeAwarded": "Bachelor of Science",
-  "fullProgramDescription": "The BS in Computer Science focuses on the design, development, and testing of computer systems and algorithms. The program covers the fundamental principles and practices of computer science, including the theory, design, and implementation of algorithms, computer architecture, and software engineering.",
-  "shortProgramDescription": "The Computer Science BS program provides a comprehensive education in computer science, preparing students for careers in the field.",
-  "classes": {
-    "requiredClasses": [
-      {
-        "department": "CS",
-        "number": "106B",
-        "id": "CS106B",
-        "name": "Programming Abstractions"
-      },
-      [
-        {
-          "validClasses": [
-            {
-              "department": "MATH",
-              "number": "23",
-              "id": "MATH23",
-              "name": "Linear Algebra"
-            },
-            {
-              "department": "MATH",
-              "number": "21",
-              "id": "MATH21",
-              "name": "Discrete Mathematics"
-            }
-          ],
-          "numberOfClassesRequired": 1
-        },
-        {
-          "validClasses": [
-            {
-              "department": "MATH",
-              "number": "15",
-              "id": "MATH15",
-              "name": "Calculus"
-            },
-            {
-              "department": "MATH",
-              "number": "16",
-              "id": "MATH16",
-              "name": "Calculus"
-            }
-          ],
-          "numberOfClassesRequired": 2
-        },
-        {
-          "department": "CS",
-          "number": "101A",
-          "id": "CS101A",
-          "name": "Math Example Course"
-        }
-      ]
-    ]
-  },
+  "fullProgramDescription": "The undergraduate program in Computer Science aims to develop students’ breadth of knowledge across the subject areas of computer science, including their ability to apply the defining processes of computer science theory, abstraction, design, and implementation to solve problems in the discipline. Students take core courses in programming techniques, mathematical foundations, systems programming, computer architecture, analysis of algorithms, artificial intelligence, and applications. The program prepares students for careers in government, law, corporate sector, and for graduate study. :contentReference[oaicite:1]{index=1}",
+  "shortProgramDescription": "Stanford’s CS B.S. builds a rigorous foundation in core computing areas with flexible depth tracks and prepares students for diverse careers or further study.",
+  "classHighlights": [
+    "🧮 **Mathematics & Probability**: Students complete a mathematics core including Calculus I–III (MATH 19–21), Mathematical Foundations of Computing (CS 103), and Probability for Computer Scientists (CS 109), plus two advanced electives such as Linear Algebra or Differential Equations to support theoretical and applied coursework.",
+    "🔬 **Science Requirement**: At least 11 units of science are required, typically completed via Mechanics (PHYSICS 41/21/61), Electricity & Magnetism (PHYSICS 43/23/81), and one additional engineering-approved science elective.",
+    "💻 **Engineering Fundamentals**: This group includes Programming Abstractions (CS 106B), an introductory engineering course (ENGR 40M or ENGR 76), and additional foundational ENGR or CS electives, totaling at least 10–13 units.",
+    "🧩 **Core CS Courses**: Four core courses—Computer Organization (CS 107/107E), Operating Systems Systems (CS 111), and Design & Analysis of Algorithms (CS 161)—ensure students understand fundamental systems and algorithmic concepts.",
+    "✍️ **Writing in the Major & TiS**: Students take one writing-focused course (e.g., CS 181W, CS 182W) and one Technology in Society component, ensuring ethical and societal awareness.",
+    "🎓 **Capstone Experience**: Students complete a senior project (e.g., CS 191, CS 194, CS 210B), often involving industry or research partnerships, to demonstrate real-world application of their knowledge.",
+    "🌐 **Depth Tracks & Electives**: Students choose one depth track—such as AI, Systems, Theory, HCI, Visual Computing, Computational Biology, or an individually designed track—comprising at least 25 units (7 courses), including gateway and advanced electives."
+  ],
   "learningOutcomes": [
-    "Understand the fundamental principles and practices of computer science",
-    "Design, develop, and test computer systems and algorithms",
-    "Apply mathematical and computational thinking to solve problems"
+    "Apply core principles of computer science to design and implement software systems.",
+    "Analyze algorithms for correctness and efficiency.",
+    "Understand computer systems, architecture, and organization.",
+    "Use mathematics and probability to solve computing problems.",
+    "Communicate technical concepts in written and oral form.",
+    "Evaluate ethical, societal, and global implications of technology.",
+    "Demonstrate depth in a specialized track such as AI, systems, theory, or HCI."
   ],
   "similarPrograms": [
     {
+      "title": "Symbolic Systems",
+      "link": "https://symsys.stanford.edu"
+    },
+    {
+      "title": "Mathematical and Computational Science",
+      "link": "https://mcs.stanford.edu"
+    },
+    {
       "title": "Computer Science Minor",
-      "link": "https://bulletin.stanford.edu/programs/CS-MIN"
+      "link": "https://cs.stanford.edu/undergrad/minor"
     }
   ],
-  "links": [
+  "sources": [
     "https://bulletin.stanford.edu/programs/CS-BS",
-    "https://cs.stanford.edu/"
+    "https://ughb.stanford.edu/majors-minors/computer-science-program",
+    "https://www.cs.stanford.edu/academics/academics-bachelors-program",
+    "https://www.cs.stanford.edu/bachelors-compsci-tracks-overview"
   ],
-  "programDuration": "4 years",
-  "creditRequirements": "180 quarter units",
-  "additionalInformation": "Relevant information."
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "96 major units plus required math, science, writing, Engineering Fundamentals and depth track units; total approx. 180 quarter units",
+  "additionalInformation": "Students declare through the School of Engineering. Honors and Research (such as CURIS) are available. Students must maintain GPA thresholds for major, depth tracks, and honors entry; AP/IB credits may apply in consultation."
 }

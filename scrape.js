@@ -4,7 +4,7 @@ const fs = require('fs');
 const schema = fs.readFileSync('schema');
 const example = fs.readFileSync('example.json');
 
-async function scrapeProgram(collegeName, programName, programLink) {
+async function scrapeProgram(collegeName, programName, shortProgramName, programLink) {
   const content = await AI(
     `Format ${collegeName}'s ${programName} program (${programLink}) using this schema:
     ${schema}
@@ -15,19 +15,18 @@ async function scrapeProgram(collegeName, programName, programLink) {
     Only give me the JSON formatted output.
     Do not write \`\`\` before or after the code.
     Do not write anything additional than what is asked for in the schema.
-    Do not include any specific Capstone/Honors/Subplan/etc program in these requirements.
-    Only include ALL required courses for the major itself.`
+    Do not include any specific Capstone/Honors/Subplan/etc program in these requirements.`
   );
-  
+
   console.log(content);
 
-  fs.writeFileSync(`data/${collegeName.toLowerCase().replaceAll(' ', '')}/${programName}.json`, JSON.stringify(JSON.parse(content), undefined, 2));
+  fs.writeFileSync(`data/${collegeName.toLowerCase().replaceAll(' ', '').replaceAll('`', '')}/${shortProgramName}.json`, JSON.stringify(JSON.parse(content), undefined, 2));
 }
 
 // Stanford
 async function stanford() {
   const stanfordMajors = JSON.parse(fs.readFileSync('input/stanford.json'));
   for (const major of stanfordMajors.slice(0, 3)) {
-    await scrapeProgram('Stanford', major.name, `https://bulletin.stanford.edu/programs/${major.name}`);
+    await scrapeProgram('Stanford', major.longName, major.name, `https://bulletin.stanford.edu/programs/${major.name}`);
   }
 } stanford();
