@@ -1,4 +1,4 @@
-async function AI(content) {
+export async function AI(content) {
   const body = {
     messages: [
       {role: "user", content: content}
@@ -19,5 +19,3 @@ async function AI(content) {
 
   return aiRes;
 }
-
-module.exports = AI

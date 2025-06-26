@@ -1,0 +1,39 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Art Practice (BA)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Art Practice major is designed to give students a broad foundation in the studio arts. Students explore a range of media and deepen their understanding of contemporary art practices. They are introduced to diverse approaches to making, thinking, and writing about art, as well as to critical issues in contemporary culture. Students are encouraged to take risks and experiment with different media and techniques. The major provides a rich and varied curriculum that prepares students for a range of careers in the arts, from studio practice to art history, criticism, and arts administration.",
+  "shortProgramDescription": "The Art Practice major at Stanford provides students with a comprehensive education in studio arts, preparing them for diverse careers in the arts.",
+  "classHighlights": [
+    "Students begin with foundational courses in art and art history, including Introduction to Works of Art I and II (ARTHIST 1A and 1B) and introductory studio courses.",
+    "Studio practice courses cover a range of media, including drawing, painting, sculpture, photography, and printmaking, with courses such as Beginning Drawing (ARTSTUDI 60) and Painting (ARTSTUDI 120).",
+    "Upper-level courses allow students to explore advanced techniques and concepts in their chosen medium, such as Advanced Painting (ARTSTUDI 220) and Contemporary Art Practices (ARTSTUDI 194).",
+    "Art history courses provide a comprehensive understanding of the historical and cultural contexts of art, including Modern Art (ARTHIST 121) and Contemporary Art (ARTHIST 122).",
+    "Students also engage with critical issues in contemporary art and culture through courses like Critical Practices (ARTSTUDI 193) and seminars on specific topics."
+  ],
+  "learningOutcomes": [
+    "Develop technical skills in a range of artistic media.",
+    "Understand the historical and cultural contexts of art.",
+    "Cultivate critical thinking and analytical skills.",
+    "Apply theoretical and conceptual frameworks to artistic practice.",
+    "Communicate effectively about art and artistic processes."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Art History",
+      "link": "https://bulletin.stanford.edu/programs/ARTHIST-BA"
+    },
+    {
+      "title": "Studio Art Minor",
+      "link": "https://bulletin.stanford.edu/minors/ARTSTUDI"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/ARTP-BA",
+    "https://art.stanford.edu"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 studio art units; total approx. 180 quarter units",
+  "additionalInformation": "Students declare the major through the Department of Art & Art History. The major is designed to be flexible, allowing students to tailor their coursework to their interests and career goals."
+}

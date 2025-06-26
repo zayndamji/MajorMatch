@@ -1,0 +1,36 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Minor",
+  "programName": "Art Practice Minor",
+  "degreeAwarded": "Minor",
+  "fullProgramDescription": "The Art Practice Minor provides a structured yet flexible curriculum for students to explore contemporary art practices. Students examine the relationship between studio work and art historical and theoretical contexts. The program is designed for students who wish to deepen their understanding of art and its practices, regardless of their major.",
+  "shortProgramDescription": "The Art Practice Minor offers students a comprehensive understanding of contemporary art practices, combining studio work with art historical and theoretical contexts.",
+  "classHighlights": [
+    "Studio courses: Students take a minimum of three studio courses (ARTSTUDI 101-106) that introduce various mediums and techniques, such as drawing, painting, sculpture, photography, and printmaking.",
+    "Art history and theory courses: Students are required to take at least two art history or theory courses (ARTHIST 101-199, ARTSTUDI 199) that provide a critical framework for understanding contemporary art practices.",
+    "Electives: Students choose additional courses from the art studio and art history departments to fulfill the minor requirements, allowing them to tailor their study to their interests."
+  ],
+  "learningOutcomes": [
+    "Develop a critical understanding of contemporary art practices and their historical contexts.",
+    "Cultivate technical skills in various art mediums and techniques.",
+    "Analyze the relationship between studio work and art historical and theoretical contexts.",
+    "Apply critical thinking and creative problem-solving skills in the production and interpretation of art."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Studio Art Major",
+      "link": "https://bulletin.stanford.edu/programs/ARTS-BA"
+    },
+    {
+      "title": "Art History Major",
+      "link": "https://bulletin.stanford.edu/programs/ARTH-BA"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/ARTP-MIN",
+    "https://art.stanford.edu"
+  ],
+  "programDuration": "Variable, typically 2-4 years (quarter system)",
+  "creditRequirements": "At least 25 units, as specified by the Art Department",
+  "additionalInformation": "The Art Practice Minor is open to students from all disciplines. Course offerings and requirements are subject to change, and students are advised to consult with the department for the most current information."
+}

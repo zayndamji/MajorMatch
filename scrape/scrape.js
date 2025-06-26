@@ -1,5 +1,5 @@
-const AI = require('./ai');
-const fs = require('fs');
+import {AI} from './ai.js';
+import fs from 'fs'
 
 const schema = fs.readFileSync('schema');
 const example = fs.readFileSync('example.json');
@@ -27,8 +27,8 @@ async function scrapeProgram(collegeName, programName, programLink, outputFile) 
 
 // Stanford
 async function stanford() {
-  const stanfordMajors = JSON.parse(fs.readFileSync('../src/lib/data/majors.json'));
-  for (const major of stanfordMajors.slice(0, 6)) {
-    await scrapeProgram('Stanford', major.longName, `https://bulletin.stanford.edu/programs/${major.name}`, `../src/lib/data/stanford/${major.name}.json`);
+  const stanfordMajors = JSON.parse(fs.readFileSync('../src/lib/data/stanford/majors.json'));
+  for (const major of stanfordMajors.slice(0, 20)) {
+    await scrapeProgram('Stanford', major.name, `https://bulletin.stanford.edu/programs/${major.shortName}`, `../src/lib/data/stanford/${major.shortName}.json`);
   }
 } stanford();

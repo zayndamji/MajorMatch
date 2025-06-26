@@ -1,0 +1,41 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Anthropology (BA)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Anthropology offers a program of study leading to the Bachelor of Arts degree. The major is designed to introduce students to the broad and diverse field of anthropology, provide training in the basic methods and theory of the discipline, and allow students to pursue particular interests in human societies, cultures, and biological variation. Courses for the major are divided into three main categories: Archaeology and biological anthropology; Sociocultural anthropology; and Anthropological theory and methods. Students work with their advisers to design a coherent program of study that meets their individual interests and needs.",
+  "shortProgramDescription": "The Anthropology major at Stanford introduces students to the field's diverse subfields, methods, and theories, allowing for a personalized course of study.",
+  "classHighlights": [
+    "Archaeology and Biological Anthropology: Courses in this area include Introduction to Biological Anthropology (ANTHRO3), Archaeology of the Ancient Near East (ANTHRO134), and Human Evolution (ANTHRO108). These courses provide a foundation in the methods and theories of archaeology and biological anthropology, and introduce students to the study of human evolution, cultural development, and biological variation.",
+    "Sociocultural Anthropology: Courses in this area include Cultural Anthropology (ANTHRO2), Ethnographic Methods (ANTHRO194), and courses on specific cultures and regions, such as Anthropology of South Asia (ANTHRO162). These courses introduce students to the methods and theories of sociocultural anthropology, and provide a foundation for understanding the diversity of human cultures and societies.",
+    "Anthropological Theory and Methods: Courses in this area include History of Anthropological Theory (ANTHRO142), Anthropological Research Methods (ANTHRO194), and courses on specific theoretical approaches, such as Symbolic Anthropology (ANTHRO144). These courses provide a foundation in the major theoretical approaches and methods of anthropology, and introduce students to the ways in which anthropologists have thought about and studied human cultures and societies."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad understanding of the field of anthropology, including its subfields, methods, and theories.",
+    "Apply anthropological theories and methods to the study of human cultures, societies, and biological variation.",
+    "Analyze and interpret data from various anthropological subfields, such as archaeology, biological anthropology, and sociocultural anthropology.",
+    "Communicate complex anthropological ideas and research findings effectively in written and oral forms.",
+    "Design and implement a coherent program of study that meets individual interests and needs."
+  ],
+  "similarPrograms": [
+    {
+      "title": "African and African American Studies",
+      "link": "https://bulletin.stanford.edu/programs/AAAS-BA"
+    },
+    {
+      "title": "Native American Studies",
+      "link": "https://bulletin.stanford.edu/programs/NATIVEAM-BA"
+    },
+    {
+      "title": "Comparative Studies in Race and Ethnicity",
+      "link": "https://bulletin.stanford.edu/programs/CSRE-BA"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/ANTHR-BA",
+    "https://anthropology.stanford.edu"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 units (quarter system)",
+  "additionalInformation": "Students declare the major through the Department of Anthropology. Course offerings and requirements are subject to change; students should consult with their advisers and the department's website for the most current information."
+}

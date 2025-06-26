@@ -1,0 +1,42 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Asian American Studies (BA)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Asian American Studies offers an undergraduate major and minor in Asian American Studies. The program provides students a comprehensive education in Asian American Studies, with coursework on the history, culture, and experiences of Asian Americans. Students develop an understanding of the complex and diverse experiences of Asian Americans, as well as the ability to think critically about the intersections of race, ethnicity, gender, class, and sexuality.",
+  "shortProgramDescription": "Stanford's Asian American Studies major provides a comprehensive education in the history, culture, and experiences of Asian Americans, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The program includes foundational courses in Asian American Studies, such as Introduction to Asian American Studies, which provides an overview of the field and its key concepts.",
+    "Students take additional coursework in areas such as Asian American history, culture, and identity, as well as courses that explore the intersections of Asian American experiences with other fields, such as Comparative Studies in Race and Ethnicity.",
+    "Students also have the opportunity to take electives in areas such as Asian American literature, art, and culture, as well as courses that focus on specific communities within the Asian American experience.",
+    "The major requires students to complete a senior seminar or research project, which allows them to apply their knowledge and skills in a practical setting."
+  ],
+  "learningOutcomes": [
+    "Understand the complex and diverse experiences of Asian Americans.",
+    "Analyze the intersections of race, ethnicity, gender, class, and sexuality in Asian American experiences.",
+    "Apply critical thinking and research skills to understand Asian American history, culture, and identity.",
+    "Communicate effectively about Asian American experiences and issues.",
+    "Develop a nuanced understanding of the ways in which Asian American experiences are shaped by social, cultural, and historical contexts."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Comparative Studies in Race and Ethnicity",
+      "link": "https://csre.stanford.edu"
+    },
+    {
+      "title": "Native American and Indigenous Studies",
+      "link": "https://native-american-studies.stanford.edu"
+    },
+    {
+      "title": "African and African American Studies",
+      "link": "https://aaas.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/ASAM-BA",
+    "https://asianamericanstudies.stanford.edu"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 units",
+  "additionalInformation": "Students declare the major through the Department of Asian American Studies. The major is designed to be completed in 4 years, with flexibility for students to pursue additional coursework or research opportunities."
+}
