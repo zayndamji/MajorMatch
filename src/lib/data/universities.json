@@ -1,0 +1,82 @@
+[
+  {
+    "id": "stanford",
+    "name": "Stanford University",
+    "description": "A prestigious private research university located near Silicon Valley in Stanford, California. Renowned for its entrepreneurial spirit, Stanford is a leader in technology, business, and the humanities. It has produced numerous influential alumni, including founders of major tech companies and Nobel laureates.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b7/Stanford_University_seal_2003.svg",
+    "website": "https://www.stanford.edu",
+    "path": "/stanford"
+  },
+  {
+    "id": "uc-berkeley",
+    "name": "University of California, Berkeley",
+    "description": "A world-renowned public research university located in Berkeley, California. UC Berkeley is known for its rigorous academics, distinguished faculty, and strong emphasis on public service. It is a founding member of the Association of American Universities and has produced numerous Nobel laureates and Pulitzer Prize winners.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Seal_of_University_of_California%2C_Berkeley.svg",
+    "website": "https://www.berkeley.edu",
+    "path": "/ucberkeley"
+  },
+  {
+    "id": "ucla",
+    "name": "University of California, Los Angeles",
+    "description": "A leading public research university in Los Angeles, California, UCLA offers a broad range of undergraduate and graduate programs. It is widely respected for its achievements in medicine, engineering, arts, and the sciences. UCLA boasts a vibrant campus life and strong athletic programs, making it one of the top public universities in the U.S.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/54/UCLA_logo.svg",
+    "website": "https://www.ucla.edu",
+    "path": "/ucla"
+  },
+  {
+    "id": "uc-san-diego",
+    "name": "University of California, San Diego",
+    "description": "Located in the coastal city of La Jolla, UC San Diego is a prestigious public research university known for its contributions to oceanography, biotechnology, and engineering. The university fosters innovation and interdisciplinary collaboration, and its faculty includes several Nobel laureates.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/UC_San_Diego_Seal.svg",
+    "website": "https://www.ucsd.edu",
+    "path": "/ucsandiego"
+  },
+  {
+    "id": "purdue",
+    "name": "Purdue University",
+    "description": "A public research university in West Lafayette, Indiana, known for its strong engineering, agriculture, and technology programs. Purdue is home to a vibrant research community and is recognized for its contributions to aerospace and computer science education.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7d/Purdue_University_Seal.svg",
+    "website": "https://www.purdue.edu",
+    "path": "/purdue"
+  },
+  {
+    "id": "harvard",
+    "name": "Harvard University",
+    "description": "The oldest institution of higher learning in the United States, Harvard is a prestigious Ivy League university located in Cambridge, Massachusetts. Known for its rigorous academics, world-class faculty, and extensive research programs, Harvard has shaped leaders in numerous fields including law, medicine, business, and government.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/29/Harvard_shield_wreath.svg",
+    "website": "https://www.harvard.edu",
+    "path": "/harvard"
+  },
+  {
+    "id": "yale",
+    "name": "Yale University",
+    "description": "An Ivy League private research university in New Haven, Connecticut, Yale is known for its strong liberal arts curriculum, distinguished faculty, and vibrant cultural life. Yale’s professional schools, especially law and drama, are highly regarded worldwide.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/40/Yale_University_Shield_1.svg",
+    "website": "https://www.yale.edu",
+    "path": "/yale"
+  },
+  {
+    "id": "cornell",
+    "name": "Cornell University",
+    "description": "An Ivy League research university in Ithaca, New York, Cornell offers a unique combination of private and public colleges. It is known for its diverse academic programs, strong emphasis on research, and beautiful campus setting in the Finger Lakes region.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Cornell_University_seal.svg",
+    "website": "https://www.cornell.edu",
+    "path": "/cornell"
+  },
+  {
+    "id": "caltech",
+    "name": "California Institute of Technology",
+    "description": "A small, private research university in Pasadena, California, Caltech is internationally recognized for its strengths in science and engineering. It is home to renowned research facilities such as the Jet Propulsion Laboratory and has produced numerous Nobel laureates and Turing Award winners.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/76/Caltech_logo.svg",
+    "website": "https://www.caltech.edu",
+    "path": "/caltech"
+  },
+  {
+    "id": "mit",
+    "name": "Massachusetts Institute of Technology",
+    "description": "A private research university in Cambridge, Massachusetts, MIT is a global leader in science, engineering, and technology education and research. Known for its innovative approach to teaching and entrepreneurship, MIT has a profound impact on technology and industry worldwide.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg",
+    "website": "https://www.mit.edu",
+    "path": "/mit"
+  }
+]

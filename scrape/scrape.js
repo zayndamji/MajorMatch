@@ -27,8 +27,8 @@ async function scrapeProgram(collegeName, programName, programLink, outputFile) 
 
 // Stanford
 async function stanford() {
-  const stanfordMajors = JSON.parse(fs.readFileSync('../data/majors.json'));
+  const stanfordMajors = JSON.parse(fs.readFileSync('../src/lib/data/majors.json'));
   for (const major of stanfordMajors.slice(0, 6)) {
-    await scrapeProgram('Stanford', major.longName, `https://bulletin.stanford.edu/programs/${major.name}`, `../data/stanford/${major.name}.json`);
+    await scrapeProgram('Stanford', major.longName, `https://bulletin.stanford.edu/programs/${major.name}`, `../src/lib/data/stanford/${major.name}.json`);
   }
 } stanford();
