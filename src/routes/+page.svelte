@@ -4,6 +4,16 @@
 
 <section class="section has-background-dark is-fullheight">
   <div class="container has-text-centered">
+
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb has-succeeds-separator mb-4" aria-label="breadcrumbs">
+      <ul>
+        <li class="is-active">
+          <a href="/" class="has-text-white" aria-current="page">home</a>
+        </li>
+      </ul>
+    </nav>
+
     <h1 class="title has-text-white mb-4">Universities</h1>
 
     <div class="is-flex is-flex-direction-column is-align-items-center mt-5">
@@ -51,5 +61,13 @@
   .university-box:hover,
   .university-box:focus {
     background-color: #111;
+  }
+
+  .breadcrumb a {
+    text-decoration: none;
+  }
+
+  .breadcrumb li + li::before {
+    color: #666;
   }
 </style>

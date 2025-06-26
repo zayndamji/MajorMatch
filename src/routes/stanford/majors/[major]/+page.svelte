@@ -5,6 +5,18 @@
 
 <section class="section has-background-dark is-fullheight">
   <div class="container">
+
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb has-succeeds-separator mb-5" aria-label="breadcrumbs">
+      <ul>
+        <li><a href="/" class="has-text-grey-light">home</a></li>
+        <li><a href="/stanford" class="has-text-grey-light">stanford</a></li>
+        <li class="is-active">
+          <a href="#" class="has-text-white" aria-current="page">{program.programName}</a>
+        </li>
+      </ul>
+    </nav>
+
     <h1 class="title has-text-white">{program.programName}</h1>
     <h2 class="subtitle has-text-grey-light mb-5">
       {program.collegeName} &middot; {program.degreeAwarded}
@@ -101,13 +113,21 @@
     background-color: #111;
   }
 
-  /* Make sure link inside box has pointer cursor */
   a {
     cursor: pointer !important;
-    color: #4a90e2; /* lighter blue */
+    color: #4a90e2;
   }
 
   strong {
     color: white;
+  }
+
+  /* Breadcrumb styling */
+  .breadcrumb a {
+    text-decoration: none;
+  }
+
+  .breadcrumb li + li::before {
+    color: #666;
   }
 </style>
