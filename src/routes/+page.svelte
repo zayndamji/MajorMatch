@@ -12,8 +12,17 @@
           class="box university-box has-text-white has-text-left mb-4 p-4"
           href={university.path}
         >
-          <h2 class="title is-5 has-text-white">{university.name}</h2>
-          <p class="is-size-7 has-text-grey-light">{university.description}</p>
+          <div class="media is-align-items-center">
+            <div class="media-left">
+              <figure class="image is-64x64">
+                <img src={university.imageUrl} alt={university.name} style="object-fit: contain;" />
+              </figure>
+            </div>
+            <div class="media-content">
+              <h2 class="title is-5 has-text-white">{university.name}</h2>
+              <p class="is-size-7 has-text-grey-light">{university.description}</p>
+            </div>
+          </div>
         </a>
       {/each}
     </div>
