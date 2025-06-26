@@ -1,18 +1,19 @@
 <script>
-  import majors from '$lib/data/stanford/majors.json';
+  export let data;
+  const { university, majors } = data;
 </script>
 
 <section class="section has-background-dark is-fullheight">
   <div class="container has-text-centered">
-    <img src="/images/stanford.png" alt="Stanford University logo" class="stanford-icon mb-2" />
+    <img src={university.imageUrl} alt={university.name + ' logo'} class="university-icon mb-2" />
 
-    <h1 class="title has-text-white mb-4">Stanford University</h1>
+    <h1 class="title has-text-white mb-4">{university.name}</h1>
 
     <div class="is-flex is-flex-direction-column is-align-items-center mt-5">
       {#each majors as major (major.shortName)}
         <a
           class="box major-box has-text-white has-text-left mb-4 p-4"
-          href={`/stanford/majors/${major.shortName}`}
+          href={`/${university.id}/majors/${major.shortName}`}
         >
           <p class="has-text-weight-bold is-size-4 has-text-white">
             {major.name}
@@ -30,7 +31,7 @@
 </section>
 
 <style>
-  .stanford-icon {
+  .university-icon {
     width: 80px;
     height: auto;
     display: inline-block;
