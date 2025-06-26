@@ -1,0 +1,42 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Africana/Afro-American Studies (BA)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of African and African American Studies offers an undergraduate major in Africana/Afro-American Studies (AFRAM) leading to the Bachelor of Arts degree. The program is designed to allow students to develop a broad understanding of the experiences, cultures, and histories of black peoples throughout Africa and its Diaspora. Students acquire a historical and contemporary understanding of the diverse experiences of black peoples and the contributions of black peoples to world civilization. Students engage with a variety of materials including history, literature, culture, and social science.",
+  "shortProgramDescription": "The AFRAM major provides students with a comprehensive understanding of the cultures, histories, and experiences of black peoples across Africa and its Diaspora, preparing them for diverse careers and graduate study.",
+  "classHighlights": [
+    "The program includes foundational courses such as Introduction to African American Studies (AFRAM 1), and The African Diaspora (AFRAM 23).",
+    "Students take core courses in History, Culture and Society, such as The African Diaspora to 1800 (AFRAM 25), The African Diaspora Since 1800 (AFRAM 26), and African American History (AFRAM 120).",
+    "In addition to core courses, students select from a range of electives that cover various aspects of the black experience, including literature, history, culture, and social sciences, such as African American Literature (AFRAM 147), and The Black Freedom Struggle (AFRAM 125).",
+    "Students also have the opportunity to engage with advanced seminars and research-intensive courses that allow them to explore specific topics in depth, such as AFRAM 194: Research Seminar in Africana Studies, and AFRAM 198: Senior Colloquium."
+  ],
+  "learningOutcomes": [
+    "Develop a broad understanding of the cultures, histories, and experiences of black peoples across Africa and its Diaspora.",
+    "Analyze the historical and contemporary contributions of black peoples to world civilization.",
+    "Engage with a variety of materials including history, literature, culture, and social science to understand the black experience.",
+    "Develop critical thinking, research, and writing skills through the study of Africana/Afro-American Studies.",
+    "Prepare for diverse careers and graduate study in fields related to Africana/Afro-American Studies."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Comparative Studies in Race and Ethnicity",
+      "link": "https://csre.stanford.edu"
+    },
+    {
+      "title": "Native American Studies",
+      "link": "https://native-american-studies.stanford.edu"
+    },
+    {
+      "title": "Latin American Studies",
+      "link": "https://latin-american-studies.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/AFRAM-BA",
+    "https://afram.stanford.edu"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 units minimum: 9 units of core courses, 20 units of electives, 5 units of senior colloquium, and remaining units from additional electives or related courses; total approximately 180 quarter units for the BA degree",
+  "additionalInformation": "Students declare the major through the Department of African and African American Studies. The major is flexible and allows students to pursue their interests in various aspects of the black experience. Students are encouraged to engage with faculty and participate in research and internship opportunities."
+}
