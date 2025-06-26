@@ -2,11 +2,11 @@
   import { page } from '$app/stores';
   import { derived } from 'svelte/store';
   import majors from '$lib/data/stanford/majors.json';
+  import universities from '$lib/data/universities.json';
 
   const segments = derived(page, ($page) => {
     const parts = $page.url.pathname.split('/').filter(Boolean);
 
-    // If homepage, no other segments, just highlight home
     if (parts.length === 0) {
       return [];
     }
@@ -18,9 +18,10 @@
       const raw = parts[i];
       let label = raw;
 
-      // Handle specific routes
-      if (i === 0 && raw === 'stanford') {
-        label = 'stanford';
+      if (i === 0) {
+        // Always try to map the first segment to a university full name if exists
+        const uniMatch = universities.find((u) => u.id === raw);
+        label = uniMatch?.name || raw;
       } else if (i === 1 && parts[0] === 'stanford' && raw === 'majors') {
         label = 'majors';
       } else if (i === 2 && parts[0] === 'stanford' && parts[1] === 'majors') {
@@ -38,12 +39,10 @@
 <nav class="breadcrumb has-succeeds-separator mt-5" aria-label="breadcrumbs">
   <ul>
     {#if $segments.length === 0}
-      <!-- On homepage: highlight home -->
       <li class="is-active">
         <a href="#" class="has-text-white" aria-current="page">home</a>
       </li>
     {:else}
-      <!-- Not homepage -->
       <li>
         <a href="/" class="has-text-grey-light">home</a>
       </li>
