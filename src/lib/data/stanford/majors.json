@@ -1,1059 +1,766 @@
 [
   {
     "description": "Ready for your breathtaking career designing today and tomorrow's air and space solutions? This program immerses you in the principles and techniques to advance piloted and autonomous aerial vehicles, robotics, space-based telecommunication solutions, and related technology-intensive fields.",
-    "shortName": "AA-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Aeronautics and Astronautics (BS)",
-    "programType": "Major"
+    "id": "AA-BS",
+    "name": "Aeronautics and Astronautics (BS)"
   },
   {
     "description": "Complement your undergraduate major with an overview of the critical elements of modern aerospace systems. You choose whether to focus on aircraft, spacecraft, or disciplines relevant to both.",
-    "shortName": "AA-MIN",
-    "degreeAwarded": "",
-    "name": "Aeronautics and Astronautics (Minor)",
-    "programType": "Minor"
+    "id": "AA-MIN",
+    "name": "Aeronautics and Astronautics (Minor)"
   },
   {
     "description": "Experience the captivating study and understanding of people of African descent as a central component of American culture. Your coursework promotes study and research across disciplinary and departmental boundaries — anthropology, art, art history, economics, education, drama, history, languages, linguistics, literature, music, philosophy, political science, psychology, religion, and sociology, among others — and provides you with an intellectual foundation for graduate school or professional careers.",
-    "shortName": "AFRAM-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "African and African American Studies (BA)",
-    "programType": "Major"
+    "id": "AFRAM-BA",
+    "name": "African and African American Studies (BA)"
   },
   {
     "description": "Complement your undergraduate major with this compelling minor that provides a foundation for understanding the people of African descent as a central component of American culture through interdisciplinary coursework and independent study.",
-    "shortName": "AFRAM-MIN",
-    "degreeAwarded": "",
-    "name": "African and African American Studies (Minor)",
-    "programType": "Minor"
+    "id": "AFRAM-MIN",
+    "name": "African and African American Studies (Minor)"
   },
   {
     "description": "With coursework across various topic areas — history and institutions, literature, culture and the arts, and comparative race and ethnicity — you’ll discover how different disciplines approach the study and interpretation of American life. You’ll also define and pursue your own thematic concentration in areas including feminism, gender and sexuality, anthropology, religion, sociology, education, music, film, African American, Chicana/o-Latina/o, or Native American studies.",
-    "shortName": "AMSTU-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "American Studies (BA)",
-    "programType": "Major"
+    "id": "AMSTU-BA",
+    "name": "American Studies (BA)"
   },
   {
     "description": "Complement your undergraduate major with a compelling minor that provides a broad understanding of American culture and society. Building on a foundation of courses in history and institutions, literature and the arts, and race and ethnicity, you’ll learn to analyze and interpret America’s past and present, forging fresh and creative syntheses along the way. ",
-    "shortName": "AMSTU-MIN",
-    "degreeAwarded": "",
-    "name": "American Studies (Minor)",
-    "programType": "Minor"
+    "id": "AMSTU-MIN",
+    "name": "American Studies (Minor)"
   },
   {
     "description": "Study human beings and human societies as they exist across time and space in a way distinct from other social sciences. You’ll give central attention to the entire span of human history and the full range of societies and cultures using methods especially attuned to questions of social, cultural, and biological diversity, issues of power, identity, and inequality, and the dynamic processes of social, historical, ecological, and biological change over time. Your coursework and experience deliver excellent preparation for living and working in a multicultural and globally-interconnected world.",
-    "shortName": "ANTHR-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Anthropology (BA)",
-    "programType": "Major"
+    "id": "ANTHR-BA",
+    "name": "Anthropology (BA)"
   },
   {
     "description": "Complement your undergraduate major with a compelling minor that provides a broad understanding of human history and the full range of societies and cultures. Your coursework and experience deliver excellent preparation for living and working in a multicultural and globally-interconnected world.",
-    "shortName": "ANTHR-MIN",
-    "degreeAwarded": "",
-    "name": "Anthropology (Minor)",
-    "programType": "Minor"
+    "id": "ANTHR-MIN",
+    "name": "Anthropology (Minor)"
   },
   {
     "description": "Learn to analyze human heritage and bridge former and present societies by examining the past through its material remains. You’ll get direct access to the experiences of a wide range of people in numerous cultures across the globe through an interdisciplinary approach that draws in equal parts on the humanities, social sciences, and natural sciences.",
-    "shortName": "ARCHA-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Archaeology (BA)",
-    "programType": "Major"
+    "id": "ARCHA-BA",
+    "name": "Archaeology (BA)"
   },
   {
     "description": "Complement your primary undergraduate field of study with a minor in Archaeology that introduces you to the field of study and how to bridge former and present societies by examining the past through its material remains.",
-    "shortName": "ARCHA-MIN",
-    "degreeAwarded": "",
-    "name": "Archaeology (Minor)",
-    "programType": "Minor"
+    "id": "ARCHA-MIN",
+    "name": "Archaeology (Minor)"
   },
   {
     "description": "Your undergraduate degree coursework in Art History prepares you to understand works of art, architecture, and design from various perspectives, including the original context of their making and reception and their subsequent circulation, collection, conservation, and display.",
-    "shortName": "ARTHS-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Art History (BA)",
-    "programType": "Major"
+    "id": "ARTHS-BA",
+    "name": "Art History (BA)"
   },
   {
     "description": "Complement your primary undergraduate field of study with a minor in Art History that provides an overview of understanding works of art, architecture, and design from various perspectives.",
-    "shortName": "ART-MIN",
-    "degreeAwarded": "",
-    "name": "Art History (Minor)",
-    "programType": "Minor"
+    "id": "ART-MIN",
+    "name": "Art History (Minor)"
   },
   {
     "description": "Prepare for a career in the visual arts and hone your creative capabilities. This flexible program delivers diverse courses, a production-based curriculum, and cross-disciplinary interaction with faculty and fellow students that exposes you to a broad range of art forms, their cultural and historical uses, impact, production, and circulation. You’ll also become familiar with various studio facilities and gain experience with group critiques and exhibition practices. ",
-    "shortName": "ARTP-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Art Practice (BA)",
-    "programType": "Major"
+    "id": "ARTP-BA",
+    "name": "Art Practice (BA)"
   },
   {
     "description": "Complement your primary undergraduate field of study with a minor in Art Practice that exposes you to a broad range of art forms, their cultural and historical uses, impact, and production and circulation. You’ll become familiar with various studio facilities and gain experience with group critiques and exhibition practices.",
-    "shortName": "ARTP-MIN",
-    "degreeAwarded": "",
-    "name": "Art Practice (Minor)",
-    "programType": "Minor"
+    "id": "ARTP-MIN",
+    "name": "Art Practice (Minor)"
   },
   {
     "description": "Complement your undergraduate degree with a minor in Asian American Studies, through which you’ll learn about and understand the historical and current experiences of Asian Americans. At the same time, you develop skills to rigorously analyze race and ethnicity in all aspects of human life.",
-    "shortName": "ASAM-MIN",
-    "degreeAwarded": "",
-    "name": "Asian American Stu (Minor)",
-    "programType": "Minor"
+    "id": "ASAM-MIN",
+    "name": "Asian American Stu (Minor)"
   },
   {
     "description": "In this interdisciplinary program, you’ll have the opportunity to learn about and understand the historical and current experiences of Asian Americans, a rapidly developing, complex, and heterogeneous population for which there is neither a single identity nor community. You’ll develop skills to rigorously analyze race and ethnicity in all aspects of human life — including diversity and social justice — as you better prepare yourself to live and work in a multicultural world.",
-    "shortName": "ASAM-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Asian American Studies (BA)",
-    "programType": "Major"
+    "id": "ASAM-BA",
+    "name": "Asian American Studies (BA)"
   },
   {
     "description": "Learn to combine engineering and the life sciences to advance scientific discovery, healthcare and medicine, manufacturing, environmental quality, culture, and education. Your degree opens doors for careers in research, medicine, business, law, and policy.",
-    "shortName": "BIOE-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Bioengineering (BS)",
-    "programType": "Major"
+    "id": "BIOE-BS",
+    "name": "Bioengineering (BS)"
   },
   {
     "description": "Biology is a diverse and exciting field. Both as preparation for specific professional careers and as the focus of a general liberal arts curriculum, a major in Biology is an excellent choice for many Stanford students. The Biology major can serve as a stepping-stone for various career opportunities, such as medical, dental, veterinary school, or a graduate program in the biological and applied sciences. It can also serve as a valuable and satisfying focus of a liberal arts education for those not planning careers in science-related fields.",
-    "shortName": "BIO-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Biology (BS)",
-    "programType": "Major"
+    "id": "BIO-BS",
+    "name": "Biology (BS)"
   },
   {
     "description": "Complement your undergraduate degree with a minor in Biology, through which you’ll learn to think and analyze information critically, draw connections among the different areas of biology, and communicate your ideas effectively to the scientific community.",
-    "shortName": "BIO-MIN",
-    "degreeAwarded": "",
-    "name": "Biology (Minor)",
-    "programType": "Minor"
+    "id": "BIO-MIN",
+    "name": "Biology (Minor)"
   },
   {
     "description": "Develop your understanding of the core scientific, mathematical, and engineering principles that prepare you to conceive and design processes for producing, transforming, and transporting chemical materials. Your coursework will cover applied mathematics, material and energy balances, thermodynamics, fluid mechanics, energy and mass transfer, separations technologies, and chemical reaction kinetics and reactor design.",
-    "shortName": "CHEME-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Chemical Engineering (BS)",
-    "programType": "Major"
+    "id": "CHEME-BS",
+    "name": "Chemical Engineering (BS)"
   },
   {
     "description": "Complement your primary undergraduate or graduate field of study with an overview of the subdisciplines of chemical engineering — including chemical, physical, mathematical, and engineering sciences.",
-    "shortName": "CHEME-MIN",
-    "degreeAwarded": "",
-    "name": "Chemical Engineering (Minor)",
-    "programType": "Minor"
+    "id": "CHEME-MIN",
+    "name": "Chemical Engineering (Minor)"
   },
   {
     "description": "Chemistry is about the nature of matter, how to make it, measure it, and model it. In that sense, chemistry really matters, holding, for example, the key to driving new drugs, creating new materials, and understanding and controlling all sorts of material properties. Your undergraduate program builds foundational knowledge in the subdisciplines of chemistry that is beneficial in various careers.",
-    "shortName": "CHEM-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Chemistry (BS)",
-    "programType": "Major"
+    "id": "CHEM-BS",
+    "name": "Chemistry (BS)"
   },
   {
     "description": "Complement your undergraduate major with an overview of the subdisciplines of chemistry — including organic, inorganic, physical, biological, theoretical, and analytical — that support careers in various fields.",
-    "shortName": "CHEM-MIN",
-    "degreeAwarded": "",
-    "name": "Chemistry (Minor)",
-    "programType": "Minor"
+    "id": "CHEM-MIN",
+    "name": "Chemistry (Minor)"
   },
   {
     "description": "This interdisciplinary program affords you a unique opportunity to explore the culture, society, economy, and politics of America’s vital and growing Chicanxs and Latinxs segment. Coursework focuses on the U.S. population with origins in Mexico, Latin America, and/or South America.",
-    "shortName": "CHILT-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Chicana/o - Latina/o Studies (BA)",
-    "programType": "Major"
+    "id": "CHILT-BA",
+    "name": "Chicana/o - Latina/o Studies (BA)"
   },
   {
     "description": "Complement your undergraduate major with this compelling minor that provides a foundation for understanding American culture’s Chicanxs and Latinxs components through interdisciplinary coursework and independent study.",
-    "shortName": "CHILT-MIN",
-    "degreeAwarded": "",
-    "name": "Chicana/o - Latina/o Studies (Minor)",
-    "programType": "Minor"
+    "id": "CHILT-MIN",
+    "name": "Chicana/o - Latina/o Studies (Minor)"
   },
   {
     "description": "Learn the principles and methodologies you’ll need to start your professional or academic career in civil engineering. Your coursework results in a solid foundation in the fundamentals common to many related specialties and includes experiments that teach you to solve engineering problems creatively.",
-    "shortName": "Civil Engineering (BS)",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Civil Engineering (BS)",
-    "programType": "Major"
+    "id": "Civil Engineering (BS)",
+    "name": "Civil Engineering (BS)"
   },
   {
     "description": "Complement your undergraduate degree with a minor in Civil Engineering. Your coursework provides a focused introduction to one or more areas of civil engineering, including architectural design, construction engineering and management, and structural and geotechnical engineering.",
-    "shortName": "CE-MIN",
-    "degreeAwarded": "",
-    "name": "Civil Engineering (Minor)",
-    "programType": "Minor"
+    "id": "CE-MIN",
+    "name": "Civil Engineering (Minor)"
   },
   {
     "description": "Cultivate a broad, interdisciplinary background in ancient Greece and Rome's literature and material culture. Explore connections between ancient cultures and the modern world.",
-    "shortName": "CLASS-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Classics (BA)",
-    "programType": "Major"
+    "id": "CLASS-BA",
+    "name": "Classics (BA)"
   },
   {
     "description": "Complement your undergraduate major with this compelling minor that provides a broad, interdisciplinary background in ancient Greece and Rome’s literature and material culture.",
-    "shortName": "CLASS-MIN",
-    "degreeAwarded": "",
-    "name": "Classics (Minor)",
-    "programType": "Minor"
+    "id": "CLASS-MIN",
+    "name": "Classics (Minor)"
   },
   {
     "description": "Expose yourself to a broad-based understanding of communication theory and research as you become familiar with the fundamental concerns, theoretical approaches, and methods of the field, and acquire advanced knowledge in one or more sub-areas of the discipline. ",
-    "shortName": "COMMU-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Communication (BA)",
-    "programType": "Major"
+    "id": "COMMU-BA",
+    "name": "Communication (BA)"
   },
   {
     "description": "Complement your undergraduate major with this compelling minor that provides you with a broad-based understanding of communication theory and research.",
-    "shortName": "COMMU-MIN",
-    "degreeAwarded": "",
-    "name": "Communication (Minor)",
-    "programType": "Minor"
+    "id": "COMMU-MIN",
+    "name": "Communication (Minor)"
   },
   {
     "description": "Expand your understanding of literature beyond that of a single national tradition while learning how it functions in our imaginations, our languages, and our social, political, and economic lives.",
-    "shortName": "CPLIT-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Comparative Literature (BA)",
-    "programType": "Major"
+    "id": "CPLIT-BA",
+    "name": "Comparative Literature (BA)"
   },
   {
     "description": "Complement your undergraduate major with this compelling minor that provides you with a deeper understanding of literature.",
-    "shortName": "CPLIT-MIN",
-    "degreeAwarded": "",
-    "name": "Comparative Literature (Minor)",
-    "programType": "Minor"
+    "id": "CPLIT-MIN",
+    "name": "Comparative Literature (Minor)"
   },
   {
     "description": "Through this interdisciplinary program, devote yourself to the rigorous analysis and deep understanding of the multiple meanings of racial and ethnic diversity worldwide. Learn to become a leader and contributor to producing knowledge for race and justice.",
-    "shortName": "CSRE-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Comparative Studies in Race and Ethnicity (BA)",
-    "programType": "Major"
+    "id": "CSRE-BA",
+    "name": "Comparative Studies in Race and Ethnicity (BA)"
   },
   {
     "description": "Pursue sustained independent research on race and ethnicity with the support of a faculty advising team, an interdisciplinary cohort of peers, and CCSRE staff. You’ll synthesize the skills and insights cultivated over the course of your Stanford career to design and produce unique and impactful projects.",
-    "shortName": "CSRE-IHN",
-    "degreeAwarded": "",
+    "id": "CSRE-IHN",
     "name": "Comparative Studies in Race and Ethnicity (IHN)",
     "programType": "(IHN) Interdisc Honors"
   },
   {
     "description": "Complement your undergraduate major with this compelling minor that develops your breadth of knowledge of racial and ethnic diversity throughout the world.",
-    "shortName": "CSRE-MIN",
-    "degreeAwarded": "",
-    "name": "Comparative Studies in Race and Ethnicity (Minor)",
-    "programType": "Minor"
+    "id": "CSRE-MIN",
+    "name": "Comparative Studies in Race and Ethnicity (Minor)"
   },
   {
     "description": "Develop your breadth of knowledge across computer science, including your ability to apply the defining processes of computer science theory, abstraction, design, and implementation to solve problems in the discipline.",
-    "shortName": "CS-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Computer Science (BS)",
-    "programType": "Major"
+    "id": "CS-BS",
+    "name": "Computer Science (BS)"
   },
   {
     "description": "Complement your undergraduate major with this compelling minor that develops your breadth of knowledge across computer science.",
-    "shortName": "CS-MIN",
-    "degreeAwarded": "",
-    "name": "Computer Science (Minor)",
-    "programType": "Minor"
+    "id": "CS-MIN",
+    "name": "Computer Science (Minor)"
   },
   {
     "description": "Complement your undergraduate major with this compelling minor that offers a structured environment to expand your interest and develop your writing skills in writing prose, poetry, or fiction for film.",
-    "shortName": "CRWRIT-MIN",
-    "degreeAwarded": "",
-    "name": "Creative Writing (Minor)",
-    "programType": "Minor"
+    "id": "CRWRIT-MIN",
+    "name": "Creative Writing (Minor)"
   },
   {
     "description": "Build the analytical and quantitative foundation for tackling data-driven problems in science, industry, and society. ",
-    "shortName": "DATSC-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Data Science (BA)",
-    "programType": "Major"
+    "id": "DATSC-BA",
+    "name": "Data Science (BA)"
   },
   {
     "description": "",
-    "shortName": "DATSC-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Data Science (BS)",
-    "programType": "Major"
+    "id": "DATSC-BS",
+    "name": "Data Science (BS)"
   },
   {
     "description": "Complement your undergraduate studies in the humanities and social sciences with a minor in Data Science that delivers the practical know-how of statistical data analytic methods related to your field of interest. ",
-    "shortName": "DATSCI-MIN",
-    "degreeAwarded": "",
-    "name": "Data Science (Minor)",
-    "programType": "Minor"
+    "id": "DATSCI-MIN",
+    "name": "Data Science (Minor)"
   },
   {
     "description": "Conduct an independent honors thesis focused on democracy, development, and the rule of law, regardless of the subject of your major.",
-    "shortName": "DDRL-IHN",
-    "degreeAwarded": "",
+    "id": "DDRL-IHN",
     "name": "Democracy, Development and the Rule of Law (IHN)",
     "programType": "(IHN) Interdisc Honors"
   },
   {
     "description": "Draw on the behavioral and social sciences to develop a strong foundation in human-centered design and the mathematics, science, and engineering concepts needed to support it. This degree prepares you for postgraduate study in design or careers as a designer in public and private sector institutions, entrepreneurial endeavors, and perhaps, most importantly, careers that do not yet exist. ",
-    "shortName": "DESIGN-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Design (BS)",
-    "programType": "Major"
+    "id": "DESIGN-BS",
+    "name": "Design (BS)"
   },
   {
     "description": "Perform humanistic inquiry using digital methods and tools that foster innovative research. You’ll develop critical skills applicable within and beyond an academic setting while complementing your undergraduate degree with this minor.",
-    "shortName": "DIGHUM-MIN",
-    "degreeAwarded": "",
-    "name": "Digital Humanities (Minor)",
-    "programType": "Minor"
+    "id": "DIGHUM-MIN",
+    "name": "Digital Humanities (Minor)"
   },
   {
     "description": "Develop a broad background in the fundamentals of the Earth and planetary sciences, and the quantitative, analytical, and communications skills necessary to conduct research and think critically about questions involving the Earth and other planets.",
-    "shortName": "EPS-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Earth and Planetary Sciences (BS)",
-    "programType": "Major"
+    "id": "EPS-BS",
+    "name": "Earth and Planetary Sciences (BS)"
   },
   {
     "description": "Develop a broad background in the fundamentals of the Earth and planetary sciences, and the quantitative, analytical, and communications skills necessary to conduct research and think critically about questions involving the Earth and other planets.",
-    "shortName": "EPS-MIN",
-    "degreeAwarded": "",
-    "name": "Earth and Planetary Sciences (Minor)",
-    "programType": "Minor"
+    "id": "EPS-MIN",
+    "name": "Earth and Planetary Sciences (Minor)"
   },
   {
     "description": "Immerse yourself in the complex environmental problems caused by human activities in conjunction with natural changes in the Earth system, and tackle the world’s most pressing social-environmental issues, as you become part of a generation of scientists, professionals, and citizens who solve problems using systematic, interdisciplinary approaches.",
-    "shortName": "EASYS-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Earth Systems (BS)",
-    "programType": "Major"
+    "id": "EASYS-BS",
+    "name": "Earth Systems (BS)"
   },
   {
     "description": "Enhance your undergraduate degree in another field with a minor focused on sustainability or environmental justice.",
-    "shortName": "EASYS-MIN",
-    "degreeAwarded": "",
-    "name": "Earth Systems (Minor)",
-    "programType": "Minor"
+    "id": "EASYS-MIN",
+    "name": "Earth Systems (Minor)"
   },
   {
     "description": "Engage with the cultures of China, Japan, Korea, and the greater East Asia region through language, linguistics, literature, film, cultural studies, visual arts, and more.",
-    "shortName": "EASST-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "East Asian Studies (BA)",
-    "programType": "Major"
+    "id": "EASST-BA",
+    "name": "East Asian Studies (BA)"
   },
   {
     "description": "Complement your undergraduate major with this compelling minor that develops your breadth of knowledge across the cultures of the East Asia region.",
-    "shortName": "EASST-MIN",
-    "degreeAwarded": "",
-    "name": "East Asian Studies (Minor)",
-    "programType": "Minor"
+    "id": "EASST-MIN",
+    "name": "East Asian Studies (Minor)"
   },
   {
     "description": "Develop a foundational understanding of the economic aspects of modern society, introduce yourself to macro- and microeconomic theory, familiarize yourself with techniques for analyzing and communicating contemporary economic problems, and develop your ability to exercise judgment in evaluating public economic policy.",
-    "shortName": "ECON-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Economics (BA)",
-    "programType": "Major"
+    "id": "ECON-BA",
+    "name": "Economics (BA)"
   },
   {
     "description": "Develop a foundational understanding of the economic aspects of modern society, introduce yourself to macro- and microeconomic theory, familiarize yourself with techniques for analyzing and communicating contemporary economic problems, and develop your ability to exercise judgment in evaluating public economic policy.",
-    "shortName": "ECON-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Economics (BS)",
-    "programType": "Major"
+    "id": "ECON-BS",
+    "name": "Economics (BS)"
   },
   {
     "description": "Enhance your undergraduate studies in another field with a minor in Economics that acquaints you with the rudiments of micro- and macroeconomic theory and builds your competence in applying that theory to your chosen areas of specialization.",
-    "shortName": "ECON-MIN",
-    "degreeAwarded": "",
-    "name": "Economics (Minor)",
-    "programType": "Minor"
+    "id": "ECON-MIN",
+    "name": "Economics (Minor)"
   },
   {
     "description": "Apply your studies to unique research projects inspired by your interests in education. This program enables Stanford undergraduates to extend their training in their major field of study by pursuing education courses and undertaking a supervised research thesis involving the study of education.",
-    "shortName": "ED-IHN",
-    "degreeAwarded": "",
+    "id": "ED-IHN",
     "name": "Education (IHN)",
     "programType": "(IHN) Interdisc Honors"
   },
   {
     "description": "Complement your undergraduate major with a minor that substantially introduces education through a broad-based and focused study of education research, theory, and practice.",
-    "shortName": "EDUC-MIN",
-    "degreeAwarded": "",
-    "name": "Education (Minor)",
-    "programType": "Minor"
+    "id": "EDUC-MIN",
+    "name": "Education (Minor)"
   },
   {
     "description": "Gain a basic understanding of electrical engineering built on a foundation of physical science, mathematics, computing, and technology as you prepare for a related career or future study in a graduate or professional school.",
-    "shortName": "EE-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Electrical Engineering (BS)",
-    "programType": "Major"
+    "id": "EE-BS",
+    "name": "Electrical Engineering (BS)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Electrical Engineering.",
-    "shortName": "EE-MIN",
-    "degreeAwarded": "",
-    "name": "Electrical Engineering (Minor)",
-    "programType": "Minor"
+    "id": "EE-MIN",
+    "name": "Electrical Engineering (Minor)"
   },
   {
     "description": "Prepare for a career in the energy industry through coursework that provides sufficient depth in the energy, engineering, and environmental fields.",
-    "shortName": "ENERGY-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Energy Science and Engineering (BS)",
-    "programType": "Major"
+    "id": "ENERGY-BS",
+    "name": "Energy Science and Engineering (BS)"
   },
   {
     "description": "Complement your undergraduate major by exploring the aspects of the energy industry to earn a minor in Energy Resources Engineering.",
-    "shortName": "ENERGY-MIN",
-    "degreeAwarded": "",
-    "name": "Energy Science and Engineering (Minor)",
-    "programType": "Minor"
+    "id": "ENERGY-MIN",
+    "name": "Energy Science and Engineering (Minor)"
   },
   {
     "description": "Students pursuing a Bachelor of Science degree in Engineering can specialize in one of six major areas: Biomedical Computation; Architectural Design; Engineering Physics; Atmosphere & Energy; Sustainable Architecture &Engineering; Biomechanical Engineering",
-    "shortName": "ENGR-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Engineering (BS)",
-    "programType": "Major"
+    "id": "ENGR-BS",
+    "name": "Engineering (BS)"
   },
   {
     "description": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
-    "shortName": "Engineering (BS): Architectural Design",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Engineering (BS): Architectural Design",
-    "programType": "Major"
+    "id": "Engineering (BS): Architectural Design",
+    "name": "Engineering (BS): Architectural Design"
   },
   {
     "description": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
-    "shortName": "Engineering (BS): Atmosphere and Energy",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Engineering (BS): Atmosphere and Energy",
-    "programType": "Major"
+    "id": "Engineering (BS): Atmosphere and Energy",
+    "name": "Engineering (BS): Atmosphere and Energy"
   },
   {
     "description": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
-    "shortName": "Engineering (BS): Biomechanical Engineering",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Engineering (BS): Biomechanical Engineering",
-    "programType": "Major"
+    "id": "Engineering (BS): Biomechanical Engineering",
+    "name": "Engineering (BS): Biomechanical Engineering"
   },
   {
     "description": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
-    "shortName": "Engineering (BS): Biomedical Computation",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Engineering (BS): Biomedical Computation",
-    "programType": "Major"
+    "id": "Engineering (BS): Biomedical Computation",
+    "name": "Engineering (BS): Biomedical Computation"
   },
   {
     "description": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
-    "shortName": "Engineering (BS): Engineering Physics",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Engineering (BS): Engineering Physics",
-    "programType": "Major"
+    "id": "Engineering (BS): Engineering Physics",
+    "name": "Engineering (BS): Engineering Physics"
   },
   {
     "description": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
-    "shortName": "Engineering (BS): Sustainable Architecture and Engineering",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Engineering (BS): Sustainable Architecture and Engineering",
-    "programType": "Major"
+    "id": "Engineering (BS): Sustainable Architecture and Engineering",
+    "name": "Engineering (BS): Sustainable Architecture and Engineering"
   },
   {
     "description": "Explore the rich legacy of British and American literature through a curriculum that traces its development from the Middle Ages to the present, teaches the critical tools for analyzing literature through three broad genres — poetry, narrative, and methodology — and creates a contextual framework that opens to you the department’s wide range of electives.",
-    "shortName": "ENGL-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "English (BA)",
-    "programType": "Major"
+    "id": "ENGL-BA",
+    "name": "English (BA)"
   },
   {
     "description": "Complement your undergraduate major by exploring the rich legacy of British and American literature, and earn a minor in English.",
-    "shortName": "ENGL-MIN",
-    "degreeAwarded": "",
-    "name": "English (Minor)",
-    "programType": "Minor"
+    "id": "ENGL-MIN",
+    "name": "English (Minor)"
   },
   {
     "description": "Prepare to face 21st-century environmental challenges as you prepare to incorporate environmentally sustainable design, strategies, and practices into natural and built systems. You can focus on coastal regions, freshwater systems, or urban energy and infrastructure.",
-    "shortName": "ENVSE-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Environmental Systems Engineering (BS)",
-    "programType": "Major"
+    "id": "ENVSE-BS",
+    "name": "Environmental Systems Engineering (BS)"
   },
   {
     "description": "Complement your undergraduate major by exploring environmentally sustainable design, strategies, and practices involving buildings, water supply, and coastal regions while earning a minor.",
-    "shortName": "ENVSE-MIN",
-    "degreeAwarded": "",
-    "name": "Environmental Systems Engineering (Minor)",
-    "programType": "Minor"
+    "id": "ENVSE-MIN",
+    "name": "Environmental Systems Engineering (Minor)"
   },
   {
     "description": "Through this honors program, you’ll have the opportunity to write a senior honors thesis on a topic that applies moral and political philosophy to a contemporary practical problem.",
-    "shortName": "ETHSO-IHN",
-    "degreeAwarded": "",
+    "id": "ETHSO-IHN",
     "name": "Ethics in Society (IHN)",
     "programType": "(IHN) Interdisc Honors"
   },
   {
     "description": "Complement your undergraduate major by exploring the ethical dimensions of urgent challenges facing today’s society to earn a minor in Ethics in Society.",
-    "shortName": "ETHSO-MIN",
-    "degreeAwarded": "",
-    "name": "Ethics in Society (Minor)",
-    "programType": "Minor"
+    "id": "ETHSO-MIN",
+    "name": "Ethics in Society (Minor)"
   },
   {
     "description": "The interdepartmental program provides the knowledge and skills to investigate the significance of gender and sexuality in all areas of human life. You’ll examine how societies structure gender roles, relations, and identities and how these intersect with other power hierarchies, such as class, race, nationality, ethnicity, sexuality, ability, and age.",
-    "shortName": "FGSS-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Feminist, Gender, and Sexuality Studies (BA)",
-    "programType": "Major"
+    "id": "FGSS-BA",
+    "name": "Feminist, Gender, and Sexuality Studies (BA)"
   },
   {
     "description": "Through this Honors Program, you’ll have the opportunity to write a senior honors research paper or produce a creative project related to this topic.",
-    "shortName": "FGSS-IHN",
-    "degreeAwarded": "",
+    "id": "FGSS-IHN",
     "name": "Feminist, Gender, and Sexuality Studies (IHN)",
     "programType": "(IHN) Interdisc Honors"
   },
   {
     "description": "This minor complements any major by providing critical tools for understanding and analyzing gender and sexuality across the disciplines.",
-    "shortName": "FGSS-MIN",
-    "degreeAwarded": "",
-    "name": "Feminist, Gender, and Sexuality Studies (Minor)",
-    "programType": "Minor"
+    "id": "FGSS-MIN",
+    "name": "Feminist, Gender, and Sexuality Studies (Minor)"
   },
   {
     "description": "",
-    "shortName": "FILM-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Film and Media Studies (BA)",
-    "programType": "Major"
+    "id": "FILM-BA",
+    "name": "Film and Media Studies (BA)"
   },
   {
     "description": "Complement your undergraduate major with this compelling minor that develops your breadth of knowledge across film, video, and digital media.",
-    "shortName": "FILM-MIN",
-    "degreeAwarded": "",
-    "name": "Film and Media Studies (Minor)",
-    "programType": "Minor"
+    "id": "FILM-MIN",
+    "name": "Film and Media Studies (Minor)"
   },
   {
     "description": "Embark on a transcontinental journey, traveling through both time and space from the medieval world through the early modern period to immerse yourself in French culture through language, ancient texts, literary masterpieces, art, history, food and more.",
-    "shortName": "FRENC-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "French (BA)",
-    "programType": "Major"
+    "id": "FRENC-BA",
+    "name": "French (BA)"
   },
   {
     "description": "Complement your undergraduate major by exploring the rich legacy of French culture through language, art, history, and more while earning a minor in French.",
-    "shortName": "FRENC-MIN",
-    "degreeAwarded": "",
-    "name": "French (Minor)",
-    "programType": "Minor"
+    "id": "FRENC-MIN",
+    "name": "French (Minor)"
   },
   {
     "description": "Expose yourself to a broad spectrum of geophysics, including resource exploration, environmental geophysics, seismology, and tectonics, while obtaining a solid foundation in the essentials of mathematics, physics, and geology that can lead to graduate study or professional careers in government or the private sector.",
-    "shortName": "GEOPH-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Geophysics (BS)",
-    "programType": "Major"
+    "id": "GEOPH-BS",
+    "name": "Geophysics (BS)"
   },
   {
     "description": "Complement your undergraduate major with general knowledge of geophysics to earn this minor.",
-    "shortName": "GEOPH-MIN",
-    "degreeAwarded": "",
-    "name": "Geophysics (Minor)",
-    "programType": "Minor"
+    "id": "GEOPH-MIN",
+    "name": "Geophysics (Minor)"
   },
   {
     "description": "Launch your exploration into the linguistic and analytic significance of the cultural traditions and political histories of the German-speaking countries of Central Europe. Your interdisciplinary study will include art, economics, history, literature, media theory, philosophy, political science, and other fields.",
-    "shortName": "GERST-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "German Studies (BA)",
-    "programType": "Major"
+    "id": "GERST-BA",
+    "name": "German Studies (BA)"
   },
   {
     "description": "Complement your undergraduate major with a survey of the art, economics, history, literature, media theory, philosophy, political science, and other fields of the German-speaking countries of Central Europe to earn this minor.",
-    "shortName": "GERST-MIN",
-    "degreeAwarded": "",
-    "name": "German Studies (Minor)",
-    "programType": "Minor"
+    "id": "GERST-MIN",
+    "name": "German Studies (Minor)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Global Studies designed to give you an in-depth, interdisciplinary study of the character of regions and their intersecting cultures, languages, history, politics, and societies within the larger context of globalization.",
-    "shortName": "GLBLST-MIN",
-    "degreeAwarded": "",
-    "name": "Global Studies (Minor)",
-    "programType": "Minor"
+    "id": "GLBLST-MIN",
+    "name": "Global Studies (Minor)"
   },
   {
     "description": "Because we live in a world shaped by the past, we better understand the present by studying prior events and people. Learn to see yesterday’s world through analytical, interpretive, and expressive skills that take you well beyond a collection of names, dates, and events to a deeper understanding of social change over time. Learn to penetrate different modes of thought and human behavior that allow you to make better sense of the contemporary world while cultivating a crucial set of skills that help you guide its future.",
-    "shortName": "HSTRY-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "History (BA)",
-    "programType": "Major"
+    "id": "HSTRY-BA",
+    "name": "History (BA)"
   },
   {
     "description": "Complement your undergraduate major with a minor in History. You can choose a specific cultural area, such as African, American, Asian, British, European (medieval, early modern, or modern), Russian and East European history, or a thematic topic, such as comparative empires and cultures, gender, the family, religion, technology, or revolution.",
-    "shortName": "HSTRY-MIN",
-    "degreeAwarded": "",
-    "name": "History (Minor)",
-    "programType": "Minor"
+    "id": "HSTRY-MIN",
+    "name": "History (Minor)"
   },
   {
     "description": "Join a diverse, interdisciplinary group of students to work on joint or individual projects that require and develop your critical and creative capacities. Through this senior-year honors program, you’ll have the opportunity to participate in workshops, Capstone projects, mentorship, symposiums, and field research. You’ll learn skills for critiquing others' work and receiving feedback on your work, all in a collaborative, cohort-driven environment.",
-    "shortName": "ARTS-IHN",
-    "degreeAwarded": "",
+    "id": "ARTS-IHN",
     "name": "Honors in the Arts (IHN)",
     "programType": "(IHN) Interdisc Honors"
   },
   {
     "description": "Many problems facing humans today involve both biological and social aspects. Scientific approaches to these problems are essential but must be broadly conceived and placed within their proper social and cultural setting. The BA degree is designed for you if you prefer a traditional liberal arts degree with coursework predominantly in the social sciences and humanities.",
-    "shortName": "HUMBI-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Human Biology (BA)",
-    "programType": "Major"
+    "id": "HUMBI-BA",
+    "name": "Human Biology (BA)"
   },
   {
     "description": "Many problems facing humans today involve both biological and social aspects. Scientific approaches to these problems are essential but benefit when broadly conceived and placed within their proper social and cultural setting. The BS degree is designed for you if you prefer a scientific and technical focus with coursework predominantly in the natural sciences, mathematics, computer science, or engineering.",
-    "shortName": "HUMBI-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Human Biology (BS)",
-    "programType": "Major"
+    "id": "HUMBI-BS",
+    "name": "Human Biology (BS)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Human Biology, providing an introduction to the interdisciplinary study of human beings from biological, behavioral, social, and cultural perspectives.",
-    "shortName": "HUMBI-MIN",
-    "degreeAwarded": "",
-    "name": "Human Biology (Minor)",
-    "programType": "Minor"
+    "id": "HUMBI-MIN",
+    "name": "Human Biology (Minor)"
   },
   {
     "description": "This flourishing interdisciplinary program is designed to connect you with the full scope of human rights offerings on campus—academic, extracurricular, research, and professional pathways, regardless of your undergraduate major. You receive the structure and guidance needed to knit together a rich and coherent course of study in human rights theory and practice with professional development opportunities such as internships.",
-    "shortName": "HUMRTS-MIN",
-    "degreeAwarded": "",
-    "name": "Human Rights (Minor)",
-    "programType": "Minor"
+    "id": "HUMRTS-MIN",
+    "name": "Human Rights (Minor)"
   },
   {
     "description": "Studying Iberian and Latin American cultures means engaging in a deep and compelling exploration of the languages, literature, and cultures of the Iberian Peninsula, Latin America (including Brazil), and Latinx communities in the United States. You’ll focus on critical thinking, open discussion, and close textual analysis through your coursework.",
-    "shortName": "ILAC-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Iberian and Latin American Cultures (BA)",
-    "programType": "Major"
+    "id": "ILAC-BA",
+    "name": "Iberian and Latin American Cultures (BA)"
   },
   {
     "description": "",
-    "shortName": "IDMEN-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
+    "id": "IDMEN-BS",
     "name": "Individually Designed Major in Engineering (BS)",
     "programType": "(IDM) Indiv Designed Major"
   },
   {
     "description": "Complement your undergraduate degree with a minor in Interdisciplinary Arts. You’ll deepen your overall understanding of the arts, familiarize yourself with the theory and techniques of arts, and develop a diverse set of skills to become a more sophisticated scholar and maker of arts.",
-    "shortName": "Interdisciplinary Arts (Min)",
-    "degreeAwarded": "",
-    "name": "Interdisciplinary Arts (Minor)",
-    "programType": "Minor"
+    "id": "Interdisciplinary Arts (Min)",
+    "name": "Interdisciplinary Arts (Minor)"
   },
   {
     "description": "Explore how global, regional, and domestic factors influence relations between actors on the world stage through a focus on political, economic, and cultural relations among peoples and states in the modern world. ",
-    "shortName": "INTLR-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "International Relations (BA)",
-    "programType": "Major"
+    "id": "INTLR-BA",
+    "name": "International Relations (BA)"
   },
   {
     "description": "Complement your undergraduate major with an interdisciplinary minor focusing on the changing political, economic, and cultural relations within the international system of the modern era.",
-    "shortName": "INTLR-MIN",
-    "degreeAwarded": "",
-    "name": "International Relations (Minor)",
-    "programType": "Minor"
+    "id": "INTLR-MIN",
+    "name": "International Relations (Minor)"
   },
   {
     "description": "Build on your interest in international security with this program for seniors from all undergraduate schools and majors. You’ll earn Honors in International Security Studies through coursework, an internship, and an honors thesis.",
-    "shortName": "INSST-IHN",
-    "degreeAwarded": "",
+    "id": "INSST-IHN",
     "name": "International Security Studies (IHN)",
     "programType": "(IHN) Interdisc Honors"
   },
   {
     "description": "Expose yourself to a variety of perspectives on Italian culture through training in writing and communication as well as cultural, textual, and historical analysis.  Become a critical and global thinker prepared for a career in business, social service, government, or academia.",
-    "shortName": "ITAL-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Italian (BA)",
-    "programType": "Major"
+    "id": "ITAL-BA",
+    "name": "Italian (BA)"
   },
   {
     "description": "Complement your undergraduate major by exploring the rich legacy of Italian culture through language, art, history, and more while earning a minor.",
-    "shortName": "ITAL-MIN",
-    "degreeAwarded": "",
-    "name": "Italian (Minor)",
-    "programType": "Minor"
+    "id": "ITAL-MIN",
+    "name": "Italian (Minor)"
   },
   {
     "description": "This program provides you with an understanding of Jewish history, language, literature, religion, thought, and politics to help you understand Jewish identity, thought, and self-expression within larger historical and social contexts and to develop your ability to analyze human experience from different disciplinary perspectives.",
-    "shortName": "JEWSH-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Jewish Studies (BA)",
-    "programType": "Major"
+    "id": "JEWSH-BA",
+    "name": "Jewish Studies (BA)"
   },
   {
     "description": "Complement your undergraduate major with this minor that explores Jewish identity, thought, and self-expression within larger historical and social contexts.",
-    "shortName": "JEWSH-MIN",
-    "degreeAwarded": "",
-    "name": "Jewish Studies (Minor)",
-    "programType": "Minor"
+    "id": "JEWSH-MIN",
+    "name": "Jewish Studies (Minor)"
   },
   {
     "description": "Study the nature of human language as a fundamental human faculty and a changing social institution. Draw on courses offered by other departments and programs that round out the topic.",
-    "shortName": "LING-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Linguistics (BA)",
-    "programType": "Major"
+    "id": "LING-BA",
+    "name": "Linguistics (BA)"
   },
   {
     "description": "Complement your undergraduate major with this minor in Linguistics, providing a solid background for work in any field in which communication is essential.",
-    "shortName": "LING-MIN",
-    "degreeAwarded": "",
-    "name": "Linguistics (Minor)",
-    "programType": "Minor"
+    "id": "LING-MIN",
+    "name": "Linguistics (Minor)"
   },
   {
     "description": "Building on your foundation in calculus and linear algebra, you’ll learn the fundamentals of engineering systems analysis so that you are able to plan, design, and implement complex economic and technical management systems. ",
-    "shortName": "MGTSC-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Management Science and Engineering (BS)",
-    "programType": "Major"
+    "id": "MGTSC-BS",
+    "name": "Management Science and Engineering (BS)"
   },
   {
     "description": "Complement your undergraduate major with a focused introduction to the core areas of Management Science and Engineering while earning a minor.",
-    "shortName": "MGTSC-MIN",
-    "degreeAwarded": "",
-    "name": "Management Science and Engineering (Minor)",
-    "programType": "Minor"
+    "id": "MGTSC-MIN",
+    "name": "Management Science and Engineering (Minor)"
   },
   {
     "description": "Develop a strong foundation in materials science and engineering with emphasis on the fundamental scientific and engineering principles that underlie the knowledge and implementation of material structure, processing, properties, and performance of all materials used in engineering systems. ",
-    "shortName": "MATSC-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Materials Science and Engineering (BS)",
-    "programType": "Major"
+    "id": "MATSC-BS",
+    "name": "Materials Science and Engineering (BS)"
   },
   {
     "description": "Complement your undergraduate major by exploring the role of materials in modern technology and gaining an understanding of the fundamental processes that govern materials behavior while earning a minor.",
-    "shortName": "MATSC-MIN",
-    "degreeAwarded": "",
-    "name": "Materials Science and Engineering (Minor)",
-    "programType": "Minor"
+    "id": "MATSC-MIN",
+    "name": "Materials Science and Engineering (Minor)"
   },
   {
     "description": "Mathematics is fun, challenging, and rewarding. You’ll learn to create, analyze, and interpret mathematical models and to communicate sound arguments based on mathematical reasoning and careful data analysis.",
-    "shortName": "MATH-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Mathematics (BS)",
-    "programType": "Major"
+    "id": "MATH-BS",
+    "name": "Mathematics (BS)"
   },
   {
     "description": "Complement your undergraduate major by exploring the fun, challenging, and rewarding world of mathematics while earning a minor.",
-    "shortName": "MATH-MIN",
-    "degreeAwarded": "",
-    "name": "Mathematics (Minor)",
-    "programType": "Minor"
+    "id": "MATH-MIN",
+    "name": "Mathematics (Minor)"
   },
   {
     "description": "Survey the discipline broadly — covering elements including energy science and technology, propulsion, nano- and micro-mechanics, design mechatronics, solid and fluid dynamics, biomechanical engineering, and more — for a  fundamental and diverse foundation to excel in your academic pursuits and career.",
-    "shortName": "ME-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Mechanical Engineering (BS)",
-    "programType": "Major"
+    "id": "ME-BS",
+    "name": "Mechanical Engineering (BS)"
   },
   {
     "description": "Complement your undergraduate major by exploring the breadth of Mechanical Engineering topics and analytic and design activities while earning a minor.",
-    "shortName": "ME-MIN",
-    "degreeAwarded": "",
-    "name": "Mechanical Engineering (Minor)",
-    "programType": "Minor"
+    "id": "ME-MIN",
+    "name": "Mechanical Engineering (Minor)"
   },
   {
     "description": "Medical Humanities encompasses disciplines within the arts, humanities, medicine, and social sciences and allows students and scholars to explore a more holistic and meaning-centered perspective on medical issues.",
-    "shortName": "MEDHUM-MIN",
-    "degreeAwarded": "",
-    "name": "Medical Humanities (Minor)",
-    "programType": "Minor"
+    "id": "MEDHUM-MIN",
+    "name": "Medical Humanities (Minor)"
   },
   {
     "description": "Complement your undergraduate major by exploring medieval culture in a coherent framework that resonates with contemporary issues of community building, the virtual world, and mobility while earning a minor.",
-    "shortName": "MEDST-MIN",
-    "degreeAwarded": "",
-    "name": "Medieval Studies (Minor)",
-    "programType": "Minor"
+    "id": "MEDST-MIN",
+    "name": "Medieval Studies (Minor)"
   },
   {
     "description": "Complement your undergraduate major by exploring Arabic, Hebrew, Persian, Turkish, Middle Eastern, and African languages, cultures, and civilizations while earning a minor.",
-    "shortName": "MELLC-MIN",
-    "degreeAwarded": "",
-    "name": "Middle Eastern Languages, Literatures, and Cultures (Minor)",
-    "programType": "Minor"
+    "id": "MELLC-MIN",
+    "name": "Middle Eastern Languages, Literatures, and Cultures (Minor)"
   },
   {
     "description": "Complement your undergraduate major by building strength in two distinct modern languages and their literature while earning a minor.",
-    "shortName": "MODLAN-MIN",
-    "degreeAwarded": "",
-    "name": "Modern Language (Minor)",
-    "programType": "Minor"
+    "id": "MODLAN-MIN",
+    "name": "Modern Language (Minor)"
   },
   {
     "description": "Develop an array of tools as part of your aesthetic and musical formation through a course of study that combines breadth of musical experiences across multiple dimensions with depth in a chosen area.",
-    "shortName": "MUSIC-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Music (BA)",
-    "programType": "Major"
+    "id": "MUSIC-BA",
+    "name": "Music (BA)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Music that allows you to focus on a particular music-related area of study. ",
-    "shortName": "MUSIC-MIN",
-    "degreeAwarded": "",
-    "name": "Music (Minor)",
-    "programType": "Minor"
+    "id": "MUSIC-MIN",
+    "name": "Music (Minor)"
   },
   {
     "description": "This intensive approach to the history and culture of Native American people goes beyond the relationship between tribes and the federal government to issues across national boundaries.",
-    "shortName": "NATAM-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Native American Studies (BA)",
-    "programType": "Major"
+    "id": "NATAM-BA",
+    "name": "Native American Studies (BA)"
   },
   {
     "description": "Complement your undergraduate major with an introduction to the history and culture of Native Americans while earning a minor.",
-    "shortName": "NATAM-MIN",
-    "degreeAwarded": "",
-    "name": "Native American Studies (Minor)",
-    "programType": "Minor"
+    "id": "NATAM-MIN",
+    "name": "Native American Studies (Minor)"
   },
   {
     "description": "Train to think clearly and critically about the deepest and broadest questions concerning being, knowledge, and value, as well as your connection to the full range of human activities and interests.",
-    "shortName": "PHILO-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Philosophy (BA)",
-    "programType": "Major"
+    "id": "PHILO-BA",
+    "name": "Philosophy (BA)"
   },
   {
     "description": "Train to think clearly and critically about the deepest and broadest questions concerning being, knowledge, and value, as well as your connection to the full range of human activities and interests.",
-    "shortName": "PHILO-MIN",
-    "degreeAwarded": "",
-    "name": "Philosophy (Minor)",
-    "programType": "Minor"
+    "id": "PHILO-MIN",
+    "name": "Philosophy (Minor)"
   },
   {
     "description": "Find balance and depth in both philosophy and religious studies, learning to think clearly and critically about the deepest and broadest questions concerning being, knowledge, and value while engaging existentially in intellectual, ethical, and sociopolitical issues in the world’s religions. ",
-    "shortName": "PHREL-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Philosophy and Religious Studies (BA)",
-    "programType": "Major"
+    "id": "PHREL-BA",
+    "name": "Philosophy and Religious Studies (BA)"
   },
   {
     "description": "Build a strong foundation in classical and modern physics through a rigorous, mathematical understanding of the fundamental laws governing our universe and everything in it. ",
-    "shortName": "PHYS-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Physics (BS)",
-    "programType": "Major"
+    "id": "PHYS-BS",
+    "name": "Physics (BS)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Physics.",
-    "shortName": "PHYS-MIN",
-    "degreeAwarded": "",
-    "name": "Physics (Minor)",
-    "programType": "Minor"
+    "id": "PHYS-MIN",
+    "name": "Physics (Minor)"
   },
   {
     "description": "Build a foundational understanding of the American political system and other political systems within the context of global forces, international conflicts, social movements, ideological systems, and diversity. ",
-    "shortName": "POLSC-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Political Science (BA)",
-    "programType": "Major"
+    "id": "POLSC-BA",
+    "name": "Political Science (BA)"
   },
   {
     "description": "Complement your undergraduate major with a Political Science minor covering the American and other political systems.",
-    "shortName": "POLSC-MIN",
-    "degreeAwarded": "",
-    "name": "Political Science (Minor)",
-    "programType": "Minor"
+    "id": "POLSC-MIN",
+    "name": "Political Science (Minor)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Portuguese that combines the acquisition of linguistic competence with the study of the literature and cultures of the Lusophone world.",
-    "shortName": "PORT-MIN",
-    "degreeAwarded": "",
-    "name": "Portuguese (Minor)",
-    "programType": "Minor"
+    "id": "PORT-MIN",
+    "name": "Portuguese (Minor)"
   },
   {
     "description": "Begin your journey into the theories and empirical studies of human behavior, including the study of aging, child development, decision-making, morality, motivation, psychopathology, social perception, and so much more. ",
-    "shortName": "PSYCH-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Psychology (BA)",
-    "programType": "Major"
+    "id": "PSYCH-BA",
+    "name": "Psychology (BA)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Psychology that covers the theories and empirical studies of human behavior.",
-    "shortName": "PSYCH-MIN",
-    "degreeAwarded": "",
-    "name": "Psychology (Minor)",
-    "programType": "Minor"
+    "id": "PSYCH-MIN",
+    "name": "Psychology (Minor)"
   },
   {
     "description": "Learn the concepts and tools used in evaluating policy options and outcomes, and prepare for entry-level positions in organizations concerned with such analysis. You’ll focus on issues such as health, education, environment, regulation, and science and technology policy, applicable anywhere in the world.",
-    "shortName": "PUBPO-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Public Policy (BA)",
-    "programType": "Major"
+    "id": "PUBPO-BA",
+    "name": "Public Policy (BA)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Public Policy that introduces concepts for evaluating public policy options.",
-    "shortName": "PUBPO-MIN",
-    "degreeAwarded": "",
-    "name": "Public Policy (Minor)",
-    "programType": "Minor"
+    "id": "PUBPO-MIN",
+    "name": "Public Policy (Minor)"
   },
   {
     "description": "Understand the complex encounters among religious ideas, practices, and communities, and the past and present cultures that have shaped and been shaped by religion as you engage existentially in the intellectual, ethical, and sociopolitical issues in the world’s religions.",
-    "shortName": "RELST-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Religious Studies (BA)",
-    "programType": "Major"
+    "id": "RELST-BA",
+    "name": "Religious Studies (BA)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Religious Studies that covers the intellectual, ethical, and sociopolitical issues in the world’s religions.",
-    "shortName": "RELST-MIN",
-    "degreeAwarded": "",
-    "name": "Religious Studies (Minor)",
-    "programType": "Minor"
+    "id": "RELST-MIN",
+    "name": "Religious Studies (Minor)"
   },
   {
     "description": "Through a common core of courses drawn from the social sciences, the humanities, the natural and physical sciences, and engineering, you’ll build an interdisciplinary framework to understand the complex interactions of science, technology, and the social world.",
-    "shortName": "STS-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Science, Technology, and Society (BA)",
-    "programType": "Major"
+    "id": "STS-BA",
+    "name": "Science, Technology, and Society (BA)"
   },
   {
     "description": "Through a common core of courses drawn from the social sciences, the humanities, the natural and physical sciences, and engineering, you’ll build an interdisciplinary framework through which to understand the complex interactions of science, technology, and the social world. ",
-    "shortName": "STS-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Science, Technology, and Society (BS)",
-    "programType": "Major"
+    "id": "STS-BS",
+    "name": "Science, Technology, and Society (BS)"
   },
   {
     "description": "Tackle a significant problem or question related to the intersection of science, technology, and society. You’ll draw research methods from one or more disciplines that shape STS while capitalizing on unique analytical perspectives of STS as an intellectual field. ",
-    "shortName": "STS-IHN",
-    "degreeAwarded": "",
+    "id": "STS-IHN",
     "name": "Science, Technology, and Society (IHN)",
     "programType": "(IHN) Interdisc Honors"
   },
   {
     "description": "Through your choice of three tracks, you’ll expose yourself to a variety of perspectives on Slavic — especially Russian — language, history, culture, literature, and philosophical thought. ",
-    "shortName": "SLAV-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Slavic Languages and Literatures (BA)",
-    "programType": "Major"
+    "id": "SLAV-BA",
+    "name": "Slavic Languages and Literatures (BA)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Slavic Languages that exposes you to various perspectives on Slavic.",
-    "shortName": "SLAV-MIN",
-    "degreeAwarded": "",
-    "name": "Slavic Languages and Literatures (Minor)",
-    "programType": "Minor"
+    "id": "SLAV-MIN",
+    "name": "Slavic Languages and Literatures (Minor)"
   },
   {
     "description": "Develop a broad understanding of core sociological theories and the methodological skills necessary to understand and address social problems and inequalities in global, institutional, and interpersonal social relations. ",
-    "shortName": "SOCIO-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Sociology (BA)",
-    "programType": "Major"
+    "id": "SOCIO-BA",
+    "name": "Sociology (BA)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Sociology focused on traditional sociology coursework or one focused on poverty, inequality, and policy.",
-    "shortName": "SOCIO-MIN",
-    "degreeAwarded": "",
-    "name": "Sociology (Minor)",
-    "programType": "Minor"
+    "id": "SOCIO-MIN",
+    "name": "Sociology (Minor)"
   },
   {
     "description": "Achieve fluency in reading, listening, speaking, and writing Spanish while developing a contextualized understanding of the language through linguistic and cultural study.",
-    "shortName": "SPAN-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Spanish (BA)",
-    "programType": "Major"
+    "id": "SPAN-BA",
+    "name": "Spanish (BA)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Spanish and combine your acquisition of linguistic competence with the study of the literature and cultures of the Spanish-speaking world.",
-    "shortName": "SPAN-MIN",
-    "degreeAwarded": "",
-    "name": "Spanish (Minor)",
-    "programType": "Minor"
+    "id": "SPAN-MIN",
+    "name": "Spanish (Minor)"
   },
   {
     "description": "Complement your undergraduate studies in the social and natural sciences with a minor in Statistics that broadens your employment opportunities or prepares you for professional or graduate degree studies.",
-    "shortName": "STATS-MIN",
-    "degreeAwarded": "",
-    "name": "Statistics (Minor)",
-    "programType": "Minor"
+    "id": "STATS-MIN",
+    "name": "Statistics (Minor)"
   },
   {
     "description": "Discover the relationships between natural and artificial systems that use symbols to communicate and represent information. You’ll develop the vocabulary, theoretical background, and technical skills necessary to research questions about language, information, and intelligence, both human and machine. ",
-    "shortName": "SYMBO-BS",
-    "degreeAwarded": "BS - Bachelor of Science",
-    "name": "Symbolic Systems (BS)",
-    "programType": "Major"
+    "id": "SYMBO-BS",
+    "name": "Symbolic Systems (BS)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Symbolic Systems, through which you’ll discover the relationships between natural and artificial systems that use symbols to communicate and represent information.",
-    "shortName": "SYMBO-MIN",
-    "degreeAwarded": "",
-    "name": "Symbolic Systems (Minor)",
-    "programType": "Minor"
+    "id": "SYMBO-MIN",
+    "name": "Symbolic Systems (Minor)"
   },
   {
     "description": "Join our robust, non-conservatory program that combines the study and practice of performance within the context of a liberal arts curriculum. You’ll build a strong understanding of historical, cultural, and practical contexts in which live performance develops.",
-    "shortName": "THPST-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Theater and Performance Studies (BA)",
-    "programType": "Major"
+    "id": "THPST-BA",
+    "name": "Theater and Performance Studies (BA)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Theatre and Performance Studies focused on the study and practice of performance within the context of a liberal arts curriculum.",
-    "shortName": "THPST-MIN",
-    "degreeAwarded": "",
-    "name": "Theater and Performance Studies (Minor)",
-    "programType": "Minor"
+    "id": "THPST-MIN",
+    "name": "Theater and Performance Studies (Minor)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Translation Studies focused on developing and applying your foreign language knowledge to produce and analyze translations.",
-    "shortName": "TRANS-MIN",
-    "degreeAwarded": "",
-    "name": "Translation Studies (Minor)",
-    "programType": "Minor"
+    "id": "TRANS-MIN",
+    "name": "Translation Studies (Minor)"
   },
   {
     "description": "Develop your understanding of the nature of cities and their impact on the world through this interdisciplinary drawing from social sciences, the humanities, engineering, and education fields.",
-    "shortName": "URBST-BA",
-    "degreeAwarded": "BA - Bachelor of Arts",
-    "name": "Urban Studies (BA)",
-    "programType": "Major"
+    "id": "URBST-BA",
+    "name": "Urban Studies (BA)"
   },
   {
     "description": "Complement your undergraduate major with a minor in Urban Studies that introduces you to several disciplinary approaches to studying cities and allows you to explore one of five specialized options.",
-    "shortName": "URBST-MIN",
-    "degreeAwarded": "",
-    "name": "Urban Studies (Minor)",
-    "programType": "Minor"
+    "id": "URBST-MIN",
+    "name": "Urban Studies (Minor)"
   }
 ]

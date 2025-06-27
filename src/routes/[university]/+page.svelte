@@ -10,16 +10,16 @@
     <h1 class="title has-text-white mb-4">{university.name}</h1>
 
     <div class="is-flex is-flex-direction-column is-align-items-center mt-5">
-      {#each majors as major (major.shortName)}
+      {#each majors as major (major.id)}
         <a
           class="box major-box has-text-white has-text-left mb-4 p-4"
-          href={`/${university.id}/majors/${major.shortName}`}
+          href={`/${university.id}/majors/${major.id}`}
         >
           <p class="has-text-weight-bold is-size-4 has-text-white">
             {major.name}
           </p>
           <p class="is-size-5 has-text-white mb-1">
-            {major.shortName}
+            {major.id}
           </p>
           <p class="is-size-6 has-text-grey-light">
             {major.description}
