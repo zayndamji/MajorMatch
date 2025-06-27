@@ -65,7 +65,7 @@
     </div>
 
     <div class="box major-box mb-5">
-      <h3 class="title is-5 has-text-white">Sources</h3>
+      <h3 class="title is-5 has-text-white">Relevant Links</h3>
       <ul>
         {#each program.sources as src}
           <li>
