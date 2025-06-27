@@ -4,7 +4,9 @@
 
 <section class="section has-background-dark is-fullheight">
   <div class="container has-text-centered">
-    <div class="is-flex is-flex-direction-column is-align-items-center">
+    <h1 class="title has-text-white mb-4">Universities</h1>
+
+    <div class="is-flex is-flex-direction-column is-align-items-center mt-5">
       {#each universities as university (university.id)}
         <a
           class="box university-box has-text-white has-text-left mb-4 p-4"
