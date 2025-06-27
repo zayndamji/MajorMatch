@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Aerospace Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Aerospace Engineering program at UC Berkeley provides a comprehensive education in the fundamental principles of aerospace engineering, including the design, development, and operation of aircraft, spacecraft, and missiles. The program emphasizes the application of mathematical and scientific principles to solve complex engineering problems. Students learn about aerodynamics, propulsion systems, structural analysis, and systems engineering, as well as the social and environmental contexts in which aerospace systems operate.",
+  "shortProgramDescription": "The Aerospace Engineering B.S. program at UC Berkeley provides a strong foundation in the principles of aerospace engineering, preparing students for careers in industry, government, or further study.",
+  "classHighlights": [
+    "The program begins with foundational courses in engineering, including Engineering 7: Introduction to Computer-Aided Design (CAD) and Engineering 25: Introduction to Aerospace Engineering. Students also take core courses in mathematics, physics, and chemistry.",
+    "Lower-division engineering courses include Mechanics of Solids (ME 104), Introduction to Thermodynamics (ME 106), and Electrical Engineering (EE 100). Students are also introduced to programming with courses like Engineering 7 and Computational Methods in Engineering (ENGIN 7).",
+    "Upper-division courses cover aerodynamics (AE 103), aerospace structures (AE 160), and aerospace systems (AE 106). Students also take courses in propulsion systems (AE 121), flight mechanics (AE 111), and systems engineering (AE 175).",
+    "Students can choose from a variety of technical electives to deepen their knowledge in areas like astrodynamics, aerodynamics, or aerospace materials.",
+    "Laboratory and design courses, such as Aerospace Engineering Laboratory (AE 104) and Aerospace Engineering Design (AE 190), provide hands-on experience with aerospace systems and design principles."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical and scientific principles to solve aerospace engineering problems",
+    "Design and analyze aerospace systems, including aircraft, spacecraft, and missiles",
+    "Understand the social, environmental, and economic contexts of aerospace engineering",
+    "Communicate complex engineering concepts effectively",
+    "Work effectively in teams to solve complex engineering problems",
+    "Apply professional and ethical principles in aerospace engineering practice"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mechanical Engineering (B.S.)",
+      "link": "https://me.berkeley.edu/undergraduate-programs/bachelor-science-mechanical-engineering"
+    },
+    {
+      "title": "Engineering Physics (B.S.)",
+      "link": "https://seor.berkeley.edu/undergraduate-programs/engineering-physics-bs/"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/aerospace-engineering",
+    "https://aero.berkeley.edu/",
+    "https://www.berkeley.edu/catalog/current/catalog.pdf"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "128-129 units (semester system)",
+  "additionalInformation": "The program has specific prerequisites, including mathematics, physics, and chemistry. Students must also complete a series of engineering core courses and upper-division aerospace engineering courses. Upper-division standing is required for most AE courses. Students are encouraged to participate in research and internship opportunities."
+}

@@ -37,6 +37,6 @@ async function stanford() {
 async function ucb() {
   const ucbMajors = JSON.parse(fs.readFileSync('../src/lib/data/ucb/majors.json'));
   for (const major of ucbMajors.slice(0, 5)) {
-    await scrapeProgram('University of California, Berkeley', major.name, `https://guide.berkeley.edu/undergraduate/degree-programs/${major.href}`, `../src/lib/data/ucb/${major.id}.json`);
+    await scrapeProgram('University of California, Berkeley', major.name, `https://guide.berkeley.edu/undergraduate/degree-programs/${major.id}`, `../src/lib/data/ucb/${major.id}.json`);
   }
 } ucb();

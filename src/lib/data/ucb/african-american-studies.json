@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "African American Studies (BA)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of African American Studies at the University of California, Berkeley offers an undergraduate major that provides students with a comprehensive understanding of the history, culture, and experiences of African Americans and the African diaspora. The program combines coursework from various disciplines to examine the complex and multifaceted nature of black life and culture.",
+  "shortProgramDescription": "The African American Studies major at UC Berkeley provides a rigorous and interdisciplinary exploration of the history, culture, and experiences of African Americans and the African diaspora.",
+  "classHighlights": [
+    "The major requires a foundational course (African American Studies 10AC: 'Introduction to African American Studies'), which introduces students to the field's key concepts, theories, and methodologies.",
+    "Students take additional core courses that explore the history, culture, and politics of African Americans, including 'The African American Experience' (African American Studies 101), 'African American Culture' (African American Studies 105AC), and 'African American Political Economy' (African American Studies 108).",
+    "Electives allow students to explore specialized topics, such as 'African American Literature' (African American Studies 125), 'The Black Radical Tradition' (African American Studies 130), and 'Hip-Hop and Social Justice' (African American Studies 154).",
+    "The major also includes a research methods course (African American Studies 190: 'Research Methods in African American Studies'), which provides students with training in research design, data collection, and analysis.",
+    "Upper-division courses provide advanced study in specific areas, such as 'African American History' (African American Studies 107), 'Black Feminist Thought' (African American Studies 118), and 'Diaspora Studies' (African American Studies 140)."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a nuanced understanding of the history, culture, and experiences of African Americans and the African diaspora.",
+    "Analyze the complex and multifaceted nature of black life and culture.",
+    "Apply interdisciplinary approaches to understanding the African American experience.",
+    "Conduct research using a variety of methodologies and sources.",
+    "Communicate effectively about issues related to African American Studies."
+  ],
+  "similarPrograms": [
+    {
+      "title": "African American Studies Minor",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/african-american-studies-minor"
+    },
+    {
+      "title": "Ethnic Studies",
+      "link": "https://ethnicstudies.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/african-american-studies",
+    "https://aas.berkeley.edu"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "Students must complete a minimum of 9 upper-division courses in the major. Coursework is drawn from the Department of African American Studies and other departments across the university."
+}
