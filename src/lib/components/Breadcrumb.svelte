@@ -13,14 +13,18 @@
     const university = universities.find(u => u.id === universityId);
 
     for (let i = 0; i < parts.length; i++) {
-      const href = '/' + parts.slice(0, i + 1).join('/');
       const raw = parts[i];
+
+      // Skip 'majors' segment from being added
+      if (i === 1 && raw === 'majors') {
+        continue;
+      }
+
+      const href = '/' + parts.slice(0, i + 1).join('/');
       let label = raw;
 
       if (i === 0 && university) {
         label = university.name;
-      } else if (i === 1 && raw === 'majors') {
-        label = 'majors';
       } else if (i === 2 && parts[1] === 'majors') {
         // Dynamically import majors for this university
         try {
@@ -28,7 +32,7 @@
           const key = Object.keys(module).find(path => path.includes(`/${universityId}/majors.json`));
           const majors = key ? module[key].default : [];
 
-          const major = majors.find(m => m.shortName === raw);
+          const major = majors.find(m => m.id === raw);
           label = major?.name || raw;
         } catch (e) {
           label = raw;
@@ -46,11 +50,11 @@
   <ul>
     {#if $segments.length === 0}
       <li class="is-active">
-        <a href="#" class="has-text-white" aria-current="page">home</a>
+        <a href="#" class="has-text-white" aria-current="page">Home</a>
       </li>
     {:else}
       <li>
-        <a href="/" class="has-text-grey-light">home</a>
+        <a href="/" class="has-text-grey-light">Home</a>
       </li>
       {#each $segments.slice(0, -1) as segment}
         <li>
