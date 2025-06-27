@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Minor",
+  "programName": "Analytics Minor",
+  "degreeAwarded": "Minor",
+  "fullProgramDescription": "The undergraduate minor in Analytics is designed to provide students with a strong foundation in quantitative and analytical skills to address real-world problems, complementing their major field of study. Students learn to collect, process, analyze, and interpret data, preparing them for a broad range of applications across various disciplines. The minor emphasizes the development of practical skills in data analysis, machine learning, and data visualization, as well as understanding the underlying statistical and mathematical principles.",
+  "shortProgramDescription": "The Analytics Minor at UC Berkeley provides students with a strong foundation in data analysis, machine learning, and data visualization, preparing them for a broad range of applications.",
+  "classHighlights": [
+    "Foundational Courses: Students begin with foundational courses that introduce them to the principles of data analysis and statistical modeling, such as Data 8: Foundations of Data Science and Introduction to Data Science.",
+    "Statistical and Mathematical Principles: Courses cover statistical inference, probability, and mathematical foundations necessary for data analysis and interpretation.",
+    "Data Analysis and Machine Learning: Students learn data manipulation, analysis techniques, and machine learning algorithms, applying these skills to real-world datasets.",
+    "Data Visualization and Communication: Emphasis is placed on effectively communicating insights through data visualization techniques and presenting findings.",
+    "Domain-specific Applications: Electives allow students to explore analytics applications in various domains, such as business, environmental science, or public policy."
+  ],
+  "learningOutcomes": [
+    "Collect, process, analyze, and interpret complex data",
+    "Apply statistical models and machine learning algorithms to solve problems",
+    "Effectively visualize and communicate data insights",
+    "Understand the ethical implications of data analysis and use",
+    "Apply analytics to various domain-specific contexts"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Data Science Major",
+      "link": "https://data.berkeley.edu/academics/undergraduate-programs/data-science-major"
+    },
+    {
+      "title": "Statistics Major",
+      "link": "https://statistics.berkeley.edu/programs/undergraduate/statistics-major"
+    },
+    {
+      "title": "Computer Science Minor",
+      "link": "https://www.cs.berkeley.edu/education/minor"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/analytics",
+    "https://data.berkeley.edu/academics/undergraduate-programs/analytics-minor"
+  ],
+  "programDuration": "Variable, typically completed within 2-3 years",
+  "creditRequirements": "20-22 units, semester system",
+  "additionalInformation": "The Analytics Minor is open to all UC Berkeley undergraduates. Course requirements include foundational data science courses and electives that align with the student's interests and major."
+}

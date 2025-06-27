@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "African American Studies (BA)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of African American Studies at the University of California, Berkeley offers an undergraduate major that provides a rigorous interdisciplinary education in the history, culture, and experiences of people of African descent. The program is designed to foster critical thinking, cultural competency, and social responsibility, preparing students for a wide range of careers and graduate study.",
+  "shortProgramDescription": "The African American Studies major at UC Berkeley provides a comprehensive education in the history, culture, and experiences of people of African descent, preparing students for diverse careers and further study.",
+  "classHighlights": [
+    "The major requires foundational courses in African American Studies, including Introduction to African American Studies (AAAS 10A), Introduction to African American Studies: Historical and Cultural Perspectives (AAAS 10B), and Introduction to African American Studies: Contemporary Issues (AAAS 10C), which provide a broad introduction to the field.",
+    "Students take core courses in African American history, culture, and society, such as History of African American People to 1865 (AAAS 17A), History of African American People, 1865 to Present (AAAS 17B), and The African American Community (AAAS 99), which offer in-depth exploration of key topics.",
+    "Electives include courses on African American literature, art, music, and politics, such as African American Literature (AAAS 115), African American Art (AAAS 125), and African American Politics (AAAS 145), allowing students to tailor their studies to their interests.",
+    "The major also includes upper-division seminars and research courses, such as Senior Seminar (AAAS 195) and Research Methods in African American Studies (AAAS 198), which develop advanced research and critical thinking skills.",
+    "Students can choose from a range of electives and special topics courses, including African Diasporic Cultures (AAAS 130), African American Women (AAAS 140), and Hip-Hop and Social Justice (AAAS 155), which explore diverse aspects of African American experiences."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad understanding of the history, culture, and experiences of people of African descent.",
+    "Analyze and interpret complex texts, images, and cultural artifacts related to African American Studies.",
+    "Apply critical thinking and research skills to issues in African American communities.",
+    "Communicate effectively in written and oral forms about topics related to African American Studies.",
+    "Evaluate the social, cultural, and historical contexts that shape African American experiences.",
+    "Develop a nuanced understanding of the intersections of race, class, gender, and power in shaping African American lives."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Africana Studies Minor",
+      "link": "https://africana.berkeley.edu/programs/minor"
+    },
+    {
+      "title": "Ethnic Studies",
+      "link": "https://ethnicstudies.berkeley.edu/undergraduate/major"
+    },
+    {
+      "title": "History Major with a focus on African American History",
+      "link": "https://history.berkeley.edu/undergraduate/major"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/african-american-studies",
+    "https://aaas.berkeley.edu/",
+    "https://www.berkeley.edu/catalog/current/catalog-aaas.php"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits (including major requirements and breadth courses)",
+  "additionalInformation": "The major is designed to be flexible, allowing students to pursue their interests through electives and special topics courses. Students are encouraged to engage with the department's research and community outreach initiatives."
+}
