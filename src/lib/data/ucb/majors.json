@@ -1,0 +1,882 @@
+[
+  {
+    "id": "AE-BS",
+    "name": "Aerospace Engineering (BS)",
+    "description": "Explore the science and engineering behind air and space flight, including propulsion, aerodynamics, systems engineering, and structural mechanics. This program prepares students for careers in aerospace design, research, and innovation."
+  },
+  {
+    "id": "AEB-MET",
+    "name": "Aerospace Engineering and Business Administration (BS MET)",
+    "description": "Combine technical aerospace training with core business knowledge to prepare for leadership roles in aviation and space industries. Offered as part of the Management, Entrepreneurship, & Technology (MET) program."
+  },
+  {
+    "id": "AFAM-BA",
+    "name": "African American Studies (BA)",
+    "description": "Study the history, culture, and social structures of African Americans and the broader African diaspora through an interdisciplinary lens, including literature, politics, sociology, and history."
+  },
+  {
+    "id": "AMST-BA",
+    "name": "American Studies (BA)",
+    "description": "Engage in interdisciplinary study of American culture, institutions, and society. The program encourages customized thematic concentrations like gender, race, politics, and media."
+  },
+  {
+    "id": "ANALY-MIN",
+    "name": "Analytics (Minor)",
+    "description": "Gain essential skills in data analysis, statistical modeling, and computational tools. This program is ideal for students seeking quantitative insight in any discipline."
+  },
+  {
+    "id": "AGRS-BA",
+    "name": "Ancient Greek and Roman Studies (BA)",
+    "description": "Delve into the languages, literature, philosophy, and history of ancient Greece and Rome. The program emphasizes critical reading and cultural analysis."
+  },
+  {
+    "id": "ANTH-BA",
+    "name": "Anthropology (BA)",
+    "description": "Explore human cultures, evolution, and social practices across time. This major includes biological, archaeological, linguistic, and sociocultural anthropology."
+  },
+  {
+    "id": "ALS-MIN",
+    "name": "Applied Language Studies (Minor)",
+    "description": "Focus on the application of linguistic theory to real-world language use, including language acquisition, multilingualism, and educational policy."
+  },
+  {
+    "id": "APPM-BS",
+    "name": "Applied Mathematics (BS)",
+    "description": "Develop a strong mathematical foundation with applications in physical, biological, and social sciences. Customize your coursework to suit engineering, data science, or economics."
+  },
+  {
+    "id": "ARAB-MIN",
+    "name": "Arabic (Minor)",
+    "description": "Build proficiency in Arabic language and study its literature and culture. The program emphasizes reading, speaking, and understanding of Arab societies."
+  },
+  {
+    "id": "ARCH-BA",
+    "name": "Architecture (BA)",
+    "description": "Study the design, theory, and history of the built environment. This pre-professional program prepares students for graduate study in architecture and urban planning."
+  },
+  {
+    "id": "ARMN-MIN",
+    "name": "Armenian Studies (Minor)",
+    "description": "Explore Armenian language, history, and culture, with an emphasis on diaspora studies, literature, and national identity."
+  },
+  {
+    "id": "ARTH-BA",
+    "name": "Art History (BA)",
+    "description": "Investigate the visual arts across cultures and eras. Develop skills in critical analysis, historical context, and visual literacy."
+  },
+  {
+    "id": "ARTP-BA",
+    "name": "Art Practice (BA)",
+    "description": "Combine studio art training with critical theory. Learn drawing, painting, digital media, and sculpture while developing your artistic voice."
+  },
+  {
+    "id": "ASADA-BA",
+    "name": "Asian American and Asian Diaspora Studies (BA)",
+    "description": "Study the histories, experiences, and cultural expressions of Asian Americans and the Asian diaspora with an emphasis on social justice and identity."
+  },
+  {
+    "id": "ASTRO-BA",
+    "name": "Astrophysics (BA)",
+    "description": "Examine the structure, formation, and evolution of astronomical objects and systems. The BA track emphasizes flexibility and interdisciplinary study."
+  },
+  {
+    "id": "ASTRO-BS",
+    "name": "Astrophysics (BS)",
+    "description": "A rigorous scientific study of the cosmos, preparing students for graduate research in astronomy, physics, and related fields through math and data-intensive training."
+  },
+  {
+    "id": "ATMSC-BS",
+    "name": "Atmospheric Science (BS)",
+    "description": "Understand weather, climate, and atmospheric processes through physics, chemistry, and environmental science. Prepare for careers in meteorology, policy, or research."
+  },
+  {
+    "id": "BIOE-BS",
+    "name": "Bioengineering (BS)",
+    "description": "Bridge biology and engineering to develop technologies for healthcare, research, and the environment. Areas include biomechanics, medical imaging, and synthetic biology."
+  },
+  {
+    "id": "BIOB-MET",
+    "name": "Bioengineering and Business Administration (BS MET)",
+    "description": "Merge engineering and business education to tackle biotechnology challenges with innovation and entrepreneurship, through the MET program."
+  },
+  {
+    "id": "BMSE-BS",
+    "name": "Bioengineering/Materials Science and Engineering Joint Major (BS)",
+    "description": "Study the interface of biological systems and materials science, focusing on biomaterials, tissue engineering, and device development."
+  },
+  {
+    "id": "BUDD-MIN",
+    "name": "Buddhist Studies (Minor)",
+    "description": "Explore Buddhist traditions across Asia through philosophy, art, literature, and religious studies. Suitable for students in humanities or global studies."
+  },
+  {
+    "id": "BUS-BA",
+    "name": "Business Administration (BA)",
+    "description": "Prepare for leadership in the global economy. Learn finance, marketing, strategy, and organizational behavior through Berkeley Haas’s top-ranked program."
+  },
+  {
+    "id": "CELT-BA",
+    "name": "Celtic Studies (BA)",
+    "description": "Immerse in the languages, literature, and history of Celtic-speaking cultures, including Irish, Welsh, and Scottish Gaelic traditions."
+  },
+  {
+    "id": "CHBIO-BS",
+    "name": "Chemical Biology (BS)",
+    "description": "Integrate chemistry and biology to study molecular interactions in living systems. Ideal for pre-med students or those pursuing research in biotechnology."
+  },
+  {
+    "id": "CHENG-BS",
+    "name": "Chemical Engineering (BS)",
+    "description": "Apply chemistry, math, and physics to design processes for chemicals, fuels, pharmaceuticals, and materials. Prepare for industry or graduate research."
+  },
+  {
+    "id": "CEMS-BS",
+    "name": "Chemical Engineering / Materials Science & Engineering Joint Major (BS)",
+    "description": "Explore both chemical and materials engineering to work at the cutting edge of nanotech, energy, and manufacturing."
+  },
+  {
+    "id": "CHNE-BS",
+    "name": "Chemical Engineering / Nuclear Engineering Joint Major (BS)",
+    "description": "Combine chemical and nuclear engineering principles for applications in energy systems, safety engineering, and reactor design."
+  },
+  {
+    "id": "CHEM-BA",
+    "name": "Chemistry (BA)",
+    "description": "Gain foundational training in chemistry with flexibility to pursue interdisciplinary interests or education-related careers."
+  },
+  {
+    "id": "CHEM-BS",
+    "name": "Chemistry (BS)",
+    "description": "Designed for students pursuing careers in chemistry research or graduate study, this intensive program covers analytical, physical, organic, and inorganic chemistry."
+  },
+  {
+    "id": "CHLC-BA",
+    "name": "Chicanx Latinx Studies (BA)",
+    "description": "Explore the cultural, historical, and social experiences of Chicanx and Latinx communities through interdisciplinary coursework, including history, literature, sociology, and cultural studies."
+  },
+  {
+    "id": "CHIN-BA",
+    "name": "Chinese Language (BA)",
+    "description": "Develop advanced proficiency in Chinese language and explore linguistic, literary, and cultural dimensions of Greater China through immersive study."
+  },
+  {
+    "id": "CPLN-BA",
+    "name": "City Planning (BA)",
+    "description": "Study urban design, public policy, and infrastructure solutions to address the social, economic, and environmental challenges of cities and communities."
+  },
+  {
+    "id": "CIVL-BS",
+    "name": "Civil Engineering (BS)",
+    "description": "Design and analyze infrastructure systems, including transportation, water resources, structural components, and geotechnical engineering."
+  },
+  {
+    "id": "CIVB-MET",
+    "name": "Civil Engineering and Business Administration (BS MET)",
+    "description": "Combine civil engineering fundamentals with business skills through the MET program, preparing students for leadership in engineering firms and infrastructure projects."
+  },
+  {
+    "id": "CLIM-BS",
+    "name": "Climate Science (BS)",
+    "description": "Investigate climate systems, global change, and environmental impacts through quantitative tools in atmospheric science, oceanography, and modeling."
+  },
+  {
+    "id": "COGS-BA",
+    "name": "Cognitive Science (BA)",
+    "description": "Examine the science of mind and intelligence through interdisciplinary study in psychology, linguistics, neuroscience, and computer science."
+  },
+  {
+    "id": "CMLT-BA",
+    "name": "Comparative Literature (BA)",
+    "description": "Study literature across languages and cultures to understand global narratives, literary traditions, and critical theory."
+  },
+  {
+    "id": "CS-BS",
+    "name": "Computer Science (BS)",
+    "description": "Learn systems, algorithms, programming languages, and theory for software development, computing systems, and data-driven applications."
+  },
+  {
+    "id": "CS-BA",
+    "name": "Computer Science (BA)",
+    "description": "Explore computing through a liberal arts lens, combining core CS courses with flexibility in humanities and interdisciplinary studies."
+  },
+  {
+    "id": "CRSR-BA",
+    "name": "Conservation and Resource Studies (BA)",
+    "description": "Analyze environmental stewardship, natural resource use, and sustainability through ecological, social, and policy perspectives."
+  },
+  {
+    "id": "COTH-BA",
+    "name": "Course Threads (BA)",
+    "description": "Follow curated, interdisciplinary 'threads' of courses across departments to study emerging topics like data, health, global studies, or creativity."
+  },
+  {
+    "id": "CRVW-BA",
+    "name": "Creative Writing (BA)",
+    "description": "Develop voice and skill in fiction, poetry, creative nonfiction, and screenwriting under mentorship from faculty and visiting writers."
+  },
+  {
+    "id": "DAPS-BA",
+    "name": "Dance and Performance Studies (BA)",
+    "description": "Immerse in the theory, history, and practice of dance and performance, with opportunities in choreography, research, and performance projects."
+  },
+  {
+    "id": "DS-BS",
+    "name": "Data Science (BS)",
+    "description": "Train in statistical methods, machine learning, and computational tools for analyzing and interpreting large-scale data in science and business."
+  },
+  {
+    "id": "DEM-BA",
+    "name": "Demography (BA)",
+    "description": "Study population dynamics, fertility, mortality, migration, and social implications through quantitative and social science methods."
+  },
+  {
+    "id": "DHUM-BA",
+    "name": "Digital Humanities (BA)",
+    "description": "Integrate computational methods with humanities inquiry to explore digital text, cultural artifacts, and historical datasets."
+  },
+  {
+    "id": "DBST-BA",
+    "name": "Disability Studies (BA)",
+    "description": "Examine disability through social, cultural, and policy lenses, advocating for equity, rights, and inclusion in society."
+  },
+  {
+    "id": "DUTC-BA",
+    "name": "Dutch Studies (BA)",
+    "description": "Learn Dutch language, literature, history, and culture within an interdisciplinary European studies context."
+  },
+  {
+    "id": "EEBA-MET",
+    "name": "EECS & Business Administration (BS MET)",
+    "description": "Combine EECS coursework with core business principles through MET, preparing for tech leadership in engineering and management."
+  },
+  {
+    "id": "EEMS-BS",
+    "name": "EECS / Materials Science & Engineering Joint Major (BS)",
+    "description": "Combine electrical and materials engineering to design advanced devices, nanotechnology, and semiconductor systems."
+  },
+  {
+    "id": "EENU-BS",
+    "name": "EECS / Nuclear Engineering Joint Major (BS)",
+    "description": "Explore applications at the intersection of electronic and nuclear engineering, including nuclear instrumentation and systems."
+  },
+  {
+    "id": "EPSC-BS",
+    "name": "Earth and Planetary Science (BS)",
+    "description": "Study geological, atmospheric, and planetary processes to understand Earth’s structure, resources, and planetary evolution."
+  },
+  {
+    "id": "EAHC-BA",
+    "name": "East Asian Humanities (BA)",
+    "description": "Investigate East Asian cultures through history, literature, philosophy, and arts, with opportunities to study multiple languages."
+  },
+  {
+    "id": "EART-BA",
+    "name": "East Asian Religion, Thought and Culture (BA)",
+    "description": "Examine the religious and philosophical traditions of East Asia, including Buddhism, Confucianism, Taoism, and modern thought."
+  },
+  {
+    "id": "EEEC-BA",
+    "name": "East European/Eurasian Languages & Cultures (BA)",
+    "description": "Study the languages, literatures, history, and cultural practices of Eastern Europe and Eurasia."
+  },
+  {
+    "id": "ECON-BA",
+    "name": "Economics (BA)",
+    "description": "Learn microeconomics, macroeconomics, and econometrics with applications in public policy, business, and international economics."
+  },
+  {
+    "id": "ECFS-BS",
+    "name": "Ecosystem Management & Forestry (BS)",
+    "description": "Blend ecology, resource management, and conservation to prepare for careers in forestry, environmental consulting, and policy."
+  },
+  {
+    "name": "Education (BA)",
+    "id": "EDUC-BA",
+    "description": "Explore the foundations of teaching, learning, and educational systems. This interdisciplinary program prepares students for careers in education policy, research, or K-12 teaching pathways."
+  },
+  {
+    "name": "Electrical Engineering & Computer Sciences (BS)",
+    "id": "EECS-BS",
+    "description": "Delve into both hardware and software through intensive training in circuits, computing, machine learning, and digital systems—ideal for aspiring engineers and researchers."
+  },
+  {
+    "name": "Electronic Intelligent Systems (Minor)",
+    "id": "EIS-MIN",
+    "description": "Focus on smart device systems, IoT, and intelligent circuits. This minor is designed for students interested in the intersection of electronics and artificial intelligence."
+  },
+  {
+    "name": "Energy Engineering (BS)",
+    "id": "ENENG-BS",
+    "description": "Prepare to innovate in renewable energy, sustainability, and thermodynamic systems. This major emphasizes practical solutions to global energy challenges."
+  },
+  {
+    "name": "Energy and Resources (Minor)",
+    "id": "ENRES-MIN",
+    "description": "Interdisciplinary minor covering ecological economics, policy, and sustainability practices. A great complement for majors in engineering, policy, or environmental studies."
+  },
+  {
+    "name": "Engineering Mathematics and Statistics (BS)",
+    "id": "EMST-BS",
+    "description": "Combines applied mathematics with statistical modeling to solve engineering problems, particularly in design, control, and decision systems."
+  },
+  {
+    "name": "Engineering Physics (BS)",
+    "id": "ENGPH-BS",
+    "description": "A rigorous program integrating advanced physics with core engineering concepts—ideal for those planning to pursue graduate studies or research careers."
+  },
+  {
+    "name": "English (BA)",
+    "id": "ENGL-BA",
+    "description": "Analyze literature from diverse periods and cultures while developing strong analytical and writing skills. Great for careers in publishing, law, and education."
+  },
+  {
+    "name": "Entrepreneurship & Technology (Minor)",
+    "id": "ETEC-MIN",
+    "description": "Designed for innovators, this minor focuses on building startups, managing innovation, and navigating the tech industry."
+  },
+  {
+    "name": "Environmental Design & Urbanism in Developing Countries (Minor)",
+    "id": "EDUD-MIN",
+    "description": "Examine design and urban development through a global lens, with focus on sustainability, equity, and infrastructure in the Global South."
+  },
+  {
+    "name": "Environmental Earth Science (BS)",
+    "id": "ENES-BS",
+    "description": "Focuses on Earth’s physical processes, such as climate, soil, and groundwater systems, and prepares students for environmental problem-solving careers."
+  },
+  {
+    "name": "Environmental Economics and Policy (BS)",
+    "id": "EEP-BS",
+    "description": "Train in microeconomics and policy analysis to tackle environmental challenges. Students gain skills in economic modeling and sustainability."
+  },
+  {
+    "name": "Environmental Engineering (BS)",
+    "id": "ENVENG-BS",
+    "description": "Solve pollution, water, and waste issues through engineering solutions rooted in environmental science and public health."
+  },
+  {
+    "name": "Environmental Engineering Science (BS)",
+    "id": "EES-BS",
+    "description": "A multidisciplinary program integrating biology, chemistry, and physics to engineer environmental systems and sustainability solutions."
+  },
+  {
+    "name": "Environmental Sciences (BA)",
+    "id": "ENVSC-BA",
+    "description": "Explore the scientific basis of environmental issues including biodiversity, water systems, and climate change with social and policy integration."
+  },
+  {
+    "name": "Ethnic Studies (BA)",
+    "id": "ETHN-BA",
+    "description": "Investigate the histories, cultures, and politics of racially marginalized groups in the U.S. through interdisciplinary study."
+  },
+  {
+    "name": "Film & Media (BA)",
+    "id": "FILM-BA",
+    "description": "Study the history, theory, and practice of film and media arts. A path for future filmmakers, critics, and media scholars."
+  },
+  {
+    "name": "Food Systems (Minor)",
+    "id": "FOOD-MIN",
+    "description": "Examine the interconnected components of food production, distribution, and consumption from ecological, economic, and ethical perspectives."
+  },
+  {
+    "name": "French (BA)",
+    "id": "FREN-BA",
+    "description": "Gain fluency in the French language and explore Francophone literature, cinema, and culture from medieval to modern times."
+  },
+  {
+    "name": "Gender and Women's Studies (BA)",
+    "id": "GWS-BA",
+    "description": "Analyze gender dynamics, feminist theory, and intersectionality across disciplines. Ideal for students pursuing careers in advocacy, law, or academia."
+  },
+  {
+    "name": "Genetics and Plant Biology (BS)",
+    "id": "GPBIO-BS",
+    "description": "Study plant biology, genomics, and biotechnology for careers in agriculture, environmental science, or bioengineering."
+  },
+  {
+    "name": "Geography (BA)",
+    "id": "GEOG-BA",
+    "description": "Explore human and physical geography, including topics like urbanization, climate change, and geopolitical borders."
+  },
+  {
+    "name": "Geology (BA)",
+    "id": "GEOL-BA",
+    "description": "Examine Earth’s structure, processes, and history through fieldwork and lab science—great for careers in energy, mining, or research."
+  },
+  {
+    "name": "Geophysics (BS)",
+    "id": "GEOPH-BS",
+    "description": "Apply physics to Earth’s structure and processes. Learn seismic imaging, tectonics, and resource exploration techniques."
+  },
+  {
+    "name": "Geospatial Information Science and Technology (Minor)",
+    "id": "GIST-MIN",
+    "description": "Learn spatial data analysis, mapping, and remote sensing—an essential skill set in environmental science, urban planning, and policy."
+  },
+  {
+    "name": "Geotechnical Engineering (BS)",
+    "id": "GEOTE-BS",
+    "description": "Focus on soil and rock mechanics in the context of infrastructure design. A specialization within civil engineering."
+  },
+  {
+    "name": "German (BA)",
+    "id": "GERM-BA",
+    "description": "Study German language, literature, and culture with focus on both historical and contemporary perspectives."
+  },
+  {
+    "name": "Global Poverty and Practice (Minor)",
+    "id": "GPP-MIN",
+    "description": "Engage in hands-on work addressing poverty, inequality, and global development through interdisciplinary study and field practice."
+  },
+  {
+    "name": "Global Studies (BA)",
+    "id": "GLST-BA",
+    "description": "Examine global systems, international relations, and transnational movements through political, cultural, and economic lenses."
+  },
+  {
+    "name": "Greek (BA)",
+    "id": "GREEK-BA",
+    "description": "Develop fluency in classical Greek and explore the literature, history, and philosophy of ancient Greece."
+  },
+  {
+    "name": "Greek and Latin (BA)",
+    "id": "GRLA-BA",
+    "description": "Combine classical studies of Greek and Latin texts with training in ancient history, linguistics, and cultural analysis."
+  },
+  {
+    "name": "Health and Wellness (Minor)",
+    "id": "HLTH-MIN",
+    "description": "Covers mental, physical, and social health. Ideal for students interested in public health, education, or counseling."
+  },
+  {
+    "name": "Hebrew (BA)",
+    "id": "HEBR-BA",
+    "description": "Focus on the Hebrew language and its literary, cultural, and historical contexts, both ancient and modern."
+  },
+  {
+    "name": "Hispanic Languages, Linguistics, and Bilingualism (BA)",
+    "id": "HISP-BA",
+    "description": "Explore Spanish and Portuguese languages, dialects, and sociolinguistics in bilingual and multilingual settings."
+  },
+  {
+    "name": "History (BA)",
+    "id": "HIST-BA",
+    "description": "Analyze historical events, cultures, and political systems across global regions and time periods. Prepares students for careers in law, education, or research."
+  },
+  {
+    "name": "History of the Built Environment (Minor)",
+    "id": "HBE-MIN",
+    "description": "Study architectural and urban development through historical, cultural, and environmental frameworks."
+  },
+  {
+    "name": "Human Rights Interdisciplinary (Minor)",
+    "id": "HRIT-MIN",
+    "description": "Investigate human rights theory and practice through politics, law, anthropology, and literature."
+  },
+  {
+    "name": "Industrial Engineering & Operations Research (BS)",
+    "id": "IEOR-BS",
+    "description": "Learn mathematical modeling, optimization, and systems analysis for manufacturing, logistics, and service operations. Ideal for careers in analytics and systems engineering."
+  },
+  {
+    "name": "Industrial Engineering & Operations Research & Business Administration (BS MET)",
+    "id": "IEBA-MET",
+    "description": "Combine IEOR technical training with core business concepts via the MET program, preparing for leadership roles in industry and consulting."
+  },
+  {
+    "name": "Integrative Biology (BS)",
+    "id": "INTB-BS",
+    "description": "Explore biological systems from molecules to ecosystems, integrating genetics, ecology, and physiology through coursework and research."
+  },
+  {
+    "name": "Interdisciplinary Studies (BA)",
+    "id": "INTD-BA",
+    "description": "Design your own curriculum across multiple disciplines, encouraging exploration of diverse academic interests and creative problem-solving."
+  },
+  {
+    "name": "Israel Studies (Minor)",
+    "id": "ISST-MIN",
+    "description": "Study the history, culture, society, and politics of Israel through interdisciplinary approaches in humanities, social sciences, and languages."
+  },
+  {
+    "name": "Italian Studies (BA)",
+    "id": "ITAL-BA",
+    "description": "Learn the Italian language and explore Italy’s literature, film, art, and history from medieval to contemporary periods."
+  },
+  {
+    "name": "Japanese Language (BA)",
+    "id": "JPNL-BA",
+    "description": "Develop proficiency in Japanese along with study of its literature, society, and culture through immersive coursework."
+  },
+  {
+    "name": "Jewish Studies (BA)",
+    "id": "JEWS-BA",
+    "description": "Engage with Jewish history, religion, culture, and contemporary issues via an interdisciplinary program spanning humanities and social sciences."
+  },
+  {
+    "name": "Journalism (BA)",
+    "id": "JOUR-BA",
+    "description": "Learn reporting, multimedia storytelling, and journalism ethics. Prepare for careers in news, digital media, and communications."
+  },
+  {
+    "name": "Korean Language (BA)",
+    "id": "KORN-BA",
+    "description": "Gain proficiency in Korean language and explore Korean literature, film, history, and contemporary culture."
+  },
+  {
+    "name": "Landscape Architecture (BA)",
+    "id": "LAND-BA",
+    "description": "Study design of outdoor spaces, environmental planning, and sustainable landscapes with a focus on equity, ecology, and aesthetics."
+  },
+  {
+    "name": "Latin (BA)",
+    "id": "LATN-BA",
+    "description": "Read and interpret Latin texts from antiquity to the Renaissance, with studies in linguistics, history, and classical culture."
+  },
+  {
+    "name": "Legal Studies (BA)",
+    "id": "LEGL-BA",
+    "description": "Examine law, legal institutions, and social justice through interdisciplinary lenses including politics, sociology, and philosophy."
+  },
+  {
+    "name": "Lesbian, Gay, Bisexual, & Transgender Studies (BA)",
+    "id": "LGBT-BA",
+    "description": "Explore LGBTQ histories, theories, and identities through critical study of gender, culture, and sexuality."
+  },
+  {
+    "name": "Life Sciences, Business, and Entrepreneurship (BS)",
+    "id": "LSEB-BS",
+    "description": "Bridge life sciences with business skills to develop entrepreneurial ventures in biotech, healthcare, and life sciences industries."
+  },
+  {
+    "name": "Linguistics (BA)",
+    "id": "LING-BA",
+    "description": "Study the scientific analysis of language structure and use, covering phonetics, syntax, semantics, psycholinguistics, and sociolinguistics."
+  },
+  {
+    "name": "Logic (BA)",
+    "id": "LOGI-BA",
+    "description": "Explore formal logic, reasoning, and language through philosophical and mathematical perspectives."
+  },
+  {
+    "name": "Marine Science (BS)",
+    "id": "MAR-SC",
+    "description": "Investigate ocean and coastal systems, marine ecology, and environmental science through fieldwork and laboratory study."
+  },
+  {
+    "name": "Materials Science & Engineering (BS)",
+    "id": "MSE-BS",
+    "description": "Explore materials from metals to ceramics and biomaterials; study their design, properties, and applications."
+  },
+  {
+    "name": "Materials Science & Engineering / Mechanical Engineering Joint Major (BS)",
+    "id": "MSEM-BS",
+    "description": "Integrate materials science and mechanical engineering to innovate advanced structures and manufacturing systems."
+  },
+  {
+    "name": "Materials Science & Engineering / Nuclear Engineering Joint Major (BS)",
+    "id": "MSEN-BS",
+    "description": "Combine materials engineering with nuclear engineering principles for research and applications in energy and materials performance."
+  },
+  {
+    "name": "Materials Science & Engineering and Business Administration (BS MET)",
+    "id": "MSEB-MET",
+    "description": "Merge MSE technical training with business strategy and management through the MET program for industry leadership."
+  },
+  {
+    "name": "Mathematics (BS)",
+    "id": "MATH-BS",
+    "description": "Acquire a strong theoretical and applied mathematics foundation, suitable for careers in research, finance, or data science."
+  },
+  {
+    "name": "Mechanical Engineering (BS)",
+    "id": "MECH-BS",
+    "description": "Study mechanics, thermodynamics, and design to engineer mechanical systems and devices across industries."
+  },
+  {
+    "name": "Mechanical Engineering & Business Administration (BS MET)",
+    "id": "MEBA-MET",
+    "description": "Integrate mechanical engineering with business education through MET to prepare for leadership in engineering firms."
+  },
+  {
+    "name": "Mechanical Engineering / Nuclear Engineering (BS)",
+    "id": "MENB-BS",
+    "description": "Combine mechanical and nuclear engineering skills to work on nuclear systems, energy, and safety applications."
+  },
+  {
+    "name": "Media Studies (BA)",
+    "id": "MEDS-BA",
+    "description": "Explore the production, consumption, and cultural impact of media across film, digital platforms, and interactive formats."
+  },
+  {
+    "name": "Medieval Studies (BA)",
+    "id": "MEDL-BA",
+    "description": "Examine medieval Europe through literature, history, art, and languages in an interdisciplinary framework."
+  },
+  {
+    "name": "Microbial Biology (BS)",
+    "id": "MICB-BS",
+    "description": "Study microbial life and its roles in health, environment, and biotechnology through molecular, ecological, and genomic approaches."
+  },
+  {
+    "name": "Middle Eastern Languages & Cultures (BA)",
+    "id": "MECL-BA",
+    "description": "Learn Middle Eastern languages and examine cultural, historical, and literary contexts of the region."
+  },
+  {
+    "name": "Molecular Environmental Biology (BS)",
+    "id": "MEBI-BS",
+    "description": "Blend molecular biology with environmental science to study ecosystem functions, environmental health, and biotechnology."
+  },
+  {
+    "name": "Molecular and Cell Biology (BS)",
+    "id": "MCBI-BS",
+    "description": "Dive deep into cellular systems, genetics, protein function, and biotechnology—preparing for research or medical pathways."
+  },
+  {
+    "name": "Music (BA)",
+    "id": "MUSI-BA",
+    "description": "Develop performance, composition, and music theory skills while studying music history and ethnomusicology."
+  },
+  {
+    "name": "Native American Studies (BA)",
+    "id": "NAMS-BA",
+    "description": "Study the histories, cultures, sovereignty, and contemporary issues of Native American communities through interdisciplinary research."
+  },
+  {
+    "name": "Neuroscience (BS)",
+    "id": "NEUR-BS",
+    "description": "Investigate the structure and function of the nervous system at molecular, cellular, and behavioral levels."
+  },
+  {
+    "name": "New Media (BA)",
+    "id": "NEWM-BA",
+    "description": "Explore transmedia storytelling, digital arts, and interactive design in contemporary cultural landscapes."
+  },
+  {
+    "name": "Nuclear Engineering (BS)",
+    "id": "NUCE-BS",
+    "description": "Study nuclear systems, radiation, reactor design, and nuclear safety for energy and research applications."
+  },
+  {
+    "name": "Nutritional & Metabolic Biology (BS)",
+    "id": "NUMB-BS",
+    "description": "Understand human metabolism and nutrition through molecular and physiological coursework, preparing for health-related careers."
+  },
+  {
+    "name": "Nutritional Sciences: Physiology & Metabolism (BS)",
+    "id": "NSPM-BS",
+    "description": "Focus on physiological processes related to nutrition and metabolism, integrating research methods and health sciences."
+  },
+  {
+    "name": "Nutritional Sciences: Toxicology (BS)",
+    "id": "NSTM-BS",
+    "description": "Study the effects of toxins and chemicals on metabolic systems, with applications in public health, research, and regulation."
+  },
+  {
+    "name": "Persian (BA)",
+    "id": "PERS-BA",
+    "description": "Develop fluency in Persian and explore the literature, history, and cultural traditions of Iran and wider Persianate regions."
+  },
+  {
+    "name": "Philosophy (BA)",
+    "id": "PHIL-BA",
+    "description": "Engage with major philosophical traditions and develop critical thinking in ethics, metaphysics, logic, and political philosophy."
+  },
+  {
+    "name": "Physics (BS)",
+    "id": "PHYS-BS",
+    "description": "Study fundamental physical laws, experimental methods, and theoretical frameworks across classical and modern physics."
+  },
+  {
+    "name": "Planetary Science (BS)",
+    "id": "PLAN-BS",
+    "description": "Investigate planetary systems, including geology, atmospheres, and astrobiology for Earth and extraterrestrial planets."
+  },
+  {
+    "name": "Political Economy (BA)",
+    "id": "POEC-BA",
+    "description": "Analyze economics, politics, and social systems to understand public policy, global inequality, and institutional behavior."
+  },
+  {
+    "name": "Political Science (BA)",
+    "id": "POLS-BA",
+    "description": "Study the theory and practice of politics, government systems, and policy making, with global and comparative perspectives."
+  },
+  {
+    "name": "Politics, Philosophy, and Law (BA)",
+    "id": "PPL-BA",
+    "description": "Interdisciplinary program exploring legal systems, moral reasoning, political theory, and constitutional law."
+  },
+  {
+    "name": "Portuguese Language, Literature, & Cultures (BA)",
+    "id": "PORT-BA",
+    "description": "Learn Portuguese and explore Lusophone literature, culture, history, and contemporary issues."
+  },
+  {
+    "name": "Pre‑Med / Pre‑Health (Other)",
+    "id": "PREM-PRF",
+    "description": "A pre-professional track providing coursework in biology, chemistry, and health sciences to prepare for medical and health-related careers."
+  },
+  {
+    "name": "Prelaw Information (Other)",
+    "id": "PREL-PRF",
+    "description": "A structured advising program that prepares students with coursework and resources for law school application."
+  },
+  {
+    "name": "Professional Accountancy (BS)",
+    "id": "PACT-BS",
+    "description": "Focuses on accounting theory and practice, preparing students for careers in public accounting, auditing, and finance."
+  },
+  {
+    "name": "Psychology (BA)",
+    "id": "PSYC-BA",
+    "description": "Study the scientific basis of behavior, cognition, and emotion through research methods in psychology, neuroscience, and development."
+  },
+  {
+    "name": "Public Health (BA)",
+    "id": "PHLH-BA",
+    "description": "Explore population health, epidemiology, health policy, and social determinants of health to promote community well-being."
+  },
+  {
+    "name": "Public Policy (BA)",
+    "id": "PPOL-BA",
+    "description": "Combine economics, political science, and statistics to analyze and evaluate public policies at local, national, and global levels."
+  },
+  {
+    "name": "Race and the Law (BA)",
+    "id": "RATL-BA",
+    "description": "Examine the intersections of race, law, and justice through historical and contemporary lenses, preparing for social advocacy."
+  },
+  {
+    "name": "Rhetoric (BA)",
+    "id": "RHET-BA",
+    "description": "Study persuasion, argumentation, and discourse across public speaking, media, and cultural contexts."
+  },
+  {
+    "name": "Russian Culture (BA)",
+    "id": "RSCL-BA",
+    "description": "Explore Russian literature, film, art, and social history from the imperial to contemporary era."
+  },
+  {
+    "name": "Russian Language (BA)",
+    "id": "RSLN-BA",
+    "description": "Develop advanced Russian language proficiency while studying linguistic, cultural, and literary traditions."
+  },
+  {
+    "name": "Russian Literature (BA)",
+    "id": "RSLT-BA",
+    "description": "Analyze Russian literary masterpieces from Tolstoy to contemporary authors within their cultural and historical contexts."
+  },
+  {
+    "name": "Scandinavian (BA)",
+    "id": "SCAN-BA",
+    "description": "Study Scandinavian languages, literatures, and cultures with emphasis on Nordic history and social systems."
+  },
+  {
+    "name": "Science and Math Education (BA)",
+    "id": "SMED-BA",
+    "description": "Prepare for teaching STEM subjects through coursework in pedagogy, educational psychology, and curriculum development."
+  },
+  {
+    "name": "Science, Technology, and Society (BA)",
+    "id": "STS-BA",
+    "description": "Examine how science and technology shape societies and vice versa, integrating perspectives from history, sociology, and ethics."
+  },
+  {
+    "name": "Science, Technology, and Society (Minor)",
+    "id": "STS-MIN",
+    "description": "A focused minor exploring STS concepts, ideal for students majoring in science, humanities, or social studies."
+  },
+  {
+    "name": "Slavic Languages and Literatures (BA)",
+    "id": "SLAV-BA",
+    "description": "Explore Slavic languages and texts from Russia, Eastern Europe, and the Balkans through literature, culture, and history."
+  },
+  {
+    "name": "Social & Cultural Factors in Environmental Design (BA)",
+    "id": "SCED-BA",
+    "description": "Study the social dimensions of environmental design including cultural impact, equity, and participatory planning."
+  },
+  {
+    "name": "Social Welfare (BA)",
+    "id": "SWEL-BA",
+    "description": "Learn about social policies, community programs, and advocacy to address poverty, inequality, and social services."
+  },
+  {
+    "name": "Society and Environment (BA)",
+    "id": "SAEN-BA",
+    "description": "Investigate the relationship between human societies and the environment through interdisciplinary study in policy and ecology."
+  },
+  {
+    "name": "Sociology (BA)",
+    "id": "SOCY-BA",
+    "description": "Analyze social behavior, institutions, and inequality through empirical research in social theory, crime, and family studies."
+  },
+  {
+    "name": "South and Southeast Asian Studies (BA)",
+    "id": "SSEA-BA",
+    "description": "Study cultures, histories, and languages of South and Southeast Asia through interdisciplinary coursework."
+  },
+  {
+    "name": "Spanish Languages, Literatures, & Cultures (BA)",
+    "id": "SPNL-BA",
+    "description": "Learn Spanish and explore Hispanic literatures, film, cultural histories, and language diversity."
+  },
+  {
+    "name": "Spanish and Portuguese (BA)",
+    "id": "SPPT-BA",
+    "description": "Study both Spanish and Portuguese languages and literatures with comparative perspectives on Iberian and Latin American cultures."
+  },
+  {
+    "name": "Statistics (BS)",
+    "id": "STAT-BS",
+    "description": "Acquire rigorous training in probability, statistics, and data analysis for applications in science, business, and policy."
+  },
+  {
+    "name": "Structural Engineering (BS)",
+    "id": "STRC-BS",
+    "description": "Study how to design safe and efficient structures using principles of mechanics, materials, and seismic analysis."
+  },
+  {
+    "name": "Sustainable Business and Policy (BA)",
+    "id": "SBUP-BA",
+    "description": "Interdisciplinary approach to business and policy solutions that address environmental and social sustainability."
+  },
+  {
+    "name": "Sustainable Design (BA)",
+    "id": "SDES-BA",
+    "description": "Explore design practices that promote sustainability in architecture, products, and systems through theory and studio projects."
+  },
+  {
+    "name": "Sustainable Environmental Design (BA)",
+    "id": "SEDZ-BA",
+    "description": "Study sustainable design of buildings, communities, and landscapes with emphasis on resilience and ecological systems."
+  },
+  {
+    "name": "Teaching English to Multilingual Students (BA)",
+    "id": "TEMS-BA",
+    "description": "Learn methods for teaching English to multilingual learners with focus on linguistics, pedagogy, and cultural competence."
+  },
+  {
+    "name": "Theater and Performance Studies (BA)",
+    "id": "THEA-BA",
+    "description": "Study theater history, performance theory, and practice. Opportunities in acting, directing, and playwriting."
+  },
+  {
+    "name": "Tibetan (BA)",
+    "id": "TIBE-BA",
+    "description": "Study Tibetan language, literature, and culture, with attention to Buddhist texts and Himalayan traditions."
+  },
+  {
+    "name": "Turkish (BA)",
+    "id": "TURK-BA",
+    "description": "Develop proficiency in Turkish and explore literary, cultural, and historical contexts of Turkey and Turkic societies."
+  },
+  {
+    "name": "Urban Studies (BA)",
+    "id": "URBN-BA",
+    "description": "Examine urbanization, planning, and social processes in cities through policy, design, and geographic approaches."
+  }
+]
