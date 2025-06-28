@@ -64,7 +64,7 @@
       <p class="has-text-white">{program.additionalInformation}</p>
     </div>
 
-    <div class="box major-box mb-5">
+    <!-- <div class="box major-box mb-5">
       <h3 class="title is-5 has-text-white">Relevant Links</h3>
       <ul>
         {#each program.sources as src}
@@ -75,7 +75,7 @@
           </li>
         {/each}
       </ul>
-    </div>
+    </div> -->
 
     <a 
       href={program.sources[0]} 
@@ -103,7 +103,7 @@
 
   a {
     cursor: pointer !important;
-    color: #4a90e2;
+    color: #6cb1ff;
   }
 
   strong {
