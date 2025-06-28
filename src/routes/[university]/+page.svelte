@@ -18,9 +18,6 @@
           <p class="has-text-weight-bold is-size-4 has-text-white">
             {major.name}
           </p>
-          <p class="is-size-5 has-text-white mb-1">
-            {major.id}
-          </p>
           <p class="is-size-6 has-text-grey-light">
             {major.description}
           </p>
