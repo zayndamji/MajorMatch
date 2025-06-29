@@ -2,697 +2,697 @@
   {
     "shortName": "AE-BS",
     "name": "Aerospace Engineering (BS)",
-    "description": "Explore the science and engineering behind air and space flight, including propulsion, aerodynamics, systems engineering, and structural mechanics. This program prepares students for careers in aerospace design, research, and innovation.",
+    "description": "Explore the principles of aerospace engineering, focusing on the design, development, and testing of aircraft and spacecraft. This program emphasizes a strong foundation in aerodynamics, propulsion, structural analysis, and systems integration, preparing you for innovation and leadership in aerospace industries and research.",
     "id": "aerospace-engineering"
   },
   {
     "shortName": "AEB-MET",
     "name": "Aerospace Engineering and Business Administration (BS MET)",
-    "description": "Combine technical aerospace training with core business knowledge to prepare for leadership roles in aviation and space industries. Offered as part of the Management, Entrepreneurship, & Technology (MET) program.",
+    "description": "Combine rigorous aerospace engineering study with core business principles to develop skills in technology management, entrepreneurship, and strategic decision-making. This interdisciplinary program equips you to lead technical teams and navigate complex challenges at the intersection of engineering and business.",
     "id": "aerospace-engineering-business-administration"
   },
   {
     "shortName": "AFAM-BA",
     "name": "African American Studies (BA)",
-    "description": "Study the history, culture, and social structures of African Americans and the broader African diaspora through an interdisciplinary lens, including literature, politics, sociology, and history.",
+    "description": "Engage deeply with African American history, culture, politics, and social movements through an interdisciplinary lens. This major explores identity, systemic inequalities, resistance, and contributions that shape American society, fostering critical analysis and a commitment to social justice.",
     "id": "african-american-studies"
   },
   {
     "shortName": "AMST-BA",
     "name": "American Studies (BA)",
-    "description": "Engage in interdisciplinary study of American culture, institutions, and society. The program encourages customized thematic concentrations like gender, race, politics, and media.",
+    "description": "Examine the diverse cultural, political, and social dynamics of the United States through interdisciplinary approaches. This major emphasizes critical perspectives on race, class, gender, and power, providing tools to understand America's past and present complexities.",
     "id": "american-studies"
   },
   {
     "shortName": "ANALY-BA",
     "name": "Analytics (BA)",
-    "description": "Gain essential skills in data analysis, statistical modeling, and computational tools. This program is ideal for students seeking quantitative insight in any discipline.",
+    "description": "Develop expertise in data analysis, statistical modeling, and decision science. This program integrates quantitative methods with real-world applications, preparing you to translate complex data into actionable insights across industries such as business, healthcare, and technology.",
     "id": "analytics"
   },
   {
     "shortName": "AGRS-BA",
     "name": "Ancient Greek and Roman Studies (BA)",
-    "description": "Delve into the languages, literature, philosophy, and history of ancient Greece and Rome. The program emphasizes critical reading and cultural analysis.",
+    "description": "Investigate the languages, literature, history, and philosophy of ancient Greece and Rome. This major nurtures an understanding of classical civilizations and their enduring influence on modern thought, culture, and institutions through critical interpretation and contextual study.",
     "id": "ancient-greek-roman-studies"
   },
   {
     "shortName": "ANTH-BA",
     "name": "Anthropology (BA)",
-    "description": "Explore human cultures, evolution, and social practices across time. This major includes biological, archaeological, linguistic, and sociocultural anthropology.",
+    "description": "Explore human societies past and present, focusing on cultural diversity, social structures, and biological evolution. This interdisciplinary major combines fieldwork, ethnography, and theoretical frameworks to examine identity, power, and human experience globally.",
     "id": "anthropology"
   },
   {
     "shortName": "APPM-BS",
     "name": "Applied Mathematics (BS)",
-    "description": "Develop a strong mathematical foundation with applications in physical, biological, and social sciences. Customize your coursework to suit engineering, data science, or economics.",
+    "description": "Gain mastery of mathematical techniques and computational methods used to solve real-world problems in science, engineering, and industry. This program emphasizes modeling, analysis, and algorithm development to address challenges in diverse fields.",
     "id": "applied-mathematics"
   },
   {
     "shortName": "ARCH-BA",
     "name": "Architecture (BA)",
-    "description": "Study the design, theory, and history of the built environment. This pre-professional program prepares students for graduate study in architecture and urban planning.",
+    "description": "Study the theory, history, and practice of architecture with a focus on design, sustainability, and urban planning. This major fosters creative problem-solving and technical skills necessary to shape built environments that respond to social and environmental needs.",
     "id": "architecture"
   },
   {
     "shortName": "ARTH-BA",
     "name": "Art History (BA)",
-    "description": "Investigate the visual arts across cultures and eras. Develop skills in critical analysis, historical context, and visual literacy.",
+    "description": "Delve into visual culture across time and geography, analyzing art movements, artists, and societal contexts. This program cultivates critical thinking and research skills to understand artistic expression and its role in shaping human history.",
     "id": "art-history"
   },
   {
     "shortName": "ARTP-BA",
     "name": "Art Practice (BA)",
-    "description": "Combine studio art training with critical theory. Learn drawing, painting, digital media, and sculpture while developing your artistic voice.",
+    "description": "Engage in hands-on creation and conceptual exploration across media including painting, sculpture, digital art, and performance. This major encourages experimentation, technical proficiency, and personal artistic development within contemporary and historical contexts.",
     "id": "art-practice"
   },
   {
     "shortName": "ASADA-BA",
     "name": "Asian American and Asian Diaspora Studies (BA)",
-    "description": "Study the histories, experiences, and cultural expressions of Asian Americans and the Asian diaspora with an emphasis on social justice and identity.",
+    "description": "Investigate the histories, cultures, and experiences of Asian American and Asian diasporic communities. This interdisciplinary major addresses issues of identity, migration, representation, and social justice within local and global contexts.",
     "id": "asian-american-diaspora-studies"
   },
   {
     "shortName": "ASTRO-BA",
     "name": "Astrophysics (BA)",
-    "description": "Examine the structure, formation, and evolution of astronomical objects and systems. The BA track emphasizes flexibility and interdisciplinary study.",
+    "description": "Study the physical properties and dynamics of celestial bodies and the universe as a whole. This program integrates observational and theoretical approaches, preparing you for research and careers in astronomy, space science, and related fields.",
     "id": "astrophysics"
   },
   {
     "shortName": "ATMSC-BS",
     "name": "Atmospheric Science (BS)",
-    "description": "Understand weather, climate, and atmospheric processes through physics, chemistry, and environmental science. Prepare for careers in meteorology, policy, or research.",
+    "description": "Explore the science behind weather, climate, and atmospheric processes. This major combines physics, chemistry, and environmental science to understand atmospheric phenomena and address challenges related to climate change and environmental policy.",
     "id": "atmospheric-science"
   },
   {
     "shortName": "BIOE-BS",
     "name": "Bioengineering (BS)",
-    "description": "Bridge biology and engineering to develop technologies for healthcare, research, and the environment. Areas include biomechanics, medical imaging, and synthetic biology.",
+    "description": "Integrate principles of engineering with biological sciences to develop technologies for healthcare, biotechnology, and medical devices. This program emphasizes innovation, problem-solving, and interdisciplinary collaboration in improving human health.",
     "id": "bioengineering"
   },
   {
     "shortName": "BIOB-MET",
     "name": "Bioengineering and Business Administration (BS MET)",
-    "description": "Merge engineering and business education to tackle biotechnology challenges with innovation and entrepreneurship, through the MET program.",
+    "description": "Combine bioengineering expertise with business acumen to lead innovation in biotechnology and healthcare industries. This interdisciplinary program prepares you for roles in technology development, entrepreneurship, and management within science-driven enterprises.",
     "id": "bioengineering-business-administration"
   },
   {
     "shortName": "BMSE-BS",
     "name": "Bioengineering/Materials Science and Engineering Joint Major (BS)",
-    "description": "Study the interface of biological systems and materials science, focusing on biomaterials, tissue engineering, and device development.",
+    "description": "Study the intersection of biological systems and materials science to design novel biomaterials and medical technologies. This joint major emphasizes research, engineering principles, and collaborative innovation in emerging bio-materials applications.",
     "id": "bioengineering-materials-science-engineering-joint-major"
   },
   {
     "shortName": "BUS-BA",
     "name": "Business Administration (BA)",
-    "description": "Prepare for leadership in the global economy. Learn finance, marketing, strategy, and organizational behavior through Berkeley Haas’s top-ranked program.",
+    "description": "Develop strategic, analytical, and leadership skills essential for managing organizations in a global economy. This program covers finance, marketing, operations, and organizational behavior, empowering you to drive innovation and effective decision-making.",
     "id": "business-administration"
   },
   {
     "shortName": "CELT-BA",
     "name": "Celtic Studies (BA)",
-    "description": "Immerse in the languages, literature, and history of Celtic-speaking cultures, including Irish, Welsh, and Scottish Gaelic traditions.",
+    "description": "Explore the languages, literature, history, and cultures of the Celtic peoples. This major fosters critical understanding of Celtic heritage and its influence through linguistic analysis, literary interpretation, and cultural studies.",
     "id": "celtic-studies"
   },
   {
     "shortName": "CHBIO-BS",
     "name": "Chemical Biology (BS)",
-    "description": "Integrate chemistry and biology to study molecular interactions in living systems. Ideal for pre-med students or those pursuing research in biotechnology.",
+    "description": "Investigate the chemical processes within biological systems to understand molecular mechanisms of life. This interdisciplinary program combines chemistry and biology to advance research in drug development, biotechnology, and molecular medicine.",
     "id": "chemical-biology"
   },
   {
     "shortName": "CHENG-BS",
     "name": "Chemical Engineering (BS)",
-    "description": "Apply chemistry, math, and physics to design processes for chemicals, fuels, pharmaceuticals, and materials. Prepare for industry or graduate research.",
+    "description": "Apply chemistry, physics, and engineering principles to design processes for manufacturing chemicals, materials, and energy. This major emphasizes problem-solving, process optimization, and sustainability in industrial applications.",
     "id": "chemical-engineering"
   },
   {
     "shortName": "CEMS-BS",
     "name": "Chemical Engineering / Materials Science & Engineering Joint Major (BS)",
-    "description": "Explore both chemical and materials engineering to work at the cutting edge of nanotech, energy, and manufacturing.",
+    "description": "Integrate chemical engineering fundamentals with materials science to innovate in the development and processing of advanced materials. This joint major combines theoretical knowledge with practical skills for tackling engineering challenges.",
     "id": "chemical-engineering-materials-science-joint-major"
   },
   {
     "shortName": "CHNE-BS",
     "name": "Chemical Engineering / Nuclear Engineering Joint Major (BS)",
-    "description": "Combine chemical and nuclear engineering principles for applications in energy systems, safety engineering, and reactor design.",
+    "description": "Combine chemical and nuclear engineering principles to address energy production, safety, and environmental concerns. This interdisciplinary major prepares you for advanced research and professional work in energy systems and nuclear technologies.",
     "id": "chemical-engineering-nuclear-joint-major"
   },
   {
     "shortName": "CHEM-BA",
     "name": "Chemistry (BA)",
-    "description": "Gain foundational training in chemistry with flexibility to pursue interdisciplinary interests or education-related careers.",
+    "description": "Study the fundamental principles and applications of chemistry with a broad liberal arts perspective. This major encourages analytical thinking, laboratory skills, and scientific communication applicable to diverse careers and advanced study.",
     "id": "chemistry-ba"
   },
   {
     "shortName": "CHEM-BS",
     "name": "Chemistry (BS)",
-    "description": "Designed for students pursuing careers in chemistry research or graduate study, this intensive program covers analytical, physical, organic, and inorganic chemistry.",
+    "description": "Engage in rigorous study of chemical theory, experimentation, and analysis. This program prepares you for research, industry, or graduate school by emphasizing quantitative skills and advanced laboratory techniques.",
     "id": "chemistry-bs"
   },
   {
     "shortName": "CHLC-BA",
     "name": "Chicanx Latinx Studies (BA)",
-    "description": "Explore the cultural, historical, and social experiences of Chicanx and Latinx communities through interdisciplinary coursework, including history, literature, sociology, and cultural studies.",
+    "description": "Explore the histories, cultures, and social issues affecting Chicanx and Latinx communities through interdisciplinary study. This major addresses identity, activism, and cultural expression with a focus on social justice and equity.",
     "id": "chicanx-latinx-studies"
   },
   {
     "shortName": "CHIN-BA",
     "name": "Chinese Language (BA)",
-    "description": "Develop advanced proficiency in Chinese language and explore linguistic, literary, and cultural dimensions of Greater China through immersive study.",
+    "description": "Develop proficiency in Chinese language and explore its literary, cultural, and historical contexts. This major cultivates linguistic skills alongside critical engagement with China’s diverse cultural traditions and contemporary issues.",
     "id": "chinese-language"
   },
   {
     "shortName": "CIVL-BS",
     "name": "Civil Engineering (BS)",
-    "description": "Design and analyze infrastructure systems, including transportation, water resources, structural components, and geotechnical engineering.",
+    "description": "Study the design, construction, and maintenance of infrastructure including buildings, bridges, and transportation systems. This major focuses on sustainable engineering practices and solutions to complex societal challenges.",
     "id": "civil-engineering"
   },
   {
     "shortName": "CIVB-MET",
     "name": "Civil Engineering and Business Administration (BS MET)",
-    "description": "Combine civil engineering fundamentals with business skills through the MET program, preparing students for leadership in engineering firms and infrastructure projects.",
+    "description": "Integrate civil engineering expertise with business knowledge to manage projects, resources, and innovation in the built environment. This program prepares you for leadership roles at the intersection of engineering and business strategy.",
     "id": "civil-engineering-business-administration"
   },
   {
     "shortName": "COGS-BA",
     "name": "Cognitive Science (BA)",
-    "description": "Examine the science of mind and intelligence through interdisciplinary study in psychology, linguistics, neuroscience, and computer science.",
+    "description": "Explore the interdisciplinary study of the mind, combining psychology, neuroscience, linguistics, and computer science. This major investigates perception, learning, and decision-making through theoretical and experimental approaches.",
     "id": "cognitive-science"
   },
   {
     "shortName": "CMLT-BA",
     "name": "Comparative Literature (BA)",
-    "description": "Study literature across languages and cultures to understand global narratives, literary traditions, and critical theory.",
+    "description": "Analyze literature across languages, cultures, and historical periods, emphasizing critical theory and cultural context. This major develops interpretive skills and an understanding of global literary traditions and their social impact.",
     "id": "comparative-literature"
   },
   {
     "shortName": "CS-BS",
     "name": "Computer Science (BS)",
-    "description": "Learn systems, algorithms, programming languages, and theory for software development, computing systems, and data-driven applications.",
+    "description": "Master the fundamentals and advanced topics of computer science including algorithms, software development, and systems design. This program prepares you for innovation in technology, research, and software engineering careers.",
     "id": "computer-science-bs"
   },
   {
     "shortName": "CS-BA",
     "name": "Computer Science (BA)",
-    "description": "Explore computing through a liberal arts lens, combining core CS courses with flexibility in humanities and interdisciplinary studies.",
+    "description": "Combine computational theory with a broader liberal arts education, focusing on programming, data structures, and computational thinking. This major prepares you for diverse careers involving technology and problem-solving.",
     "id": "computer-science-ba"
   },
   {
     "shortName": "CRSR-BA",
     "name": "Conservation and Resource Studies (BA)",
-    "description": "Analyze environmental stewardship, natural resource use, and sustainability through ecological, social, and policy perspectives.",
+    "description": "Examine the interaction between humans and the environment, addressing sustainability, biodiversity, and natural resource management. This interdisciplinary major integrates science, policy, and ethics to foster environmental stewardship.",
     "id": "conservation-resource-studies"
   },
   {
     "shortName": "DAPS-BA",
     "name": "Dance and Performance Studies (BA)",
-    "description": "Immerse in the theory, history, and practice of dance and performance, with opportunities in choreography, research, and performance projects.",
+    "description": "Explore dance and performance as artistic, cultural, and social practices through practical training and critical analysis. This major cultivates creativity, expression, and scholarly understanding of performance arts.",
     "id": "dance-performance-studies"
   },
   {
     "shortName": "DS-BS",
     "name": "Data Science (BS)",
-    "description": "Train in statistical methods, machine learning, and computational tools for analyzing and interpreting large-scale data in science and business.",
+    "description": "Develop expertise in data collection, analysis, and interpretation using statistical and computational tools. This program prepares you to tackle complex problems through data-driven decision-making in diverse sectors.",
     "id": "data-science"
   },
   {
     "shortName": "DUTC-BA",
     "name": "Dutch Studies (BA)",
-    "description": "Learn Dutch language, literature, history, and culture within an interdisciplinary European studies context.",
+    "description": "Study the language, literature, history, and culture of the Dutch-speaking world. This major promotes linguistic proficiency and critical understanding of the Netherlands and its global influence.",
     "id": "dutch-studies"
   },
   {
     "shortName": "EEBA-MET",
     "name": "EECS & Business Administration (BS MET)",
-    "description": "Combine EECS coursework with core business principles through MET, preparing for tech leadership in engineering and management.",
+    "description": "Integrate electrical engineering and computer sciences with business strategy and management. This interdisciplinary program prepares you for leadership roles in technology innovation and entrepreneurship.",
     "id": "electrical-engineering-computer-sciences-business-administration"
   },
   {
     "shortName": "EEMS-BS",
     "name": "EECS / Materials Science & Engineering Joint Major (BS)",
-    "description": "Combine electrical and materials engineering to design advanced devices, nanotechnology, and semiconductor systems.",
+    "description": "Combine electrical engineering and computer sciences with materials science to innovate in hardware development, nanotechnology, and emerging materials. This joint major emphasizes research and applied engineering.",
     "id": "electrical-engineering-computer-sciences-materials"
   },
   {
     "shortName": "EENU-BS",
     "name": "EECS / Nuclear Engineering Joint Major (BS)",
-    "description": "Explore applications at the intersection of electronic and nuclear engineering, including nuclear instrumentation and systems.",
+    "description": "Study the integration of electrical engineering, computer science, and nuclear engineering to address challenges in energy, safety, and technology development. This interdisciplinary major prepares you for cutting-edge research and industry roles.",
     "id": "electrical-engineering-computer-sciences-nuclear-joint-major"
   },
   {
     "shortName": "EAHC-BA",
     "name": "East Asian Humanities (BA)",
-    "description": "Investigate East Asian cultures through history, literature, philosophy, and arts, with opportunities to study multiple languages.",
+    "description": "Explore the literature, history, philosophy, and cultures of East Asia through interdisciplinary study. This major fosters critical understanding of the region's rich traditions and contemporary transformations.",
     "id": "east-asian-humanities"
   },
   {
     "shortName": "EART-BA",
     "name": "East Asian Religion, Thought and Culture (BA)",
-    "description": "Examine the religious and philosophical traditions of East Asia, including Buddhism, Confucianism, Taoism, and modern thought.",
+    "description": "Examine East Asian religion, thought, and culture through critical analysis and creative inquiry. This major offers deep insight into diverse human experiences and historical traditions across time and place.",
     "id": "east-asian-religion-thought-culture"
   },
   {
     "shortName": "ECON-BA",
     "name": "Economics (BA)",
-    "description": "Learn microeconomics, macroeconomics, and econometrics with applications in public policy, business, and international economics.",
+    "description": "Study economic systems, behaviors, and policies that shape societies. Engage with key themes of identity, power, and justice through interdisciplinary perspectives.",
     "id": "economics"
   },
   {
     "name": "Education (BA)",
     "shortName": "EDUC-BA",
-    "description": "Explore the foundations of teaching, learning, and educational systems. This interdisciplinary program prepares students for careers in education policy, research, or K-12 teaching pathways.",
+    "description": "Explore educational theories and practices within social and cultural contexts. This major encourages critical engagement with issues of policy, equity, and identity.",
     "id": "education"
   },
   {
     "name": "Electrical Engineering & Computer Sciences (BS)",
     "shortName": "EECS-BS",
-    "description": "Delve into both hardware and software through intensive training in circuits, computing, machine learning, and digital systems—ideal for aspiring engineers and researchers.",
+    "description": "Advance your understanding of electrical engineering and computer sciences through rigorous study and innovation. Prepare to solve real-world challenges with analytical and technical expertise.",
     "id": "electrical-engineering-computer-sciences"
   },
   {
     "name": "Energy Engineering (BS)",
     "shortName": "ENENG-BS",
-    "description": "Prepare to innovate in renewable energy, sustainability, and thermodynamic systems. This major emphasizes practical solutions to global energy challenges.",
+    "description": "Develop expertise in energy engineering by exploring theory, application, and innovation. This major equips you to address pressing energy challenges through interdisciplinary collaboration.",
     "id": "energy-engineering"
   },
   {
     "name": "Engineering Mathematics and Statistics (BS)",
     "shortName": "EMST-BS",
-    "description": "Combines applied mathematics with statistical modeling to solve engineering problems, particularly in design, control, and decision systems.",
+    "description": "Engage deeply with engineering mathematics and statistics, applying theory to practical problems. Prepare for complex technical challenges through analytical and collaborative approaches.",
     "id": "engineering-math-statistics"
   },
   {
     "name": "Engineering Physics (BS)",
     "shortName": "ENGPH-BS",
-    "description": "A rigorous program integrating advanced physics with core engineering concepts—ideal for those planning to pursue graduate studies or research careers.",
+    "description": "Explore the principles of physics within engineering contexts. This program fosters innovation and problem-solving skills to tackle real-world technical issues.",
     "id": "engineering-physics"
   },
   {
     "name": "English (BA)",
     "shortName": "ENGL-BA",
-    "description": "Analyze literature from diverse periods and cultures while developing strong analytical and writing skills. Great for careers in publishing, law, and education.",
+    "description": "Discover the study of literature, writing, and critical analysis. This major prepares you for diverse careers through exploration of human expression and culture.",
     "id": "english"
   },
   {
     "name": "Environmental Earth Science (BS)",
     "shortName": "ENES-BS",
-    "description": "Focuses on Earth’s physical processes, such as climate, soil, and groundwater systems, and prepares students for environmental problem-solving careers.",
+    "description": "Study earth systems and environmental processes through theoretical and applied approaches. Prepare to address environmental challenges with scientific rigor and innovation.",
     "id": "environmental-earth-science"
   },
   {
     "name": "Environmental Economics and Policy (BS)",
     "shortName": "EEP-BS",
-    "description": "Train in microeconomics and policy analysis to tackle environmental challenges. Students gain skills in economic modeling and sustainability.",
+    "description": "Examine economic and policy issues related to the environment. Engage with interdisciplinary frameworks to understand and influence sustainable solutions.",
     "id": "environmental-economics-policy"
   },
   {
     "name": "Environmental Engineering Science (BS)",
     "shortName": "EES-BS",
-    "description": "A multidisciplinary program integrating biology, chemistry, and physics to engineer environmental systems and sustainability solutions.",
+    "description": "Advance knowledge in environmental engineering science through applied and theoretical study. This major prepares you to develop innovative solutions to environmental problems.",
     "id": "environmental-engineering-science"
   },
   {
     "name": "Environmental Sciences (BA)",
     "shortName": "ENVSC-BA",
-    "description": "Explore the scientific basis of environmental issues including biodiversity, water systems, and climate change with social and policy integration.",
+    "description": "Explore environmental science with an emphasis on interdisciplinary inquiry and applied research. Prepare to address global environmental issues through critical thinking and collaboration.",
     "id": "environmental-sciences"
   },
   {
     "name": "Ethnic Studies (BA)",
     "shortName": "ETHN-BA",
-    "description": "Investigate the histories, cultures, and politics of racially marginalized groups in the U.S. through interdisciplinary study.",
+    "description": "Investigate the experiences and histories of diverse ethnic groups through interdisciplinary approaches. This major critically examines identity, power, and social justice in contemporary and historical contexts.",
     "id": "ethnic-studies"
   },
   {
     "name": "Film & Media (BA)",
     "shortName": "FILM-BA",
-    "description": "Study the history, theory, and practice of film and media arts. A path for future filmmakers, critics, and media scholars.",
+    "description": "Explore film and media through both critical analysis and creative practice. This major provides insight into cultural expression and historical developments across diverse media forms.",
     "id": "film"
   },
   {
     "name": "French (BA)",
     "shortName": "FREN-BA",
-    "description": "Gain fluency in the French language and explore Francophone literature, cinema, and culture from medieval to modern times.",
+    "description": "Study French language, literature, and culture with immersive and analytical methods. Gain a broad understanding of the Francophone world’s rich traditions and contemporary relevance.",
     "id": "french"
   },
   {
     "name": "Gender and Women's Studies (BA)",
     "shortName": "GWS-BA",
-    "description": "Analyze gender dynamics, feminist theory, and intersectionality across disciplines. Ideal for students pursuing careers in advocacy, law, or academia.",
+    "description": "Explore gender, sexuality, and feminist theory within social and cultural frameworks. Engage critically with issues of power, identity, and social justice across diverse communities.",
     "id": "gender-womens-studies"
   },
   {
     "name": "Genetics and Plant Biology (BS)",
     "shortName": "GPBIO-BS",
-    "description": "Study plant biology, genomics, and biotechnology for careers in agriculture, environmental science, or bioengineering.",
+    "description": "Advance your knowledge of genetics and plant biology through rigorous research and coursework. Prepare to address biological challenges using innovative experimental approaches.",
     "id": "genetics-plant-biology"
   },
   {
     "name": "Geography (BA)",
     "shortName": "GEOG-BA",
-    "description": "Explore human and physical geography, including topics like urbanization, climate change, and geopolitical borders.",
+    "description": "Examine spatial relationships and human-environment interactions through interdisciplinary inquiry. This major develops critical thinking about place, power, and society.",
     "id": "geography"
   },
   {
     "name": "Geology (BA)",
     "shortName": "GEOL-BA",
-    "description": "Examine Earth’s structure, processes, and history through fieldwork and lab science—great for careers in energy, mining, or research.",
+    "description": "Study Earth’s materials, processes, and history through coursework and research. This major prepares students for diverse careers and graduate study in the geosciences.",
     "id": "geology"
   },
   {
     "name": "Geophysics (BS)",
     "shortName": "GEOPH-BS",
-    "description": "Apply physics to Earth’s structure and processes. Learn seismic imaging, tectonics, and resource exploration techniques.",
+    "description": "Explore the physical properties and dynamic processes of the Earth with applied and theoretical study. Prepare for careers addressing environmental and resource challenges through scientific analysis.",
     "id": "geophysics"
   },
   {
     "name": "German (BA)",
     "shortName": "GERM-BA",
-    "description": "Study German language, literature, and culture with focus on both historical and contemporary perspectives.",
+    "description": "Engage with German language, literature, and culture through critical inquiry and creative exploration. Develop a deep understanding of German-speaking societies and their histories.",
     "id": "german"
   },
   {
     "name": "Global Studies (BA)",
     "shortName": "GLST-BA",
-    "description": "Examine global systems, international relations, and transnational movements through political, cultural, and economic lenses.",
+    "description": "Investigate global issues through interdisciplinary frameworks that examine identity, power, and justice. This major prepares students to engage with challenges in a rapidly changing world.",
     "id": "global-studies"
   },
   {
     "name": "Greek (BA)",
     "shortName": "GREEK-BA",
-    "description": "Develop fluency in classical Greek and explore the literature, history, and philosophy of ancient Greece.",
+    "description": "Study ancient Greek language, literature, and culture through critical and creative approaches. This major offers insight into classical traditions and their enduring influence.",
     "id": "greek"
   },
   {
     "name": "Greek and Latin (BA)",
     "shortName": "GRLA-BA",
-    "description": "Combine classical studies of Greek and Latin texts with training in ancient history, linguistics, and cultural analysis.",
+    "description": "Delve into the languages and cultures of ancient Greece and Rome through rigorous study. This major emphasizes critical analysis of classical texts and historical contexts.",
     "id": "greek-and-latin"
   },
   {
     "name": "History (BA)",
     "shortName": "HIST-BA",
-    "description": "Analyze historical events, cultures, and political systems across global regions and time periods. Prepares students for careers in law, education, or research.",
+    "description": "Explore history through critical inquiry and creative analysis of past events and narratives. This major deepens understanding of human experience across time and place.",
     "id": "history"
   },
   {
     "name": "Industrial Engineering & Operations Research (BS)",
     "shortName": "IEOR-BS",
-    "description": "Learn mathematical modeling, optimization, and systems analysis for manufacturing, logistics, and service operations. Ideal for careers in analytics and systems engineering.",
+    "description": "Study industrial engineering and operations research with a focus on both theory and practical application. Prepare to solve complex problems using analytical and technical skills.",
     "id": "industrial-engineering-operations-research"
   },
   {
     "name": "Industrial Engineering & Operations Research & Business Administration (BS MET)",
     "shortName": "IEBA-MET",
-    "description": "Combine IEOR technical training with core business concepts via the MET program, preparing for leadership roles in industry and consulting.",
+    "description": "Integrate industrial engineering, operations research, and business administration in a comprehensive program. Develop skills to lead innovation and manage complex technical challenges.",
     "id": "industrial-engineering-operations-research-business-administration"
   },
   {
     "name": "Integrative Biology (BS)",
     "shortName": "INTB-BS",
-    "description": "Explore biological systems from molecules to ecosystems, integrating genetics, ecology, and physiology through coursework and research.",
+    "description": "Advance understanding of biological systems through interdisciplinary study and research. This major prepares students to address complex biological questions innovatively.",
     "id": "integrative-biology"
   },
   {
     "name": "Interdisciplinary Studies (BA)",
     "shortName": "INTD-BA",
-    "description": "Design your own curriculum across multiple disciplines, encouraging exploration of diverse academic interests and creative problem-solving.",
+    "description": "Bridge multiple disciplines to develop innovative solutions to contemporary challenges. This major fosters strategic thinking and leadership across fields of study.",
     "id": "interdisciplinary-studies"
   },
   {
     "name": "Italian Studies (BA)",
     "shortName": "ITAL-BA",
-    "description": "Learn the Italian language and explore Italy’s literature, film, art, and history from medieval to contemporary periods.",
+    "description": "Explore Italian language, literature, and culture through critical and creative inquiry. Gain insight into Italy’s rich artistic and historical traditions.",
     "id": "italian-studies"
   },
   {
     "name": "Japanese Language (BA)",
     "shortName": "JPNL-BA",
-    "description": "Develop proficiency in Japanese along with study of its literature, society, and culture through immersive coursework.",
+    "description": "Engage deeply with Japanese language and culture through critical and creative study. This major provides broad understanding of Japan’s history and contemporary society.",
     "id": "japanese-language"
   },
   {
     "name": "Landscape Architecture (BA)",
     "shortName": "LAND-BA",
-    "description": "Study design of outdoor spaces, environmental planning, and sustainable landscapes with a focus on equity, ecology, and aesthetics.",
+    "description": "Discover landscape architecture through design, research, and applied learning. This major prepares students for careers focused on creating sustainable and inspiring environments.",
     "id": "landscape-architecture"
   },
   {
     "name": "Latin (BA)",
     "shortName": "LATN-BA",
-    "description": "Read and interpret Latin texts from antiquity to the Renaissance, with studies in linguistics, history, and classical culture.",
+    "description": "Study Latin language and literature through critical analysis and creative exploration. This major offers deep insight into classical heritage and its influence.",
     "id": "latin"
   },
   {
     "name": "Legal Studies (BA)",
     "shortName": "LEGL-BA",
-    "description": "Examine law, legal institutions, and social justice through interdisciplinary lenses including politics, sociology, and philosophy.",
+    "description": "Examine legal systems, theories, and practices from interdisciplinary perspectives. This major engages critically with themes of power, justice, and society.",
     "id": "legal-studies"
   },
   {
     "name": "Linguistics (BA)",
     "shortName": "LING-BA",
-    "description": "Study the scientific analysis of language structure and use, covering phonetics, syntax, semantics, psycholinguistics, and sociolinguistics.",
+    "description": "Explore the scientific study of language through coursework and research. This major prepares students for diverse careers by deepening understanding of language structure and use.",
     "id": "linguistics"
   },
   {
     "name": "Marine Science (BS)",
     "shortName": "MAR-SC",
-    "description": "Investigate ocean and coastal systems, marine ecology, and environmental science through fieldwork and laboratory study.",
+    "description": "Advance understanding of marine ecosystems through theory, research, and applied science. Prepare to address challenges in ocean and coastal environments with interdisciplinary approaches.",
     "id": "marine-science"
   },
   {
     "name": "Materials Science & Engineering (BS)",
     "shortName": "MSE-BS",
-    "description": "Explore materials from metals to ceramics and biomaterials; study their design, properties, and applications.",
+    "description": "Study materials science and engineering with emphasis on innovation and practical application. This major prepares students to solve real-world challenges through interdisciplinary collaboration.",
     "id": "materials-science-engineering"
   },
   {
     "name": "Materials Science & Engineering / Mechanical Engineering Joint Major (BS)",
     "shortName": "MSEM-BS",
-    "description": "Integrate materials science and mechanical engineering to innovate advanced structures and manufacturing systems.",
+    "description": "Combine materials science and mechanical engineering to develop expertise in both fields. This joint major prepares students for innovative problem-solving and technical leadership.",
     "id": "materials-science-engineering-mechanical-joint-major"
   },
   {
     "name": "Materials Science & Engineering / Nuclear Engineering Joint Major (BS)",
     "shortName": "MSEN-BS",
-    "description": "Combine materials engineering with nuclear engineering principles for research and applications in energy and materials performance.",
+    "description": "Integrate materials science with nuclear engineering in a rigorous program. Prepare to tackle advanced technical challenges with interdisciplinary skills.",
     "id": "materials-science-engineering-nuclear-joint-major"
   },
   {
     "name": "Materials Science & Engineering and Business Administration (BS MET)",
     "shortName": "MSEB-MET",
-    "description": "Merge MSE technical training with business strategy and management through the MET program for industry leadership.",
+    "description": "Combine materials science and engineering with business administration. This major prepares students to lead innovation and manage technical enterprises effectively.",
     "id": "materials-science-engineering-business-administration"
   },
   {
     "name": "Mathematics (BS)",
     "shortName": "MATH-BS",
-    "description": "Acquire a strong theoretical and applied mathematics foundation, suitable for careers in research, finance, or data science.",
+    "description": "Engage deeply with mathematical theory and applications. This major develops analytical skills to address complex problems in diverse fields.",
     "id": "mathematics"
   },
   {
     "name": "Mechanical Engineering (BS)",
     "shortName": "MECH-BS",
-    "description": "Study mechanics, thermodynamics, and design to engineer mechanical systems and devices across industries.",
+    "description": "Advance knowledge of mechanical engineering through theory and applied practice. Prepare to innovate and solve technical challenges across a variety of industries.",
     "id": "mechanical-engineering"
   },
   {
     "name": "Mechanical Engineering & Business Administration (BS MET)",
     "shortName": "MEBA-MET",
-    "description": "Integrate mechanical engineering with business education through MET to prepare for leadership in engineering firms.",
+    "description": "Integrate mechanical engineering with business administration. This major prepares students to lead technical projects and enterprises with strategic insight.",
     "id": "mechanical-engineering-business-administration"
   },
   {
     "name": "Mechanical Engineering / Nuclear Engineering (BS)",
     "shortName": "MENB-BS",
-    "description": "Combine mechanical and nuclear engineering skills to work on nuclear systems, energy, and safety applications.",
+    "description": "Combine mechanical and nuclear engineering in a comprehensive program. Prepare to address advanced engineering challenges through interdisciplinary expertise.",
     "id": "mechanical-engineering-nuclear"
   },
   {
     "name": "Media Studies (BA)",
     "shortName": "MEDS-BA",
-    "description": "Explore the production, consumption, and cultural impact of media across film, digital platforms, and interactive formats.",
+    "description": "Study media theory, history, and practice through critical and creative approaches. This major offers insight into media’s evolving role in culture and society.",
     "id": "media-studies"
   },
   {
     "name": "Microbial Biology (BS)",
     "shortName": "MICB-BS",
-    "description": "Study microbial life and its roles in health, environment, and biotechnology through molecular, ecological, and genomic approaches.",
+    "description": "Advance understanding of microbial biology through research and applied science. Prepare to tackle challenges in health, environment, and biotechnology.",
     "id": "microbial-biology"
   },
   {
     "name": "Middle Eastern Languages & Cultures (BA)",
     "shortName": "MECL-BA",
-    "description": "Learn Middle Eastern languages and examine cultural, historical, and literary contexts of the region.",
+    "description": "Explore the languages, literatures, and cultures of the Middle East through interdisciplinary inquiry. This major fosters critical understanding of the region’s historical and contemporary issues.",
     "id": "middle-eastern-languages-cultures"
   },
   {
     "name": "Molecular Environmental Biology (BS)",
     "shortName": "MEBI-BS",
-    "description": "Blend molecular biology with environmental science to study ecosystem functions, environmental health, and biotechnology.",
+    "description": "Study the molecular basis of environmental processes and organisms. This major combines biology, chemistry, and ecology to prepare students for research and environmental solutions.",
     "id": "molecular-environmental-biology"
   },
   {
     "name": "Molecular and Cell Biology (BS)",
     "shortName": "MCBI-BS",
-    "description": "Dive deep into cellular systems, genetics, protein function, and biotechnology—preparing for research or medical pathways.",
+    "description": "Investigate the molecular and cellular foundations of life through experimental research. This major emphasizes interdisciplinary approaches to understanding biological systems.",
     "id": "molecular-cell-biology"
   },
   {
     "name": "Music (BA)",
     "shortName": "MUSI-BA",
-    "description": "Develop performance, composition, and music theory skills while studying music history and ethnomusicology.",
+    "description": "Engage with music as both an art form and cultural practice. The curriculum combines performance, composition, and critical analysis across diverse traditions and genres.",
     "id": "music"
   },
   {
     "name": "Native American Studies (BA)",
     "shortName": "NAMS-BA",
-    "description": "Study the histories, cultures, sovereignty, and contemporary issues of Native American communities through interdisciplinary research.",
+    "description": "Examine Native American histories, cultures, and contemporary issues through interdisciplinary study. This major centers Indigenous perspectives and social justice.",
     "id": "native-american-studies"
   },
   {
     "name": "Neuroscience (BS)",
     "shortName": "NEUR-BS",
-    "description": "Investigate the structure and function of the nervous system at molecular, cellular, and behavioral levels.",
+    "description": "Explore the structure and function of the nervous system through integrative study and research. This major prepares students for careers in medicine, research, and related fields.",
     "id": "neuroscience"
   },
   {
     "name": "Nuclear Engineering (BS)",
     "shortName": "NUCE-BS",
-    "description": "Study nuclear systems, radiation, reactor design, and nuclear safety for energy and research applications.",
+    "description": "Focus on principles and applications of nuclear science and engineering. This major prepares students for careers in energy, medicine, and advanced technology sectors.",
     "id": "nuclear-engineering"
   },
   {
     "name": "Nutritional & Metabolic Biology (BS)",
     "shortName": "NUMB-BS",
-    "description": "Understand human metabolism and nutrition through molecular and physiological coursework, preparing for health-related careers.",
+    "description": "Explore human metabolism and nutrition through molecular and physiological perspectives. This major prepares students for careers in health, research, and biomedical fields.",
     "id": "nutritional-metabolic-biology"
   },
   {
     "name": "Nutritional Sciences: Physiology & Metabolism (BS)",
     "shortName": "NSPM-BS",
-    "description": "Focus on physiological processes related to nutrition and metabolism, integrating research methods and health sciences.",
+    "description": "Investigate physiological processes that regulate nutrition and metabolism with an emphasis on research and health sciences. Students gain interdisciplinary skills to address nutrition-related challenges.",
     "id": "physiology-and-metabolism"
   },
   {
     "name": "Nutritional Sciences: Toxicology (BS)",
     "shortName": "NSTM-BS",
-    "description": "Study the effects of toxins and chemicals on metabolic systems, with applications in public health, research, and regulation.",
+    "description": "Study how toxins and chemicals impact metabolic systems and human health. This major combines research and applied science to prepare students for careers in public health and regulation.",
     "id": "nutritional-sciences-toxicology"
   },
   {
     "name": "Philosophy (BA)",
     "shortName": "PHIL-BA",
-    "description": "Engage with major philosophical traditions and develop critical thinking in ethics, metaphysics, logic, and political philosophy.",
+    "description": "Engage with fundamental questions about knowledge, ethics, and existence. This major develops critical thinking and analytical skills across diverse philosophical traditions.",
     "id": "philosophy"
   },
   {
     "name": "Physics (BS)",
     "shortName": "PHYS-BS",
-    "description": "Study fundamental physical laws, experimental methods, and theoretical frameworks across classical and modern physics.",
+    "description": "Study the fundamental laws of nature through theoretical and experimental approaches. This major prepares students for research and technical careers in physical sciences.",
     "id": "physics"
   },
   {
     "name": "Planetary Science (BS)",
     "shortName": "PLAN-BS",
-    "description": "Investigate planetary systems, including geology, atmospheres, and astrobiology for Earth and extraterrestrial planets.",
+    "description": "Explore the formation, geology, atmospheres, and potential habitability of planets within and beyond our solar system. This interdisciplinary major combines astronomy, geology, and atmospheric science to understand planetary environments.",
     "id": "planetary-science"
   },
   {
     "name": "Political Economy (BA)",
     "shortName": "POEC-BA",
-    "description": "Analyze economics, politics, and social systems to understand public policy, global inequality, and institutional behavior.",
+    "description": "Examine the interaction of economic and political systems to understand public policy, global inequality, and institutional dynamics. This major integrates theory and empirical research to address complex societal challenges.",
     "id": "political-economy"
   },
   {
     "name": "Political Science (BA)",
     "shortName": "POLS-BA",
-    "description": "Study the theory and practice of politics, government systems, and policy making, with global and comparative perspectives.",
+    "description": "Analyze political systems, behavior, and theory from comparative and global perspectives. This major fosters understanding of power, governance, and public policy.",
     "id": "political-science"
   },
   {
     "name": "Psychology (BA)",
     "shortName": "PSYC-BA",
-    "description": "Study the scientific basis of behavior, cognition, and emotion through research methods in psychology, neuroscience, and development.",
+    "description": "Explore human behavior and mental processes through scientific study. This major prepares students for diverse fields including research, counseling, and health sciences.",
     "id": "psychology"
   },
   {
     "name": "Public Health (BA)",
     "shortName": "PHLH-BA",
-    "description": "Explore population health, epidemiology, health policy, and social determinants of health to promote community well-being.",
+    "description": "Examine population health, epidemiology, and health policy to address social determinants of well-being. This interdisciplinary major prepares students to promote health equity and community resilience.",
     "id": "public-health"
   },
   {
     "name": "Rhetoric (BA)",
     "shortName": "RHET-BA",
-    "description": "Study persuasion, argumentation, and discourse across public speaking, media, and cultural contexts.",
+    "description": "Explore the art of persuasion and argumentation across media, public speaking, and cultural contexts. This major develops critical thinking and communication skills through analysis of discourse.",
     "id": "rhetoric"
   },
   {
     "name": "Scandinavian (BA)",
     "shortName": "SCAN-BA",
-    "description": "Study Scandinavian languages, literatures, and cultures with emphasis on Nordic history and social systems.",
+    "description": "Study the languages, literatures, and cultures of the Nordic region with emphasis on history and social institutions. This major fosters deep engagement with Scandinavian societies past and present.",
     "id": "scandinavian"
   },
   {
     "name": "Slavic Languages and Literatures (BA)",
     "shortName": "SLAV-BA",
-    "description": "Explore Slavic languages and texts from Russia, Eastern Europe, and the Balkans through literature, culture, and history.",
+    "description": "Explore the languages, literatures, and cultures of Russia, Eastern Europe, and the Balkans through historical and literary study. This major highlights the region’s diverse voices and traditions.",
     "id": "slavic-languages-literatures"
   },
   {
     "name": "Social Welfare (BA)",
     "shortName": "SWEL-BA",
-    "description": "Learn about social policies, community programs, and advocacy to address poverty, inequality, and social services.",
+    "description": "Investigate social policies, community programs, and advocacy aimed at reducing poverty and inequality. This major prepares students for careers in social services and public policy.",
     "id": "socialwelfare"
   },
   {
     "name": "Society and Environment (BA)",
     "shortName": "SAEN-BA",
-    "description": "Investigate the relationship between human societies and the environment through interdisciplinary study in policy and ecology.",
+    "description": "Examine the complex interactions between human societies and their environments through interdisciplinary study. This major emphasizes policy, ecology, and sustainable solutions to environmental challenges.",
     "id": "society-environment"
   },
   {
     "name": "Sociology (BA)",
     "shortName": "SOCY-BA",
-    "description": "Analyze social behavior, institutions, and inequality through empirical research in social theory, crime, and family studies.",
+    "description": "Analyze social behavior, institutions, and inequalities using empirical research and social theory. This major covers diverse topics including crime, family, and social change.",
     "id": "sociology"
   },
   {
     "name": "South and Southeast Asian Studies (BA)",
     "shortName": "SSEA-BA",
-    "description": "Study cultures, histories, and languages of South and Southeast Asia through interdisciplinary coursework.",
+    "description": "Study the cultures, histories, and languages of South and Southeast Asia through interdisciplinary coursework. This major provides broad perspectives on a diverse and dynamic region.",
     "id": "south-southeast-asian-studies"
   },
   {
     "name": "Spanish and Portuguese (BA)",
     "shortName": "SPPT-BA",
-    "description": "Study both Spanish and Portuguese languages and literatures with comparative perspectives on Iberian and Latin American cultures.",
+    "description": "Explore Spanish and Portuguese languages and literatures with comparative study of Iberian and Latin American cultures. This major develops linguistic skills and cultural understanding.",
     "id": "spanish-portuguese"
   },
   {
     "name": "Statistics (BS)",
     "shortName": "STAT-BS",
-    "description": "Acquire rigorous training in probability, statistics, and data analysis for applications in science, business, and policy.",
+    "description": "Gain rigorous training in probability, statistical theory, and data analysis for applications in science, business, and policy. This major equips students to extract insights from complex data.",
     "id": "statistics"
   },
   {
     "name": "Sustainable Environmental Design (BA)",
     "shortName": "SEDZ-BA",
-    "description": "Study sustainable design of buildings, communities, and landscapes with emphasis on resilience and ecological systems.",
+    "description": "Study the design of buildings, communities, and landscapes with a focus on sustainability and ecological resilience. This major integrates environmental science with creative problem-solving.",
     "id": "sustainable-environmental-design"
   },
   {
     "name": "Theater and Performance Studies (BA)",
     "shortName": "THEA-BA",
-    "description": "Study theater history, performance theory, and practice. Opportunities in acting, directing, and playwriting.",
+    "description": "Explore theater history, theory, and practice with opportunities in acting, directing, and playwriting. This major cultivates creative expression and critical analysis of performance.",
     "id": "theater-performance-studies"
   },
   {
     "name": "Urban Studies (BA)",
     "shortName": "URBN-BA",
-    "description": "Examine urbanization, planning, and social processes in cities through policy, design, and geographic approaches.",
+    "description": "Examine urbanization, planning, and social dynamics in cities through policy, design, and geographic perspectives. This major prepares students to engage with the challenges of urban life.",
     "id": "urban-studies"
   }
 ]
