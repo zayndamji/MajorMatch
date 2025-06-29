@@ -2,92 +2,92 @@
   {
     "description": "Ready for your breathtaking career designing today and tomorrow's air and space solutions? This program immerses you in the principles and techniques to advance piloted and autonomous aerial vehicles, robotics, space-based telecommunication solutions, and related technology-intensive fields.",
     "id": "AA-BS",
-    "name": "Aeronautics and Astronautics (BS)"
+    "name": "Aeronautics and Astronautics (B.S.)"
   },
   {
     "description": "Experience the captivating study and understanding of people of African descent as a central component of American culture. Your coursework promotes study and research across disciplinary and departmental boundaries — anthropology, art, art history, economics, education, drama, history, languages, linguistics, literature, music, philosophy, political science, psychology, religion, and sociology, among others — and provides you with an intellectual foundation for graduate school or professional careers.",
     "id": "AFRAM-BA",
-    "name": "African and African American Studies (BA)"
+    "name": "African and African American Studies (B.A.)"
   },
   {
     "description": "With coursework across various topic areas — history and institutions, literature, culture and the arts, and comparative race and ethnicity — you’ll discover how different disciplines approach the study and interpretation of American life. You’ll also define and pursue your own thematic concentration in areas including feminism, gender and sexuality, anthropology, religion, sociology, education, music, film, African American, Chicana/o-Latina/o, or Native American studies.",
     "id": "AMSTU-BA",
-    "name": "American Studies (BA)"
+    "name": "American Studies (B.A.)"
   },
   {
     "description": "Study human beings and human societies as they exist across time and space in a way distinct from other social sciences. You’ll give central attention to the entire span of human history and the full range of societies and cultures using methods especially attuned to questions of social, cultural, and biological diversity, issues of power, identity, and inequality, and the dynamic processes of social, historical, ecological, and biological change over time. Your coursework and experience deliver excellent preparation for living and working in a multicultural and globally-interconnected world.",
     "id": "ANTHR-BA",
-    "name": "Anthropology (BA)"
+    "name": "Anthropology (B.A.)"
   },
   {
     "description": "Learn to analyze human heritage and bridge former and present societies by examining the past through its material remains. You’ll get direct access to the experiences of a wide range of people in numerous cultures across the globe through an interdisciplinary approach that draws in equal parts on the humanities, social sciences, and natural sciences.",
     "id": "ARCHA-BA",
-    "name": "Archaeology (BA)"
+    "name": "Archaeology (B.A.)"
   },
   {
     "description": "Your undergraduate degree coursework in Art History prepares you to understand works of art, architecture, and design from various perspectives, including the original context of their making and reception and their subsequent circulation, collection, conservation, and display.",
     "id": "ARTHS-BA",
-    "name": "Art History (BA)"
+    "name": "Art History (B.A.)"
   },
   {
     "description": "Prepare for a career in the visual arts and hone your creative capabilities. This flexible program delivers diverse courses, a production-based curriculum, and cross-disciplinary interaction with faculty and fellow students that exposes you to a broad range of art forms, their cultural and historical uses, impact, production, and circulation. You’ll also become familiar with various studio facilities and gain experience with group critiques and exhibition practices. ",
     "id": "ARTP-BA",
-    "name": "Art Practice (BA)"
+    "name": "Art Practice (B.A.)"
   },
   {
     "description": "In this interdisciplinary program, you’ll have the opportunity to learn about and understand the historical and current experiences of Asian Americans, a rapidly developing, complex, and heterogeneous population for which there is neither a single identity nor community. You’ll develop skills to rigorously analyze race and ethnicity in all aspects of human life — including diversity and social justice — as you better prepare yourself to live and work in a multicultural world.",
     "id": "ASAM-BA",
-    "name": "Asian American Studies (BA)"
+    "name": "Asian American Studies (B.A.)"
   },
   {
     "description": "Learn to combine engineering and the life sciences to advance scientific discovery, healthcare and medicine, manufacturing, environmental quality, culture, and education. Your degree opens doors for careers in research, medicine, business, law, and policy.",
     "id": "BIOE-BS",
-    "name": "Bioengineering (BS)"
+    "name": "Bioengineering (B.S.)"
   },
   {
     "description": "Biology is a diverse and exciting field. Both as preparation for specific professional careers and as the focus of a general liberal arts curriculum, a major in Biology is an excellent choice for many Stanford students. The Biology major can serve as a stepping-stone for various career opportunities, such as medical, dental, veterinary school, or a graduate program in the biological and applied sciences. It can also serve as a valuable and satisfying focus of a liberal arts education for those not planning careers in science-related fields.",
     "id": "BIO-BS",
-    "name": "Biology (BS)"
+    "name": "Biology (B.S.)"
   },
   {
     "description": "Develop your understanding of the core scientific, mathematical, and engineering principles that prepare you to conceive and design processes for producing, transforming, and transporting chemical materials. Your coursework will cover applied mathematics, material and energy balances, thermodynamics, fluid mechanics, energy and mass transfer, separations technologies, and chemical reaction kinetics and reactor design.",
     "id": "CHEME-BS",
-    "name": "Chemical Engineering (BS)"
+    "name": "Chemical Engineering (B.S.)"
   },
   {
     "description": "Chemistry is about the nature of matter, how to make it, measure it, and model it. In that sense, chemistry really matters, holding, for example, the key to driving new drugs, creating new materials, and understanding and controlling all sorts of material properties. Your undergraduate program builds foundational knowledge in the subdisciplines of chemistry that is beneficial in various careers.",
     "id": "CHEM-BS",
-    "name": "Chemistry (BS)"
+    "name": "Chemistry (B.S.)"
   },
   {
     "description": "This interdisciplinary program affords you a unique opportunity to explore the culture, society, economy, and politics of America’s vital and growing Chicanxs and Latinxs segment. Coursework focuses on the U.S. population with origins in Mexico, Latin America, and/or South America.",
     "id": "CHILT-BA",
-    "name": "Chicana/o - Latina/o Studies (BA)"
+    "name": "Chicana/o - Latina/o Studies (B.A.)"
   },
   {
     "description": "Learn the principles and methodologies you’ll need to start your professional or academic career in civil engineering. Your coursework results in a solid foundation in the fundamentals common to many related specialties and includes experiments that teach you to solve engineering problems creatively.",
-    "id": "Civil Engineering (BS)",
-    "name": "Civil Engineering (BS)"
+    "id": "CE-BS",
+    "name": "Civil Engineering (B.S.)"
   },
   {
     "description": "Cultivate a broad, interdisciplinary background in ancient Greece and Rome's literature and material culture. Explore connections between ancient cultures and the modern world.",
     "id": "CLASS-BA",
-    "name": "Classics (BA)"
+    "name": "Classics (B.A.)"
   },
   {
     "description": "Expose yourself to a broad-based understanding of communication theory and research as you become familiar with the fundamental concerns, theoretical approaches, and methods of the field, and acquire advanced knowledge in one or more sub-areas of the discipline. ",
     "id": "COMMU-BA",
-    "name": "Communication (BA)"
+    "name": "Communication (B.A.)"
   },
   {
     "description": "Expand your understanding of literature beyond that of a single national tradition while learning how it functions in our imaginations, our languages, and our social, political, and economic lives.",
     "id": "CPLIT-BA",
-    "name": "Comparative Literature (BA)"
+    "name": "Comparative Literature (B.A.)"
   },
   {
     "description": "Through this interdisciplinary program, devote yourself to the rigorous analysis and deep understanding of the multiple meanings of racial and ethnic diversity worldwide. Learn to become a leader and contributor to producing knowledge for race and justice.",
     "id": "CSRE-BA",
-    "name": "Comparative Studies in Race and Ethnicity (BA)"
+    "name": "Comparative Studies in Race and Ethnicity (B.A.)"
   },
   {
     "description": "Pursue sustained independent research on race and ethnicity with the support of a faculty advising team, an interdisciplinary cohort of peers, and CCSRE staff. You’ll synthesize the skills and insights cultivated over the course of your Stanford career to design and produce unique and impactful projects.",
@@ -98,17 +98,17 @@
   {
     "description": "Develop your breadth of knowledge across computer science, including your ability to apply the defining processes of computer science theory, abstraction, design, and implementation to solve problems in the discipline.",
     "id": "CS-BS",
-    "name": "Computer Science (BS)"
+    "name": "Computer Science (B.S.)"
   },
   {
     "description": "Build the analytical and quantitative foundation for tackling data-driven problems in science, industry, and society. ",
     "id": "DATSC-BA",
-    "name": "Data Science (BA)"
+    "name": "Data Science (B.A.)"
   },
   {
     "description": "",
     "id": "DATSC-BS",
-    "name": "Data Science (BS)"
+    "name": "Data Science (B.S.)"
   },
   {
     "description": "Conduct an independent honors thesis focused on democracy, development, and the rule of law, regardless of the subject of your major.",
@@ -119,32 +119,32 @@
   {
     "description": "Draw on the behavioral and social sciences to develop a strong foundation in human-centered design and the mathematics, science, and engineering concepts needed to support it. This degree prepares you for postgraduate study in design or careers as a designer in public and private sector institutions, entrepreneurial endeavors, and perhaps, most importantly, careers that do not yet exist. ",
     "id": "DESIGN-BS",
-    "name": "Design (BS)"
+    "name": "Design (B.S.)"
   },
   {
     "description": "Develop a broad background in the fundamentals of the Earth and planetary sciences, and the quantitative, analytical, and communications skills necessary to conduct research and think critically about questions involving the Earth and other planets.",
     "id": "EPS-BS",
-    "name": "Earth and Planetary Sciences (BS)"
+    "name": "Earth and Planetary Sciences (B.S.)"
   },
   {
     "description": "Immerse yourself in the complex environmental problems caused by human activities in conjunction with natural changes in the Earth system, and tackle the world’s most pressing social-environmental issues, as you become part of a generation of scientists, professionals, and citizens who solve problems using systematic, interdisciplinary approaches.",
     "id": "EASYS-BS",
-    "name": "Earth Systems (BS)"
+    "name": "Earth Systems (B.S.)"
   },
   {
     "description": "Engage with the cultures of China, Japan, Korea, and the greater East Asia region through language, linguistics, literature, film, cultural studies, visual arts, and more.",
     "id": "EASST-BA",
-    "name": "East Asian Studies (BA)"
+    "name": "East Asian Studies (B.A.)"
   },
   {
     "description": "Develop a foundational understanding of the economic aspects of modern society, introduce yourself to macro- and microeconomic theory, familiarize yourself with techniques for analyzing and communicating contemporary economic problems, and develop your ability to exercise judgment in evaluating public economic policy.",
     "id": "ECON-BA",
-    "name": "Economics (BA)"
+    "name": "Economics (B.A.)"
   },
   {
     "description": "Develop a foundational understanding of the economic aspects of modern society, introduce yourself to macro- and microeconomic theory, familiarize yourself with techniques for analyzing and communicating contemporary economic problems, and develop your ability to exercise judgment in evaluating public economic policy.",
     "id": "ECON-BS",
-    "name": "Economics (BS)"
+    "name": "Economics (B.S.)"
   },
   {
     "description": "Apply your studies to unique research projects inspired by your interests in education. This program enables Stanford undergraduates to extend their training in their major field of study by pursuing education courses and undertaking a supervised research thesis involving the study of education.",
@@ -155,57 +155,27 @@
   {
     "description": "Gain a basic understanding of electrical engineering built on a foundation of physical science, mathematics, computing, and technology as you prepare for a related career or future study in a graduate or professional school.",
     "id": "EE-BS",
-    "name": "Electrical Engineering (BS)"
+    "name": "Electrical Engineering (B.S.)"
   },
   {
     "description": "Prepare for a career in the energy industry through coursework that provides sufficient depth in the energy, engineering, and environmental fields.",
     "id": "ENERGY-BS",
-    "name": "Energy Science and Engineering (BS)"
+    "name": "Energy Science and Engineering (B.S.)"
   },
   {
     "description": "Students pursuing a Bachelor of Science degree in Engineering can specialize in one of six major areas: Biomedical Computation; Architectural Design; Engineering Physics; Atmosphere & Energy; Sustainable Architecture &Engineering; Biomechanical Engineering",
     "id": "ENGR-BS",
-    "name": "Engineering (BS)"
-  },
-  {
-    "description": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
-    "id": "Engineering (BS): Architectural Design",
-    "name": "Engineering (BS): Architectural Design"
-  },
-  {
-    "description": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
-    "id": "Engineering (BS): Atmosphere and Energy",
-    "name": "Engineering (BS): Atmosphere and Energy"
-  },
-  {
-    "description": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
-    "id": "Engineering (BS): Biomechanical Engineering",
-    "name": "Engineering (BS): Biomechanical Engineering"
-  },
-  {
-    "description": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
-    "id": "Engineering (BS): Biomedical Computation",
-    "name": "Engineering (BS): Biomedical Computation"
-  },
-  {
-    "description": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
-    "id": "Engineering (BS): Engineering Physics",
-    "name": "Engineering (BS): Engineering Physics"
-  },
-  {
-    "description": "The School of Engineering is home to ten departmental and six interdepartmental major programs. Explore all your options.",
-    "id": "Engineering (BS): Sustainable Architecture and Engineering",
-    "name": "Engineering (BS): Sustainable Architecture and Engineering"
+    "name": "Engineering (B.S.)"
   },
   {
     "description": "Explore the rich legacy of British and American literature through a curriculum that traces its development from the Middle Ages to the present, teaches the critical tools for analyzing literature through three broad genres — poetry, narrative, and methodology — and creates a contextual framework that opens to you the department’s wide range of electives.",
     "id": "ENGL-BA",
-    "name": "English (BA)"
+    "name": "English (B.A.)"
   },
   {
     "description": "Prepare to face 21st-century environmental challenges as you prepare to incorporate environmentally sustainable design, strategies, and practices into natural and built systems. You can focus on coastal regions, freshwater systems, or urban energy and infrastructure.",
     "id": "ENVSE-BS",
-    "name": "Environmental Systems Engineering (BS)"
+    "name": "Environmental Systems Engineering (B.S.)"
   },
   {
     "description": "Through this honors program, you’ll have the opportunity to write a senior honors thesis on a topic that applies moral and political philosophy to a contemporary practical problem.",
@@ -216,7 +186,7 @@
   {
     "description": "The interdepartmental program provides the knowledge and skills to investigate the significance of gender and sexuality in all areas of human life. You’ll examine how societies structure gender roles, relations, and identities and how these intersect with other power hierarchies, such as class, race, nationality, ethnicity, sexuality, ability, and age.",
     "id": "FGSS-BA",
-    "name": "Feminist, Gender, and Sexuality Studies (BA)"
+    "name": "Feminist, Gender, and Sexuality Studies (B.A.)"
   },
   {
     "description": "Through this Honors Program, you’ll have the opportunity to write a senior honors research paper or produce a creative project related to this topic.",
@@ -227,27 +197,27 @@
   {
     "description": "",
     "id": "FILM-BA",
-    "name": "Film and Media Studies (BA)"
+    "name": "Film and Media Studies (B.A.)"
   },
   {
     "description": "Embark on a transcontinental journey, traveling through both time and space from the medieval world through the early modern period to immerse yourself in French culture through language, ancient texts, literary masterpieces, art, history, food and more.",
     "id": "FRENC-BA",
-    "name": "French (BA)"
+    "name": "French (B.A.)"
   },
   {
     "description": "Expose yourself to a broad spectrum of geophysics, including resource exploration, environmental geophysics, seismology, and tectonics, while obtaining a solid foundation in the essentials of mathematics, physics, and geology that can lead to graduate study or professional careers in government or the private sector.",
     "id": "GEOPH-BS",
-    "name": "Geophysics (BS)"
+    "name": "Geophysics (B.S.)"
   },
   {
     "description": "Launch your exploration into the linguistic and analytic significance of the cultural traditions and political histories of the German-speaking countries of Central Europe. Your interdisciplinary study will include art, economics, history, literature, media theory, philosophy, political science, and other fields.",
     "id": "GERST-BA",
-    "name": "German Studies (BA)"
+    "name": "German Studies (B.A.)"
   },
   {
     "description": "Because we live in a world shaped by the past, we better understand the present by studying prior events and people. Learn to see yesterday’s world through analytical, interpretive, and expressive skills that take you well beyond a collection of names, dates, and events to a deeper understanding of social change over time. Learn to penetrate different modes of thought and human behavior that allow you to make better sense of the contemporary world while cultivating a crucial set of skills that help you guide its future.",
     "id": "HSTRY-BA",
-    "name": "History (BA)"
+    "name": "History (B.A.)"
   },
   {
     "description": "Join a diverse, interdisciplinary group of students to work on joint or individual projects that require and develop your critical and creative capacities. Through this senior-year honors program, you’ll have the opportunity to participate in workshops, Capstone projects, mentorship, symposiums, and field research. You’ll learn skills for critiquing others' work and receiving feedback on your work, all in a collaborative, cohort-driven environment.",
@@ -258,22 +228,22 @@
   {
     "description": "Many problems facing humans today involve both biological and social aspects. Scientific approaches to these problems are essential but must be broadly conceived and placed within their proper social and cultural setting. The BA degree is designed for you if you prefer a traditional liberal arts degree with coursework predominantly in the social sciences and humanities.",
     "id": "HUMBI-BA",
-    "name": "Human Biology (BA)"
+    "name": "Human Biology (B.A.)"
   },
   {
     "description": "Many problems facing humans today involve both biological and social aspects. Scientific approaches to these problems are essential but benefit when broadly conceived and placed within their proper social and cultural setting. The BS degree is designed for you if you prefer a scientific and technical focus with coursework predominantly in the natural sciences, mathematics, computer science, or engineering.",
     "id": "HUMBI-BS",
-    "name": "Human Biology (BS)"
+    "name": "Human Biology (B.S.)"
   },
   {
     "description": "Studying Iberian and Latin American cultures means engaging in a deep and compelling exploration of the languages, literature, and cultures of the Iberian Peninsula, Latin America (including Brazil), and Latinx communities in the United States. You’ll focus on critical thinking, open discussion, and close textual analysis through your coursework.",
     "id": "ILAC-BA",
-    "name": "Iberian and Latin American Cultures (BA)"
+    "name": "Iberian and Latin American Cultures (B.A.)"
   },
   {
     "description": "",
     "id": "IDMEN-BS",
-    "name": "Individually Designed Major in Engineering (BS)",
+    "name": "Individually Designed Major in Engineering (B.S.)",
     "programType": "(IDM) Indiv Designed Major"
   },
   {
@@ -284,7 +254,7 @@
   {
     "description": "Explore how global, regional, and domestic factors influence relations between actors on the world stage through a focus on political, economic, and cultural relations among peoples and states in the modern world. ",
     "id": "INTLR-BA",
-    "name": "International Relations (BA)"
+    "name": "International Relations (B.A.)"
   },
   {
     "description": "Build on your interest in international security with this program for seniors from all undergraduate schools and majors. You’ll earn Honors in International Security Studies through coursework, an internship, and an honors thesis.",
@@ -295,92 +265,92 @@
   {
     "description": "Expose yourself to a variety of perspectives on Italian culture through training in writing and communication as well as cultural, textual, and historical analysis.  Become a critical and global thinker prepared for a career in business, social service, government, or academia.",
     "id": "ITAL-BA",
-    "name": "Italian (BA)"
+    "name": "Italian (B.A.)"
   },
   {
     "description": "This program provides you with an understanding of Jewish history, language, literature, religion, thought, and politics to help you understand Jewish identity, thought, and self-expression within larger historical and social contexts and to develop your ability to analyze human experience from different disciplinary perspectives.",
     "id": "JEWSH-BA",
-    "name": "Jewish Studies (BA)"
+    "name": "Jewish Studies (B.A.)"
   },
   {
     "description": "Study the nature of human language as a fundamental human faculty and a changing social institution. Draw on courses offered by other departments and programs that round out the topic.",
     "id": "LING-BA",
-    "name": "Linguistics (BA)"
+    "name": "Linguistics (B.A.)"
   },
   {
     "description": "Building on your foundation in calculus and linear algebra, you’ll learn the fundamentals of engineering systems analysis so that you are able to plan, design, and implement complex economic and technical management systems. ",
     "id": "MGTSC-BS",
-    "name": "Management Science and Engineering (BS)"
+    "name": "Management Science and Engineering (B.S.)"
   },
   {
     "description": "Develop a strong foundation in materials science and engineering with emphasis on the fundamental scientific and engineering principles that underlie the knowledge and implementation of material structure, processing, properties, and performance of all materials used in engineering systems. ",
     "id": "MATSC-BS",
-    "name": "Materials Science and Engineering (BS)"
+    "name": "Materials Science and Engineering (B.S.)"
   },
   {
     "description": "Mathematics is fun, challenging, and rewarding. You’ll learn to create, analyze, and interpret mathematical models and to communicate sound arguments based on mathematical reasoning and careful data analysis.",
     "id": "MATH-BS",
-    "name": "Mathematics (BS)"
+    "name": "Mathematics (B.S.)"
   },
   {
     "description": "Survey the discipline broadly — covering elements including energy science and technology, propulsion, nano- and micro-mechanics, design mechatronics, solid and fluid dynamics, biomechanical engineering, and more — for a  fundamental and diverse foundation to excel in your academic pursuits and career.",
     "id": "ME-BS",
-    "name": "Mechanical Engineering (BS)"
+    "name": "Mechanical Engineering (B.S.)"
   },
   {
     "description": "Develop an array of tools as part of your aesthetic and musical formation through a course of study that combines breadth of musical experiences across multiple dimensions with depth in a chosen area.",
     "id": "MUSIC-BA",
-    "name": "Music (BA)"
+    "name": "Music (B.A.)"
   },
   {
     "description": "This intensive approach to the history and culture of Native American people goes beyond the relationship between tribes and the federal government to issues across national boundaries.",
     "id": "NATAM-BA",
-    "name": "Native American Studies (BA)"
+    "name": "Native American Studies (B.A.)"
   },
   {
     "description": "Train to think clearly and critically about the deepest and broadest questions concerning being, knowledge, and value, as well as your connection to the full range of human activities and interests.",
     "id": "PHILO-BA",
-    "name": "Philosophy (BA)"
+    "name": "Philosophy (B.A.)"
   },
   {
     "description": "Find balance and depth in both philosophy and religious studies, learning to think clearly and critically about the deepest and broadest questions concerning being, knowledge, and value while engaging existentially in intellectual, ethical, and sociopolitical issues in the world’s religions. ",
     "id": "PHREL-BA",
-    "name": "Philosophy and Religious Studies (BA)"
+    "name": "Philosophy and Religious Studies (B.A.)"
   },
   {
     "description": "Build a strong foundation in classical and modern physics through a rigorous, mathematical understanding of the fundamental laws governing our universe and everything in it. ",
     "id": "PHYS-BS",
-    "name": "Physics (BS)"
+    "name": "Physics (B.S.)"
   },
   {
     "description": "Build a foundational understanding of the American political system and other political systems within the context of global forces, international conflicts, social movements, ideological systems, and diversity. ",
     "id": "POLSC-BA",
-    "name": "Political Science (BA)"
+    "name": "Political Science (B.A.)"
   },
   {
     "description": "Begin your journey into the theories and empirical studies of human behavior, including the study of aging, child development, decision-making, morality, motivation, psychopathology, social perception, and so much more. ",
     "id": "PSYCH-BA",
-    "name": "Psychology (BA)"
+    "name": "Psychology (B.A.)"
   },
   {
     "description": "Learn the concepts and tools used in evaluating policy options and outcomes, and prepare for entry-level positions in organizations concerned with such analysis. You’ll focus on issues such as health, education, environment, regulation, and science and technology policy, applicable anywhere in the world.",
     "id": "PUBPO-BA",
-    "name": "Public Policy (BA)"
+    "name": "Public Policy (B.A.)"
   },
   {
     "description": "Understand the complex encounters among religious ideas, practices, and communities, and the past and present cultures that have shaped and been shaped by religion as you engage existentially in the intellectual, ethical, and sociopolitical issues in the world’s religions.",
     "id": "RELST-BA",
-    "name": "Religious Studies (BA)"
+    "name": "Religious Studies (B.A.)"
   },
   {
     "description": "Through a common core of courses drawn from the social sciences, the humanities, the natural and physical sciences, and engineering, you’ll build an interdisciplinary framework to understand the complex interactions of science, technology, and the social world.",
     "id": "STS-BA",
-    "name": "Science, Technology, and Society (BA)"
+    "name": "Science, Technology, and Society (B.A.)"
   },
   {
     "description": "Through a common core of courses drawn from the social sciences, the humanities, the natural and physical sciences, and engineering, you’ll build an interdisciplinary framework through which to understand the complex interactions of science, technology, and the social world. ",
     "id": "STS-BS",
-    "name": "Science, Technology, and Society (BS)"
+    "name": "Science, Technology, and Society (B.S.)"
   },
   {
     "description": "Tackle a significant problem or question related to the intersection of science, technology, and society. You’ll draw research methods from one or more disciplines that shape STS while capitalizing on unique analytical perspectives of STS as an intellectual field. ",
@@ -391,31 +361,31 @@
   {
     "description": "Through your choice of three tracks, you’ll expose yourself to a variety of perspectives on Slavic — especially Russian — language, history, culture, literature, and philosophical thought. ",
     "id": "SLAV-BA",
-    "name": "Slavic Languages and Literatures (BA)"
+    "name": "Slavic Languages and Literatures (B.A.)"
   },
   {
     "description": "Develop a broad understanding of core sociological theories and the methodological skills necessary to understand and address social problems and inequalities in global, institutional, and interpersonal social relations. ",
     "id": "SOCIO-BA",
-    "name": "Sociology (BA)"
+    "name": "Sociology (B.A.)"
   },
   {
     "description": "Achieve fluency in reading, listening, speaking, and writing Spanish while developing a contextualized understanding of the language through linguistic and cultural study.",
     "id": "SPAN-BA",
-    "name": "Spanish (BA)"
+    "name": "Spanish (B.A.)"
   },
   {
     "description": "Discover the relationships between natural and artificial systems that use symbols to communicate and represent information. You’ll develop the vocabulary, theoretical background, and technical skills necessary to research questions about language, information, and intelligence, both human and machine. ",
     "id": "SYMBO-BS",
-    "name": "Symbolic Systems (BS)"
+    "name": "Symbolic Systems (B.S.)"
   },
   {
     "description": "Join our robust, non-conservatory program that combines the study and practice of performance within the context of a liberal arts curriculum. You’ll build a strong understanding of historical, cultural, and practical contexts in which live performance develops.",
     "id": "THPST-BA",
-    "name": "Theater and Performance Studies (BA)"
+    "name": "Theater and Performance Studies (B.A.)"
   },
   {
     "description": "Develop your understanding of the nature of cities and their impact on the world through this interdisciplinary drawing from social sciences, the humanities, engineering, and education fields.",
     "id": "URBST-BA",
-    "name": "Urban Studies (BA)"
+    "name": "Urban Studies (B.A.)"
   }
 ]
