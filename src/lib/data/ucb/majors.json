@@ -141,13 +141,13 @@
     "shortName": "CHEM-BA",
     "name": "Chemistry (BA)",
     "description": "Gain foundational training in chemistry with flexibility to pursue interdisciplinary interests or education-related careers.",
-    "id": "chemistry"
+    "id": "chemistry-ba"
   },
   {
     "shortName": "CHEM-BS",
     "name": "Chemistry (BS)",
     "description": "Designed for students pursuing careers in chemistry research or graduate study, this intensive program covers analytical, physical, organic, and inorganic chemistry.",
-    "id": "chemistry"
+    "id": "chemistry-bs"
   },
   {
     "shortName": "CHLC-BA",
@@ -189,13 +189,13 @@
     "shortName": "CS-BS",
     "name": "Computer Science (BS)",
     "description": "Learn systems, algorithms, programming languages, and theory for software development, computing systems, and data-driven applications.",
-    "id": "computer-science"
+    "id": "computer-science-bs"
   },
   {
     "shortName": "CS-BA",
     "name": "Computer Science (BA)",
     "description": "Explore computing through a liberal arts lens, combining core CS courses with flexibility in humanities and interdisciplinary studies.",
-    "id": "computer-science"
+    "id": "computer-science-ba"
   },
   {
     "shortName": "CRSR-BA",
@@ -252,20 +252,10 @@
     "id": "east-asian-religion-thought-culture"
   },
   {
-    "shortName": "EEEC-BA",
-    "name": "East European/Eurasian Languages & Cultures (BA)",
-    "description": "Study the languages, literatures, history, and cultural practices of Eastern Europe and Eurasia."
-  },
-  {
     "shortName": "ECON-BA",
     "name": "Economics (BA)",
     "description": "Learn microeconomics, macroeconomics, and econometrics with applications in public policy, business, and international economics.",
     "id": "economics"
-  },
-  {
-    "shortName": "ECFS-BS",
-    "name": "Ecosystem Management & Forestry (BS)",
-    "description": "Blend ecology, resource management, and conservation to prepare for careers in forestry, environmental consulting, and policy."
   },
   {
     "name": "Education (BA)",
@@ -276,7 +266,8 @@
   {
     "name": "Electrical Engineering & Computer Sciences (BS)",
     "shortName": "EECS-BS",
-    "description": "Delve into both hardware and software through intensive training in circuits, computing, machine learning, and digital systems—ideal for aspiring engineers and researchers."
+    "description": "Delve into both hardware and software through intensive training in circuits, computing, machine learning, and digital systems—ideal for aspiring engineers and researchers.",
+    "id": "electrical-engineering-computer-sciences"
   },
   {
     "name": "Energy Engineering (BS)",

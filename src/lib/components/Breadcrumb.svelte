@@ -5,41 +5,49 @@
 
   const segments = derived(page, ($page) => {
     const parts = $page.url.pathname.split('/').filter(Boolean);
-
-    if (parts.length === 0) return [];
-
     const breadcrumbs = [];
-    const universityId = parts[0];
-    const university = universities.find(u => u.id === universityId);
 
-    for (let i = 0; i < parts.length; i++) {
-      const raw = parts[i];
+    // Always include Home
+    breadcrumbs.push({ label: 'Home', href: '/' });
 
-      // Skip 'majors' segment from being added
-      if (i === 1 && raw === 'majors') {
-        continue;
+    if (parts.length === 0) return breadcrumbs;
+
+    if (parts[0] === 'universities') {
+      breadcrumbs.push({ label: 'Universities', href: '/universities' });
+
+      const universityId = parts[1];
+      const university = universities.find(u => u.id === universityId);
+
+      if (university) {
+        breadcrumbs.push({
+          label: university.name,
+          href: `/universities/${universityId}`
+        });
       }
 
-      const href = '/' + parts.slice(0, i + 1).join('/');
-      let label = raw;
-
-      if (i === 0 && university) {
-        label = university.name;
-      } else if (i === 2 && parts[1] === 'majors') {
-        // Dynamically import majors for this university
+      // Check if it's a major path: /universities/{id}/majors/{majorId}
+      if (parts[2] === 'majors' && parts[3]) {
         try {
           const module = import.meta.glob('$lib/data/*/majors.json', { eager: true });
-          const key = Object.keys(module).find(path => path.includes(`/${universityId}/majors.json`));
+          const key = Object.keys(module).find(path =>
+            path.includes(`/${universityId}/majors.json`)
+          );
           const majors = key ? module[key].default : [];
 
-          const major = majors.find(m => m.id === raw);
-          label = major?.name || raw;
+          const major = majors.find(m => m.id === parts[3]);
+          const label = major?.name || parts[3];
+
+          breadcrumbs.push({
+            label,
+            href: `/universities/${universityId}/majors/${parts[3]}`
+          });
         } catch (e) {
-          label = raw;
+          breadcrumbs.push({
+            label: parts[3],
+            href: `/universities/${universityId}/majors/${parts[3]}`
+          });
         }
       }
-
-      breadcrumbs.push({ label, href });
     }
 
     return breadcrumbs;
@@ -48,14 +56,7 @@
 
 <nav class="breadcrumb has-succeeds-separator mt-5" aria-label="breadcrumbs">
   <ul>
-    {#if $segments.length === 0}
-      <li class="is-active">
-        <a href="#" class="has-text-white" aria-current="page">Home</a>
-      </li>
-    {:else}
-      <li>
-        <a href="/" class="has-text-grey-light">Home</a>
-      </li>
+    {#if $segments.length > 1}
       {#each $segments.slice(0, -1) as segment}
         <li>
           <a href={segment.href} class="has-text-grey-light">{segment.label}</a>
@@ -66,6 +67,26 @@
           {$segments[$segments.length - 1].label}
         </a>
       </li>
+    {:else}
+      <li class="is-active">
+        <a href="/" class="has-text-white" aria-current="page">Home</a>
+      </li>
     {/if}
   </ul>
 </nav>
+
+<style>
+  nav.breadcrumb ul {
+    flex-wrap: wrap;
+    white-space: normal;
+  }
+
+  nav.breadcrumb li {
+    max-width: 100%;
+    word-break: break-word;
+  }
+
+  nav.breadcrumb a {
+    white-space: normal;
+  }
+</style>

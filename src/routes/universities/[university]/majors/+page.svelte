@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-  <meta http-equiv="refresh" content={`0; URL=/${university.id}`} />
+  <meta http-equiv="refresh" content={`0; URL=/universities/${university.id}`} />
 </svelte:head>
 
 <section class="section has-background-dark is-fullheight">
@@ -12,7 +12,7 @@
     <h1 class="title has-text-white">Redirecting...</h1>
     <p class="has-text-grey-light">
       You are being redirected to
-      <a href={`/${university.id}`} class="has-text-link">/{university.id}</a>.
+      <a href={`/universities/${university.id}`} class="has-text-link">/universities/{university.id}</a>.
     </p>
   </div>
 </section>

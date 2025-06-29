@@ -13,7 +13,7 @@
       {#each majors as major (major.id)}
         <a
           class="box major-box has-text-white has-text-left mb-4 p-4"
-          href={`/${university.id}/majors/${major.id}`}
+          href={`/universities/${university.id}/majors/${major.id}`}
         >
           <p class="has-text-weight-bold is-size-4 has-text-white">
             {major.name}
