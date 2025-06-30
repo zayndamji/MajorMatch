@@ -8,6 +8,7 @@ package-lock.json
 .wrangler
 /.svelte-kit
 /build
+/output
 
 # OS
 .DS_Store
