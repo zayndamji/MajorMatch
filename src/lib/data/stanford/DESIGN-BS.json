@@ -1,0 +1,40 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Design (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The undergraduate major in Design is offered by the Department of Mechanical Engineering. The program provides a broad foundation in the principles, theory, and practice of design, as well as a strong background in engineering fundamentals, mathematics, and science. Students develop skills in design thinking, creative problem-solving, and communication, preparing them for careers in product design, service design, and design research, as well as for graduate study.",
+  "shortProgramDescription": "Stanford's Design B.S. provides a comprehensive education in design principles, engineering, and mathematics, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The Design Major Core includes Introduction to Design Thinking (DESINV 15), Design and Communication (DESINV 100), and Product Design Engineering (ME 310), which introduce students to fundamental design concepts, processes, and methods.",
+    "Students also complete courses in Design Research Methods (DESINV 200), Design Prototyping (DESINV 205), and Service Design (DESINV 210), which develop their skills in user-centered design, prototyping, and service systems.",
+    "Mathematics and science requirements include Calculus I–III (MATH 19–21), Differential Equations (MATH 51 or CME 100), and Mechanics (PHYSICS 41/21/61 or ME 70), providing a strong foundation for design analysis and problem-solving.",
+    "Students choose from a range of electives, including courses in design history, theory, and practice, as well as courses in related fields such as engineering, computer science, and psychology.",
+    "The major also includes a range of design studios and project-based courses, where students work on real-world design challenges and develop their skills in design thinking, prototyping, and communication."
+  ],
+  "learningOutcomes": [
+    "Apply design thinking and methods to solve complex problems",
+    "Develop skills in design research, prototyping, and testing",
+    "Communicate design concepts effectively through visual, written, and oral means",
+    "Understand the role of design in shaping human experiences and societal outcomes",
+    "Work effectively in teams to develop and implement design solutions",
+    "Analyze and evaluate design systems and processes"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mechanical Engineering",
+      "link": "https://me.stanford.edu"
+    },
+    {
+      "title": "Product Design Minor",
+      "link": "https://design.stanford.edu/programs/minor"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/DESIGN-BS",
+    "https://design.stanford.edu/programs/bachelor-science-design-bs"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students declare through the School of Engineering. The major requires a strong foundation in mathematics and science, as well as a range of design courses and electives."
+}

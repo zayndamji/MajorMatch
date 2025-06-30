@@ -28,7 +28,7 @@ async function scrapeProgram(collegeName, programName, programLink, outputFile) 
 // Stanford
 async function stanford() {
   const stanfordMajors = JSON.parse(fs.readFileSync('../src/lib/data/stanford/majors.json'));
-  for (const major of stanfordMajors.slice(0, 20)) {
+  for (const major of stanfordMajors) {
     await scrapeProgram('Stanford University', major.name, `https://bulletin.stanford.edu/programs/${major.id}`, `../src/lib/data/stanford/${major.id}.json`);
   }
 }
@@ -36,7 +36,10 @@ async function stanford() {
 // UC Berkeley
 async function ucb() {
   const ucbMajors = JSON.parse(fs.readFileSync('../src/lib/data/ucb/majors.json'));
-  for (const major of ucbMajors.slice(0, 5)) {
+  for (const major of ucbMajors) {
     await scrapeProgram('University of California, Berkeley', major.name, `https://guide.berkeley.edu/undergraduate/degree-programs/${major.id}`, `../src/lib/data/ucb/${major.id}.json`);
   }
-} ucb();
+}
+
+stanford();
+// ucb();

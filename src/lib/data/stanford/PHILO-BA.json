@@ -1,0 +1,43 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Philosophy (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Philosophy offers a program leading to the Bachelor of Arts degree. Students undertaking the Philosophy major develop skills in understanding and interpreting philosophical texts, constructing and evaluating philosophical arguments, and writing clear and effective prose. Majors are encouraged to explore a wide variety of philosophical subfields and traditions.",
+  "shortProgramDescription": "The Philosophy B.A. at Stanford develops critical thinking, argumentation, and writing skills through the study of foundational and contemporary philosophical issues.",
+  "classHighlights": [
+    "The major begins with foundational courses like Introduction to Philosophy (PHIL 42) or Introduction to Logic (PHIL 70), which introduce students to critical thinking, argumentation, and logical analysis.",
+    "Students then engage with the history of philosophy through courses such as Ancient Philosophy (PHIL 172), Modern Philosophy (PHIL 174), and Contemporary Philosophy (PHIL 176), examining major philosophers and developments.",
+    "The major includes a range of elective courses covering topics in metaphysics, epistemology, ethics, and other areas of philosophical inquiry, such as Philosophy of Language (PHIL 156), Philosophy of Mind (PHIL 159), and Moral Philosophy (PHIL 170).",
+    "Students also have the opportunity to explore specialized areas, including Logic (PHIL 131, PHIL 132), Philosophy of Science (PHIL 160), and Social and Political Philosophy (PHIL 171, PHIL 173).",
+    "Advanced seminars and independent study courses allow students to delve deeper into specific topics and develop their research skills."
+  ],
+  "learningOutcomes": [
+    "Analyze and interpret complex philosophical texts and arguments.",
+    "Construct and defend well-reasoned philosophical arguments in written and oral forms.",
+    "Demonstrate understanding of major philosophical traditions, concepts, and debates.",
+    "Apply philosophical principles to contemporary issues and problems.",
+    "Develop critical thinking, logical reasoning, and effective communication skills."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Classics",
+      "link": "https://bulletin.stanford.edu/programs/CLASSICS-BA"
+    },
+    {
+      "title": "Comparative Literature",
+      "link": "https://bulletin.stanford.edu/programs/COMPLIT-BA"
+    },
+    {
+      "title": "History",
+      "link": "https://bulletin.stanford.edu/programs/HISTORY-BA"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/PHILO-BA",
+    "https://philosophy.stanford.edu/"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 units for the major; total approximately 180 quarter units for the degree",
+  "additionalInformation": "Students are encouraged to consult with departmental advisors to tailor their major program. The department does not offer a minor or honors program for undergraduates."
+}

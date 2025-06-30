@@ -1,0 +1,44 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Science, Technology, and Society (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Science, Technology, and Society (STS) major provides students with a foundation for understanding the complex interactions between science, technology, and society. STS approaches these interactions from a variety of disciplinary perspectives, integrating insights from the humanities, social sciences, and natural sciences. The STS major is designed for students who seek to understand the roles and responsibilities of scientists, engineers, and other technical professionals in society, and to explore the social and cultural contexts in which science and technology are developed and used.",
+  "shortProgramDescription": "The STS major provides a broad understanding of the interactions between science, technology, and society, preparing students for diverse careers in fields such as policy, education, and research.",
+  "classHighlights": [
+    "STS Foundation Courses: Students begin with introductory courses like STS 1: Introduction to Science, Technology, and Society, and STS 101: Science, Technology, and Society in Historical Perspective, which introduce key concepts and historical contexts.",
+    "STS Methods and Theory: Courses such as STS 200: STS Methods and STS 210: Theories of Technology and Society provide a deeper understanding of STS methodologies and theoretical frameworks, preparing students for advanced study.",
+    "STS Electives: Students choose from a range of electives that explore topics such as the history of science and technology, science and technology policy, and the social and cultural implications of emerging technologies.",
+    "Capstone and Advanced Courses: Advanced courses and seminars, such as STS 291: Senior Seminar, allow students to engage with specialized topics and produce original research or projects.",
+    "Interdisciplinary Approaches: Throughout the major, students are encouraged to draw on insights from multiple disciplines to understand the complex interactions between science, technology, and society."
+  ],
+  "learningOutcomes": [
+    "Understand the historical and contemporary interactions between science, technology, and society.",
+    "Analyze the social and cultural contexts in which science and technology are developed and used.",
+    "Apply STS theories and methodologies to understand the roles and responsibilities of scientists, engineers, and other technical professionals.",
+    "Evaluate the social and cultural implications of emerging technologies.",
+    "Communicate complex ideas and research findings effectively in written and oral forms."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Science, Technology, and Society Minor",
+      "link": "https://sts.stanford.edu/minor"
+    },
+    {
+      "title": "History and Philosophy of Science",
+      "link": "https://hps.stanford.edu"
+    },
+    {
+      "title": "Environmental Studies",
+      "link": "https://envs.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/STS-BS",
+    "https://sts.stanford.edu/undergraduate-program",
+    "https://sts.stanford.edu/handbook"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 total units, including 45 units in STS courses",
+  "additionalInformation": "Students must declare the major through the STS department. The major is designed to be flexible, allowing students to pursue a range of interests and career paths."
+}

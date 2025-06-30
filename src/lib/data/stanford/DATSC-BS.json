@@ -1,0 +1,47 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Data Science (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Data Science program at Stanford University is designed to provide students with a comprehensive understanding of the data science process, from data acquisition and cleaning to machine learning and statistical modeling. The program focuses on developing skills in programming, data analysis, and visualization, as well as understanding the ethical and societal implications of data science. Students learn through a combination of coursework, hands-on projects, and electives that allow them to tailor their education to their interests.",
+  "shortProgramDescription": "Stanford's Data Science B.S. provides a rigorous foundation in data science principles, methods, and applications, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "📊 **Foundational Courses**: Students start with foundational courses in programming (CMUCS 106 or equivalent), data structures (CS 107 or equivalent), and probability and statistics (STAT 116, STAT 217, or equivalents), laying the groundwork for advanced data science concepts.",
+    "💻 **Data Science Core**: The core curriculum includes Introduction to Data Science (DATA 102), Machine Learning (CS 229 or equivalent), and Data Mining (DATA 171), providing a comprehensive understanding of data science methodologies and techniques.",
+    "📈 **Statistical Foundations**: Students take courses in statistical theory and methods, such as Statistical Inference (STAT 300A) and Statistical Learning (STAT 315B), to understand the statistical underpinnings of data science.",
+    "🔍 **Data Wrangling and Visualization**: Courses in data wrangling (e.g., DATA 143) and data visualization (e.g., DATA 145) equip students with the skills to effectively manage and communicate insights from complex data.",
+    "📚 **Domain Knowledge and Electives**: Students choose from a range of electives and depth tracks, such as Data Ethics (DATA 188), to explore specialized areas and deepen their understanding of data science applications and implications.",
+    "🌐 **Interdisciplinary Approaches**: The program encourages an interdisciplinary approach, incorporating insights and methods from computer science, statistics, and domain-specific areas to tackle complex data-driven problems.",
+    "🎓 **Practical Experience**: Through projects and research opportunities, students gain practical experience in applying data science techniques to real-world problems, developing a portfolio of work that demonstrates their skills and capabilities."
+  ],
+  "learningOutcomes": [
+    "Apply data science principles and methods to solve complex problems.",
+    "Understand and implement machine learning algorithms and statistical models.",
+    "Effectively communicate insights and results through data visualization and storytelling.",
+    "Recognize and address ethical considerations in data science applications.",
+    "Work effectively in teams to design, implement, and evaluate data-driven solutions.",
+    "Stay current with emerging trends and technologies in data science."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Computer Science (B.S.)",
+      "link": "https://bulletin.stanford.edu/programs/CS-BS"
+    },
+    {
+      "title": "Statistics (B.S.)",
+      "link": "https://bulletin.stanford.edu/programs/STATSC-BS"
+    },
+    {
+      "title": "Mathematics (B.S.)",
+      "link": "https://bulletin.stanford.edu/programs/MATH-BS"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/DATSC-BS",
+    "https://data.stanford.edu/undergrad",
+    "https://exploredegrees.stanford.edu/undergrad/majors/Data_Science/"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units (includes major, math, science, and other university requirements)",
+  "additionalInformation": "The Data Science major is administered through the Department of Computer Science. Students must declare the major through the School of Engineering. The program is designed to be flexible, allowing students to explore various aspects of data science through electives and depth tracks."
+}

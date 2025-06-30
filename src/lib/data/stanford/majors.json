@@ -90,12 +90,6 @@
     "name": "Comparative Studies in Race and Ethnicity (B.A.)"
   },
   {
-    "description": "Pursue sustained independent research on race and ethnicity with the support of a faculty advising team, an interdisciplinary cohort of peers, and CCSRE staff. You’ll synthesize the skills and insights cultivated over the course of your Stanford career to design and produce unique and impactful projects.",
-    "id": "CSRE-IHN",
-    "name": "Comparative Studies in Race and Ethnicity (IHN)",
-    "programType": "(IHN) Interdisc Honors"
-  },
-  {
     "description": "Develop your breadth of knowledge across computer science, including your ability to apply the defining processes of computer science theory, abstraction, design, and implementation to solve problems in the discipline.",
     "id": "CS-BS",
     "name": "Computer Science (B.S.)"
@@ -109,12 +103,6 @@
     "description": "",
     "id": "DATSC-BS",
     "name": "Data Science (B.S.)"
-  },
-  {
-    "description": "Conduct an independent honors thesis focused on democracy, development, and the rule of law, regardless of the subject of your major.",
-    "id": "DDRL-IHN",
-    "name": "Democracy, Development and the Rule of Law (IHN)",
-    "programType": "(IHN) Interdisc Honors"
   },
   {
     "description": "Draw on the behavioral and social sciences to develop a strong foundation in human-centered design and the mathematics, science, and engineering concepts needed to support it. This degree prepares you for postgraduate study in design or careers as a designer in public and private sector institutions, entrepreneurial endeavors, and perhaps, most importantly, careers that do not yet exist. ",
@@ -147,12 +135,6 @@
     "name": "Economics (B.S.)"
   },
   {
-    "description": "Apply your studies to unique research projects inspired by your interests in education. This program enables Stanford undergraduates to extend their training in their major field of study by pursuing education courses and undertaking a supervised research thesis involving the study of education.",
-    "id": "ED-IHN",
-    "name": "Education (IHN)",
-    "programType": "(IHN) Interdisc Honors"
-  },
-  {
     "description": "Gain a basic understanding of electrical engineering built on a foundation of physical science, mathematics, computing, and technology as you prepare for a related career or future study in a graduate or professional school.",
     "id": "EE-BS",
     "name": "Electrical Engineering (B.S.)"
@@ -178,21 +160,9 @@
     "name": "Environmental Systems Engineering (B.S.)"
   },
   {
-    "description": "Through this honors program, you’ll have the opportunity to write a senior honors thesis on a topic that applies moral and political philosophy to a contemporary practical problem.",
-    "id": "ETHSO-IHN",
-    "name": "Ethics in Society (IHN)",
-    "programType": "(IHN) Interdisc Honors"
-  },
-  {
     "description": "The interdepartmental program provides the knowledge and skills to investigate the significance of gender and sexuality in all areas of human life. You’ll examine how societies structure gender roles, relations, and identities and how these intersect with other power hierarchies, such as class, race, nationality, ethnicity, sexuality, ability, and age.",
     "id": "FGSS-BA",
     "name": "Feminist, Gender, and Sexuality Studies (B.A.)"
-  },
-  {
-    "description": "Through this Honors Program, you’ll have the opportunity to write a senior honors research paper or produce a creative project related to this topic.",
-    "id": "FGSS-IHN",
-    "name": "Feminist, Gender, and Sexuality Studies (IHN)",
-    "programType": "(IHN) Interdisc Honors"
   },
   {
     "description": "",
@@ -220,12 +190,6 @@
     "name": "History (B.A.)"
   },
   {
-    "description": "Join a diverse, interdisciplinary group of students to work on joint or individual projects that require and develop your critical and creative capacities. Through this senior-year honors program, you’ll have the opportunity to participate in workshops, Capstone projects, mentorship, symposiums, and field research. You’ll learn skills for critiquing others' work and receiving feedback on your work, all in a collaborative, cohort-driven environment.",
-    "id": "ARTS-IHN",
-    "name": "Honors in the Arts (IHN)",
-    "programType": "(IHN) Interdisc Honors"
-  },
-  {
     "description": "Many problems facing humans today involve both biological and social aspects. Scientific approaches to these problems are essential but must be broadly conceived and placed within their proper social and cultural setting. The BA degree is designed for you if you prefer a traditional liberal arts degree with coursework predominantly in the social sciences and humanities.",
     "id": "HUMBI-BA",
     "name": "Human Biology (B.A.)"
@@ -247,20 +211,9 @@
     "programType": "(IDM) Indiv Designed Major"
   },
   {
-    "description": "Complement your undergraduate degree with a minor in Interdisciplinary Arts. You’ll deepen your overall understanding of the arts, familiarize yourself with the theory and techniques of arts, and develop a diverse set of skills to become a more sophisticated scholar and maker of arts.",
-    "id": "Interdisciplinary Arts (Min)",
-    "name": "Interdisciplinary Arts (Minor)"
-  },
-  {
     "description": "Explore how global, regional, and domestic factors influence relations between actors on the world stage through a focus on political, economic, and cultural relations among peoples and states in the modern world. ",
     "id": "INTLR-BA",
     "name": "International Relations (B.A.)"
-  },
-  {
-    "description": "Build on your interest in international security with this program for seniors from all undergraduate schools and majors. You’ll earn Honors in International Security Studies through coursework, an internship, and an honors thesis.",
-    "id": "INSST-IHN",
-    "name": "International Security Studies (IHN)",
-    "programType": "(IHN) Interdisc Honors"
   },
   {
     "description": "Expose yourself to a variety of perspectives on Italian culture through training in writing and communication as well as cultural, textual, and historical analysis.  Become a critical and global thinker prepared for a career in business, social service, government, or academia.",
@@ -351,12 +304,6 @@
     "description": "Through a common core of courses drawn from the social sciences, the humanities, the natural and physical sciences, and engineering, you’ll build an interdisciplinary framework through which to understand the complex interactions of science, technology, and the social world. ",
     "id": "STS-BS",
     "name": "Science, Technology, and Society (B.S.)"
-  },
-  {
-    "description": "Tackle a significant problem or question related to the intersection of science, technology, and society. You’ll draw research methods from one or more disciplines that shape STS while capitalizing on unique analytical perspectives of STS as an intellectual field. ",
-    "id": "STS-IHN",
-    "name": "Science, Technology, and Society (IHN)",
-    "programType": "(IHN) Interdisc Honors"
   },
   {
     "description": "Through your choice of three tracks, you’ll expose yourself to a variety of perspectives on Slavic — especially Russian — language, history, culture, literature, and philosophical thought. ",

@@ -1,0 +1,46 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Environmental Systems Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Environmental Systems Engineering (ENVSE) undergraduate major provides a foundation in the engineering sciences and earth systems to understand and manage complex environmental systems. The program focuses on developing skills in problem-solving, data analysis, and technology applications, preparing students for careers in engineering, research, policy, and management related to environmental challenges.",
+  "shortProgramDescription": "Stanford's Environmental Systems Engineering B.S. program combines engineering principles with earth sciences to address complex environmental challenges.",
+  "classHighlights": [
+    "Foundational courses: Students start with foundational courses in engineering, such as Introduction to Environmental Systems Engineering (ENVSE 101), and build on them with courses like Environmental Systems Engineering Design (ENVSE 102/103).",
+    "Mathematics and computing: ENVSE students are required to take Calculus (MATH 19-21), Probability and Statistics (STAT 116), and Programming Abstractions (CS 106A/B).",
+    "Environmental and earth sciences: Courses include Environmental Systems (EARTH 121), Hydrology (EARTH 122/223), and Environmental Fluid Mechanics (ENVSE 147/247).",
+    "Engineering and technology: Students learn about water quality (ENVSE 141/241), air quality (ENVSE 143/243), and energy systems (ENVSE 145/245).",
+    "Design and capstone experiences: Students apply their skills in design courses, culminating in a capstone project that integrates their knowledge and skills to address real-world environmental challenges.",
+    "Electives and specializations: ENVSE students can choose from various electives, allowing them to specialize in areas like water resources, energy, or climate change."
+  ],
+  "learningOutcomes": [
+    "Apply engineering principles to understand and manage complex environmental systems.",
+    "Analyze data and develop models to predict environmental phenomena.",
+    "Design and implement solutions to environmental challenges.",
+    "Communicate complex information effectively to diverse stakeholders.",
+    "Work collaboratively in interdisciplinary teams to address environmental issues.",
+    "Understand the ethical, social, and policy implications of environmental engineering decisions."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Earth Systems",
+      "link": "https://earth.stanford.edu/programs/earth-systems"
+    },
+    {
+      "title": "Civil and Environmental Engineering",
+      "link": "https://cee.stanford.edu"
+    },
+    {
+      "title": "Energy Resources Engineering",
+      "link": "https://erg.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/ENVSE-BS",
+    "https://envse.stanford.edu/undergraduate-program",
+    "https://envse.stanford.edu/undergraduate/advising"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The major is offered through the Department of Earth System Science and the School of Engineering. Students are encouraged to participate in research and internships to gain practical experience."
+}

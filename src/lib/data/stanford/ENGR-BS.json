@@ -1,0 +1,39 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Engineering degree is offered by the School of Engineering. Students select one of the following engineering disciplines: bioengineering, chemical engineering, civil engineering, electrical engineering, or mechanical engineering. The program requires a minimum of 180 units, with at least 96 units in engineering and related subjects. Students must also complete a set of required courses, including mathematics, physics, and chemistry.",
+  "shortProgramDescription": "The B.S. in Engineering at Stanford provides a foundational education in engineering principles, preparing students for professional practice or further study.",
+  "classHighlights": [
+    "Mathematics and Science: The program requires a strong foundation in mathematics and science, including Calculus I-III (MATH 19-21), Differential Equations (MATH 51 or CME 100), Probability and Statistics (STAT 116), Mechanics (PHYSICS 41 or 61), Electricity and Magnetism (PHYSICS 43 or 63), and Chemistry (CHEM 31 or 31X).",
+    "Engineering Fundamentals: Students must complete a set of foundational engineering courses, such as Introduction to Engineering (ENGR 40M or ENGR 76), and additional courses in their chosen engineering discipline.",
+    "Engineering Disciplines: Students choose one of the following engineering disciplines: bioengineering, chemical engineering, civil engineering, electrical engineering, or mechanical engineering, and complete the required courses for that discipline.",
+    "Design and Innovation: The program emphasizes design and innovation, with courses that require students to apply theoretical knowledge to real-world problems.",
+    "Technical Electives: Students must complete a set of technical electives, chosen from a range of engineering and related courses, to deepen their knowledge in their chosen discipline."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental engineering principles to solve complex problems.",
+    "Design and develop innovative solutions to real-world challenges.",
+    "Communicate technical concepts effectively to diverse audiences.",
+    "Work effectively in teams to achieve common goals.",
+    "Understand the social, environmental, and economic context of engineering practice."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Engineering Minor",
+      "link": "https://engineering.stanford.edu/students/undergraduate/minor"
+    },
+    {
+      "title": "Management Science and Engineering",
+      "link": "https://msande.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/ENGR-BS",
+    "https://engineering.stanford.edu/students/undergraduate/programs/bs-engineering"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "Minimum 180 quarter units, with at least 96 units in engineering and related subjects",
+  "additionalInformation": "Students must declare a specific engineering discipline and complete the required courses for that discipline. The program is designed to be completed in 4 years, with a typical course load of 15-18 units per quarter."
+}

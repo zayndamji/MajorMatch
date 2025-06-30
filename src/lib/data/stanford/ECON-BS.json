@@ -1,0 +1,41 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Economics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The undergraduate major in Economics is designed to provide students with a fundamental understanding of economic theory, its application, and its empirical underpinnings. The program includes coursework in microeconomics, macroeconomics, econometrics, and various elective fields. Students develop skills in critical thinking, data analysis, and written and oral communication.",
+  "shortProgramDescription": "The Economics B.S. at Stanford provides a rigorous foundation in economic theory and applied economics, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "Foundational Economics Courses: Students begin with Principles of Economics (ECON1/3), followed by Intermediate Microeconomics (ECON102), Intermediate Macroeconomics (ECON104), and Econometrics (ECON140). These courses establish a strong theoretical and empirical base.",
+    "Elective Fields: Students choose from various elective fields, including labor economics, international trade, public finance, industrial organization, and economic development. These electives allow students to explore specialized topics and deepen their understanding of economic principles.",
+    "Mathematical and Statistical Tools: The program emphasizes the use of mathematical and statistical techniques to analyze economic phenomena. Courses like Mathematics for Economists (ECON121) and Econometrics (ECON140) provide essential skills.",
+    "Advanced Courses: Upper-level courses (ECON200 and above) offer in-depth exploration of specific areas, including economic theory, applied economics, and econometrics. Students can choose from a range of topics to align with their interests.",
+    "Research and Writing: Students are encouraged to develop research skills through papers and projects, often culminating in a research paper or thesis. Effective written and oral communication is emphasized throughout the curriculum."
+  ],
+  "learningOutcomes": [
+    "Understand and apply microeconomic and macroeconomic theories.",
+    "Analyze economic data using statistical and econometric techniques.",
+    "Develop critical thinking and problem-solving skills.",
+    "Communicate complex economic ideas in written and oral forms.",
+    "Evaluate economic policies and their impacts.",
+    "Apply economic principles to real-world problems and contexts."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mathematical and Computational Science",
+      "link": "https://mcs.stanford.edu"
+    },
+    {
+      "title": "International Relations",
+      "link": "https://fsi.stanford.edu/programs/international-relations"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/ECON-BS",
+    "https://economics.stanford.edu/undergraduate-program",
+    "https://economics.stanford.edu/undergraduate/requirements"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 Economics units; total approximately 180 quarter units",
+  "additionalInformation": "Students must declare the major through the Economics Department. The program allows for flexibility in choosing electives and upper-level courses. Students are encouraged to engage in research and academic advising."
+}

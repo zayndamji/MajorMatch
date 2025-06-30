@@ -1,0 +1,44 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Classics (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Classics at Stanford offers a comprehensive program in Classics, leading to a Bachelor of Arts degree. The program is designed to provide students with a strong foundation in the languages, literature, and cultures of ancient Greece and Rome, as well as to introduce them to the methods and approaches of classical scholarship. Students have the opportunity to explore a wide range of topics, from the textual analysis of ancient authors to the study of ancient history, archaeology, and art history.",
+  "shortProgramDescription": "The Classics B.A. at Stanford provides a rigorous foundation in Greek and/or Latin language and literature, as well as ancient history and culture, preparing students for diverse careers or graduate study.",
+  "classHighlights": [
+    "Language and Literature: Students take courses in Greek and/or Latin language and literature, including introductory courses (CLASSICS 101-102, CLASSICS 111-112), intermediate courses (CLASSICS 103-104, CLASSICS 113-114), and advanced courses in specific authors and genres.",
+    "Ancient History and Culture: Courses in ancient history (CLASSICS 141, CLASSICS 142) and culture (CLASSICS 171, CLASSICS 172) provide students with a broad understanding of the historical and cultural contexts of ancient Greece and Rome.",
+    "Classical Archaeology and Art History: Students can explore the material culture of ancient civilizations through courses in classical archaeology (CLASSICS 161, CLASSICS 162) and art history (CLASSICS 181, CLASSICS 182).",
+    "Thematic and Specialized Courses: The department offers a range of specialized courses on topics such as mythology (CLASSICS 151), ancient philosophy (CLASSICS 191), and the reception of classical culture (CLASSICS 201-299)."
+  ],
+  "learningOutcomes": [
+    "Read and analyze Greek and/or Latin texts in the original language.",
+    "Demonstrate a broad understanding of ancient Greek and Roman history, culture, and literature.",
+    "Apply critical thinking and analytical skills to the study of classical texts and artifacts.",
+    "Communicate complex ideas effectively in written and oral form.",
+    "Evaluate the cultural and historical contexts of ancient civilizations.",
+    "Recognize the relevance of classical studies to contemporary society and culture."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Ancient Studies",
+      "link": "https://bulletin.stanford.edu/programs/ANCIENT-STUD-UG"
+    },
+    {
+      "title": "Comparative Literature",
+      "link": "https://comparativelit.stanford.edu"
+    },
+    {
+      "title": "Classics Minor",
+      "link": "https://classics.stanford.edu/undergraduate-program/minor-classics"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/CLASS-BA",
+    "https://classics.stanford.edu/undergraduate-program",
+    "https://exploredegrees.stanford.edu/undergraduate/classics-ba/"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 units in Classics (including 20 units of language courses) plus 7 units of 'other language' requirement; total approx. 180 quarter units",
+  "additionalInformation": "Students are encouraged to study abroad in programs approved by the department. Honors and research opportunities are available. Students should consult with department advisers to plan their course of study."
+}

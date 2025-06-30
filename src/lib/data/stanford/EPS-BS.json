@@ -1,0 +1,44 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Earth and Planetary Sciences (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Earth and Planetary Sciences major provides a comprehensive understanding of the Earth and planetary systems, encompassing the study of the Earth's physical structure, processes, and history, as well as the interactions between the Earth's lithosphere, hydrosphere, atmosphere, and biosphere. Students explore a range of topics, from the Earth's internal dynamics and surface processes to the Earth's climate system and the impact of human activities on the environment.",
+  "shortProgramDescription": "The Earth and Planetary Sciences B.S. program provides students with a foundational understanding of Earth and planetary systems, preparing them for diverse careers in research, environmental management, and education.",
+  "classHighlights": [
+    "🌎 **Foundational Courses**: Students begin with introductory courses such as Introduction to Earth Sciences (EPS 10/15), and Principles of Earth Sciences (EPS 20), which provide a broad introduction to the field.",
+    "🔬 **Geology and Geophysics**: Courses in Structural Geology (EPS 131), Geomorphology (EPS 135), and Geophysics (EPS 122) help students understand the Earth's physical structure and processes.",
+    "🌟 **Earth Systems and Climate**: Students explore the Earth's climate system, oceanography, and biogeochemistry through courses such as Earth's Climate System (EPS 120), and Paleoclimatology (EPS 131C).",
+    "🧬 **Earth Sciences Electives**: Students choose from a range of electives, including courses in geology, geophysics, and Earth systems science, allowing them to tailor their program to their interests.",
+    "📊 **Quantitative Methods**: Courses in mathematics and programming, such as Calculus (MATH 19-21) and Computing for Earth Sciences (EPS 109), provide students with the quantitative skills needed to analyze and model Earth systems."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles governing the Earth's physical structure, processes, and history.",
+    "Analyze the interactions between the Earth's lithosphere, hydrosphere, atmosphere, and biosphere.",
+    "Apply quantitative methods to analyze and model Earth systems.",
+    "Evaluate the impact of human activities on the Earth's climate system and environment.",
+    "Communicate complex scientific information to diverse audiences."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Geophysics",
+      "link": "https://pangea.stanford.edu/education/undergraduate/geophysics"
+    },
+    {
+      "title": "Environmental Earth System Science",
+      "link": "https://cees.stanford.edu"
+    },
+    {
+      "title": "Geological and Environmental Sciences Minor",
+      "link": "https://bulletin.stanford.edu/programs/GEOL-MN"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/EPS-BS",
+    "https://eps.stanford.edu/undergraduate-program",
+    "https://pangea.stanford.edu/education/undergraduate"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete a set of foundational courses, as well as a range of electives in Earth and planetary sciences. The program is designed to be flexible, allowing students to tailor their coursework to their interests and career goals."
+}

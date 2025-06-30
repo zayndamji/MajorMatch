@@ -1,0 +1,46 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Philosophy and Religious Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Philosophy and Religious Studies major is designed for students who want to explore fundamental questions about existence, values, and meaning, and understand the diverse ways that cultures and individuals have addressed these questions. Students have the opportunity to study a wide range of philosophical and religious traditions, texts, and topics, and to develop their skills in critical thinking, argumentation, and expression.",
+  "shortProgramDescription": "The Philosophy and Religious Studies major at Stanford University provides a rigorous and flexible education in the critical study of philosophical and religious traditions, texts, and topics.",
+  "classHighlights": [
+    "The introductory courses introduce students to the major areas and methods of philosophical inquiry, including logic, ethics, and the history of philosophy.",
+    "Courses in the history of philosophy cover the development of philosophical thought from ancient to modern times, including the study of major philosophers and philosophical movements.",
+    "Courses in ethics and value theory explore the nature of moral values, principles, and obligations, and examine the ethical dimensions of various issues and controversies.",
+    "Courses in metaphysics and epistemology investigate the nature of reality, knowledge, and truth, and examine the relationships between language, thought, and reality.",
+    "Courses in philosophy of religion and religious studies examine the nature of religious belief, practice, and experience, and explore the relationships between religion and other areas of human life.",
+    "Advanced courses and seminars provide students with the opportunity to engage in in-depth study and research on specialized topics, and to develop their skills in philosophical research and writing."
+  ],
+  "learningOutcomes": [
+    "Develop a deep understanding of the major areas and methods of philosophical inquiry",
+    "Cultivate critical thinking, argumentation, and expression skills",
+    "Analyze and interpret complex philosophical and religious texts and traditions",
+    "Evaluate the strengths and weaknesses of different philosophical and religious perspectives",
+    "Develop the ability to construct and defend well-reasoned philosophical arguments",
+    "Understand the relationships between philosophy, religion, and other areas of human life"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Philosophy (B.A.)",
+      "link": "https://bulletin.stanford.edu/programs/PHIL-BA"
+    },
+    {
+      "title": "Religious Studies Minor",
+      "link": "https://bulletin.stanford.edu/programs/RELIG-STUD-minor"
+    },
+    {
+      "title": "Classics (B.A.)",
+      "link": "https://bulletin.stanford.edu/programs/CLASSICS-BA"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/PHREL-BA",
+    "https://philosophy.stanford.edu",
+    "https://religiousstudies.stanford.edu"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 units of Philosophy and Religious Studies coursework; total approx. 180 quarter units",
+  "additionalInformation": "Students declare the major through the Department of Religious Studies. The major is highly flexible, allowing students to tailor their coursework to their interests and goals. Students are encouraged to explore the many resources available on campus, including the Philosophy and Religious Studies departments, the Stanford Humanities Center, and the Center for Comparative Studies in Race and Ethnicity."
+}

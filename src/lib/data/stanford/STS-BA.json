@@ -1,0 +1,45 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Science, Technology, and Society (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Science, Technology, and Society (STS) major is an interdisciplinary program that studies the social, political, and cultural dimensions of science and technology. STS students examine the historical, philosophical, and sociological contexts of scientific and technological developments and their impacts on society. The major prepares students for a wide range of careers and graduate study in fields such as science, technology, engineering, and mathematics (STEM), social sciences, humanities, and law.",
+  "shortProgramDescription": "The STS major at Stanford University explores the complex relationships between science, technology, and society, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "Core STS Courses: The program includes foundational courses such as STS 1/2: Introduction to Science, Technology, and Society, and STS 110: Science, Technology, and Public Policy, which introduce students to the interdisciplinary study of science and technology.",
+    "History and Philosophy of Science and Technology: Courses like STS 130: The Scientific Revolution and STS 140: History of Technology provide a historical and philosophical context for understanding the development of science and technology.",
+    "Sociology and Politics of Science and Technology: Classes such as STS 120: Sociology of Science and STS 150: Politics of Science and Technology examine the social and political dimensions of scientific and technological advancements.",
+    "STS Electives: Students choose from a range of electives that allow them to explore specific topics in STS, such as the ethics of emerging technologies, the impact of science and technology on society, and the cultural dimensions of scientific and technological developments.",
+    "Methodology and Research: STS 194: Senior Seminar and other research-intensive courses help students develop their research skills and prepare them for the senior thesis or other capstone projects."
+  ],
+  "learningOutcomes": [
+    "Analyze the complex relationships between science, technology, and society",
+    "Understand the historical, philosophical, and sociological contexts of scientific and technological developments",
+    "Evaluate the social, political, and cultural impacts of science and technology",
+    "Develop critical thinking and research skills in the interdisciplinary study of science and technology",
+    "Communicate complex ideas effectively in written and oral forms",
+    "Apply knowledge of STS to real-world problems and career paths"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Science, Technology, and Society Minor",
+      "link": "https://bulletin.stanford.edu/programs/STS-MIN"
+    },
+    {
+      "title": "History and Philosophy of Science Minor",
+      "link": "https://hps.stanford.edu"
+    },
+    {
+      "title": "Philosophy Major",
+      "link": "https://philosophy.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/STS-BA",
+    "https://sts.stanford.edu",
+    "https://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/science-technologyandsociety/"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 units of STS coursework; total approx. 180 quarter units",
+  "additionalInformation": "Students declare through the School of Humanities and Sciences. The major is highly flexible, allowing students to tailor their coursework to their interests and career goals."
+}

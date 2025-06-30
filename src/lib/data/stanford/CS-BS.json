@@ -1,0 +1,49 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Computer Science (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The undergraduate program in Computer Science aims to develop students' breadth of knowledge across the subject areas of computer science, including their ability to apply the defining processes of computer science theory, abstraction, design, and implementation to solve problems in the discipline. Students take core courses in programming techniques, mathematical foundations, systems programming, computer architecture, analysis of algorithms, artificial intelligence, and applications. The program prepares students for careers in government, law, corporate sector, and for graduate study.",
+  "shortProgramDescription": "Stanford's CS B.S. builds a rigorous foundation in core computing areas with flexible depth tracks and prepares students for diverse careers or further study.",
+  "classHighlights": [
+    "The program starts with foundational courses like Programming Abstractions (CS106B) and Mathematical Foundations of Computing (CS103).",
+    "Students then take core CS courses including Computer Organization (CS107), Operating Systems (CS111), and Design & Analysis of Algorithms (CS161).",
+    "Mathematics and Probability are covered through Calculus I-III (MATH19-21), Probability for Computer Scientists (CS109), and additional advanced electives.",
+    "The Science Requirement is fulfilled with at least 11 units, typically via Mechanics, Electricity & Magnetism, and an additional science elective.",
+    "Engineering Fundamentals include introductory engineering courses (ENGR40M or ENGR76) and additional foundational ENGR or CS electives.",
+    "Students choose a depth track comprising at least 25 units, including gateway and advanced electives in areas like AI, Systems, Theory, HCI, or Visual Computing.",
+    "Writing in the Major and Technology in Society components ensure students develop ethical and societal awareness, and can communicate technical concepts effectively."
+  ],
+  "learningOutcomes": [
+    "Apply core principles of computer science to design and implement software systems.",
+    "Analyze algorithms for correctness and efficiency.",
+    "Understand computer systems, architecture, and organization.",
+    "Use mathematics and probability to solve computing problems.",
+    "Communicate technical concepts in written and oral form.",
+    "Evaluate ethical, societal, and global implications of technology.",
+    "Demonstrate depth in a specialized track such as AI, systems, theory, or HCI."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Symbolic Systems",
+      "link": "https://symsys.stanford.edu"
+    },
+    {
+      "title": "Mathematical and Computational Science",
+      "link": "https://mcs.stanford.edu"
+    },
+    {
+      "title": "Computer Science Minor",
+      "link": "https://cs.stanford.edu/undergrad/minor"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/CS-BS",
+    "https://ughb.stanford.edu/majors-minors/computer-science-program",
+    "https://www.cs.stanford.edu/academics/academics-bachelors-program",
+    "https://www.cs.stanford.edu/bachelors-compsci-tracks-overview"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "96 major units plus required math, science, writing, Engineering Fundamentals and depth track units; total approx. 180 quarter units",
+  "additionalInformation": "Students declare through the School of Engineering. AP/IB credits may apply in consultation with department advisers."
+}

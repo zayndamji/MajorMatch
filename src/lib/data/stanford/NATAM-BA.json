@@ -1,0 +1,42 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Native American Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Native American Studies offers an undergraduate major in Native American Studies leading to the Bachelor of Arts degree. The program is designed to provide students the opportunity to explore the histories, cultures, and contemporary experiences of Native peoples throughout the Western Hemisphere, with a particular emphasis on Native North America. Students explore the history of Native American cultural and political interactions with non-Native peoples from the time of first contact to the present. The major is interdisciplinary, drawing on the fields of history, anthropology, literature, religious studies, law, politics, sociology, and cultural studies. Students are trained in the methodologies and epistemologies of multiple disciplines to examine the experiences of Native peoples. The major is designed for students who wish to understand the complex and diverse histories and cultures of Native communities, as well as for those who plan to pursue careers in areas such as education, law, healthcare, and public policy.",
+  "shortProgramDescription": "The Native American Studies major at Stanford provides an interdisciplinary exploration of the histories, cultures, and contemporary experiences of Native peoples in the Western Hemisphere.",
+  "classHighlights": [
+    "The introductory course, Introduction to Native American Studies (NATAM 104A), provides a foundational understanding of Native American histories and cultures. Students also take Research Methods in Native American Studies (NATAM 201), which provides training in research methodologies and epistemologies relevant to the field.",
+    "Courses in the department cover a range of topics, including Native American histories, cultures, and contemporary issues. Examples of courses include History of Native Americans in the United States (HIST 275B), Native American Literatures (ENGL 275C), and Native American Law and Policy (NATAM 234).",
+    "The department offers a range of electives that allow students to explore specific areas of interest, such as Native American cultural studies, history, and politics. Students can choose from a variety of courses, including those offered by affiliated departments such as History, Anthropology, and English.",
+    "Students are also required to take a minimum of three courses at the 200-level or above, which provide advanced training in specific areas of Native American Studies."
+  ],
+  "learningOutcomes": [
+    "Understand the histories, cultures, and contemporary experiences of Native peoples in the Western Hemisphere.",
+    "Analyze the complex interactions between Native American communities and non-Native societies.",
+    "Apply the methodologies and epistemologies of multiple disciplines to the study of Native American experiences.",
+    "Develop critical thinking and writing skills in the context of Native American Studies.",
+    "Prepare for careers in areas such as education, law, healthcare, and public policy."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Comparative Studies in Race and Ethnicity",
+      "link": "https://csre.stanford.edu"
+    },
+    {
+      "title": "History",
+      "link": "https://history.stanford.edu"
+    },
+    {
+      "title": "Anthropology",
+      "link": "https://anthropology.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/NATAM-BA",
+    "https://nativeamericanstudies.stanford.edu"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 units of Native American Studies coursework; total approximately 180 quarter units for the degree",
+  "additionalInformation": "Students declare the major through the Department of Native American Studies. The major is designed to be completed in four years, with a minimum of 45 units of Native American Studies coursework required."
+}

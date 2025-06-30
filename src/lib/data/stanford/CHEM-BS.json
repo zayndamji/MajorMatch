@@ -1,0 +1,42 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Chemistry (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Chemistry B.S. program is designed to provide a deep understanding of the principles of chemistry, including the ability to apply chemical principles to solve problems. The program includes coursework in inorganic, organic, physical, and analytical chemistry, as well as laboratory research experience. Students are prepared for careers in research, industry, and education, as well as for graduate study in chemistry or related fields.",
+  "shortProgramDescription": "Stanford's Chemistry B.S. program provides a comprehensive education in chemistry, preparing students for careers or further study in the field.",
+  "classHighlights": [
+    "The Chemistry B.S. program begins with foundational courses in General Chemistry (CHEM31A/B, CHEM33), Organic Chemistry (CHEM 121/122/141/142), and Physical Chemistry (CHEM 131/132/151/152/171/172).",
+    "Students complete a series of laboratory courses, including Experimental Chemistry (CHEM 41, CHEM 43), Organic Chemistry Lab (CHEM 141, CHEM 142), and Physical Chemistry Lab (CHEM 151, CHEM 152).",
+    "Additional required courses include Quantitative Analysis (CHEM 55), Inorganic Chemistry (CHEM 162), and Chemistry Laboratory Research (CHEM 99)",
+    "Students must also complete a set of related requirements, including Physics (PHYSICS 41/43 or PHYSICS 21/23), Mathematics (MATH 19/20/21 or MATH 41/42), and Biology (BIO 1 or BIO 43)."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a deep understanding of the principles of chemistry, including inorganic, organic, physical, and analytical chemistry.",
+    "Apply chemical principles to solve problems.",
+    "Design and conduct experiments to test hypotheses.",
+    "Analyze and interpret data.",
+    "Communicate scientific information effectively."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Chemical Engineering",
+      "link": "https://bulletin.stanford.edu/programs/CME-BS"
+    },
+    {
+      "title": "Materials Science and Engineering",
+      "link": "https://bulletin.stanford.edu/programs/MSE-BS"
+    },
+    {
+      "title": "Biochemistry",
+      "link": "https://biochemistry.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/CHEM-BS",
+    "https://chemistry.stanford.edu/undergraduate-program/chemistry-bs"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 units",
+  "additionalInformation": "Students are advised to consult with their departmental advisers to plan their course schedule. Course requirements are subject to change."
+}

@@ -1,0 +1,44 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Comparative Literature (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Comparative Literature offers an undergraduate major that introduces students to the study of literature across linguistic and cultural boundaries. The curriculum includes a range of courses that explore literary traditions in a global context, examining the historical, cultural, and theoretical contexts of literary production. Students develop critical thinking, close reading, and analytical writing skills through the study of diverse literary texts and traditions.",
+  "shortProgramDescription": "The Comparative Literature major at Stanford University introduces students to the global study of literature, fostering critical thinking, close reading, and analytical writing skills.",
+  "classHighlights": [
+    "The Comparative Literature curriculum includes foundational courses such as Introduction to Comparative Literature (COMPLIT 101) and Critical Approaches to Literature (COMPLIT 201), which provide a grounding in literary theory and critical methodologies.",
+    "Students explore various literary traditions through courses on specific topics, genres, or periods, such as The Novel (COMPLIT 171), Modern Drama (COMPLIT 173), and Literature and Philosophy (COMPLIT 281).",
+    "The major also encompasses a range of electives that allow students to pursue their interests in areas such as literary theory, cultural studies, and global literatures, ensuring a broad and nuanced understanding of literary studies.",
+    "Courses are often organized around themes, genres, or theoretical approaches, enabling students to engage with diverse literary and cultural contexts, from antiquity to the present.",
+    "Students are encouraged to explore the intersections between literature and other disciplines, such as history, philosophy, and visual arts, fostering a rich and interdisciplinary understanding of literary texts and traditions."
+  ],
+  "learningOutcomes": [
+    "Analyze literary texts within their cultural, historical, and theoretical contexts.",
+    "Apply critical methodologies and literary theories to the interpretation of diverse literary works.",
+    "Develop close reading and critical thinking skills through the study of a wide range of literary texts.",
+    "Cultivate effective written and oral communication skills in presenting literary analysis and argumentation.",
+    "Engage with the global dimensions of literary studies, exploring the intersections and dialogues between different literary traditions and cultures."
+  ],
+  "similarPrograms": [
+    {
+      "title": "English",
+      "link": "https://english.stanford.edu"
+    },
+    {
+      "title": "Modern Thought and Literature",
+      "link": "https://mtl.stanford.edu"
+    },
+    {
+      "title": "French and Italian",
+      "link": "https://frenchanditalian.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/CPLIT-BA",
+    "https://comparativelit.stanford.edu/undergraduate-program",
+    "https://exploredegrees.stanford.edu/undergraduate/comparative-literature-bachelor-arts/"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Comparative Literature major is designed to be flexible, allowing students to tailor their coursework to their interests and career goals. Students are encouraged to study abroad and to engage with literary texts in their original languages."
+}

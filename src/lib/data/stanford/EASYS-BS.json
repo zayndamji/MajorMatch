@@ -1,0 +1,46 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Earth Systems (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Earth Systems Program is an interdisciplinary major that examines the Earth as a complex, interconnected system. Students explore the Earth's physical, biological, and social processes and how they interact and influence one another. The program provides a broad foundation in Earth sciences, including coursework in geological sciences, ecology, biology, and environmental studies. Students also develop skills in data analysis, modeling, and problem-solving.",
+  "shortProgramDescription": "The Earth Systems B.S. program provides students with a comprehensive understanding of the Earth's systems and the skills to analyze and address complex environmental challenges.",
+  "classHighlights": [
+    "🌎 **Foundational Courses**: Students begin with introductory courses in Earth Systems (EARTHSYS 10, EARTHSYS 20) and take additional foundational courses in geological sciences, ecology, and environmental studies.",
+    "📊 **Data Analysis and Modeling**: Students learn data analysis and modeling skills through courses such as Data Analysis for Earth Systems (EARTHSYS 108) and Earth Systems Modeling (EARTHSYS 205).",
+    "🌳 **Ecological and Biological Principles**: Coursework includes ecology, biology, and environmental studies, such as Ecology (BIO 43) and Conservation Biology (EARTHSYS 134).",
+    "🌟 **Earth's Physical Processes**: Students study the Earth's physical processes, including geology, climate science, and hydrology, through courses like Geology (EARTHSYS 53, EARTHSYS 55) and Climate Change (EARTHSYS 150).",
+    "👥 **Social and Human Dimensions**: The program includes coursework on the social and human dimensions of environmental issues, such as Environmental Policy (EARTHSYS 131) and Sustainable Development (EARTHSYS 165).",
+    "🔍 **Research and Field Methods**: Students gain hands-on experience with research and field methods through courses like Field Methods in Earth Systems (EARTHSYS 105) and Research in Earth Systems (EARTHSYS 199)."
+  ],
+  "learningOutcomes": [
+    "Understand the Earth's systems and their interactions",
+    "Analyze and address complex environmental challenges",
+    "Apply data analysis and modeling skills to Earth systems problems",
+    "Demonstrate knowledge of ecological and biological principles",
+    "Understand the Earth's physical processes and their impact on the environment",
+    "Evaluate the social and human dimensions of environmental issues"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Earth System Science",
+      "link": "https://earthsystems.stanford.edu/undergraduate/majors-and-minors/environmental-earth-system-science"
+    },
+    {
+      "title": "Geology",
+      "link": "https://stanford.edu/dept/geo/"
+    },
+    {
+      "title": "Environmental Science and Technology",
+      "link": "https://est.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/EASYS-BS",
+    "https://earthsystems.stanford.edu/undergraduate/majors-and-minors/earth-systems",
+    "https://pangea.stanford.edu/education/programs/earth-systems-bs"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students declare through the School of Earth, Energy & Environmental Sciences. The major is highly interdisciplinary and prepares students for a wide range of careers in environmental science, research, policy, and more."
+}
