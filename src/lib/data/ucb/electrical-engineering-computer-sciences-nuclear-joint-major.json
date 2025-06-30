@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Joint Major",
+  "programName": "EECS / Nuclear Engineering Joint Major (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The EECS / Nuclear Engineering Joint Major is an interdisciplinary program that combines the foundations of electrical engineering and computer science with the principles of nuclear engineering. Students in this program gain a deep understanding of both fields, preparing them for careers at the intersection of technology and nuclear energy.",
+  "shortProgramDescription": "The EECS / Nuclear Engineering Joint Major provides a comprehensive education in electrical engineering, computer science, and nuclear engineering, equipping students for innovative careers.",
+  "classHighlights": [
+    "Lower Division EECS Courses: Students begin with foundational courses in programming (CS 61A, CS 61B), data structures, and computer architecture, along with mathematics requirements, including calculus and differential equations.",
+    "Upper Division EECS Courses: The upper division includes core courses in computer science (CS 70, CS 161, CS 162) and electrical engineering (EECS 126, EECS 127, EECS 106A), along with advanced electives in areas like AI, systems, and theoretical computer science.",
+    "Nuclear Engineering Core: Required nuclear engineering courses cover nuclear reactions, radiation protection, and nuclear reactor design (NUC ENG 100, NUC ENG 101, NUC ENG 120, NUC ENG 130).",
+    "Nuclear Engineering Electives: Students choose from a range of electives that explore topics like nuclear energy systems, radiation detection, and nuclear policy, allowing them to tailor their education to their interests.",
+    "Mathematics and Physics: The program requires a strong foundation in mathematics (including calculus and linear algebra) and physics, supporting both EECS and nuclear engineering coursework."
+  ],
+  "learningOutcomes": [
+    "Apply principles of electrical engineering and computer science to solve complex problems.",
+    "Understand the fundamentals of nuclear engineering, including reactor design and nuclear reactions.",
+    "Analyze and design systems that integrate EECS and nuclear engineering concepts.",
+    "Communicate technical information effectively in written and oral forms.",
+    "Work effectively in teams to tackle interdisciplinary challenges."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Electrical Engineering and Computer Sciences Major",
+      "link": "https://eecs.berkeley.edu"
+    },
+    {
+      "title": "Nuclear Engineering Major",
+      "link": "https://nuclear.berkeley.edu"
+    },
+    {
+      "title": "Energy and Resources Group Major",
+      "link": "https://erg.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/electrical-engineering-computer-sciences-nuclear-joint-major",
+    "https://eecs.berkeley.edu",
+    "https://nuclear.berkeley.edu"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of approximately 120-128 semester units, including major requirements and breadth courses",
+  "additionalInformation": "The program is highly interdisciplinary, requiring a strong foundation in both EECS and nuclear engineering. Students must meet the GPA requirements for both departments and complete a comprehensive set of required and elective courses."
+}

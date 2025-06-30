@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Political Economy (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Political Economy major provides students with a comprehensive understanding of the interplay between economic and political systems. The program combines coursework from various departments, including Economics, Political Science, and Sociology, to equip students with a nuanced understanding of the complex relationships between markets, states, and societies. Students explore the historical and contemporary dynamics of capitalism, the role of power and inequality, and the impact of globalization on local and global communities.",
+  "shortProgramDescription": "The Political Economy B.A. at UC Berkeley offers an interdisciplinary exploration of the intersections between economics, politics, and society, preparing students for careers in fields such as policy, research, and advocacy.",
+  "classHighlights": [
+    "The major requires foundational courses in Economics (ECON1, ECON100A, ECON100B) and Political Science (POLSCI1, POLSCI130A), providing a grounding in microeconomics, macroeconomics, and political theory.",
+    "Students take additional coursework in areas such as globalization, inequality, and the history of capitalism, including courses like 'Globalization and Development' and 'The Economics of Poverty and Inequality'.",
+    "The major also includes electives in areas like environmental politics, labor studies, and social movements, allowing students to tailor their studies to their interests.",
+    "Courses in research methods and senior seminars prepare students for advanced research and analysis, with topics like 'Research Methods in Political Economy' and 'Senior Seminar in Political Economy'.",
+    "The major emphasizes the development of critical thinking, research, and analytical skills, with a focus on understanding the complex relationships between economic and political systems."
+  ],
+  "learningOutcomes": [
+    "Understand the core concepts and theories in political economy, including the relationships between markets, states, and societies.",
+    "Analyze the historical and contemporary dynamics of capitalism, including the role of power and inequality.",
+    "Apply critical thinking and research skills to understand the impact of globalization on local and global communities.",
+    "Evaluate the complex relationships between economic and political systems, including the role of institutions and policies.",
+    "Communicate complex ideas and research findings effectively in written and oral form."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Economics (B.A.)",
+      "link": "https://econ.berkeley.edu/undergrad/major"
+    },
+    {
+      "title": "Political Science (B.A.)",
+      "link": "https://polisci.berkeley.edu/undergraduate/major"
+    },
+    {
+      "title": "Sociology (B.A.)",
+      "link": "https://sociology.berkeley.edu/undergraduate/major"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/political-economy",
+    "https://pe.berkeley.edu/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "The major is highly interdisciplinary and requires coursework from multiple departments. Students are encouraged to pursue research and internship opportunities to gain practical experience in the field."
+}

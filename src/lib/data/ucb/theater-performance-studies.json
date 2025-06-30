@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Theater and Performance Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Theater and Performance Studies at UC Berkeley offers an undergraduate major that combines critical thinking, historical and cultural context, and practical skills in theater and performance. The program encompasses a broad range of courses, including performance, design, dramaturgy, and critical analysis. Students engage with diverse traditions and contemporary practices, preparing them for a variety of careers or further study.",
+  "shortProgramDescription": "The Theater and Performance Studies B.A. at UC Berkeley provides a comprehensive education in theater and performance, integrating practical skills with historical and cultural analysis.",
+  "classHighlights": [
+    "The department offers a range of performance courses where students can engage in acting, directing, and other performance practices. These courses focus on technique, interpretation, and collaboration, helping students develop their artistic skills.",
+    "Design and technical courses cover areas such as costume, lighting, and set design, as well as stage management. Students learn about the technical aspects of production and how to bring a performance to life.",
+    "Courses in dramaturgy and critical analysis enable students to analyze performances, understand the historical and cultural contexts of theater, and develop critical thinking skills. These courses prepare students for a variety of roles in the theater industry or related fields.",
+    "Historical and theoretical courses provide a foundation in the history of theater and performance, as well as critical theories that underpin the field. Students gain a deeper understanding of the contexts and meanings of different performances.",
+    "Electives allow students to explore specialized areas such as theater and social justice, performance and technology, or global theater practices. These courses reflect the department's commitment to diversity and innovation in theater and performance."
+  ],
+  "learningOutcomes": [
+    "Develop practical skills in performance, design, or other areas of theater and performance.",
+    "Analyze and interpret performances and texts within their historical and cultural contexts.",
+    "Understand the principles of dramaturgy and critical analysis.",
+    "Engage with diverse traditions and contemporary practices in theater and performance.",
+    "Apply critical thinking and problem-solving skills in the creation and production of theater and performance.",
+    "Communicate effectively about theater and performance through written and oral forms."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Performance Studies Minor",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/performance-studies-minor"
+    },
+    {
+      "title": "Dance B.A.",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/dance-ba"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/theater-performance-studies",
+    "https://tps.berkeley.edu/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "Students must complete a set of core requirements, including introductory courses, upper division courses, and a senior seminar. The major is flexible, allowing students to pursue their interests through elective courses."
+}

@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Landscape Architecture (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Bachelor of Arts in Landscape Architecture is an undergraduate degree that provides a comprehensive education in the field. The program focuses on the design, planning, and management of landscapes, and includes coursework in landscape history, theory, and design, as well as ecological and cultural contexts.",
+  "shortProgramDescription": "The Landscape Architecture B.A. program at UC Berkeley provides a foundation in the principles and practices of landscape architecture, preparing students for careers or graduate study.",
+  "classHighlights": [
+    "The program includes foundational courses such as Landscape Architecture: Culture and Environment (LA 10), Introduction to Design Media for Landscape Architecture (LA 15), and others that introduce students to the field and its practices.",
+    "Students take courses in design and planning, including Landscape Architecture Design (LA 131, LA 132), History of Landscape Architecture (LA 110), and Planting Design (LA 145).",
+    "The curriculum includes coursework in ecological and cultural contexts, such as Landscape Ecology (LA 120) and Landscape and Cultural Studies (LA 111, LA 112).",
+    "Students also complete coursework in technical skills, including Geographic Information Systems (LA 162) and Landscape Construction (LA 141, LA 142)."
+  ],
+  "learningOutcomes": [
+    "Understand the principles and practices of landscape architecture",
+    "Apply design and planning skills to landscape projects",
+    "Analyze the ecological and cultural contexts of landscapes",
+    "Communicate effectively through written, visual, and oral means",
+    "Demonstrate an understanding of the historical and theoretical foundations of landscape architecture"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Economics and Policy",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/environmental-economics-policy"
+    },
+    {
+      "title": "Conservation and Resource Studies",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/conservation-resource-studies"
+    },
+    {
+      "title": "Geography",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/geography"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/landscape-architecture",
+    "https://ced.berkeley.edu/academics/la/undergraduate/"
+  ],
+  "programDuration": "4 years (semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "The program is administered by the Department of Landscape Architecture and Environmental Planning. Students must complete a set of required courses and electives to fulfill the major requirements."
+}

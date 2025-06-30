@@ -1,0 +1,37 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Music (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Music at UC Berkeley offers a comprehensive program that includes the study of music theory, musicianship, music history, and performance. The undergraduate major is designed to provide students with a broad understanding of music, its historical and cultural contexts, and its performance practices. Students are trained in the skills of analysis, criticism, and performance, and are prepared for a variety of careers in music and related fields.",
+  "shortProgramDescription": "The Music B.A. program at UC Berkeley provides a rigorous education in music theory, history, and performance, preparing students for careers in music and related fields.",
+  "classHighlights": [
+    "Music Theory and Musicianship: The program requires coursework in music theory and musicianship, including harmony, counterpoint, and analysis. Students develop their skills in music reading, writing, and performance through courses such as Music 140A-B-C (Harmony), Music 150A-B-C (Counterpoint), and Music 160A-B-C (Analysis).",
+    "Music History: Students study the history of music from the Middle Ages to the present, with courses such as Music 131-132-133 (History of Western Music) and Music 136 (Topics in Music History).",
+    "Performance: The program requires students to participate in performance activities, including solo and ensemble performance, and to demonstrate their proficiency on their primary instrument or voice. Courses include Music 100 (Private Instruction) and Music 110-111-112 (Ensemble Performance)."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad understanding of music theory, history, and performance practices.",
+    "Analyze and interpret musical scores and performances.",
+    "Develop their skills in music reading, writing, and performance.",
+    "Understand the cultural and historical contexts of music.",
+    "Prepare for careers in music and related fields, such as education, arts administration, and music industry."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Music Minor",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/music-minor"
+    },
+    {
+      "title": "Dance B.A.",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/dance"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/music",
+    "https://music.berkeley.edu"
+  ],
+  "programDuration": "4 years (semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "The Music B.A. program requires a minimum of 12 upper-division units in the major, including Music 140C, Music 160C, and Music 133. Students must also complete a foreign language requirement and a breadth requirement in the humanities and social sciences."
+}

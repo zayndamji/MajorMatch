@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Dance and Performance Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Theater, Dance, and Performance Studies offers an undergraduate major in Dance and Performance Studies that provides students with a comprehensive understanding of dance and performance practices. The program combines technique classes, historical and theoretical studies, and practical experiences to prepare students for a variety of careers in the field.",
+  "shortProgramDescription": "The Dance and Performance Studies B.A. program at UC Berkeley provides a comprehensive education in dance and performance, combining technique, theory, and practice.",
+  "classHighlights": [
+    "The program's technique classes cover a range of styles, including ballet, modern, and contemporary dance, and are designed to help students develop their technical skills and artistic expression.",
+    "Theoretical and historical courses examine the cultural, social, and historical contexts of dance and performance, and provide students with a deeper understanding of the field.",
+    "Students also participate in practical experiences, such as choreography, performance, and production, which allow them to apply their knowledge and skills in a real-world setting.",
+    "Courses in the program are organized around three main areas: Technique and Performance, Historical and Theoretical Studies, and Production and Practice.",
+    "Students are required to complete a series of core courses, including Introduction to Dance and Performance Studies, Dance Technique, and History of Dance."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a high level of technical proficiency in dance and performance practices.",
+    "Analyze and interpret dance and performance works from a variety of cultural and historical contexts.",
+    "Create and perform original choreography and performance work.",
+    "Apply theoretical and historical knowledge to practical problems in dance and performance.",
+    "Communicate effectively about dance and performance through written and oral presentations."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Theater and Performance Studies (B.A.)",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/theater-performance-studies"
+    },
+    {
+      "title": "Performance Studies Minor",
+      "link": "https://tdps.berkeley.edu/undergraduate/minor"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/dance-performance-studies",
+    "https://tdps.berkeley.edu/undergraduate/major"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "Students are required to complete a series of core courses, and must also fulfill the university's general education requirements. The program is designed to be completed in four years, with most students declaring the major in their sophomore or junior year."
+}

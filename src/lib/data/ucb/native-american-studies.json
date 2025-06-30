@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Native American Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Native American Studies major is an interdisciplinary program that focuses on the histories, cultures, and experiences of Native American communities. The major provides a foundation in Native American studies through core courses and electives that explore the diverse perspectives and histories of Native American peoples.",
+  "shortProgramDescription": "The Native American Studies B.A. provides students with a comprehensive understanding of Native American histories, cultures, and experiences through an interdisciplinary approach.",
+  "classHighlights": [
+    "The introductory course, Introduction to Native American Studies (NATIVEAMER 10AC), provides a foundation for the major by exploring the histories, cultures, and experiences of Native American communities.",
+    "Core courses, including History of Native Americans in California (NATIVEAMER 131AC), and Native American Cultures (NATIVEAMER 148), provide students with a deeper understanding of the diverse perspectives and histories of Native American peoples.",
+    "Electives, such as Native American Literature (NATIVEAMER 155AC), and Native American Environmental Justice (NATIVEAMER 188), allow students to explore specific topics and issues related to Native American studies.",
+    "Upper-division courses, including Native American Research Methods (NATIVEAMER 192), and Senior Colloquium (NATIVEAMER 198), provide students with advanced research and analytical skills, as well as the opportunity to engage with faculty and peers in a collaborative learning environment.",
+    "Courses in the major are organized around themes such as cultural studies, history, and social justice, and are designed to provide students with a nuanced understanding of the complex issues facing Native American communities."
+  ],
+  "learningOutcomes": [
+    "Analyze the historical and contemporary experiences of Native American communities from a critical and nuanced perspective.",
+    "Understand the diverse cultures, histories, and traditions of Native American peoples.",
+    "Apply interdisciplinary approaches to understanding the complex issues facing Native American communities.",
+    "Develop critical thinking, research, and analytical skills through the study of Native American studies.",
+    "Communicate effectively about Native American issues and experiences through written and oral forms."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Ethnic Studies",
+      "link": "https://ethnicstudies.berkeley.edu"
+    },
+    {
+      "title": "History",
+      "link": "https://history.berkeley.edu"
+    },
+    {
+      "title": "American Studies",
+      "link": "https://americanstudies.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/native-american-studies",
+    "https://nativeamericanstudies.berkeley.edu",
+    "https://ethnicstudies.berkeley.edu"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "Students are encouraged to pursue a minor or double major in a related field, and to participate in study abroad programs or internships that provide practical experience in Native American studies."
+}

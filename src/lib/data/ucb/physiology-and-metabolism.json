@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Nutritional Sciences: Physiology & Metabolism (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Nutritional Sciences: Physiology & Metabolism major provides a rigorous education in the biological and physiological sciences underlying human nutrition, focusing on the scientific basis for understanding the role of nutrition in health and disease. The program emphasizes the integration of nutritional science with the study of human physiology and metabolism.",
+  "shortProgramDescription": "The Nutritional Sciences: Physiology & Metabolism major at UC Berkeley provides a comprehensive understanding of the biological and physiological aspects of nutrition and its impact on health and disease.",
+  "classHighlights": [
+    "The major requires foundational courses in biology, chemistry, and physiology, including Biology 1A/1AL, Chemistry 1A/1AL, and Integrative Biology 131.",
+    "Coursework in nutritional biochemistry and physiology includes Nutritional Sciences 100, 101, and 105, which cover the biochemical and physiological aspects of nutrition.",
+    "Students also take advanced courses in areas such as molecular and cellular biology, physiology, and biochemistry, including Molecular and Cell Biology 102, 103, and 104, and Chemistry 135.",
+    "Additional requirements include courses in statistics, public health, and upper division writing, ensuring a well-rounded education that includes both scientific and communication skills."
+  ],
+  "learningOutcomes": [
+    "Understand the principles of nutritional science and its application to human health.",
+    "Apply knowledge of biological and physiological sciences to understand the role of nutrition in health and disease.",
+    "Analyze and interpret scientific data related to nutrition and metabolism.",
+    "Communicate effectively about nutritional science and its relevance to health outcomes."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Nutritional Sciences: Dietetics (B.S.)",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/dietetics"
+    },
+    {
+      "title": "Molecular and Cell Biology (B.S.)",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/mcb"
+    },
+    {
+      "title": "Public Health (B.A./B.S.)",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/public-health"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/physiology-and-metabolism",
+    "https://nutrition.berkeley.edu/programs/undergraduate/nutritional-sciences-major"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "Students must complete a set of lower division requirements, including biology, chemistry, and mathematics, before progressing to upper division coursework in nutritional sciences and related fields."
+}

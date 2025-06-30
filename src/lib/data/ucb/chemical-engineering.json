@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Chemical Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Chemical Engineering major at UC Berkeley emphasizes the development of skills in process analysis, design, and operation. The program includes a core curriculum in mathematics, physics, chemistry, and engineering, as well as specialized courses in chemical engineering principles, such as thermodynamics, transport phenomena, and chemical reaction engineering. Students also complete laboratory courses and a capstone design project. The program prepares students for a wide range of career opportunities in industries such as energy, biotechnology, and materials processing.",
+  "shortProgramDescription": "The Chemical Engineering B.S. at UC Berkeley provides a comprehensive education in the principles and practices of chemical engineering, preparing students for careers in diverse industries.",
+  "classHighlights": [
+    "The Chemical Engineering curriculum begins with foundational courses in mathematics (Calculus, Differential Equations), physics, and chemistry, providing a rigorous base for advanced study.",
+    "Students learn core chemical engineering principles through courses in thermodynamics, fluid mechanics, heat and mass transfer, and chemical reaction engineering, applying theoretical knowledge to practical problems.",
+    "Laboratory courses allow students to gain hands-on experience with experimental design, data analysis, and process operation, developing skills in measurement, control, and optimization.",
+    "Courses in process control, biochemical engineering, and materials science provide additional depth and specialization, enabling students to tailor their education to their interests and career goals.",
+    "The curriculum includes study in areas such as energy systems, environmental engineering, and nanotechnology, reflecting the diverse applications of chemical engineering.",
+    "Throughout the program, students develop skills in problem-solving, teamwork, and communication, preparing them for leadership roles in industry, academia, or government."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mathematics, physics, and chemistry to solve chemical engineering problems.",
+    "Design and analyze chemical processes and systems, considering factors such as safety, efficiency, and environmental impact.",
+    "Use laboratory equipment and techniques to measure and analyze physical and chemical properties.",
+    "Develop and implement control strategies for chemical processes.",
+    "Work effectively in teams to solve complex problems and complete projects.",
+    "Communicate technical information clearly and effectively in written and oral forms."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Chemistry",
+      "link": "https://chemistry.berkeley.edu/undergraduate-program"
+    },
+    {
+      "title": "Materials Science and Engineering",
+      "link": "https://mse.berkeley.edu/"
+    },
+    {
+      "title": "Bioengineering",
+      "link": "https://bioeng.berkeley.edu/undergraduate"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/chemical-engineering",
+    "https://che.berkeley.edu/",
+    "https://www.berkeley.edu/catalog/chemical-engineering"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "128 units (semester system)",
+  "additionalInformation": "The Chemical Engineering major is accredited by the Engineering Accreditation Commission of ABET. Students must complete a set of lower division requirements before declaring the major, and maintain a minimum GPA in major coursework. Internship and research opportunities are available to enhance practical experience."
+}

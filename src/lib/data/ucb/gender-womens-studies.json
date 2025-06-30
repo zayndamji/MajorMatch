@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Gender and Women's Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Gender and Women's Studies at UC Berkeley offers an undergraduate major that provides students with a rigorous and interdisciplinary understanding of the social, cultural, and political constructions of gender. The major is designed to equip students with a critical understanding of the ways in which gender intersects with other categories of identity and power, such as race, class, and sexuality. Students explore a range of topics, including the history of feminism, the representation of women in culture, and the impact of gender on social and political institutions.",
+  "shortProgramDescription": "The Gender and Women's Studies major at UC Berkeley provides students with a nuanced understanding of the complex and multifaceted nature of gender and its intersections with other forms of identity and power.",
+  "classHighlights": [
+    "Core courses in the major, such as Introduction to Gender and Women's Studies and Theories of Gender and Sexuality, provide a foundation in the field and introduce students to key concepts and debates.",
+    "Courses in the department's 'Feminist Theory and Praxis' category, such as Feminist Theory and Social Movements, allow students to explore the ways in which feminist theory has been developed and applied in various contexts.",
+    "Electives in the major, such as Women and Politics and Gender and Globalization, enable students to pursue their interests in specific areas and explore the intersections between gender and other fields of study.",
+    "Courses in the department also often incorporate critical perspectives on race, class, and sexuality, allowing students to develop a nuanced understanding of the complex and multifaceted nature of identity and power."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a nuanced understanding of the complex and multifaceted nature of gender and its intersections with other forms of identity and power.",
+    "Apply feminist theory to a range of social, cultural, and political contexts.",
+    "Analyze the ways in which gender is constructed and represented in different cultures and historical periods.",
+    "Critically evaluate the impact of gender on social and political institutions.",
+    "Develop effective written and oral communication skills, with the ability to articulate complex ideas and arguments clearly and persuasively."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Comparative Literature",
+      "link": "https://comparative-literature.berkeley.edu"
+    },
+    {
+      "title": "Ethnic Studies",
+      "link": "https://ethnicstudies.berkeley.edu"
+    },
+    {
+      "title": "Sexuality Studies",
+      "link": "https://gsi.berkeley.edu/programs/sexuality-studies/"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/gender-womens-studies",
+    "https://gws.berkeley.edu/undergraduate/major",
+    "https://www.berkeley.edu/catalog"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "The major is designed to be flexible, allowing students to pursue their interests and tailor their course of study to their individual goals and aspirations."
+}

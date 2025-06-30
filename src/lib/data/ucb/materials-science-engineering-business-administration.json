@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Materials Science & Engineering and Business Administration (B.S. MET)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Materials Science & Engineering and Business Administration program is an interdisciplinary major that combines the study of materials science and engineering with business administration. Students in this program gain a strong foundation in materials science and engineering, as well as coursework in business administration, preparing them for careers at the intersection of technology and business.",
+  "shortProgramDescription": "The Materials Science & Engineering and Business Administration program at UC Berkeley combines coursework in materials science and engineering with business administration, preparing students for careers in technology and business.",
+  "classHighlights": [
+    "Students take core courses in materials science and engineering, including thermodynamics, kinetics, and structure and properties of materials.",
+    "The program includes coursework in business administration, such as financial management, marketing, and organizational behavior.",
+    "Materials science and engineering electives allow students to explore specific areas, such as biomaterials, nanomaterials, or energy materials.",
+    "Business administration electives provide students with the opportunity to specialize in areas like finance, marketing, or entrepreneurship.",
+    "The program requires a laboratory course in materials science and engineering, where students gain hands-on experience with materials characterization and processing.",
+    "Students also complete coursework in mathematics and physics, providing a strong foundation for understanding materials science and engineering principles."
+  ],
+  "learningOutcomes": [
+    "Apply knowledge of materials science and engineering to solve problems in a business context.",
+    "Understand the principles of business administration and management.",
+    "Analyze and design materials and systems for specific applications.",
+    "Communicate technical and business concepts effectively.",
+    "Work effectively in teams to solve complex problems.",
+    "Understand the societal and environmental implications of materials science and engineering."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Materials Science and Engineering",
+      "link": "https://materials.berkeley.edu"
+    },
+    {
+      "title": "Business Administration",
+      "link": "https://haas.berkeley.edu"
+    },
+    {
+      "title": "Engineering Management",
+      "link": "https://funginstitute.berkeley.edu/engineering-management/"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/materials-science-engineering-business-administration",
+    "https://materials.berkeley.edu",
+    "https://haas.berkeley.edu"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "128-130 semester units",
+  "additionalInformation": "The program is highly competitive and requires a strong academic record. Students must complete a set of required courses in materials science and engineering and business administration, as well as electives in both areas."
+}

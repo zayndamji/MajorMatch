@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Society and Environment (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Society and Environment major is an inter-disciplinary program that examines the complex relationships between human societies and the environment. The major is grounded in the social sciences, humanities, and natural sciences, and provides students with a comprehensive understanding of the social, cultural, and environmental dimensions of environmental issues. Students in the major explore the ways in which social structures, institutions, and processes shape human-environment interactions, and develop skills in analyzing and addressing environmental problems.",
+  "shortProgramDescription": "The Society and Environment major provides students with a comprehensive understanding of the complex relationships between human societies and the environment, preparing them for careers in environmental policy, sustainability, and social justice.",
+  "classHighlights": [
+    "The major requires a foundational course (ENVIRON 100: Introduction to Society and Environment) that introduces students to the key concepts and theories of the field. This course provides a broad overview of the complex relationships between human societies and the environment, and sets the stage for more advanced coursework.",
+    "Students in the major take a range of courses that examine the social, cultural, and environmental dimensions of environmental issues, including courses in environmental sociology, environmental politics, and environmental economics. These courses provide students with a nuanced understanding of the complex relationships between human societies and the environment, and help them develop skills in analyzing and addressing environmental problems.",
+    "The major also requires students to take courses in research methods and statistics, which provide them with the skills and knowledge needed to conduct rigorous research on environmental issues. These courses help students develop a range of skills, including data analysis, research design, and critical thinking.",
+    "In addition to these core requirements, students in the major can choose from a range of electives that allow them to explore specific topics in more depth. These electives include courses on topics such as environmental justice, climate change, and sustainability, and provide students with the opportunity to develop a more nuanced understanding of the complex relationships between human societies and the environment.",
+    "The major also includes a range of upper-division courses that provide students with advanced knowledge and skills in specific areas. These courses include seminars, research workshops, and other advanced coursework that help students develop a more sophisticated understanding of the complex relationships between human societies and the environment.",
+    "Overall, the Society and Environment major provides students with a comprehensive understanding of the complex relationships between human societies and the environment, and prepares them for a range of careers in environmental policy, sustainability, and social justice."
+  ],
+  "learningOutcomes": [
+    "Understand the complex relationships between human societies and the environment",
+    "Analyze the social, cultural, and environmental dimensions of environmental issues",
+    "Develop skills in researching and analyzing environmental problems",
+    "Apply theoretical perspectives to real-world environmental issues",
+    "Communicate complex ideas and research findings effectively",
+    "Develop a nuanced understanding of the complex relationships between human societies and the environment"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Economics and Policy",
+      "link": "https://are.berkeley.edu"
+    },
+    {
+      "title": "Environmental Science",
+      "link": "https://espm.berkeley.edu"
+    },
+    {
+      "title": "Geography",
+      "link": "https://geography.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/society-environment",
+    "https://societyandenvironment.berkeley.edu",
+    "https://espm.berkeley.edu/undergraduate/major-society-and-environment"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "The Society and Environment major is an inter-disciplinary program that draws on coursework from a range of departments, including Environmental Science, Policy, and Management, Geography, and Sociology. Students in the major are encouraged to pursue internships, research opportunities, and study abroad programs to enhance their understanding of environmental issues and develop their skills and knowledge."
+}

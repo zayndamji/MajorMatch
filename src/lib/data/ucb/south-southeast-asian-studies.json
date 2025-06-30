@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "South and Southeast Asian Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of South and Southeast Asian Studies at UC Berkeley offers an undergraduate major that provides students with a comprehensive understanding of the languages, cultures, histories, and societies of South and Southeast Asia. The program allows students to explore the region through a variety of disciplinary approaches, including language and literature, history, anthropology, and cultural studies. Students are required to gain proficiency in at least one language of the region and to take a range of courses that cover the diverse cultures, histories, and societies of South and Southeast Asia.",
+  "shortProgramDescription": "The South and Southeast Asian Studies major at UC Berkeley provides students with a deep understanding of the languages, cultures, and histories of the region, preparing them for careers in fields such as education, government, international relations, and non-profit work.",
+  "classHighlights": [
+    "Language courses: Students are required to gain proficiency in at least one language of South or Southeast Asia, such as Bengali, Hindi, Indonesian, Pali, Sanskrit, Tagalog, Thai, or Vietnamese, through a sequence of courses that cover the language's structure, vocabulary, and cultural context.",
+    "Core courses: The major includes core courses that introduce students to the cultures, histories, and societies of South and Southeast Asia, covering topics such as the region's literary and cultural traditions, its historical development, and its contemporary social and political issues.",
+    "Elective courses: Students can choose from a range of elective courses that allow them to explore specific topics in greater depth, such as the history of a particular country or region, the cultural significance of a specific text or author, or the social and economic development of the region.",
+    "Thematic courses: Some courses are organized around specific themes, such as the role of religion in South and Southeast Asian societies, the impact of colonialism on the region, or the contemporary social and political issues facing the region's countries.",
+    "Regional courses: Courses are also organized around specific regions or countries within South and Southeast Asia, allowing students to gain a deeper understanding of the unique cultural, historical, and social contexts of these areas."
+  ],
+  "learningOutcomes": [
+    "Gain proficiency in at least one language of South or Southeast Asia",
+    "Understand the cultures, histories, and societies of South and Southeast Asia",
+    "Analyze the complex cultural, social, and political contexts of the region",
+    "Develop critical thinking and writing skills through the study of the region's languages, literatures, and cultures",
+    "Apply knowledge of the region to real-world problems and issues"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Asian Studies",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/asian-studies"
+    },
+    {
+      "title": "Comparative Literature",
+      "link": "https://comparative-literature.berkeley.edu/undergraduate"
+    },
+    {
+      "title": "History",
+      "link": "https://history.berkeley.edu/undergraduate"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/south-southeast-asian-studies",
+    "https://southasia.berkeley.edu/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "Students are encouraged to study abroad in South or Southeast Asia to gain firsthand experience of the region's cultures and societies. The department also offers a range of extracurricular activities, including cultural events and language tables, to support students' academic and personal interests."
+}

@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Civil Engineering and Business Administration",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Civil Engineering and Business Administration program is an interdisciplinary major that combines the technical aspects of civil engineering with the foundational elements of business administration. It is designed for students who wish to pursue careers at the intersection of infrastructure development, environmental sustainability, and business management. The program covers fundamental principles of civil engineering, including structures, transportation, water resources, and environmental engineering, along with core business disciplines such as accounting, finance, marketing, and management.",
+  "shortProgramDescription": "This major combines civil engineering and business administration to prepare students for leadership roles in infrastructure and construction industries.",
+  "classHighlights": [
+    "Civil Engineering Fundamentals: Courses include Statics (ENGR 30), Mechanics of Materials (CIV ENG 30), and Introduction to Civil Engineering (CIV ENG 11). These lay the groundwork for understanding the physical and mathematical principles underlying civil engineering.",
+    "Structures and Materials: Students study structural analysis and design (CIV ENG 120, 121), and materials science relevant to civil engineering, providing a foundation for understanding how different materials behave under various conditions.",
+    "Transportation and Urban Planning: Courses cover transportation engineering (CIV ENG 170) and aspects of urban planning, giving students insight into the design and management of transportation systems and urban infrastructure.",
+    "Water Resources and Environmental Engineering: Students are introduced to water resources engineering (CIV ENG 102) and environmental engineering principles (CIV ENG 155), focusing on sustainable water management and environmental protection.",
+    "Business Administration: The business component includes financial accounting (UGBA 101A), financial management (UGBA 103), marketing management (UGBA 104), and organizational behavior (UGBA 105), equipping students with the knowledge to manage and lead in a business context.",
+    "Electives and Specializations: Students can choose from a range of electives in both civil engineering and business administration, allowing them to tailor their education to specific interests or career goals."
+  ],
+  "learningOutcomes": [
+    "Apply civil engineering principles to design and analyze infrastructure projects.",
+    "Understand business fundamentals, including finance, marketing, and management.",
+    "Integrate technical knowledge with business acumen to make informed decisions.",
+    "Communicate effectively with both technical and non-technical stakeholders.",
+    "Work collaboratively in multidisciplinary teams to solve complex problems.",
+    "Analyze and address the environmental and social impacts of infrastructure projects."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Civil Engineering",
+      "link": "https://ce.berkeley.edu/programs/civil-engineering"
+    },
+    {
+      "title": "Business Administration",
+      "link": "https://haas.berkeley.edu/undergraduate-program/"
+    },
+    {
+      "title": "Environmental Engineering",
+      "link": "https://ce.berkeley.edu/programs/environmental-engineering-science"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/civil-engineering-business-administration",
+    "https://ce.berkeley.edu/programs/civil-engineering",
+    "https://haas.berkeley.edu/undergraduate-program/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of approximately 128-130 semester units, with specific requirements for both civil engineering and business administration coursework",
+  "additionalInformation": "The program is highly interdisciplinary and requires careful planning. Students are advised to consult with advisors in both the Civil and Environmental Engineering department and the Haas School of Business to ensure they meet all major requirements."
+}

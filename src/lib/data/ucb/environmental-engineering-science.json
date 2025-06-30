@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Environmental Engineering Science (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Environmental Engineering Science (EES) major is an interdisciplinary program that provides a foundation in the fundamental sciences and mathematics, combined with laboratory and field experience, and with courses in the social sciences and humanities. EES integrates engineering principles with the natural and social sciences to understand and address environmental challenges. The program is designed to equip students with the knowledge, skills, and perspectives needed to analyze and solve complex environmental problems.",
+  "shortProgramDescription": "The EES major provides a comprehensive education in environmental science and engineering, incorporating principles from the natural and social sciences, and mathematics.",
+  "classHighlights": [
+    "Mathematics and Science: The program requires a strong foundation in mathematics and science, including calculus, differential equations, chemistry, and physics. Students also take courses in biology, ecology, and earth sciences.",
+    "Engineering Fundamentals: Students learn the principles of engineering, including mechanics, thermodynamics, and transport phenomena, with a focus on environmental applications.",
+    "Environmental Engineering Science Core: The core curriculum includes courses in environmental engineering science, such as mass and energy balances, environmental chemistry, and environmental engineering science laboratory.",
+    "Social Sciences and Humanities: The program incorporates courses in the social sciences and humanities, including economics, policy, and ethics, to provide a well-rounded education.",
+    "Electives and Specializations: Students can choose from a range of electives and specializations, including air quality, water quality, and environmental policy, to tailor their education to their interests and career goals."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mathematics, science, and engineering to environmental problems",
+    "Analyze and solve complex environmental problems using a systems approach",
+    "Design and conduct experiments to measure and analyze environmental phenomena",
+    "Communicate effectively with diverse stakeholders on environmental issues",
+    "Understand the social, economic, and policy context of environmental problems"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Economics and Policy (B.A. or B.S.)",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/environmental-economics-policy"
+    },
+    {
+      "title": "Energy and Resources Group (B.A. or B.S.)",
+      "link": "https://erg.berkeley.edu/undergraduate/"
+    },
+    {
+      "title": "Earth and Planetary Science (B.A. or B.S.)",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/earth-planetary-science"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/environmental-engineering-science",
+    "https://eesd.berkeley.edu",
+    "https://www.berkeley.edu/catalog"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "128-130 semester units",
+  "additionalInformation": "The EES major is a rigorous program that requires a strong foundation in mathematics and science. Students are encouraged to participate in research and internships to gain practical experience."
+}

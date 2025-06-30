@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Industrial Engineering & Operations Research (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Industrial Engineering and Operations Research (IEOR) department at UC Berkeley offers an undergraduate program that focuses on the design, improvement, and installation of integrated systems of people, materials, information, equipment, and energy. The program emphasizes the application of advanced analytical and computational methods to make better decisions and solve complex problems. IEOR students are trained to be systems thinkers, leveraging operations research, data analytics, and engineering principles to tackle challenges in various industries, including healthcare, finance, technology, and manufacturing.",
+  "shortProgramDescription": "The IEOR B.S. at UC Berkeley prepares students to analyze and optimize complex systems using operations research, data analytics, and engineering principles.",
+  "classHighlights": [
+    "The lower division courses provide a foundation in mathematics, physics, and computing. Students take Calculus (MATH 1A-1B), Probability and Statistics in Engineering (EE 126), and Introduction to Computing for Engineers (COMPSCI 61A or ENGR 7).",
+    "Core IEOR courses introduce students to the principles of industrial engineering and operations research. These include Introduction to Industrial Engineering and Operations Research (IEOR 160), Operations Research: Stochastic Models (IEOR 161), and Deterministic Models (IEOR 162).",
+    "Upper division courses allow students to explore specialized areas, such as optimization, stochastic processes, production systems, and data analytics. Some of the courses include Optimization Models (IEOR 162), Stochastic Models (IEOR 161), Production Systems Analysis (IEOR 170), and Quality Control and Reliability (IEOR 165).",
+    "Electives enable students to dive deeper into their chosen track, including courses on topics like simulation, supply chain management, financial engineering, and human factors engineering."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical and computational techniques to analyze and optimize complex systems",
+    "Understand the principles of operations research, including deterministic and stochastic models",
+    "Analyze production systems, quality control, and reliability",
+    "Use data analytics to inform decision-making",
+    "Design and implement optimization models for real-world problems",
+    "Communicate complex ideas effectively to both technical and non-technical audiences"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mechanical Engineering",
+      "link": "https://me.berkeley.edu"
+    },
+    {
+      "title": "Civil and Environmental Engineering",
+      "link": "https://ce.berkeley.edu"
+    },
+    {
+      "title": "Data Science",
+      "link": "https://data.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/industrial-engineering-operations-research",
+    "https://ieor.berkeley.edu",
+    "https://www.berkeley.edu/catalog"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "128 units (semester system)",
+  "additionalInformation": "The program requires a strong foundation in mathematics and computing. Students are encouraged to participate in research, internships, and other extracurricular activities to gain practical experience."
+}

@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Mathematics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Department of Mathematics offers a Bachelor of Science degree program that provides a broad foundation in mathematics, including pure mathematics, applied mathematics, and probability and statistics. The program is designed to provide students with a deep understanding of mathematical concepts and techniques, as well as the ability to apply them to real-world problems.",
+  "shortProgramDescription": "The Mathematics B.S. program at UC Berkeley provides students with a rigorous foundation in mathematical concepts and techniques, preparing them for careers in academia, research, and industry.",
+  "classHighlights": [
+    "Students are required to complete a set of core courses, including calculus (Mathematics 1A-1B), linear algebra (Mathematics 54), and differential equations (Mathematics 110 or 128A), which provide a foundation in mathematical theory and problem-solving.",
+    "The program also requires students to complete a series of upper-division courses, including real analysis (Mathematics 104 or 108), abstract algebra (Mathematics 113), and complex analysis (Mathematics 106), which provide a deeper understanding of mathematical concepts and techniques.",
+    "Students can choose from a range of electives, including courses in applied mathematics, probability and statistics, and mathematical physics, which allow them to tailor their program to their interests and career goals.",
+    "The department also offers a range of specialized courses, including mathematics education and history of mathematics, which provide students with a broader understanding of the field and its applications."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a deep understanding of mathematical concepts and techniques, including calculus, linear algebra, and differential equations.",
+    "Apply mathematical concepts and techniques to real-world problems, including problems in physics, engineering, and economics.",
+    "Communicate mathematical ideas and results effectively, both orally and in writing.",
+    "Analyze and interpret mathematical data, including data from experiments and simulations.",
+    "Understand the historical and cultural context of mathematics, including the contributions of mathematicians from diverse backgrounds."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Applied Mathematics",
+      "link": "https://math.berkeley.edu/programs/undergraduate/applied-mathematics"
+    },
+    {
+      "title": "Statistics",
+      "link": "https://statistics.berkeley.edu/programs/undergraduate/statistics-major"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/mathematics",
+    "https://math.berkeley.edu/programs/undergraduate",
+    "https://www.berkeley.edu/catalog/departments/mathematics"
+  ],
+  "programDuration": "4 years (semester system)",
+  "creditRequirements": "120 units (semester system)",
+  "additionalInformation": "Students must complete the university's general education requirements and maintain a minimum GPA of 2.0. The department also offers a range of advising and support services to help students navigate the program and achieve their goals."
+}

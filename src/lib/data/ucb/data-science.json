@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Data Science (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Data Science major provides a rigorous and comprehensive foundation in the core areas of data science, including data manipulation, machine learning, statistical inference, data ethics, and data visualization. The program is designed to prepare students for a wide range of careers in industry, government, and academia, as well as for graduate study in data science and related fields.",
+  "shortProgramDescription": "The Data Science major at UC Berkeley provides students with a deep understanding of the data science pipeline, from data acquisition and cleaning to machine learning and visualization, preparing them for a wide range of careers.",
+  "classHighlights": [
+    "Foundational courses: Data 8 (Foundations of Data Science), Data 100 (Principles and Techniques of Data Science), and Data 101 (Data Engineering) provide a comprehensive introduction to the field, covering data manipulation, machine learning, and data ethics.",
+    "Computational and mathematical foundations: Students take courses in probability and statistics (Stat 134 or Stat 140), linear algebra (Math 54 or Math 56), and programming (CS 61A or equivalent), providing a strong foundation in the mathematical and computational principles underlying data science.",
+    "Data science core: Upper-division courses in data science, including Data 102 (Data Science Practicum), Data 104 (Human Contexts and Ethics of Data Science), and Data 106 (Data Science with Python), provide students with a deep understanding of the data science pipeline and its applications.",
+    "Domain-specific data science: Students choose from a range of electives that apply data science to specific domains, such as environmental science, economics, or public health, allowing them to tailor their education to their interests.",
+    "Capstone and project-based courses: While not required, many students participate in project-based courses, such as Data 102 or Data 194, which provide hands-on experience with real-world data science projects."
+  ],
+  "learningOutcomes": [
+    "Understand the principles and techniques of data science, including data manipulation, machine learning, and data visualization.",
+    "Apply data science to real-world problems, using a range of programming languages and tools.",
+    "Evaluate the ethical implications of data science and develop strategies for mitigating potential negative consequences.",
+    "Communicate complex data insights effectively to both technical and non-technical audiences.",
+    "Work effectively in teams to design, implement, and deploy data science projects."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Statistics",
+      "link": "https://statistics.berkeley.edu/programs/undergraduate/statistics-ba"
+    },
+    {
+      "title": "Computer Science",
+      "link": "https://www.cs.berkeley.edu/education/cs-major"
+    },
+    {
+      "title": "Mathematics",
+      "link": "https://math.berkeley.edu/programs/undergraduate/mathematics-ba"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/data-science",
+    "https://data.berkeley.edu/academics/undergraduate",
+    "https://data.berkeley.edu/academics/undergraduate/data-science-major"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "Students must complete a set of foundational courses, including Data 8, Data 100, and Data 101, as well as upper-division courses in data science, statistics, and computer science. The major is designed to be flexible, allowing students to choose from a range of electives to tailor their education to their interests."
+}

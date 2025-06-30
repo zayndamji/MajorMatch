@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Ethnic Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Ethnic Studies at the University of California, Berkeley offers an undergraduate major in Ethnic Studies leading to the Bachelor of Arts degree. The major is designed to provide students with a comprehensive understanding of the experiences, cultures, and histories of the diverse ethnic groups that make up the United States. The program includes coursework in four core areas: Comparative Ethnic Studies, Community and Identity, Culture and Representation, and Social Movements and Politics. Students are encouraged to explore the intersections and connections between different ethnic groups, as well as the ways in which these groups have been shaped by historical and contemporary forces.",
+  "shortProgramDescription": "The Ethnic Studies major at UC Berkeley provides students with a nuanced understanding of the complex histories, cultures, and experiences of diverse ethnic groups in the United States.",
+  "classHighlights": [
+    "The introductory course, ETHNIST 10: Introduction to Ethnic Studies, provides a foundational understanding of the field and its key concepts, including the social construction of race, identity, and power.",
+    "Courses in Comparative Ethnic Studies, such as ETHNIST 116: Comparative Studies in Ethnic Literature, allow students to explore the intersections and divergences between different ethnic groups and their cultural productions.",
+    "Community and Identity courses, including ETHNIST 130: African American Culture and Identity, examine the complex and multifaceted nature of identity and community within ethnic groups.",
+    "Culture and Representation courses, such as ETHNIST 142: Representations of Asian Americans in Film, analyze the ways in which ethnic groups have been represented in media and culture, and the impact of these representations on identity and society.",
+    "Social Movements and Politics courses, including ETHNIST 160: Chicano/a Social Movements, explore the role of social movements in shaping the experiences and histories of ethnic groups, and the ways in which these movements have intersected with other social justice efforts."
+  ],
+  "learningOutcomes": [
+    "Analyze the complex histories, cultures, and experiences of diverse ethnic groups in the United States",
+    "Understand the social construction of race, identity, and power",
+    "Examine the intersections and connections between different ethnic groups",
+    "Critically evaluate representations of ethnic groups in media and culture",
+    "Understand the role of social movements in shaping the experiences and histories of ethnic groups"
+  ],
+  "similarPrograms": [
+    {
+      "title": "African American Studies",
+      "link": "https://afam.berkeley.edu"
+    },
+    {
+      "title": "Asian American Studies",
+      "link": "https://asianam.berkeley.edu"
+    },
+    {
+      "title": "Chicano/Latino Studies",
+      "link": "https://chicano.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/ethnic-studies",
+    "https://ethnicstudies.berkeley.edu/undergraduate/",
+    "https://www.berkeley.edu/catalog/degree-programs/ethnic-studies-ba"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "Students are encouraged to consult with department advisors to design a course plan that meets their individual needs and goals. The major is designed to be flexible, allowing students to explore a range of topics and interests within the field of Ethnic Studies."
+}

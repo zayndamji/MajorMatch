@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Spanish and Portuguese (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Spanish and Portuguese offers a major in Spanish and/or Portuguese leading to the Bachelor of Arts degree. The major is designed to develop students' mastery of the language and their ability to analyze the cultural and literary traditions of the Iberian Peninsula and Latin America. Students may choose to focus on one or both languages, and may also pursue coursework in related fields such as linguistics, cultural studies, and literature.",
+  "shortProgramDescription": "The Spanish and Portuguese major at UC Berkeley develops students' language skills and cultural knowledge through coursework in Spanish and/or Portuguese literature, culture, and linguistics.",
+  "classHighlights": [
+    "Language and Culture: Students complete language coursework in Spanish and/or Portuguese, with courses covering language acquisition, cultural competency, and linguistic analysis.",
+    "Literary and Cultural Studies: The major includes coursework in Spanish and/or Portuguese literature, covering various periods, genres, and authors, as well as cultural studies courses examining the social, historical, and cultural contexts of the Iberian Peninsula and Latin America.",
+    "Electives: Students choose from a range of electives in Spanish and/or Portuguese, allowing them to tailor their major to their interests and goals, whether in literature, culture, linguistics, or related fields.",
+    "Upper Division Courses: Upper division courses provide advanced training in language, literature, and culture, with topics ranging from medieval literature to contemporary cultural studies.",
+    "Coursework in Related Fields: Students are encouraged to pursue coursework in related fields, such as linguistics, cultural studies, or other languages and literatures."
+  ],
+  "learningOutcomes": [
+    "Demonstrate advanced proficiency in Spanish and/or Portuguese, including reading, writing, speaking, and listening skills.",
+    "Analyze and interpret literary and cultural texts from the Iberian Peninsula and Latin America.",
+    "Understand the cultural and historical contexts of the regions where Spanish and/or Portuguese are spoken.",
+    "Apply critical thinking and analytical skills to cultural and literary texts.",
+    "Develop effective written and oral communication skills in Spanish and/or Portuguese."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Spanish and Portuguese Minor",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/spanish-portuguese-minor"
+    },
+    {
+      "title": "Latin American Studies",
+      "link": "https://lasa.berkeley.edu"
+    },
+    {
+      "title": "Comparative Literature",
+      "link": "https://complit.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/spanish-portuguese",
+    "https://spanishportugues.berkeley.edu/undergraduate-program",
+    "https://spanishportugues.berkeley.edu/undergraduate-program/spanish-major"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of 120 credits required for the degree; major requirements include a minimum of 30 upper division units in Spanish and/or Portuguese",
+  "additionalInformation": "Students must declare the major through the College of Letters & Science. Study abroad is highly recommended. Coursework from study abroad programs may be applied to major requirements with prior approval."
+}

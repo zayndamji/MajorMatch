@@ -1,0 +1,47 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Comparative Literature (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Comparative Literature major is an interdisciplinary program that focuses on the study of literature across different cultures, languages, and historical periods. Students examine literary works in their cultural and historical contexts, developing critical thinking, writing, and analytical skills. The program emphasizes the comparative study of literary traditions, genres, and themes, and encourages students to explore the intersections between literature and other disciplines such as philosophy, history, and cultural studies.",
+  "shortProgramDescription": "The Comparative Literature major at UC Berkeley provides students with a rich understanding of literary traditions across cultures and historical periods, preparing them for careers in academia, writing, editing, and more.",
+  "classHighlights": [
+    "The Comparative Literature major requires students to complete a series of core courses that introduce them to literary theory, criticism, and analysis. These courses include 'Introduction to Comparative Literature' and 'Theory and Criticism', which provide a foundation for further study.",
+    "Students choose from a range of electives that explore specific literary traditions, genres, and themes, such as 'Literature of the Americas', 'European Literary Traditions', and 'Postcolonial Literature'. These courses allow students to develop their interests and deepen their understanding of literary works in their cultural and historical contexts.",
+    "The major also encourages students to explore the intersections between literature and other disciplines, such as philosophy, history, and cultural studies, through courses like 'Literature and Philosophy' and 'History and Literature'.",
+    "Students are also required to demonstrate proficiency in a second language, which enables them to engage with literary works in their original language and broaden their cultural understanding.",
+    "Upper-division courses allow students to engage with advanced topics and specialized areas of study, such as 'Literary Theory and Criticism', 'Comparative Literature and Cultural Studies', and 'Literature and the Arts'.",
+    "Students can choose from a range of courses that focus on specific literary periods, movements, or genres, such as 'Modernism', 'Postmodernism', and 'Contemporary Literature'.",
+    "The major culminates in a senior seminar or capstone course that allows students to synthesize their knowledge and demonstrate their critical thinking and writing skills."
+  ],
+  "learningOutcomes": [
+    "Analyze literary works in their cultural and historical contexts",
+    "Apply critical thinking and analytical skills to literary texts",
+    "Develop effective writing and communication skills",
+    "Understand the intersections between literature and other disciplines",
+    "Demonstrate proficiency in a second language",
+    "Engage with advanced literary theory and criticism"
+  ],
+  "similarPrograms": [
+    {
+      "title": "English",
+      "link": "https://english.berkeley.edu/undergraduate-program"
+    },
+    {
+      "title": "French",
+      "link": "https://french.berkeley.edu/undergraduate"
+    },
+    {
+      "title": "Spanish and Portuguese",
+      "link": "https://spanish-portuguese.berkeley.edu/undergraduate-programs"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/comparative-literature",
+    "https://comparative-literature.berkeley.edu/undergraduate-program",
+    "https://www.berkeley.edu/catalog/current/degree_programs/comparative_literature.html"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "Students must declare the major through the College of Letters and Science. Proficiency in a second language is required. Study abroad opportunities are available and encouraged."
+}

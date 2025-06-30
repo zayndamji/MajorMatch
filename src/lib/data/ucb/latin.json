@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Latin (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Classics at UC Berkeley offers a comprehensive undergraduate major in Latin, focusing on the language, literature, and culture of ancient Rome. Students engage with a broad range of texts and genres, from the early Roman Republic to the late Empire, developing a deep understanding of Latin language and its literary and historical contexts. The program cultivates skills in reading, translation, and interpretation, as well as critical analysis and scholarly research.",
+  "shortProgramDescription": "The Latin B.A. program at UC Berkeley provides a rigorous foundation in Latin language and literature, preparing students for advanced study or careers in fields such as education, law, and writing.",
+  "classHighlights": [
+    "The major begins with foundational courses in Latin language (LATIN 1A-1B and LATIN 100) that ensure students achieve advanced proficiency. Students then progress to upper-division courses that cover a range of genres, including epic, lyric, historiography, and oratory, as well as specialized topics like Roman law, paleography, and medieval Latin.",
+    "Courses in Classical Literature in Translation (e.g., CLASSIC 36A, 36B, 131A-B, 133, 136A-B, 137) allow students to explore broader themes and contexts of Roman culture, enhancing their understanding of the material and its historical significance.",
+    "Electives and specialized courses (e.g., LATIN 130, 131, 132, 134, 135, 139) provide in-depth study of specific authors, texts, or themes, such as Catullus, Ovid, or Roman elegy, and may include focus on the transmission of classical texts and the role of Latin in subsequent literary traditions."
+  ],
+  "learningOutcomes": [
+    "Read and interpret complex Latin texts with accuracy and nuance.",
+    "Analyze the historical, cultural, and literary contexts of Roman literature.",
+    "Develop critical thinking and scholarly research skills.",
+    "Communicate effectively in written and oral forms about Latin literature and culture.",
+    "Understand the influence of Latin literature on subsequent literary and cultural traditions."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Classics",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/classics"
+    },
+    {
+      "title": "Greek (B.A.)",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/greek"
+    },
+    {
+      "title": "Classics Minor",
+      "link": "https://classics.berkeley.edu/undergraduate/classics-minor"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/latin",
+    "https://classics.berkeley.edu/undergraduate/latin-major",
+    "https://catalog.berkeley.edu/liberal-arts-humanities/classics"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of approximately 120 semester credits, with specific major requirements determined in consultation with departmental advisers",
+  "additionalInformation": "Students are advised to declare the major by the end of their sophomore year and to consult regularly with departmental advisers to plan their course of study. The program is designed to be flexible, accommodating a range of student interests and career goals."
+}

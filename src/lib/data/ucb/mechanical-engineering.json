@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Mechanical Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mechanical Engineering program at UC Berkeley is designed to provide a broad foundation in the principles of mechanical engineering, including the design, analysis, and manufacturing of mechanical systems. The program emphasizes the development of problem-solving skills, creativity, and communication, preparing students for a wide range of careers in industry, government, and academia.",
+  "shortProgramDescription": "The Mechanical Engineering B.S. program at UC Berkeley provides a comprehensive education in the principles and practices of mechanical engineering, preparing students for diverse careers or graduate study.",
+  "classHighlights": [
+    "The Mechanical Engineering program begins with foundational courses in mathematics and physics, including Calculus (MATH 1A, 1B, 53), Differential Equations (MATH 54), and Physics (PHYSICS 7A, 7B).",
+    "Core mechanical engineering courses cover topics such as mechanics (ME 106, ME 108), thermodynamics (ME 100), and mechanical systems (ME 102, ME 131).",
+    "Students also complete coursework in materials science (ME 40, ME 143), mechanical design (ME 102, ME 104), and manufacturing processes (ME 104, ME 183).",
+    "Additional required courses include Engineering Economics (ME 106), Measurements and Instrumentation (ME 119), and Mechanical Engineering Laboratory (ME 106L).",
+    "Electives allow students to explore specialized areas such as biomechanical engineering, energy systems, and robotics, with courses drawn from the mechanical engineering department and related fields."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mechanical engineering to analyze and design mechanical systems.",
+    "Demonstrate proficiency in mathematics, physics, and engineering sciences relevant to mechanical engineering.",
+    "Design and conduct experiments, and analyze data to inform engineering decisions.",
+    "Communicate effectively through written reports, oral presentations, and graphical representations.",
+    "Work effectively in teams to solve complex engineering problems.",
+    "Understand the social, environmental, and economic contexts of mechanical engineering practice."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Nuclear Engineering (B.S.)",
+      "link": "https://nuclear.berkeley.edu"
+    },
+    {
+      "title": "Engineering Science (B.S.)",
+      "link": "https://engineering.berkeley.edu"
+    },
+    {
+      "title": "Materials Science and Engineering (B.S.)",
+      "link": "https://mse.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-proprograms/mechanical-engineering",
+    "https://me.berkeley.edu/undergraduate/degree-requirements",
+    "https://www.berkeley.edu/catalog/departments/mechanical-engineering"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "128 units (semester system)",
+  "additionalInformation": "The program includes a comprehensive final examination or project. Students must maintain a minimum GPA in major coursework and adhere to college policies on repeat courses and pass/no pass grading."
+}

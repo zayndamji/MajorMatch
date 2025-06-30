@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Media Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Media Studies major provides students with an interdisciplinary foundation in the study of media, examining the social, cultural, economic, and political dimensions of media in contemporary society. Students explore a range of media forms and practices, from traditional mass media to digital and interactive media, and engage with critical theories and methodologies for analyzing media's impact on individuals and society. The program emphasizes both the historical and contemporary significance of media, as well as the development of critical thinking, research, and analytical skills.",
+  "shortProgramDescription": "The Media Studies B.A. at UC Berkeley equips students to critically analyze media forms, understand their cultural and social contexts, and develop skills for engaging with media in diverse ways.",
+  "classHighlights": [
+    "Media Studies Core Courses: The program begins with foundational courses that introduce students to the study of media, covering topics such as media history, theory, and analysis. These courses provide a broad understanding of media's role in society and lay the groundwork for more specialized study.",
+    "Media Industries and Production: Courses in this area examine the production, distribution, and reception of media, focusing on the economic, technological, and cultural factors that shape media industries. Students learn about different media formats, from film and television to digital media.",
+    "Media and Culture: This category includes courses that explore the relationship between media and culture, including how media represent and shape cultural identities, social norms, and political discourse. Students analyze the ways in which media reflect and influence societal values and power dynamics.",
+    "Media and Technology: Courses here investigate the impact of technological changes on media forms and practices, including the rise of digital media, social media platforms, and new modes of consumption. Students learn about the social and cultural implications of these technological shifts.",
+    "Research Methods and Senior Seminar: Students are trained in research methodologies for studying media, including quantitative and qualitative approaches. The senior seminar allows students to apply their knowledge and skills in a culminating research project or presentation."
+  ],
+  "learningOutcomes": [
+    "Critically analyze media texts, industries, and technologies, understanding their cultural, social, and economic contexts.",
+    "Apply media theories and concepts to contemporary issues and phenomena, demonstrating an understanding of media's role in shaping society.",
+    "Conduct research on media-related topics using appropriate methodologies and analytical frameworks.",
+    "Develop effective written and oral communication skills, presenting complex ideas and research findings clearly.",
+    "Engage with diverse media forms and practices, recognizing their historical, cultural, and technological dimensions."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Film Studies",
+      "link": "https://filmstudies.berkeley.edu"
+    },
+    {
+      "title": "Comparative Literature",
+      "link": "https://comparativeliterature.berkeley.edu"
+    },
+    {
+      "title": "Digital Humanities",
+      "link": "https://digitalhumanities.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/media-studies",
+    "https://www.berkeley.edu/catalog/current/media-studies-major",
+    "https://www.media.berkeley.edu"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits (including major requirements and breadth courses)",
+  "additionalInformation": "The Media Studies major is designed to be flexible, allowing students to tailor their coursework to their interests. Students are encouraged to engage with related departments and programs to broaden their academic experience."
+}

@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Anthropology (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Anthropology offers an undergraduate major leading to a Bachelor of Arts degree in Anthropology. The major is designed to provide a broad understanding of the anthropological field, including its four subfields: sociocultural anthropology, biological anthropology, archaeology, and linguistic anthropology. Students are introduced to the theoretical foundations, methodological approaches, and the practical applications of anthropology. The program prepares students for a wide range of careers, including academia, research, government, non-profit organizations, and private sector enterprises, as well as for graduate study.",
+  "shortProgramDescription": "The Anthropology B.A. program at UC Berkeley provides a comprehensive understanding of human diversity, culture, and biology, preparing students for various careers or further study.",
+  "classHighlights": [
+    "The Anthropology program offers a range of lower-division courses that introduce students to the field, including 'Introduction to Anthropology' and 'Introduction to Biological Anthropology'. These courses provide a broad foundation in the four subfields of anthropology.",
+    "Upper-division courses allow students to explore specific areas of interest, such as sociocultural anthropology, archaeology, biological anthropology, and linguistic anthropology. Courses may include 'Ethnographic Methods', 'Archaeological Methods', and 'Human Evolution'.",
+    "The program also includes a variety of electives that enable students to tailor their major to their interests, such as courses on specific cultures, historical periods, or anthropological theories.",
+    "Students are required to complete a series of core courses that provide a solid grounding in anthropological theory and methods. These courses may include 'Anthropological Theory' and 'Research Methods in Anthropology'.",
+    "The major also includes a range of upper-division courses that allow students to explore the intersections between anthropology and other disciplines, such as sociology, history, or biology."
+  ],
+  "learningOutcomes": [
+    "Understand the theoretical foundations and methodological approaches of anthropology",
+    "Demonstrate knowledge of human cultural, biological, and linguistic diversity",
+    "Analyze and interpret anthropological data and literature",
+    "Apply anthropological concepts and methods to real-world problems",
+    "Communicate complex anthropological ideas effectively in written and oral forms"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Sociology",
+      "link": "https://sociology.berkeley.edu/undergraduate-program"
+    },
+    {
+      "title": "Demography",
+      "link": "https://demography.berkeley.edu/undergraduate"
+    },
+    {
+      "title": "Linguistics",
+      "link": "https://linguistics.berkeley.edu/undergraduate-program"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/anthropology",
+    "https://anthropology.berkeley.edu/undergraduate-program",
+    "https://www.berkeley.edu/catalog/current/catalog/anthropology_major.html"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 total units (semester system)",
+  "additionalInformation": "The major requires a total of 12 upper-division Anthropology courses. Students are encouraged to consult with advisors to tailor their course selection to their interests and career goals."
+}

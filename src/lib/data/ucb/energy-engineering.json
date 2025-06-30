@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Energy Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Energy Engineering program at UC Berkeley is an interdisciplinary major that focuses on the scientific, mathematical, and engineering principles underlying energy conversion and use. The program is designed to provide a broad foundation in the engineering and physical sciences, with a particular emphasis on energy-related topics. Students in the program take a range of courses in subjects such as thermodynamics, fluid mechanics, heat transfer, and energy systems, as well as mathematics and physics.",
+  "shortProgramDescription": "The Energy Engineering B.S. program provides students with a comprehensive understanding of energy systems, conversion, and use, preparing them for careers in energy-related fields or further study.",
+  "classHighlights": [
+    "The program's core courses, including Energy and the Environment (EGRHD 100), Thermodynamics (ENGIN 40 or ME 106), and Fluid Mechanics (ME 106 or CEE 106), provide a foundation in the fundamental principles of energy engineering. These courses cover topics such as energy conversion, thermodynamics, and fluid mechanics, and provide students with a solid understanding of the underlying principles of energy systems.",
+    "Students also take courses in mathematics, including Calculus (MATH 1A-1B) and Differential Equations (MATH 54 or ENGIN 53), as well as physics, including Mechanics (PHYSICS 7A) and Electricity and Magnetism (PHYSICS 7B). These courses provide a strong foundation in the mathematical and physical principles that underlie energy engineering.",
+    "In addition to the core courses, students in the Energy Engineering program take a range of electives in subjects such as energy systems, energy conversion, and energy policy. These courses allow students to explore specific areas of interest in more depth and to develop a more nuanced understanding of the complex issues surrounding energy engineering.",
+    "The program also includes laboratory and design courses, such as Energy Engineering Lab (ME 109) and Energy Systems Design (ME 193), which provide students with hands-on experience with energy systems and allow them to apply theoretical principles to practical problems."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of thermodynamics, fluid mechanics, and heat transfer to energy-related problems",
+    "Analyze and design energy systems, including energy conversion and transmission systems",
+    "Understand the social, economic, and environmental contexts of energy engineering",
+    "Communicate complex technical information effectively to a range of audiences",
+    "Work effectively in teams to solve energy-related problems"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mechanical Engineering",
+      "link": "https://me.berkeley.edu/undergraduate/major"
+    },
+    {
+      "title": "Environmental Engineering",
+      "link": "https://ce.berkeley.edu/academics/ugrad/env-eng"
+    },
+    {
+      "title": "Energy and Resources Group",
+      "link": "https://erg.berkeley.edu/undergraduate/"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/energy-engineering",
+    "https://energy-engineering.berkeley.edu/",
+    "https://www.berkeley.edu/catalog/current/energy-engineering"
+  ],
+  "programDuration": "4 years (8 semesters, semester system)",
+  "creditRequirements": "128-130 units (semester system)",
+  "additionalInformation": "The Energy Engineering program is administered by the Department of Mechanical Engineering. Students must declare the major through the College of Engineering. The program is accredited by the Engineering Accreditation Commission of ABET."
+}
