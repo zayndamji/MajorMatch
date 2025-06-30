@@ -24,6 +24,8 @@
   onDestroy(() => {
     if (resizeHandler) window.removeEventListener('resize', resizeHandler);
   });
+
+  $: remaining = universities.length - visibleCount;
 </script>
 
 <section class="section has-background-dark">
@@ -49,6 +51,10 @@
           </a>
         {/each}
       </div>
+
+      {#if remaining > 0}
+        <p class="has-text-grey-light">and {remaining} other{remaining === 1 ? '' : 's'}</p>
+      {/if}
     </div>
   </div>
 </section>
