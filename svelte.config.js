@@ -7,6 +7,7 @@ export default {
       assets: 'output',
       fallback: 'error.html',
       precompress: false,
+      ssr: true
     })
   }
 };
