@@ -7,23 +7,42 @@
   let fullLine = 'Explore your academic future.';
   let typedLine = '';
 
-  const paragraph = 'Major Match lets you browse top universities, discover their unique majors, and compare academic programs—all in one place.';
-  let showParagraph = false;
+  const lines = [
+    'Browse top universities',
+    'Discover unique majors',
+    'Compare academic programs',
+    'Utilize AI summarizations and comparisons',
+    'All in one location'
+  ];
+  let visibleLines = [];
 
   onMount(() => {
     let i = 0;
     const speedChar = 40;
 
-    const interval1 = setInterval(() => {
+    const typeInterval = setInterval(() => {
       if (i < fullLine.length) {
         typedLine += fullLine[i];
         i++;
       } else {
-        clearInterval(interval1);
-        showParagraph = true;
+        clearInterval(typeInterval);
+        revealLines();
       }
     }, speedChar);
   });
+
+  function revealLines() {
+    let index = 0;
+    const delay = 500;
+
+    const lineInterval = setInterval(() => {
+      visibleLines = [...visibleLines, lines[index]];
+      index++;
+      if (index >= lines.length) {
+        clearInterval(lineInterval);
+      }
+    }, delay);
+  }
 </script>
 
 <section class="section has-background-dark is-fullheight">
@@ -40,11 +59,15 @@
     <div class="text-content" style="max-width: 600px;">
       <p class="has-text-white is-size-5 mb-3" style="min-height: 1.5em;">{typedLine}</p>
 
-      {#if showParagraph}
+      {#each visibleLines as line (line)}
         <p class="has-text-grey-light is-size-6" transition:fade={{ duration: 400 }}>
-          {paragraph}
+          {#if line === 'All in one location'}
+            <span class="has-text-weight-bold">{line}</span>
+          {:else}
+            {line}
+          {/if}
         </p>
-      {/if}
+      {/each}
     </div>
 
     <UniversityList />
