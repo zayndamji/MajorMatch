@@ -9,8 +9,4 @@ Roadmap:
 - [x] Added individual major pages.
 - [ ] Added "compare major" page.
 
-# Use of AI
-I have utilized AI to:
-1) Generate schema for output data
-2) Scrape data about majors from different universities
-2) Advise code
+*AI Use Statement*: I have utilized AI to debug & generate code and standardize schema & major data.
