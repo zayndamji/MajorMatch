@@ -131,6 +131,11 @@
           <p class="has-text-weight-bold is-size-4 has-text-white">
             {major.name}
           </p>
+
+          <p class="is-size-6 mb-1 has-text-white">
+            {major.college}
+          </p>
+
           <p class="is-size-6 has-text-grey-light">
             {major.description}
           </p>
