@@ -16,6 +16,14 @@
     "path": "/ucb"
   },
   {
+    "id": "mit",
+    "name": "Massachusetts Institute of Technology",
+    "description": "A global leader in science, engineering, and technology education and research. MIT is celebrated for innovation, entrepreneurship, and shaping the future of industries.",
+    "imageUrl": "/images/mit.png",
+    "website": "https://www.mit.edu",
+    "path": "/mit"
+  },
+  {
     "id": "ucla",
     "name": "University of California, Los Angeles",
     "description": "A top public university known for excellence in medicine, engineering, arts, and athletics. Its vibrant campus life and location in Los Angeles make it a hub of culture and innovation.",
@@ -62,13 +70,5 @@
     "imageUrl": "/images/cornell.png",
     "website": "https://www.cornell.edu",
     "path": "/cornell"
-  },
-  {
-    "id": "mit",
-    "name": "Massachusetts Institute of Technology",
-    "description": "A global leader in science, engineering, and technology education and research. MIT is celebrated for innovation, entrepreneurship, and shaping the future of industries.",
-    "imageUrl": "/images/mit.svg",
-    "website": "https://www.mit.edu",
-    "path": "/mit"
   }
 ]

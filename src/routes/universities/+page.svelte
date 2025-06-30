@@ -22,6 +22,7 @@
               <p class="has-text-weight-bold is-size-4 has-text-white">
                 {university.name}
               </p>
+              
               <p class="is-size-6 has-text-grey-light">
                 {university.description}
               </p>
