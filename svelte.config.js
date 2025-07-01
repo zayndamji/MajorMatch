@@ -25,8 +25,9 @@ export default {
     adapter: adapter({
       pages: 'output',
       assets: 'output',
-      fallback: 'index.html',
-      precompress: false
+      fallback: 'error.html',
+      precompress: false,
+      ssr: true
     }),
     prerender: {
       entries: [
