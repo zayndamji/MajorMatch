@@ -14,7 +14,6 @@
   // Update title reactively in SSR for first render
   $: {
     if (!browser) {
-      // Basic sync logic for SSR (won't load majors.json dynamically)
       const segments = currentPath?.split('/').filter(Boolean) ?? [];
       const universityId = segments[1] ?? null;
       const majorId = segments[3] ?? null;
@@ -92,4 +91,6 @@
   </section>
 {/if}
 
-<slot />
+<div style="min-height: 100vh; background-color: #363636;">
+  <slot />
+</div>

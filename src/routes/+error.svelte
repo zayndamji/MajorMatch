@@ -19,12 +19,3 @@
     <a href="/universities/ucb" class="button is-outlined mt-4">Go to UC Berkeley</a>
   </div>
 </section>
-
-<style>
-  :global(html), :global(body) {
-    height: 100%;
-    margin: 0;
-    background-color: #363636; /* Bulma has-background-dark */
-    color: white;
-  }
-</style>
