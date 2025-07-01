@@ -5,6 +5,7 @@
 
 <svelte:head>
 	<title>{data.pageTitle}</title>
+  <meta property="og:title" content="{data.pageTitle}" />
 </svelte:head>
 
 <!-- Conditionally show breadcrumb if not home page -->
