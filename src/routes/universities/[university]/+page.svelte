@@ -123,6 +123,19 @@
     </div>
 
     <div class="is-flex is-flex-direction-column is-align-items-center mt-5">
+      {#if majors.length === 0}
+        <div class="box has-text-white p-5 mb-5"
+             style="max-width: 600px; background-color: #2a2a2a; border: 1px solid #555; border-radius: 8px; text-align: center;">
+          <p class="is-size-5 has-text-weight-semibold mb-2">
+            This site is under construction.
+          </p>
+          
+          <p>
+            <strong style="color: white">{university.name}</strong> has not been added yet. Please check back later.
+          </p>
+        </div>
+      {/if}
+
       {#each filteredMajors as major (major.id)}
         <a
           class="box major-box has-text-white has-text-left mb-4 p-4"
