@@ -305,7 +305,7 @@
     "shortName": "EDUC-BA",
     "description": "Explore educational theories and practices within social and cultural contexts. This major encourages critical engagement with issues of policy, equity, and identity.",
     "id": "education",
-    "college": "College of Letters & Sciences"
+    "college": "College of Letters & Science"
   },
   {
     "name": "Electrical Engineering & Computer Sciences (B.S.)",
@@ -746,7 +746,7 @@
     "shortName": "SLAV-BA",
     "description": "Explore the languages, literatures, and cultures of Russia, Eastern Europe, and the Balkans through historical and literary study. This major highlights the region’s diverse voices and traditions.",
     "id": "slavic-languages-literatures",
-    "college": "College of Letters and Science"
+    "college": "College of Letters & Science"
   },
   {
     "name": "Social Welfare (B.A.)",
@@ -802,7 +802,7 @@
     "shortName": "THEA-BA",
     "description": "Explore theater history, theory, and practice with opportunities in acting, directing, and playwriting. This major cultivates creative expression and critical analysis of performance.",
     "id": "theater-performance-studies",
-    "college": "College of Letters and Science"
+    "college": "College of Letters & Science"
   },
   {
     "name": "Urban Studies (B.A.)",
