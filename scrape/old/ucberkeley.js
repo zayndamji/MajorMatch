@@ -1,3 +1,5 @@
+// WARNING: THIS CODE DOES NOT WORK
+
 import fs from 'fs'
 import xml2js from 'xml2js';
 
