@@ -13,9 +13,18 @@ export async function load({ params }) {
 
   try {
     const majorData = await import(`$lib/data/${universityId}/majors.json`);
+
+    // Normalize college property to always be an array
+    const majors = majorData.default.map(major => {
+      if (typeof major.college === 'string') {
+        return { ...major, college: [major.college] };
+      }
+      return major;
+    });
+
     return {
       university,
-      majors: majorData.default
+      majors
     };
   } catch (e) {
     // If majors.json is missing or error loading, return empty majors array

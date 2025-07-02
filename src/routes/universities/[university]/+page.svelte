@@ -6,11 +6,7 @@
   let selectedColleges = [];
 
   const allColleges = Array.from(
-    new Set(
-      majors.flatMap(major =>
-        Array.isArray(major.college) ? major.college : [major.college]
-      )
-    )
+    new Set(majors.flatMap(major => major.college))
   ).sort();
 
   import { onMount } from 'svelte';
@@ -41,9 +37,7 @@
     const terms = searchTerm.toLowerCase().split(/\s+/).filter(Boolean);
 
     const matchesSearch = terms.every(term => lowerName.includes(term));
-
-    const majorColleges = Array.isArray(major.college) ? major.college : [major.college];
-    const matchesCollege = majorColleges.some(col => selectedSet.has(col));
+    const matchesCollege = major.college.some(col => selectedSet.has(col));
 
     return matchesSearch && matchesCollege;
   });
@@ -146,11 +140,7 @@
           </p>
 
           <p class="is-size-6 mb-1 has-text-white">
-            {#if Array.isArray(major.college)}
-              {major.college.join(' · ')}
-            {:else}
-              {major.college}
-            {/if}
+            {major.college.join(' · ')}
           </p>
 
           <p class="is-size-6 has-text-grey-light">
