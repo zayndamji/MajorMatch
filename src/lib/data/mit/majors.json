@@ -1,292 +1,307 @@
 [
   {
-    "name": "Architecture",
+    "name": "Architecture (B.S.)",
     "id": "architecture-course-4",
     "college": "School of Architecture and Planning"
   },
   {
-    "name": "Art and Design",
+    "name": "Art and Design (B.S.)",
     "id": "architecture-course-4-b",
     "college": "School of Architecture and Planning"
   },
   {
-    "name": "Planning",
+    "name": "Planning (B.S.)",
     "id": "planning-course-11",
     "college": "School of Architecture and Planning"
   },
   {
-    "name": "Aerospace Engineering",
+    "name": "Aerospace Engineering (B.S.)",
     "id": "aerospace-engineering-course-16",
     "college": "School of Engineering"
   },
   {
-    "name": "Archaeology and Materials as Recommended by the Department of Materials Science and Engineering",
+    "name": "Archaeology and Materials as Recommended by the Department of Materials Science and Engineering (B.S.)",
     "id": "archaeology-materials-course-3-c",
     "college": "School of Engineering"
   },
   {
-    "name": "Artificial Intelligence and Decision Making",
+    "name": "Artificial Intelligence and Decision Making (B.S.)",
     "id": "artifical-intelligence-decision-making-course-6-4",
     "college": "School of Engineering"
   },
   {
-    "name": "Biological Engineering",
+    "name": "Biological Engineering (B.S.)",
     "id": "biological-engineering-course-20",
     "college": "School of Engineering"
   },
   {
-    "name": "Chemical-Biological Engineering",
+    "name": "Chemical-Biological Engineering (B.S.)",
     "id": "chemical-biological-engineering-course-10-b",
     "college": "School of Engineering"
   },
   {
-    "name": "Chemical Engineering",
+    "name": "Chemical Engineering (B.S.)",
     "id": "chemical-engineering-course-10",
     "college": "School of Engineering"
   },
   {
-    "name": "Chemical Engineering as Recommended by the Department of Chemical Engineering",
+    "name": "Chemical Engineering as Recommended by the Department of Chemical Engineering (B.S.)",
     "id": "chemical-engineering-course-10-c",
     "college": "School of Engineering"
   },
   {
-    "name": "Computer Science and Engineering",
+    "name": "Computer Science and Engineering (B.S.)",
     "id": "computer-science-engineering-course-6-3",
     "college": "School of Engineering"
   },
   {
-    "name": "Electrical Engineering with Computing",
+    "name": "Electrical Engineering with Computing (B.S.)",
     "id": "electrical-engineering-computing-6-5",
     "college": "School of Engineering"
   },
   {
-    "name": "Engineering",
+    "name": "Engineering (B.S.)",
     "id": "engineering-civil-environmental-engineering-course-1-eng",
     "college": "School of Engineering"
   },
   {
-    "name": "Engineering",
+    "name": "Engineering (B.S.)",
     "id": "mechanical-engineering-course-2-a",
     "college": "School of Engineering"
   },
   {
-    "name": "Engineering",
+    "name": "Engineering (B.S.)",
     "id": "engineering-chemical-engineering-course-10-eng",
     "college": "School of Engineering"
   },
   {
-    "name": "Engineering",
+    "name": "Engineering (B.S.)",
     "id": "engineering-aeronautics-astronautics-course-16-eng",
     "college": "School of Engineering"
   },
   {
-    "name": "Engineering",
+    "name": "Engineering (B.S.)",
     "id": "engineering-nuclear-science-engineering-course-22-eng",
     "college": "School of Engineering"
   },
   {
-    "name": "Materials Science and Engineering",
+    "name": "Materials Science and Engineering (B.S.)",
     "id": "materials-science-engineering-course-3",
     "college": "School of Engineering"
   },
   {
-    "name": "Materials Science and Engineering",
+    "name": "Materials Science and Engineering (B.S.)",
     "id": "materials-science-engineering-course-3-a",
     "college": "School of Engineering"
   },
   {
-    "name": "Mechanical and Ocean Engineering",
+    "name": "Mechanical and Ocean Engineering (B.S.)",
     "id": "mechanical-ocean-engineering-course-2-oe",
     "college": "School of Engineering"
   },
   {
-    "name": "Mechanical Engineering",
+    "name": "Mechanical Engineering (B.S.)",
     "id": "mechanical-engineering-course-2",
     "college": "School of Engineering"
   },
   {
-    "name": "Nuclear Science and Engineering",
+    "name": "Nuclear Science and Engineering (B.S.)",
     "id": "nuclear-science-engineering-course-22",
     "college": "School of Engineering"
   },
   {
-    "name": "Anthropology",
+    "name": "Anthropology (B.S.)",
     "id": "anthropology-course-21a",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Comparative Media Studies",
+    "name": "Comparative Media Studies (B.S.)",
     "id": "comparative-media-studies-cms",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Economics",
+    "name": "Economics (B.S.)",
     "id": "economics-course-14",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Global Studies and Languages",
+    "name": "Global Studies and Languages (B.S.)",
     "id": "global-studies-languages-course-21g",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "History",
+    "name": "History (B.S.)",
     "id": "history-course-21h",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Humanities",
+    "name": "Humanities (B.S.)",
     "id": "humanities-course-21",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Humanities and Engineering",
+    "name": "Humanities and Engineering (B.S.)",
     "id": "humanities-engineering-course-21e",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Humanities and Science",
+    "name": "Humanities and Science (B.S.)",
     "id": "humanities-science-course-21s",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Linguistics and Philosophy",
+    "name": "Linguistics and Philosophy (B.S.)",
     "id": "linguistics-philosophy-course-24-2",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Literature",
+    "name": "Literature (B.S.)",
     "id": "literature-course-21l",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Mathematical Economics",
+    "name": "Mathematical Economics (B.S.)",
     "id": "mathematical-economics-course-14-2",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Music",
+    "name": "Music (B.S.)",
     "id": "music-course-21m",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Philosophy",
+    "name": "Philosophy (B.S.)",
     "id": "philosophy-course-24-1",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Political Science",
+    "name": "Political Science (B.S.)",
     "id": "political-science-course-17",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Science, Technology, and Society/Second Major",
+    "name": "Science, Technology, and Society/Second Major (B.S.)",
     "id": "science-technology-society-sts",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Theater Arts",
+    "name": "Theater Arts (B.S.)",
     "id": "theater-arts-course-21m-2",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Writing",
+    "name": "Writing (B.S.)",
     "id": "writing-course-21w",
     "college": "School of Humanities, Arts, and Social Sciences"
   },
   {
-    "name": "Business Analytics",
+    "name": "Business Analytics (B.S.)",
     "id": "business-analytics-course-15-2",
     "college": "Sloan School of Management"
   },
   {
-    "name": "Finance",
+    "name": "Finance (B.S.)",
     "id": "finance-course-15-3",
     "college": "Sloan School of Management"
   },
   {
-    "name": "Management",
+    "name": "Management (B.S.)",
     "id": "management-course-15-1",
     "college": "Sloan School of Management"
   },
   {
-    "name": "Biology",
+    "name": "Biology (B.S.)",
     "id": "biology-course-7",
     "college": "School of Science"
   },
   {
-    "name": "Brain and Cognitive Sciences",
+    "name": "Brain and Cognitive Sciences (B.S.)",
     "id": "brain-cognitive-sciences-course-9",
     "college": "School of Science"
   },
   {
-    "name": "Chemistry",
+    "name": "Chemistry (B.S.)",
     "id": "chemistry-course-5",
     "college": "School of Science"
   },
   {
-    "name": "Earth, Atmospheric, and Planetary Sciences",
+    "name": "Earth, Atmospheric, and Planetary Sciences (B.S.)",
     "id": "earth-atmospheric-planetary-sciences-course-12",
     "college": "School of Science"
   },
   {
-    "name": "Mathematics",
+    "name": "Mathematics (B.S.)",
     "id": "mathematics-course-18",
     "college": "School of Science"
   },
   {
-    "name": "Mathematics with Computer Science",
+    "name": "Mathematics with Computer Science (B.S.)",
     "id": "mathematics-computer-science-course-18-c",
     "college": "School of Science"
   },
   {
-    "name": "Physics",
+    "name": "Physics (B.S.)",
     "id": "physics-course-8",
     "college": "School of Science"
   },
   {
-    "name": "Computer Science and Engineering",
+    "name": "Computer Science and Engineering (B.S.)",
     "id": "computer-science-engineering-course-6-3",
     "college": "MIT Schwarzman College of Computing"
   },
   {
-    "name": "Artificial Intelligence and Decision Making",
+    "name": "Artificial Intelligence and Decision Making (B.S.)",
     "id": "artifical-intelligence-decision-making-course-6-4",
     "college": "MIT Schwarzman College of Computing"
   },
   {
-    "name": "Electrical Engineering with Computing",
+    "name": "Electrical Engineering with Computing (B.S.)",
     "id": "electrical-engineering-computing-6-5",
     "college": "MIT Schwarzman College of Computing"
   },
   {
-    "name": "Chemistry and Biology",
+    "name": "Chemistry and Biology (B.S.)",
     "id": "chemistry-biology-course-5-7",
     "college": "School of Science"
   },
   {
-    "name": "Climate System Science and Engineering",
+    "name": "Climate System Science and Engineering (B.S.)",
     "id": "climate-system-science-engineering-course-1-12",
-    "college": ["School of Engineering", "School of Science"]
+    "college": [
+      "School of Engineering",
+      "School of Science"
+    ]
   },
   {
-    "name": "Computation and Cognition",
+    "name": "Computation and Cognition (B.S.)",
     "id": "computation-cognition-6-9",
-    "college": ["School of Engineering", "School of Science"]
+    "college": [
+      "School of Engineering",
+      "School of Science"
+    ]
   },
   {
-    "name": "Computer Science and Molecular Biology",
+    "name": "Computer Science and Molecular Biology (B.S.)",
     "id": "computer-science-molecular-biology-course-6-7",
-    "college": ["School of Engineering", "School of Science"]
+    "college": [
+      "School of Engineering",
+      "School of Science"
+    ]
   },
   {
-    "name": "Computer Science, Economics, and Data Science",
+    "name": "Computer Science, Economics, and Data Science (B.S.)",
     "id": "computer-science-economics-data-science-course-6-14",
-    "college": ["School of Engineering", "School of Humanities, Arts, and Social Sciences"]
+    "college": [
+      "School of Engineering",
+      "School of Humanities, Arts, and Social Sciences"
+    ]
   },
   {
-    "name": "Urban Science and Planning with Computer Science",
+    "name": "Urban Science and Planning with Computer Science (B.S.)",
     "id": "urban-science-planning-computer-science-11-6",
-    "college": ["School of Engineering", "School of Architecture and Planning"]
+    "college": [
+      "School of Engineering",
+      "School of Architecture and Planning"
+    ]
   }
 ]
