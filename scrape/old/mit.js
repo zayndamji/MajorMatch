@@ -1,4 +1,5 @@
 // WARNING: THIS CODE DOES NOT WORK
+// go to /scrape/mit.js for a new, working version
 
 // run in browser at https://mitadmissions.org/discover/the-mit-education/majors-minors/
 // this will generate the majors.json for MIT
