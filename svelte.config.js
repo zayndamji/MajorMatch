@@ -2,24 +2,6 @@ import adapter from '@sveltejs/adapter-static';
 import fs from 'fs';
 import path from 'path';
 
-function copyFolderSync(from, to) {
-  fs.mkdirSync(to, { recursive: true });
-  for (const file of fs.readdirSync(from)) {
-    const srcFile = path.join(from, file);
-    const destFile = path.join(to, file);
-
-    if (fs.lstatSync(srcFile).isDirectory()) {
-      copyFolderSync(srcFile, destFile);
-    } else {
-      fs.copyFileSync(srcFile, destFile);
-    }
-  }
-}
-
-const srcDataDir = path.resolve('./src/lib/data');
-const destDataDir = path.resolve('./static/data');
-copyFolderSync(srcDataDir, destDataDir);
-
 const universitiesPath = path.resolve('./src/lib/data/universities.json');
 const universities = JSON.parse(fs.readFileSync(universitiesPath, 'utf-8'));
 
