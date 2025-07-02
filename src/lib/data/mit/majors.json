@@ -48,36 +48,6 @@
     "description": "Gain a rigorous foundation in thermodynamics, transport phenomena, and chemical kinetics while designing systems for manufacturing, energy, and environmental solutions. Students develop strong analytical and problem-solving skills for industry and research."
   },
   {
-    "name": "Engineering (dept. Civil/Environmental) (B.S.)",
-    "id": "engineering-civil-environmental-engineering-course-1-eng",
-    "college": "School of Engineering",
-    "description": "Focus on civil and environmental systems that support sustainable infrastructure and public health. This flexible program combines engineering analysis with fieldwork to address challenges in construction, water resources, and environmental protection."
-  },
-  {
-    "name": "Engineering (dept. Mechanical) (B.S.)",
-    "id": "mechanical-engineering-course-2-a",
-    "college": "School of Engineering",
-    "description": "Develop a deep understanding of mechanical systems through courses in dynamics, thermodynamics, and fluid mechanics. The program blends theory with hands-on design to prepare students for careers in industry or advanced study."
-  },
-  {
-    "name": "Engineering (dept. Chemical) (B.S.)",
-    "id": "engineering-chemical-engineering-course-10-eng",
-    "college": "School of Engineering",
-    "description": "Build a strong foundation in chemical engineering with a flexible curriculum tailored to diverse interests. Students study core principles while exploring applications in energy, materials, and biotechnology."
-  },
-  {
-    "name": "Engineering (dept. Aeronautics) (B.S.)",
-    "id": "engineering-aeronautics-astronautics-course-16-eng",
-    "college": "School of Engineering",
-    "description": "Examine flight systems and space exploration through a flexible engineering lens. This program allows students to tailor their aerospace studies while developing broad analytical and design skills."
-  },
-  {
-    "name": "Engineering (dept. Nuclear) (B.S.)",
-    "id": "engineering-nuclear-science-engineering-course-22-eng",
-    "college": "School of Engineering",
-    "description": "Engage with the science and engineering of nuclear systems, including energy production and radiation applications. Students combine a broad engineering core with specialized courses in nuclear technology and safety."
-  },
-  {
     "name": "Materials Science and Engineering (B.S.)",
     "id": "materials-science-engineering-course-3",
     "college": "School of Engineering",
