@@ -1,0 +1,46 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Mechanical and Ocean Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mechanical and Ocean Engineering program at MIT is an interdisciplinary major that combines the fundamentals of mechanical engineering with the study of ocean engineering. Students in this program gain a broad foundation in mechanical engineering, including mechanics, thermodynamics, and materials science, while also exploring the specific challenges and opportunities of ocean engineering, such as offshore structures, ocean energy, and marine robotics.",
+  "shortProgramDescription": "The Mechanical and Ocean Engineering major at MIT provides a comprehensive education in mechanical engineering, with a focus on ocean engineering applications, preparing students for careers in industries related to ocean energy, offshore structures, and marine technology.",
+  "classHighlights": [
+    "Students take foundational courses in mechanical engineering, including Mechanics (8.01), Differential Equations (18.03), and Thermodynamics (2.086).",
+    "Courses in fluid mechanics, such as Fluid Mechanics (2.25) and Fluid Mechanics Applications (2.016), provide a basis for understanding ocean dynamics.",
+    "The program includes specialized courses in ocean engineering, such as Ocean Engineering (2.009/13.21), Offshore Mechanics (2.154/13.42), and Design of Ocean Systems (2.693).",
+    "Students also take courses in mathematics, such as Calculus (18.01-02) and Linear Algebra (18.06), to support their understanding of engineering principles.",
+    "Electives allow students to explore topics such as robotics, biomechanics, and energy systems, providing a broad-based education.",
+    "Courses in materials science and structural analysis, such as Mechanics of Materials (2.001) and Structural Analysis (2.071), are also part of the curriculum."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mechanical engineering to solve problems in ocean engineering.",
+    "Analyze complex systems, including offshore structures and ocean energy systems.",
+    "Design and develop innovative solutions for ocean engineering challenges.",
+    "Understand the interactions between mechanical systems and the ocean environment.",
+    "Communicate complex ideas and designs effectively.",
+    "Work effectively in teams to solve complex engineering problems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mechanical Engineering",
+      "link": "https://meche.mit.edu"
+    },
+    {
+      "title": "Aerospace Engineering",
+      "link": "https://aeroastro.mit.edu"
+    },
+    {
+      "title": "Civil and Environmental Engineering",
+      "link": "https://cee.mit.edu"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe",
+    "https://meche.mit.edu/undergraduate/mechanical-ocean-engineering",
+    "https://www.mit.edu/catalogue/programs/engineering/mechanical-engineering"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of 180-186 units; includes GIRs, departmental requirements, and electives",
+  "additionalInformation": "Students must declare their major through the Department of Mechanical Engineering. The program is highly interdisciplinary and includes hands-on design and project-based learning experiences."
+}

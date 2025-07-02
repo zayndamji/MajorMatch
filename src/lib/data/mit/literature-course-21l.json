@@ -1,0 +1,39 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Literature (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Literature major at MIT is designed for students who wish to pursue a deep understanding of literature in English, with a focus on critical thinking, close reading, and effective writing. The program encompasses a broad range of literary periods, genres, and theoretical approaches, preparing students for a variety of careers or further academic study.",
+  "shortProgramDescription": "The Literature major at MIT fosters a deep understanding of literature through close reading, critical thinking, and effective writing, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "📚 **Literary Periods and Genres**: Courses in this category explore various literary periods, such as medieval, Renaissance, 18th-century, 19th-century, modern, and contemporary literature. Students engage with diverse genres, including poetry, drama, and narrative prose, developing an understanding of literary evolution and thematic continuities.",
+    "💡 **Theoretical Approaches and Critical Thinking**: This area includes courses that introduce students to various theoretical frameworks for analyzing literature, such as historical contextualization, formalism, psychoanalytic theory, feminist and queer theory, postcolonial studies, and cultural studies. Students learn to apply these approaches to critically interpret literary texts.",
+    "📝 **Writing and Literary Analysis**: Students develop their writing skills through courses that focus on the analysis and interpretation of literary texts. They learn to construct well-supported arguments, engage in close reading, and produce clear, persuasive writing.",
+    "🌎 **Global and Comparative Literature**: Courses in this category examine literature from diverse cultural and national traditions, fostering an understanding of the global contexts of literary production and the comparative study of literary works across cultures.",
+    "👥 **Seminars and Advanced Studies**: Advanced seminars allow students to engage deeply with specialized topics in literature, often incorporating their own research interests. These courses emphasize critical discussion, research methodologies, and the production of original scholarly work."
+  ],
+  "learningOutcomes": [
+    "Analyze literary texts using various critical and theoretical approaches.",
+    "Develop effective writing and argumentation skills.",
+    "Understand the historical and cultural contexts of literary production.",
+    "Engage in close reading and critical interpretation of diverse literary genres and periods.",
+    "Apply knowledge of global and comparative literature to understand cultural differences and similarities."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Writing and Humanistic Studies",
+      "link": "https://catalog.mit.edu/degree-charts/writing-humanistic-studies-course-21w/"
+    },
+    {
+      "title": "Comparative Media Studies",
+      "link": "https://catalog.mit.edu/degree-charts/comparative-media-studies-course-ccm/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/literature-course-21l",
+    "https://literature.mit.edu/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "At least 192 units, with specific requirements distributed across GIRs, literature subjects, and electives",
+  "additionalInformation": "Students are required to declare the major by the end of the third semester. The program allows for flexibility in choosing subjects that align with students' interests, under the guidance of a faculty advisor."
+}

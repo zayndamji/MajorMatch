@@ -1,0 +1,44 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Comparative Media Studies (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Comparative Media Studies/ Writing major is an interdisciplinary program that combines theoretical and practical approaches to understanding media and culture. Students explore the history, theory, and aesthetics of various media forms, and engage in hands-on creative work. The program emphasizes the development of critical thinking, writing, and production skills.",
+  "shortProgramDescription": "Comparative Media Studies/ Writing major at MIT is an interdisciplinary program that explores media and culture through theoretical and practical approaches.",
+  "classHighlights": [
+    "Core courses introduce students to the historical, theoretical, and aesthetic dimensions of various media forms, including film, television, digital media, and print.",
+    "Students engage in hands-on creative work through production courses that focus on writing, directing, and producing for various media platforms.",
+    "The program emphasizes the development of critical thinking and writing skills through coursework in media theory, criticism, and analysis.",
+    "Students can choose from a range of electives that allow them to explore specific interests in media and culture, such as digital media, science fiction, or media and politics.",
+    "Comparative Media Studies/ Writing students also engage with the broader MIT community through coursework and projects that intersect with other departments and programs."
+  ],
+  "learningOutcomes": [
+    "Understand the historical, theoretical, and aesthetic dimensions of various media forms",
+    "Develop critical thinking and writing skills through media theory, criticism, and analysis",
+    "Apply practical skills in writing, directing, and producing for various media platforms",
+    "Analyze the cultural and social significance of media and its impact on society",
+    "Engage in interdisciplinary approaches to understanding media and culture"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Digital Media",
+      "link": "https://cmsw.mit.edu/academic-programs/digital-media/"
+    },
+    {
+      "title": "Writing and Humanistic Studies",
+      "link": "https://cmsw.mit.edu/academic-programs/writing-and-humanistic-studies/"
+    },
+    {
+      "title": "Science Writing",
+      "link": "https://cmsw.mit.edu/academic-programs/science-writing/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/comparative-media-studies-cms/",
+    "https://cmsw.mit.edu/academic-programs/",
+    "https://cmsw.mit.edu/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "180-192 units (total), with 66-72 units required for the major, 12 units of HASS and 18 units of CI-H/HASS-CIW subjects; semester credit system",
+  "additionalInformation": "Students must declare the major through the Department of Comparative Media Studies/ Writing. The program is highly interdisciplinary and encourages students to explore a range of interests and approaches."
+}

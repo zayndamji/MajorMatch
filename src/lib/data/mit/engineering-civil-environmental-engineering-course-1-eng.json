@@ -1,0 +1,46 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Engineering program at MIT is designed to provide a foundation in engineering principles, as well as the opportunity to explore a range of engineering disciplines. The program includes a core curriculum, as well as a range of elective courses that allow students to tailor their education to their interests and career goals.",
+  "shortProgramDescription": "The Engineering B.S. program at MIT provides a broad foundation in engineering principles, along with flexibility to explore various engineering disciplines.",
+  "classHighlights": [
+    "Students in the Engineering program complete a core curriculum that includes courses in Calculus (18.01, 18.02, 18.03), Physics (8.01, 8.02, 8.03), and Chemistry (5.111, 5.112).",
+    "The program includes foundational engineering courses such as Introduction to Electrical Engineering and Computer Science (6.012 or 6.013), Mechanics (18.03, 2.001), and Materials Science (3.091, 3.12).",
+    "Students are required to complete a set of restricted electives that deepen their understanding in a specific area of engineering. These may include courses in fields like Electrical Engineering, Mechanical Engineering, or Civil and Environmental Engineering.",
+    "The program also includes a range of laboratory and design courses, such as Introduction to EECS (6.01), Junior Lab (8.13-8.14), and design subjects in various engineering departments.",
+    "In addition to technical courses, students are required to fulfill the Institute's General Institute Requirements, which include subjects in the humanities, arts, and social sciences.",
+    "Students must also complete a certain number of units in engineering, which can be achieved through various departmental course offerings."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mathematics, physics, and chemistry to engineering problems.",
+    "Demonstrate an understanding of engineering principles, including the ability to design and conduct experiments, as well as to analyze and interpret data.",
+    "Design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability.",
+    "Function on multidisciplinary teams.",
+    "Identify, formulate, and solve engineering problems.",
+    "Communicate effectively in written and oral forms."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Aeronautics and Astronautics (B.S.)",
+      "link": "https://catalog.mit.edu/degree-charts/aeronautics-astronautics-course-16/"
+    },
+    {
+      "title": "Chemical Engineering (B.S.)",
+      "link": "https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/"
+    },
+    {
+      "title": "Civil and Environmental Engineering (B.S.)",
+      "link": "https://catalog.mit.edu/degree-charts/civil-environmental-engineering-course-1/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/engineering-course-1a-eng/",
+    "https://engineering.mit.edu/",
+    "https://admissions.mit.edu/academics/programs/engineering"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "A total of 180-186 units are required to complete the program, with a specific distribution across different categories.",
+  "additionalInformation": "The program is designed to be flexible, allowing students to explore various areas of engineering while fulfilling the core requirements. Students are advised to work closely with their academic advisors to plan their course of study."
+}

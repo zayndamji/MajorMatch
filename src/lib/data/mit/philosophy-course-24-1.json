@@ -1,0 +1,45 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Philosophy (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Department of Linguistics and Philosophy offers a major in Philosophy that exposes students to the major subfields of philosophy, including metaphysics and epistemology, ethics, logic, and the history of philosophy. Students develop critical thinking, writing, and analytical skills, preparing them for a range of careers or graduate study.",
+  "shortProgramDescription": "MIT's Philosophy B.S. provides a rigorous foundation in core areas of philosophy, developing skills in critical thinking, analysis, and argumentation.",
+  "classHighlights": [
+    "Students are required to take Introduction to Philosophy (24.01) or Introduction to Political Philosophy (24.04) to introduce them to philosophical inquiry and methods.",
+    "Logical reasoning is developed through Introduction to Logic (24.211) or Alternative Logic (24.244), and further skills are acquired in Metaphysics and Epistemology (24.222) and Philosophy of Science (24.251).",
+    "Ethics is explored through Moral Problems and the Structure of Ethical Theory (24.231) or The Theory of Value (24.232), allowing students to engage with various ethical theories and apply them to contemporary issues.",
+    "Historical perspectives are gained through the History of Philosophy sequence, including Ancient Philosophy (24.241), Modern Philosophy (24.242), and 19th-Century Philosophy (24.243).",
+    "Advanced study is pursued through upper-level electives in areas like metaphysics, ethics, logic, philosophy of science, and political philosophy, enabling students to deepen their understanding in specific interests.",
+    "Seminars and advanced courses require students to produce substantial written work, refining their research and writing skills in philosophy."
+  ],
+  "learningOutcomes": [
+    "Analyze and evaluate philosophical arguments and theories.",
+    "Develop rigorous critical thinking and analytical skills.",
+    "Apply logical principles to various philosophical problems.",
+    "Understand and engage with major historical and contemporary philosophical debates.",
+    "Communicate complex philosophical ideas effectively in writing and discussion.",
+    "Integrate philosophical insights with other disciplines like science, politics, or literature."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Linguistics",
+      "link": "https://catalog.mit.edu/department-charts/linguistics-course-24-2/"
+    },
+    {
+      "title": "Science, Technology, and Society",
+      "link": "https://catalog.mit.edu/department-charts/science-technology-society-course-21/"
+    },
+    {
+      "title": "Political Science",
+      "link": "https://catalog.mit.edu/department-charts/political-science-course-17/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/philosophy-course-24-1",
+    "https://philosophy.mit.edu/undergraduate/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of 180 units; at least 48 units in the major and 54 units in the humanities, arts, and social sciences",
+  "additionalInformation": "Students are encouraged to explore related fields and may pursue a minor or double major. Research opportunities and senior thesis projects are available for students to deepen their engagement with philosophical topics."
+}

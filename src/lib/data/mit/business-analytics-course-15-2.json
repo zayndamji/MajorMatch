@@ -1,0 +1,43 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Business Analytics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Business Analytics program at MIT is an interdisciplinary major that combines coursework in economics, data analytics, management, and finance to equip students with skills to analyze complex business problems and develop data-driven solutions. The program focuses on understanding business operations, identifying opportunities for improvement, and applying analytical methods to drive decision-making.",
+  "shortProgramDescription": "The Business Analytics major at MIT provides a comprehensive education in data analysis, business principles, and quantitative methods.",
+  "classHighlights": [
+    "Foundational Courses: Students begin with foundational courses in Microeconomics (15.010), Business Analytics (15.071), and Statistics (18.05 or 18.06), establishing a solid grounding in economic theory, data analysis, and statistical methods.",
+    "Data Analysis and Computing: Courses in Data, Models, and Decisions (15.066) and Introduction to Business Analytics (15.062) introduce students to data-driven decision-making, predictive modeling, and business analytics tools.",
+    "Business and Management: Classes in Management (15.310 or 15.311) and Finance (15.401 or 15.402) provide a thorough understanding of business operations, organizational behavior, and financial principles.",
+    "Quantitative Methods: Students take advanced courses in Optimization Methods (15.081) and Stochastic Processes (15.076), enabling them to apply quantitative techniques to solve complex business problems.",
+    "Electives and Specializations: The major allows students to choose from a range of electives, enabling them to explore specialized areas such as marketing analytics, supply chain management, or financial analytics."
+  ],
+  "learningOutcomes": [
+    "Apply data analytics techniques to drive business decision-making",
+    "Understand and analyze complex business problems",
+    "Develop skills in data analysis, statistical modeling, and data visualization",
+    "Demonstrate knowledge of business operations, organizational behavior, and financial principles",
+    "Communicate insights effectively to both technical and non-technical stakeholders"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Management (B.S.)",
+      "link": "https://catalog.mit.edu/degree-charts/management-course-15-3"
+    },
+    {
+      "title": "Economics",
+      "link": "https://catalog.mit.edu/degree-charts/economics-course-14-1"
+    },
+    {
+      "title": "Finance (Minor)",
+      "link": "https://catalog.mit.edu/minors/finance-minor"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/business-analytics-course-15-2",
+    "https://www.mit.edu/~business-analytics/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "180-192 units (MIT unit system)",
+  "additionalInformation": "The Business Analytics major is administered by the Faculty of the MIT Sloan School of Management. Students are required to meet specific GPA requirements and complete a set of foundational and advanced courses."
+}

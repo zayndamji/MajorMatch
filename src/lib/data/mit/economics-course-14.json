@@ -1,0 +1,37 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Economics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Department of Economics offers a major in Economics, which provides a rigorous education in economic theory, econometrics, and applied economics. Students develop a strong foundation in microeconomics, macroeconomics, and econometrics, as well as a range of elective courses in specialized areas. The program prepares students for a variety of careers in government, business, finance, and academia, as well as for graduate study in economics and related fields.",
+  "shortProgramDescription": "MIT's Economics B.S. provides a rigorous education in economic theory, econometrics, and applied economics, preparing students for careers in government, business, finance, and academia, or for graduate study.",
+  "classHighlights": [
+    "Core Courses: Students take a sequence of core courses in microeconomics (14.121-14.123), macroeconomics (14.131-14.133), and econometrics (14.381), which provide a foundation in economic theory and empirical methods.",
+    "Electives: Students choose from a range of elective courses in specialized areas, such as international trade, public finance, labor economics, and econometrics, which allow them to develop their interests and expertise.",
+    "Field Courses: Students take field courses (14.4xx) that provide advanced training in specific areas of economics, such as economic development, industrial organization, or monetary economics."
+  ],
+  "learningOutcomes": [
+    "Understand and apply microeconomic and macroeconomic theories to analyze economic phenomena.",
+    "Use econometric methods to analyze economic data and test hypotheses.",
+    "Develop critical thinking and problem-solving skills in the context of economic analysis.",
+    "Communicate complex economic ideas and results effectively in written and oral form.",
+    "Apply economic principles to real-world problems and policy issues."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mathematics",
+      "link": "https://catalog.mit.edu/degree-charts/mathematics-course-18/"
+    },
+    {
+      "title": "Finance",
+      "link": "https://catalog.mit.edu/degree-charts/finance-major-management/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/economics-course-14/",
+    "https://economics.mit.edu/undergraduate-program"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total:  180-192 units; Economics Major: 66-72 units",
+  "additionalInformation": "Students must complete the General Institute Requirements in addition to the major requirements. Restricted electives and GIRs limit flexibility."
+}

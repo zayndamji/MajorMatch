@@ -1,0 +1,42 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Aerospace Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Department of Aeronautics and Astronautics offers a Bachelor of Science degree in Aerospace Engineering. The program provides a strong foundation in the aerodynamic and astronautic fundamentals of aerospace engineering, as well as the underlying mathematics, physics, and engineering principles. Students gain a broad understanding of aerospace engineering disciplines, with hands-on experience in design, testing, and project management.",
+  "shortProgramDescription": "MIT's Aerospace Engineering B.S. provides a comprehensive education in the principles and practices of aerospace engineering, preparing students for a wide range of careers.",
+  "classHighlights": [
+    "Core Aerospace Courses: Students take foundational courses in Aerospace Engineering, including Introduction to Aerospace Engineering (16.01), Aerodynamics (16.04), and Aerospace Dynamics (16.07), covering fundamental principles and applications.",
+    "Mathematics and Physics: Required courses in mathematics (18.01-18.03) and physics (8.01-8.03) provide the theoretical foundations necessary for advanced study in aerospace engineering.",
+    "Structures and Materials: Courses such as Aerospace Structures (16.20) and Mechanics of Materials (3.11) equip students with knowledge of structural analysis, material properties, and failure mechanisms.",
+    "Propulsion Systems: Students study aerospace propulsion systems through courses like Aerospace Propulsion (16.50), examining principles of jet propulsion, rocket propulsion, and related technologies.",
+    "Systems Engineering: The program includes courses on Systems Engineering (16.82) and Aerospace Systems Design (16.89), focusing on the design, integration, and management of complex aerospace systems.",
+    "Electives and Specializations: Students can choose from a variety of electives and specializations, allowing them to tailor their education to specific interests, such as aerodynamics, astronautics, or aerospace systems."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mathematics, physics, and engineering to solve aerospace engineering problems.",
+    "Design, analyze, and test aerospace vehicles and systems.",
+    "Understand the behavior of aerospace systems under various conditions.",
+    "Communicate complex technical information effectively.",
+    "Work effectively in teams to accomplish project goals.",
+    "Understand the societal and global implications of aerospace engineering."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Aeronautics and Astronautics Minor",
+      "link": "https://catalog.mit.edu/mit/minors/aeronautics-astronautics-minor/"
+    },
+    {
+      "title": "Mechanical Engineering",
+      "link": "https://catalog.mit.edu/mit/programs/mechanical-engineering-course-2/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16",
+    "https://aeroastro.mit.edu/undergrad",
+    "https://aeroastro.mit.edu/academic-programs/bs-program"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "180-186 units (MIT's unit system; typically 4-5 courses per semester, with variable units per course)",
+  "additionalInformation": "Students are required to complete a General Institute Requirements (GIRs) including calculus, physics, chemistry, and biology, as well as Humanities, Arts, and Social Sciences (HASS) courses. The program is accredited by the Engineering Accreditation Commission of ABET."
+}

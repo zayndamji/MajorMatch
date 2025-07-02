@@ -1,0 +1,41 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Mechanical Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Department of Mechanical Engineering offers a program leading to the degree of Bachelor of Science in Mechanical Engineering. The program is designed to provide a broad foundation in the fundamental principles of mechanical engineering, as well as to introduce students to the latest advances in the field. Students develop a strong background in mathematics, physics, and engineering sciences, and learn to apply these principles to solve real-world problems.",
+  "shortProgramDescription": "The Mechanical Engineering program at MIT provides a comprehensive education in the principles of mechanical engineering, preparing students for a wide range of careers in industry, government, and academia.",
+  "classHighlights": [
+    "Core Subjects: The program includes core subjects such as Mechanics, Materials Science, Thermodynamics, Fluid Mechanics, and Dynamics and Control, providing a solid foundation in the fundamental principles of mechanical engineering.",
+    "Mathematics and Physics: Students take a range of mathematics and physics courses, including Calculus, Differential Equations, and Physics, to develop a strong understanding of the underlying principles of mechanical engineering.",
+    "Engineering Sciences: The program includes a range of engineering science courses, such as Mechanics of Solids and Fluids, Thermodynamics, and Heat Transfer, that apply mathematical and scientific principles to solve engineering problems.",
+    "Mechanical Engineering Fundamentals: Students learn about the design, development, and testing of mechanical systems, including mechanical components, machines, and systems.",
+    "Departmental Electives: Students choose from a range of departmental electives to explore specialized topics in mechanical engineering, such as biomechanical engineering, energy systems, or robotics."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mechanical engineering to solve real-world problems.",
+    "Design, develop, and test mechanical systems and components.",
+    "Analyze and optimize mechanical systems using mathematical and computational tools.",
+    "Communicate technical information effectively through written and oral presentations.",
+    "Work effectively in teams to solve complex engineering problems.",
+    "Understand the social, economic, and environmental context of mechanical engineering practice."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Aeronautics and Astronautics (B.S.)",
+      "link": "https://catalog.mit.edu/degree-charts/aeronautics-astronautics-course-16/"
+    },
+    {
+      "title": "Engineering (B.S.) with a focus on Materials Science and Engineering",
+      "link": "https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/",
+    "https://meche.mit.edu/undergraduate-program",
+    "https://www.mit.edu/catalogue/subject/2/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "180-192 units (total), with at least 72 units in mechanical engineering subjects",
+  "additionalInformation": "Students must complete a range of General Institute Requirements, including mathematics, physics, and humanities courses, in addition to the mechanical engineering core subjects and departmental electives."
+}

@@ -1,0 +1,45 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Humanities and Science (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Humanities and Science major is designed for students who wish to combine a serious interest in a Humanities or Social Science field with a concentration in a Science field. Students in the major integrate knowledge and methods from both fields.",
+  "shortProgramDescription": "The Humanities and Science major at MIT combines rigorous study in a Humanities or Social Science discipline with a concentration in a Science field, fostering interdisciplinary understanding and skills.",
+  "classHighlights": [
+    "Students are required to complete a GIR (General Institute Requirements) in Science and Humanities. For the Humanities section, students must take at least two semesters of the same foreign language (unless exempted by an MIT placement test).",
+    "For the science component, students must take Calculus I and II (or equivalents), Physics I and II, Chemistry or equivalent, and Biology or equivalent. ",
+    "Core requirements for the major include the SHSSP (Science, Humanities, and Social Science Program) gateway subjects, a concentration in a Humanities or Social Science field (minimum of 48 units, typically 6-8 courses), and a concentration in a Science field (minimum of 54 units, typically 7-9 courses).",
+    "In the Humanities or Social Science concentration, students select from a range of disciplines, such as Literature, History, or Economics, and complete a coherent set of courses that provide both breadth and depth.",
+    "For the Science concentration, students choose a field such as Biology, Chemistry, or Physics, and complete a sequence of courses that provide a strong foundation in the field.",
+    "Electives and additional courses are chosen to satisfy the total unit requirements and to allow students to explore related areas or pursue additional interests."
+  ],
+  "learningOutcomes": [
+    "Analyze and interpret texts and data within the context of their chosen Humanities or Social Science discipline.",
+    "Apply scientific principles and methods to problems within their chosen Science field.",
+    "Integrate knowledge from both Humanities/Social Science and Science disciplines to address complex issues.",
+    "Communicate effectively in written and oral forms within both disciplinary contexts.",
+    "Develop a nuanced understanding of the intersections and divergences between Humanities/Social Science and Science fields."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Science, Technology, and Society",
+      "link": "https://catalog.mit.edu/degree-charts/science-technology-society-sts-course-21s/"
+    },
+    {
+      "title": "Anthropology",
+      "link": "https://catalog.mit.edu/degree-charts/anthropology-course-21A/"
+    },
+    {
+      "title": "Linguistics and Philosophy",
+      "link": "https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-1/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/humanities-science-course-21s/",
+    "https://shssp.mit.edu/",
+    "https://student.mit.edu/catalog/m21s.html"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "At least 180-192 units (total), with a minimum of 48 units in the Humanities/Social Science concentration and 54 units in the Science concentration",
+  "additionalInformation": "Students must declare a concentration in both a Humanities/Social Science field and a Science field.  GIRs in Science and Humanities must be satisfied. Additional advising is available through the SHSSP program."
+}

@@ -1,0 +1,40 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Mathematical Economics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mathematical Economics major is designed for students who wish to combine the study of economics and mathematics. It provides a strong foundation in both fields, preparing students for graduate study or careers in government, finance, or research. The program includes coursework in microeconomics, macroeconomics, econometrics, and mathematical economics, as well as advanced mathematics courses.",
+  "shortProgramDescription": "The Mathematical Economics major combines economics and mathematics to prepare students for careers or graduate study in these fields.",
+  "classHighlights": [
+    "Mathematical Requirements: Students complete Calculus (18.01-02), Multivariate Calculus and Differential Equations (18.02-03), and Linear Algebra (18.06). They also take Introduction to Mathematical Thinking (18.100) or an alternative.",
+    "Economic Theory: Students take Principles of Microeconomics (14.01), Principles of Macroeconomics (14.02), and Microeconomic Theory and Public Policy (14.121-122). They are also required to take Econometrics (14.32-33) or equivalent.",
+    "Mathematical Economics: Courses in this category include Mathematical Methods for Economists (14.128) and other electives that combine mathematical techniques with economic theory.",
+    "Advanced Electives: Students choose from a range of advanced electives in both economics and mathematics, allowing them to tailor their coursework to their interests and career goals.",
+    "Statistics and Probability: Students are required to take Probability and Statistics (18.05) or equivalent, providing a foundation in statistical inference.",
+    "Additional Coursework: The major includes additional coursework in economics, mathematics, and related fields, with flexibility to pursue individual interests."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical techniques to economic analysis and problem-solving.",
+    "Understand microeconomic and macroeconomic theory and policy.",
+    "Analyze data using statistical and econometric methods.",
+    "Develop a strong foundation in mathematical economics.",
+    "Pursue advanced study or careers in economics, finance, or related fields."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Economics",
+      "link": "https://catalog.mit.edu/subjects/14/"
+    },
+    {
+      "title": "Mathematics",
+      "link": "https://catalog.mit.edu/subjects/18/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/mathematical-economics-course-14-2/",
+    "https://economics.mit.edu/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of 66-72 units, including GIRs, economics, mathematics, and related electives",
+  "additionalInformation": "Students are required to maintain a certain GPA and complete specific coursework to remain in the major. The program is administered by the Department of Economics."
+}

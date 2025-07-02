@@ -41,5 +41,14 @@ async function ucb() {
   }
 }
 
+// MIT
+async function mit() {
+  const mitMajors = JSON.parse(fs.readFileSync('../src/lib/data/mit/majors.json'));
+  for (const major of mitMajors) {
+    await scrapeProgram('Massachusetts Institute of Technology', major.name, `https://catalog.mit.edu/degree-charts/${major.id}`, `../src/lib/data/mit/${major.id}.json`);
+  }
+}
+
 // stanford();
 // ucb();
+// mit();

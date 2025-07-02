@@ -1,0 +1,45 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Archaeology and Materials (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Department of Materials Science and Engineering's undergraduate program in Archaeology and Materials explores the application of materials science and engineering principles to the study of archaeological materials and cultural heritage. Students learn about the properties, processing, and performance of materials in ancient contexts, and develop skills in materials characterization, analysis, and conservation.",
+  "shortProgramDescription": "This major combines materials science and archaeology to study the materials and technologies of ancient cultures.",
+  "classHighlights": [
+    "The program begins with foundational courses in Materials Science and Engineering, including 3.091 (Introduction to Solid-State Chemistry), 3.092 (Introduction to Materials Science and Engineering), and 3.101 (Introduction to Thermodynamics and Kinetics).",
+    "Students take core courses in materials science, including 3.205 (Thermodynamics and Kinetics of Materials), 3.206 (Mechanical Behavior of Materials), and 3.207 (Electrical, Optical, and Magnetic Properties of Materials).",
+    "Archaeology and cultural heritage courses include 3.048 (Archaeology and Materials), 3.049 (Materials in Archaeology and Art), and 3.050 (Conservation and Preservation of Cultural Heritage).",
+    "Students also complete a range of electives in materials science and archaeology, such as 3.052 (Nanomechanics of Materials), 3.054 (Materials Processing), and 21A.501 (Archaeological Science).",
+    "Lab courses, such as 3.003 (Materials Laboratory) and 3.052 (Nanomechanics of Materials Laboratory), provide hands-on experience with materials characterization and analysis.",
+    "Students also complete a UROP (Undergraduate Research Opportunities Program) project or other research experience, working with faculty to apply materials science principles to archaeological materials."
+  ],
+  "learningOutcomes": [
+    "Apply materials science and engineering principles to the study of archaeological materials and cultural heritage.",
+    "Analyze and characterize the properties and composition of archaeological materials.",
+    "Understand the historical and cultural contexts of ancient materials and technologies.",
+    "Develop skills in materials conservation and preservation.",
+    "Communicate complex scientific and technical information to diverse audiences."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Materials Science and Engineering",
+      "link": "https://catalog.mit.edu/departments/materials-science-engineering/"
+    },
+    {
+      "title": "Anthropology",
+      "link": "https://anthropology.mit.edu/"
+    },
+    {
+      "title": "Classics",
+      "link": "https://classics.mit.edu/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/",
+    "https://dmse.mit.edu/",
+    "https://catalog.mit.edu/departments/materials-science-engineering/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "180-192 units (total), including 66-72 units in major subjects and 48 units in General Institute Requirements; semester system",
+  "additionalInformation": "Students must declare the major through the Department of Materials Science and Engineering; research and internship opportunities are available."
+}

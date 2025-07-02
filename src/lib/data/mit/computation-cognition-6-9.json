@@ -1,0 +1,44 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Computation and Cognition (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Computation and Cognition program is an interdisciplinary major that combines computer science, cognitive science, and neuroscience to understand the computational principles underlying human cognition and to develop new computational models and systems inspired by the human brain. The program covers the fundamentals of computer science, cognitive science, and neuroscience, as well as the intersections between them.",
+  "shortProgramDescription": "The Computation and Cognition major at MIT combines computer science, cognitive science, and neuroscience to study the computational principles of human cognition and develop new computational models and systems.",
+  "classHighlights": [
+    "The major requires foundational courses in computer science, including 6.004 Computation Structures, 6.006 Introduction to Algorithms, and 6.01 Introduction to Electrical Engineering and Computer Science I.",
+    "Cognitive science and neuroscience courses are also required, including 9.00 Introduction to Psychology, 9.13 The Brain and Cognitive Science, and 9.14 Cognitive Neuroscience.",
+    "Students must also take courses in mathematics, including 18.01 Calculus I and 18.02 Calculus II, as well as probability and statistics.",
+    "Electives in computer science, cognitive science, and neuroscience allow students to explore specific interests and deepen their understanding of the field.",
+    "The major also includes a laboratory or research component, where students can gain hands-on experience with computational models and experimental techniques."
+  ],
+  "learningOutcomes": [
+    "Understand the computational principles underlying human cognition",
+    "Develop new computational models and systems inspired by the human brain",
+    "Apply computer science, cognitive science, and neuroscience to study human cognition",
+    "Analyze and evaluate computational models of cognition",
+    "Communicate complex ideas in written and oral form"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Computer Science and Engineering",
+      "link": "https://catalog.mit.edu/degree-charts/computer-science-engineering-6-004"
+    },
+    {
+      "title": "Cognitive Science",
+      "link": "https://bcs.mit.edu/undergraduate-program/requirements"
+    },
+    {
+      "title": "Brain and Cognitive Sciences",
+      "link": "https://bcs.mit.edu/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/computation-cognition-6-9",
+    "https://bcs.mit.edu/undergraduate-program/requirements",
+    "https://www.eecs.mit.edu/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "180-192 units (semester system)",
+  "additionalInformation": "Students must declare the major through the Department of Electrical Engineering and Computer Science. The major is highly interdisciplinary, and students are encouraged to explore courses and research opportunities across multiple departments."
+}

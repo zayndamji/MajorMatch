@@ -1,0 +1,46 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Mathematics with Computer Science (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mathematics with Computer Science program is an interdisciplinary major that provides a foundation in mathematical theory and computational principles. Students explore the intersection of mathematics and computer science through coursework in mathematical analysis, algorithms, and computational theory. The program prepares students for careers that require a deep understanding of both mathematical and computational concepts.",
+  "shortProgramDescription": "MIT's Mathematics with Computer Science B.S. combines rigorous mathematical foundations with core computer science principles, preparing students for theoretically grounded computational careers or further study.",
+  "classHighlights": [
+    "Mathematics Core: Students complete a sequence of mathematics courses including Calculus (18.01-02), Differential Equations (18.03), and Mathematical Methods for Engineers (18.085 or 18.086), along with Linear Algebra (18.06) and Probability and Statistics (18.440 or 6.041).",
+    "Computer Science Fundamentals: Required courses cover programming (6.0001-2), data structures (6.006), algorithms (6.046), and computer system architecture (6.004 or 6.033).",
+    "Theoretical Computer Science: Coursework includes Theory of Computation (6.045 or 6.840) and Complexity Theory, providing a deep understanding of computational models and limitations.",
+    "Mathematical Structures: Students study Discrete Mathematics (18.310 or 6.042), Combinatorics, and Graph Theory to develop mathematical maturity and problem-solving skills.",
+    "Advanced Mathematics and CS Electives: Students choose from a range of advanced electives in both mathematics and computer science, tailoring their education to specific interests.",
+    "Interdisciplinary Applications: Electives allow exploration of areas like machine learning, computational biology, or mathematical finance, demonstrating the practical applications of the major."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical principles to computer science problems",
+    "Design and analyze algorithms using mathematical techniques",
+    "Understand computational models and theoretical limitations",
+    "Communicate complex mathematical and computational concepts effectively",
+    "Apply probability and statistics to computational problems",
+    "Develop software using rigorous mathematical foundations"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mathematics (B.S.)",
+      "link": "https://catalog.mit.edu/department-mathematics/"
+    },
+    {
+      "title": "Computer Science (B.S.)",
+      "link": "https://catalog.mit.edu/department-electrical-engineering-computer-science/"
+    },
+    {
+      "title": "Mathematics and Statistics Minor",
+      "link": "https://catalog.mit.edu/minor-mathematics-statistics/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c",
+    "https://math.mit.edu/",
+    "https://www.eecs.mit.edu/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of 17-20 half-semester courses (or equivalent units); includes General Institute Requirements and major-specific coursework",
+  "additionalInformation": "Students declare through the Mathematics Department or the EECS Department. The major allows flexible electives within mathematics and computer science. Research opportunities available through UROPs and departmental programs."
+}

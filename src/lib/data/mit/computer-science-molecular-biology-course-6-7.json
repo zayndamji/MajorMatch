@@ -1,0 +1,45 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Computer Science and Molecular Biology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "This major combines the study of computer science and molecular biology, providing a foundation in the principles of computer science and the study of molecular biology. The program includes coursework in algorithms, data structures, computer architecture, and software engineering, as well as molecular biology, biochemistry, and genetics.",
+  "shortProgramDescription": "The Computer Science and Molecular Biology major at MIT integrates the study of computer science and molecular biology, preparing students for careers at the intersection of these fields.",
+  "classHighlights": [
+    "The program begins with foundational courses in computer science, including 6.001 Introduction to Computer Science Programming in Python and 6.042J Mathematics for Computer Science, which provide a basis in programming and mathematical concepts.",
+    "In the area of computer science, students take additional courses such as 6.006 Introduction to Algorithms, 6.004 Computation Structures, and 6.033 Computer System Engineering, which cover algorithms, computer architecture, and systems engineering.",
+    "For molecular biology, students complete 7.012 Introduction to Biology, 5.07 Biochemistry, and 7.03 Genetics, providing a comprehensive understanding of biological principles, biochemistry, and genetics.",
+    "Further coursework in computer science includes electives such as 6.046J Design and Analysis of Algorithms and 6.045J Automata, Computability, and Complexity, allowing students to explore advanced topics.",
+    "Additional molecular biology and related electives enable students to deepen their understanding of molecular biology and its applications.",
+    "The major requires a total of 17-20 half-courses, including GIRs, Departmental, and General Institute requirements."
+  ],
+  "learningOutcomes": [
+    "Apply computational principles to biological problems.",
+    "Understand the fundamental concepts of computer science and molecular biology.",
+    "Analyze and design algorithms for solving complex problems.",
+    "Demonstrate knowledge of molecular biology, biochemistry, and genetics.",
+    "Integrate computational and biological principles to tackle interdisciplinary challenges."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Computer Science and Biology",
+      "link": "https://catalog.mit.edu/degree-charts/computer-science-biology-course-6-7/"
+    },
+    {
+      "title": "Biological Engineering",
+      "link": "https://catalog.mit.edu/degree-charts/biological-engineering-course-20/"
+    },
+    {
+      "title": "Electrical Engineering and Computer Science",
+      "link": "https://catalog.mit.edu/degree-charts/electrical-engineering-computer-science-course-6/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/",
+    "https://www.eecs.mit.edu/",
+    "https://biology.mit.edu/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of 17-20 half-courses (approximately 136-160 units, with 1 half-course equivalent to 8 units)",
+  "additionalInformation": "Students must complete General Institute Requirements, Departmental requirements, and other related electives. GPA and other performance requirements may apply. Students are encouraged to participate in research and other experiential learning opportunities."
+}
