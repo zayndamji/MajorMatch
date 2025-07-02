@@ -8,14 +8,24 @@ const universities = JSON.parse(fs.readFileSync(universitiesPath, 'utf-8'));
 const dynamicEntries = [];
 
 for (const university of universities) {
-  dynamicEntries.push(`/universities/${university.id}`);
-  dynamicEntries.push(`/universities/${university.id}/majors`);
+  const univId = university.id;
 
-  const majorsPath = path.resolve(`./src/lib/data/${university.id}/majors.json`);
+  // Webpage routes
+  dynamicEntries.push(`/universities/${univId}`);
+  dynamicEntries.push(`/universities/${univId}/majors`);
+
+  // API route
+  dynamicEntries.push(`/api/${univId}/majors`);
+
+  const majorsPath = path.resolve(`./src/lib/data/${univId}/majors.json`);
   if (fs.existsSync(majorsPath)) {
     const majors = JSON.parse(fs.readFileSync(majorsPath, 'utf-8'));
     for (const major of majors) {
-      dynamicEntries.push(`/universities/${university.id}/majors/${major.id}`);
+      // Webpage route
+      dynamicEntries.push(`/universities/${univId}/majors/${major.id}`);
+
+      // Individual major routes
+      dynamicEntries.push(`/api/${univId}/majors/${major.id}`);
     }
   }
 }
