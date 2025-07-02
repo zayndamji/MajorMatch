@@ -24,14 +24,6 @@
     "path": "/mit"
   },
   {
-    "id": "ucla",
-    "name": "University of California, Los Angeles",
-    "description": "A top public university known for excellence in medicine, engineering, arts, and athletics. Its vibrant campus life and location in Los Angeles make it a hub of culture and innovation.",
-    "imageUrl": "/images/ucla.png",
-    "website": "https://www.ucla.edu",
-    "path": "/ucla"
-  },
-  {
     "id": "ucsd",
     "name": "University of California, San Diego",
     "description": "A coastal research university known for its strengths in oceanography, biotechnology, and engineering. UCSD fosters interdisciplinary collaboration and forward-thinking science.",
@@ -40,12 +32,12 @@
     "path": "/ucsd"
   },
   {
-    "id": "purdue",
-    "name": "Purdue University",
-    "description": "A major public university in Indiana with a strong focus on engineering, aerospace, and computer science. Purdue is home to a robust research community and space exploration legacy.",
-    "imageUrl": "/images/purdue.png",
-    "website": "https://www.purdue.edu",
-    "path": "/purdue"
+    "id": "ucla",
+    "name": "University of California, Los Angeles",
+    "description": "A top public university known for excellence in medicine, engineering, arts, and athletics. Its vibrant campus life and location in Los Angeles make it a hub of culture and innovation.",
+    "imageUrl": "/images/ucla.png",
+    "website": "https://www.ucla.edu",
+    "path": "/ucla"
   },
   {
     "id": "harvard",
@@ -62,13 +54,5 @@
     "imageUrl": "/images/yale.png",
     "website": "https://www.yale.edu",
     "path": "/yale"
-  },
-  {
-    "id": "cornell",
-    "name": "Cornell University",
-    "description": "An Ivy League university in upstate New York that blends public and private colleges. Cornell is recognized for academic diversity and a scenic, rural campus environment.",
-    "imageUrl": "/images/cornell.png",
-    "website": "https://www.cornell.edu",
-    "path": "/cornell"
   }
 ]
