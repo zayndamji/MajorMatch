@@ -1,0 +1,43 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Urban Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Urban Studies offers an undergraduate major in Urban Studies that provides students with a comprehensive understanding of the complex issues surrounding urban development, social inequality, and environmental sustainability. The program draws on a range of disciplines, including sociology, economics, politics, and environmental studies, to provide students with a nuanced understanding of the urban condition. Students have the opportunity to engage in research, internships, and community-based projects, preparing them for careers in fields such as urban planning, policy, and advocacy.",
+  "shortProgramDescription": "The Urban Studies major at Stanford University provides students with a comprehensive understanding of urban development, social inequality, and environmental sustainability.",
+  "classHighlights": [
+    "The Urban Studies program requires students to take a series of core courses that introduce them to key concepts and theories in the field, including the history of urban development, urban sociology, and urban politics.",
+    "Students also choose from a range of electives that allow them to explore specific topics in more depth, such as urban planning, environmental policy, and social inequality.",
+    "Research methods and data analysis are emphasized throughout the curriculum, with courses that teach students how to collect and analyze data, conduct research, and present their findings effectively.",
+    "The program also includes a range of courses that focus on specific geographic regions, such as the United States, Europe, and the Global South, allowing students to explore the urban condition in different contexts.",
+    "Students have the opportunity to engage in community-based projects and internships, applying their knowledge and skills to real-world problems and issues."
+  ],
+  "learningOutcomes": [
+    "Understand the complex issues surrounding urban development, social inequality, and environmental sustainability",
+    "Analyze the social, economic, and political factors that shape urban environments",
+    "Apply research methods and data analysis to understand urban phenomena",
+    "Communicate effectively about urban issues to diverse audiences",
+    "Develop a nuanced understanding of the urban condition in different geographic contexts"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Sociology",
+      "link": "https://sociology.stanford.edu"
+    },
+    {
+      "title": "Environmental Studies",
+      "link": "https://environmentalstudies.stanford.edu"
+    },
+    {
+      "title": "Public Policy",
+      "link": "https://publicpolicy.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/URBST-BA",
+    "https://urbanstudies.stanford.edu/undergraduate-program"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students declare the major through the Urban Studies department. The major is designed to be completed in four years, with a range of courses and electives available to students."
+}

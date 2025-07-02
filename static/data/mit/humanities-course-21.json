@@ -1,0 +1,45 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Humanities (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Department of Humanities provides a rigorous education in the humanities with an emphasis on literature, history, philosophy, and cultural studies. Students explore a range of subjects, developing their critical thinking, writing, and analytical skills. The program allows students to pursue their interests while providing a solid foundation for various careers or further study.",
+  "shortProgramDescription": "The B.S. in Humanities at MIT provides a comprehensive education in the humanities, focusing on critical analysis, writing, and cultural understanding.",
+  "classHighlights": [
+    "Students take foundational courses in literature, history, and philosophy, such as Introduction to Literary Study and Historical Studies.",
+    "Courses in the humanities are organized around several broad categories, including Literature, History, and Philosophy, providing a comprehensive understanding of the humanities.",
+    "Students engage with a variety of subjects, including cultural studies, critical theory, and intellectual history, through courses that challenge their perspectives.",
+    "Electives allow students to explore areas of interest, such as specific literary periods, historical eras, or philosophical traditions, in depth.",
+    "The program emphasizes the development of critical thinking, writing, and analytical skills through intensive coursework and discussions.",
+    "Students can choose from a range of courses that explore the intersections between the humanities and other disciplines, such as science, technology, and society."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad understanding of the humanities, including literature, history, and philosophy.",
+    "Apply critical thinking and analytical skills to complex texts and ideas.",
+    "Communicate effectively in writing and speech about complex subjects.",
+    "Analyze cultural and historical contexts that shape human experience.",
+    "Engage with diverse perspectives and ideas in the humanities."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Literature",
+      "link": "https://literature.mit.edu/"
+    },
+    {
+      "title": "Comparative Media Studies/Writing",
+      "link": "https://cmsw.mit.edu/"
+    },
+    {
+      "title": "Science, Technology, and Society",
+      "link": "https://sts.mit.edu/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/humanities-course-21",
+    "https://humanities.mit.edu/",
+    "https://shass.mit.edu/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "At least 138-144 units, varying by specific major requirements and electives",
+  "additionalInformation": "Students must fulfill General Institute Requirements, complete a minimum number of subjects in the major, and adhere to GIR and major-specific requirements."
+}

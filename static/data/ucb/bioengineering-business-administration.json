@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Bioengineering and Business Administration (B.S. MET)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bioengineering and Business Administration program is an undergraduate major that combines the technical foundations of bioengineering with the principles of business administration. Students in this program gain a comprehensive understanding of both fields, preparing them for careers at the intersection of technology, healthcare, and business. The program includes coursework in bioengineering, biology, chemistry, physics, and business administration, as well as opportunities for hands-on learning and research.",
+  "shortProgramDescription": "The Bioengineering and Business Administration major at UC Berkeley integrates technical bioengineering education with business principles, preparing students for leadership roles in the biotech industry.",
+  "classHighlights": [
+    "The program begins with foundational courses in biology, chemistry, and physics, including Biology 1A/1AL, Chemistry 1A/1AL, and Physics 7A/7B.",
+    "Bioengineering core courses cover topics such as biomechanics, bioengineering systems, and biomedical instrumentation, with classes like Bioengineering 100, 101, and 125.",
+    "Business administration coursework includes Financial Accounting, Managerial Accounting, Finance, and Marketing, with classes such as Business Administration 101A, 101B, 130, and 150.",
+    "Students also complete upper-division bioengineering and business electives, allowing them to tailor their education to their interests and career goals.",
+    "Additional requirements include mathematics courses like Calculus and Statistics, ensuring a strong quantitative foundation."
+  ],
+  "learningOutcomes": [
+    "Apply bioengineering principles to analyze and solve problems in healthcare and biotechnology.",
+    "Understand the fundamentals of business administration, including finance, marketing, and management.",
+    "Integrate technical knowledge with business acumen to address complex challenges.",
+    "Communicate effectively with both technical and non-technical stakeholders.",
+    "Work effectively in teams to develop innovative solutions.",
+    "Analyze the ethical, social, and environmental implications of bioengineering and business decisions."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Bioengineering (B.S.)",
+      "link": "https://bioeng.berkeley.edu/undergrad/degree-programs/bioengineering-bs"
+    },
+    {
+      "title": "Business Administration (B.S.)",
+      "link": "https://haas.berkeley.edu/undergraduate-program/curriculum/requirements"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/bioengineering-business-administration",
+    "https://bioeng.berkeley.edu/undergrad/degree-programs",
+    "https://haas.berkeley.edu/undergraduate-program/curriculum/requirements"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "The program requires a total of 120-128 semester credits, with a combination of lower-division and upper-division coursework in bioengineering, business, and related fields.",
+  "additionalInformation": "Students must complete a set of required courses in both bioengineering and business administration, as well as additional electives and general education requirements. The major is administered jointly by the Bioengineering Department and the Haas School of Business."
+}

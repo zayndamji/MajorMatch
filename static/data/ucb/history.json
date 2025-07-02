@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "History (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of History at UC Berkeley offers a comprehensive undergraduate major that introduces students to the methods, skills, and perspectives of historians. Students examine historical change over time, exploring diverse cultures and societies. The major emphasizes critical thinking, research, and writing skills, preparing students for a range of careers or graduate study. Coursework spans various historical periods, geographical regions, and thematic topics, allowing students to tailor their studies to their interests.",
+  "shortProgramDescription": "The History B.A. at UC Berkeley develops students' understanding of historical contexts, critical analysis, and research skills, preparing them for diverse careers or further study.",
+  "classHighlights": [
+    "The Department's introductory courses (HIST 5-7 series) provide foundational knowledge and skills, introducing students to historical methods, key themes, and debates. These courses prepare students for more advanced work in the major.",
+    "Upper-division courses (100-level and above) allow students to explore specific historical topics, periods, and regions in depth. These courses emphasize critical thinking, research, and writing skills, with many focusing on particular themes such as cultural, social, or political history.",
+    "Students are required to complete a series of upper-division courses that cover a range of historical periods and geographical areas, ensuring a broad understanding of historical contexts and processes. These courses may include European, American, Asian, African, or Latin American history, among others.",
+    "The major includes a range of elective courses that allow students to pursue their interests, from specialized topics to broader thematic studies. These courses may incorporate diverse methodologies, such as social history, cultural studies, or historical analysis of particular phenomena.",
+    "Upper-division seminars and research-intensive courses provide students with advanced training in historical research and writing, often culminating in a substantial research paper or project. These courses help students develop their analytical and interpretive skills, preparing them for independent work or graduate study."
+  ],
+  "learningOutcomes": [
+    "Analyze historical sources and debates critically.",
+    "Conduct independent historical research using a range of sources and methodologies.",
+    "Develop clear, well-supported written arguments about historical topics.",
+    "Understand historical contexts and processes, including the diversity of human experiences across time and place.",
+    "Engage with diverse historiographical perspectives and debates.",
+    "Apply historical knowledge to contemporary issues and problems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Classics",
+      "link": "https://classics.berkeley.edu"
+    },
+    {
+      "title": "Medieval Studies",
+      "link": "https://medievalstudies.berkeley.edu"
+    },
+    {
+      "title": "History Minor",
+      "link": "https://history.berkeley.edu/undergraduate/history-minor"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/history",
+    "https://history.berkeley.edu/undergraduate",
+    "https://www.berkeley.edu/catalog"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "The History major is a flexible program that allows students to tailor their coursework to their interests. Students are advised to consult with departmental advisors to plan their course sequence and ensure they meet major requirements. The major prepares students for a range of careers, including law, education, public policy, and more, in addition to graduate study in history or related fields."
+}

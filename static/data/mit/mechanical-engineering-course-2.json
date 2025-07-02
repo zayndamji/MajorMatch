@@ -1,0 +1,46 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Mechanical Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Department of Mechanical Engineering offers a challenging and comprehensive program that provides students with a foundation in the principles of mechanical engineering, including mechanics, thermodynamics, materials science, and mechanical design. The program includes a broad range of courses in mathematics, physics, and engineering, as well as a strong laboratory component. Students are prepared for careers in industry, research, and academia, as well as for graduate study.",
+  "shortProgramDescription": "MIT's Mechanical Engineering B.S. program provides a comprehensive education in the principles of mechanical engineering, preparing students for a wide range of careers or further study.",
+  "classHighlights": [
+    "Foundational Courses: Students begin with foundational courses in calculus (18.01, 18.02, 18.03), physics (8.01, 8.02, 8.03), and introduction to mechanical engineering (2.001). These courses provide a strong base in mathematics and physics, as well as an introduction to the principles of mechanical engineering.",
+    "Mechanics and Materials: The program includes a range of courses in mechanics and materials, including statics (2.012, 2.013), dynamics (2.032, 2.033), mechanics of solids (2.071), and materials science (3.012, 3.013, 3.014). These courses cover the behavior of materials and systems under various loads and conditions.",
+    "Thermodynamics and Fluids: Students study thermodynamics (2.030, 2.031) and fluid mechanics (2.06, 2.061), gaining a deep understanding of energy transfer, thermodynamic systems, and fluid behavior.",
+    "Design and Systems: The program includes courses in mechanical design (2.007, 2.72), systems engineering (2.674), and mechatronics (2.678), where students learn to design, analyze, and optimize mechanical systems.",
+    "Laboratory and Experimental Methods: Throughout the curriculum, students engage in laboratory and experimental work, developing skills in data collection, analysis, and interpretation. Courses include 2.671 (Instrumentation and Measurement) and various departmental laboratories.",
+    "Electives and Specializations: Students can choose from a range of electives to explore specialized areas, such as biomechanical engineering, energy systems, manufacturing, and robotics, allowing them to tailor their education to their interests and career goals."
+  ],
+  "learningOutcomes": [
+    "Apply principles of mechanics, thermodynamics, and materials science to analyze and design mechanical systems.",
+    "Demonstrate proficiency in mathematical and computational methods relevant to mechanical engineering.",
+    "Design, conduct, and analyze experiments to test hypotheses and validate models.",
+    "Communicate complex ideas and results effectively through written and oral presentations.",
+    "Work effectively in teams to solve engineering problems.",
+    "Consider ethical, environmental, and societal implications in engineering practice."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Aerospace Engineering (B.S.)",
+      "link": "https://catalog.mit.edu/degree-charts/aeronautics-astronautics-course-16"
+    },
+    {
+      "title": "Engineering Systems (B.S.)",
+      "link": "https://catalog.mit.edu/degree-charts/engineering-systems-division-course- ESD"
+    },
+    {
+      "title": "Materials Science and Engineering (B.S.)",
+      "link": "https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2",
+    "https://meche.mit.edu/undergraduate-program",
+    "https://meche.mit.edu/academics/undergraduate"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of 180-186 units; includes General Institute Requirements, departmental requirements, and restricted electives",
+  "additionalInformation": "The program includes a laboratory and experimental component, and students are encouraged to participate in research and project-based learning opportunities. Students must fulfill the General Institute Requirements in addition to departmental requirements."
+}

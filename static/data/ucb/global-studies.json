@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Global Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Global Studies major is an interdisciplinary program that examines the complex relationships between globalization, culture, politics, and economics. Students explore the historical and contemporary dimensions of globalization, analyzing its impact on different societies and communities. The major prepares students for careers in fields such as international relations, global development, human rights, and cultural exchange.",
+  "shortProgramDescription": "The Global Studies B.A. at UC Berkeley provides students with a comprehensive understanding of globalization's complexities and its multifaceted impacts on societies worldwide.",
+  "classHighlights": [
+    "The Global Studies major requires students to take core courses that introduce them to the field's key concepts and debates. These include 'Introduction to Global Studies' and 'Globalization: Concepts and Theories.'",
+    "Students then choose from a range of upper-division courses that allow them to explore specific themes, such as global economic systems, international relations, human rights, and cultural globalization.",
+    "Coursework also includes electives from a variety of departments, including sociology, political science, anthropology, and economics, enabling students to tailor their studies to their interests and career goals.",
+    "In addition, students are required to complete a senior seminar or capstone course that helps them synthesize their knowledge and prepare for their post-graduation paths.",
+    "The major emphasizes the development of critical thinking, research, and analytical skills, preparing students for a wide range of careers in global contexts."
+  ],
+  "learningOutcomes": [
+    "Understand the complex and multifaceted nature of globalization.",
+    "Analyze the impact of globalization on different societies and communities.",
+    "Apply interdisciplinary approaches to studying global issues.",
+    "Develop critical thinking, research, and analytical skills.",
+    "Communicate effectively about global issues and their complexities.",
+    "Prepare for careers in fields related to international relations, global development, human rights, and cultural exchange."
+  ],
+  "similarPrograms": [
+    {
+      "title": "International and Area Studies",
+      "link": "https://ias.berkeley.edu"
+    },
+    {
+      "title": "Comparative Literature",
+      "link": "https://comparative-literature.berkeley.edu"
+    },
+    {
+      "title": "Global Studies Minor",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/global-studies-minor"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/global-studies",
+    "https://globalstudies.berkeley.edu"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "The Global Studies major is a highly interdisciplinary program that draws on coursework from across the humanities and social sciences. Students are encouraged to pursue study abroad opportunities and to engage with the rich resources available on campus related to global issues and international relations."
+}

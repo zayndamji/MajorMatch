@@ -1,0 +1,814 @@
+[
+  {
+    "shortName": "AE-BS",
+    "name": "Aerospace Engineering (B.S.)",
+    "description": "Explore the principles of aerospace engineering, focusing on the design, development, and testing of aircraft and spacecraft. This program emphasizes a strong foundation in aerodynamics, propulsion, structural analysis, and systems integration, preparing you for innovation and leadership in aerospace industries and research.",
+    "id": "aerospace-engineering",
+    "college": "College of Engineering"
+  },
+  {
+    "shortName": "AEB-MET",
+    "name": "Aerospace Engineering and Business Administration (B.S. MET)",
+    "description": "Combine rigorous aerospace engineering study with core business principles to develop skills in technology management, entrepreneurship, and strategic decision-making. This interdisciplinary program equips you to lead technical teams and navigate complex challenges at the intersection of engineering and business.",
+    "id": "aerospace-engineering-business-administration",
+    "college": ["College of Engineering", "Haas School of Business"]
+  },
+  {
+    "shortName": "AFAM-BA",
+    "name": "African American Studies (B.A.)",
+    "description": "Engage deeply with African American history, culture, politics, and social movements through an interdisciplinary lens. This major explores identity, systemic inequalities, resistance, and contributions that shape American society, fostering critical analysis and a commitment to social justice.",
+    "id": "african-american-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "AMST-BA",
+    "name": "American Studies (B.A.)",
+    "description": "Examine the diverse cultural, political, and social dynamics of the United States through interdisciplinary approaches. This major emphasizes critical perspectives on race, class, gender, and power, providing tools to understand America's past and present complexities.",
+    "id": "american-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "ANALY-BA",
+    "name": "Analytics (B.A.)",
+    "description": "Develop expertise in data analysis, statistical modeling, and decision science. This program integrates quantitative methods with real-world applications, preparing you to translate complex data into actionable insights across industries such as business, healthcare, and technology.",
+    "id": "analytics",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "AGRS-BA",
+    "name": "Ancient Greek and Roman Studies (B.A.)",
+    "description": "Investigate the languages, literature, history, and philosophy of ancient Greece and Rome. This major nurtures an understanding of classical civilizations and their enduring influence on modern thought, culture, and institutions through critical interpretation and contextual study.",
+    "id": "ancient-greek-roman-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "ANTH-BA",
+    "name": "Anthropology (B.A.)",
+    "description": "Explore human societies past and present, focusing on cultural diversity, social structures, and biological evolution. This interdisciplinary major combines fieldwork, ethnography, and theoretical frameworks to examine identity, power, and human experience globally.",
+    "id": "anthropology",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "APPM-BS",
+    "name": "Applied Mathematics (B.S.)",
+    "description": "Gain mastery of mathematical techniques and computational methods used to solve real-world problems in science, engineering, and industry. This program emphasizes modeling, analysis, and algorithm development to address challenges in diverse fields.",
+    "id": "applied-mathematics",
+    "college": "College of Engineering"
+  },
+  {
+    "shortName": "ARCH-BA",
+    "name": "Architecture (B.A.)",
+    "description": "Study the theory, history, and practice of architecture with a focus on design, sustainability, and urban planning. This major fosters creative problem-solving and technical skills necessary to shape built environments that respond to social and environmental needs.",
+    "id": "architecture",
+    "college": "College of Environmental Design"
+  },
+  {
+    "shortName": "ARTH-BA",
+    "name": "Art History (B.A.)",
+    "description": "Delve into visual culture across time and geography, analyzing art movements, artists, and societal contexts. This program cultivates critical thinking and research skills to understand artistic expression and its role in shaping human history.",
+    "id": "art-history",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "ARTP-BA",
+    "name": "Art Practice (B.A.)",
+    "description": "Engage in hands-on creation and conceptual exploration across media including painting, sculpture, digital art, and performance. This major encourages experimentation, technical proficiency, and personal artistic development within contemporary and historical contexts.",
+    "id": "art-practice",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "ASADA-BA",
+    "name": "Asian American and Asian Diaspora Studies (B.A.)",
+    "description": "Investigate the histories, cultures, and experiences of Asian American and Asian diasporic communities. This interdisciplinary major addresses issues of identity, migration, representation, and social justice within local and global contexts.",
+    "id": "asian-american-diaspora-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "ASTRO-BA",
+    "name": "Astrophysics (B.A.)",
+    "description": "Study the physical properties and dynamics of celestial bodies and the universe as a whole. This program integrates observational and theoretical approaches, preparing you for research and careers in astronomy, space science, and related fields.",
+    "id": "astrophysics",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "ATMSC-BS",
+    "name": "Atmospheric Science (B.S.)",
+    "description": "Explore the science behind weather, climate, and atmospheric processes. This major combines physics, chemistry, and environmental science to understand atmospheric phenomena and address challenges related to climate change and environmental policy.",
+    "id": "atmospheric-science",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "BIOE-BS",
+    "name": "Bioengineering (B.S.)",
+    "description": "Integrate principles of engineering with biological sciences to develop technologies for healthcare, biotechnology, and medical devices. This program emphasizes innovation, problem-solving, and interdisciplinary collaboration in improving human health.",
+    "id": "bioengineering",
+    "college": "College of Engineering"
+  },
+  {
+    "shortName": "BIOB-MET",
+    "name": "Bioengineering and Business Administration (B.S. MET)",
+    "description": "Combine bioengineering expertise with business acumen to lead innovation in biotechnology and healthcare industries. This interdisciplinary program prepares you for roles in technology development, entrepreneurship, and management within science-driven enterprises.",
+    "id": "bioengineering-business-administration",
+    "college": ["College of Engineering", "Haas School of Business"]
+  },
+  {
+    "shortName": "BMSE-BS",
+    "name": "Bioengineering/Materials Science and Engineering Joint Major (B.S.)",
+    "description": "Study the intersection of biological systems and materials science to design novel biomaterials and medical technologies. This joint major emphasizes research, engineering principles, and collaborative innovation in emerging bio-materials applications.",
+    "id": "bioengineering-materials-science-engineering-joint-major",
+    "college": "College of Engineering"
+  },
+  {
+    "shortName": "BUS-BA",
+    "name": "Business Administration (B.A.)",
+    "description": "Develop strategic, analytical, and leadership skills essential for managing organizations in a global economy. This program covers finance, marketing, operations, and organizational behavior, empowering you to drive innovation and effective decision-making.",
+    "id": "business-administration",
+    "college": "Haas School of Business"
+  },
+  {
+    "shortName": "CELT-BA",
+    "name": "Celtic Studies (B.A.)",
+    "description": "Explore the languages, literature, history, and cultures of the Celtic peoples. This major fosters critical understanding of Celtic heritage and its influence through linguistic analysis, literary interpretation, and cultural studies.",
+    "id": "celtic-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "CHBIO-BS",
+    "name": "Chemical Biology (B.S.)",
+    "description": "Investigate the chemical processes within biological systems to understand molecular mechanisms of life. This interdisciplinary program combines chemistry and biology to advance research in drug development, biotechnology, and molecular medicine.",
+    "id": "chemical-biology",
+    "college": "College of Chemistry"
+  },
+  {
+    "shortName": "CHENG-BS",
+    "name": "Chemical Engineering (B.S.)",
+    "description": "Apply chemistry, physics, and engineering principles to design processes for manufacturing chemicals, materials, and energy. This major emphasizes problem-solving, process optimization, and sustainability in industrial applications.",
+    "id": "chemical-engineering",
+    "college": "College of Chemistry"
+  },
+  {
+    "shortName": "CEMS-BS",
+    "name": "Chemical Engineering / Materials Science & Engineering Joint Major (B.S.)",
+    "description": "Integrate chemical engineering fundamentals with materials science to innovate in the development and processing of advanced materials. This joint major combines theoretical knowledge with practical skills for tackling engineering challenges.",
+    "id": "chemical-engineering-materials-science-joint-major",
+    "college": ["College of Engineering", "College of Chemistry"]
+  },
+  {
+    "shortName": "CHNE-BS",
+    "name": "Chemical Engineering / Nuclear Engineering Joint Major (B.S.)",
+    "description": "Combine chemical and nuclear engineering principles to address energy production, safety, and environmental concerns. This interdisciplinary major prepares you for advanced research and professional work in energy systems and nuclear technologies.",
+    "id": "chemical-engineering-nuclear-joint-major",
+    "college": ["College of Engineering", "College of Chemistry"]
+  },
+  {
+    "shortName": "CHEM-BA",
+    "name": "Chemistry (B.A.)",
+    "description": "Study the fundamental principles and applications of chemistry with a broad liberal arts perspective. This major encourages analytical thinking, laboratory skills, and scientific communication applicable to diverse careers and advanced study.",
+    "id": "chemistry-ba",
+    "college": "College of Chemistry"
+  },
+  {
+    "shortName": "CHEM-BS",
+    "name": "Chemistry (B.S.)",
+    "description": "Engage in rigorous study of chemical theory, experimentation, and analysis. This program prepares you for research, industry, or graduate school by emphasizing quantitative skills and advanced laboratory techniques.",
+    "id": "chemistry-bs",
+    "college": "College of Chemistry"
+  },
+  {
+    "shortName": "CHLC-BA",
+    "name": "Chicanx Latinx Studies (B.A.)",
+    "description": "Explore the histories, cultures, and social issues affecting Chicanx and Latinx communities through interdisciplinary study. This major addresses identity, activism, and cultural expression with a focus on social justice and equity.",
+    "id": "chicanx-latinx-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "CHIN-BA",
+    "name": "Chinese Language (B.A.)",
+    "description": "Develop proficiency in Chinese language and explore its literary, cultural, and historical contexts. This major cultivates linguistic skills alongside critical engagement with China’s diverse cultural traditions and contemporary issues.",
+    "id": "chinese-language",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "CIVL-BS",
+    "name": "Civil Engineering (B.S.)",
+    "description": "Study the design, construction, and maintenance of infrastructure including buildings, bridges, and transportation systems. This major focuses on sustainable engineering practices and solutions to complex societal challenges.",
+    "id": "civil-engineering",
+    "college": "College of Engineering"
+  },
+  {
+    "shortName": "CIVB-MET",
+    "name": "Civil Engineering and Business Administration (B.S. MET)",
+    "description": "Integrate civil engineering expertise with business knowledge to manage projects, resources, and innovation in the built environment. This program prepares you for leadership roles at the intersection of engineering and business strategy.",
+    "id": "civil-engineering-business-administration",
+    "college": ["College of Engineering", "Haas School of Business"]
+  },
+  {
+    "shortName": "COGS-BA",
+    "name": "Cognitive Science (B.A.)",
+    "description": "Explore the interdisciplinary study of the mind, combining psychology, neuroscience, linguistics, and computer science. This major investigates perception, learning, and decision-making through theoretical and experimental approaches.",
+    "id": "cognitive-science",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "CMLT-BA",
+    "name": "Comparative Literature (B.A.)",
+    "description": "Analyze literature across languages, cultures, and historical periods, emphasizing critical theory and cultural context. This major develops interpretive skills and an understanding of global literary traditions and their social impact.",
+    "id": "comparative-literature",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "CS-BS",
+    "name": "Computer Science (B.S.)",
+    "description": "Master the fundamentals and advanced topics of computer science including algorithms, software development, and systems design. This program prepares you for innovation in technology, research, and software engineering careers.",
+    "id": "computer-science-bs",
+    "college": "College of Engineering"
+  },
+  {
+    "shortName": "CS-BA",
+    "name": "Computer Science (B.A.)",
+    "description": "Combine computational theory with a broader liberal arts education, focusing on programming, data structures, and computational thinking. This major prepares you for diverse careers involving technology and problem-solving.",
+    "id": "computer-science-ba",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "CRSR-BA",
+    "name": "Conservation and Resource Studies (B.A.)",
+    "description": "Examine the interaction between humans and the environment, addressing sustainability, biodiversity, and natural resource management. This interdisciplinary major integrates science, policy, and ethics to foster environmental stewardship.",
+    "id": "conservation-resource-studies",
+    "college": "College of Natural Resources"
+  },
+  {
+    "shortName": "DAPS-BA",
+    "name": "Dance and Performance Studies (B.A.)",
+    "description": "Explore dance and performance as artistic, cultural, and social practices through practical training and critical analysis. This major cultivates creativity, expression, and scholarly understanding of performance arts.",
+    "id": "dance-performance-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "DS-BS",
+    "name": "Data Science (B.S.)",
+    "description": "Develop expertise in data collection, analysis, and interpretation using statistical and computational tools. This program prepares you to tackle complex problems through data-driven decision-making in diverse sectors.",
+    "id": "data-science",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "DUTC-BA",
+    "name": "Dutch Studies (B.A.)",
+    "description": "Study the language, literature, history, and culture of the Dutch-speaking world. This major promotes linguistic proficiency and critical understanding of the Netherlands and its global influence.",
+    "id": "dutch-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "EEBA-MET",
+    "name": "EECS & Business Administration (B.S. MET)",
+    "description": "Integrate electrical engineering and computer sciences with business strategy and management. This interdisciplinary program prepares you for leadership roles in technology innovation and entrepreneurship.",
+    "id": "electrical-engineering-computer-sciences-business-administration",
+    "college": ["College of Engineering", "Haas School of Business"]
+  },
+  {
+    "shortName": "EEMS-BS",
+    "name": "EECS / Materials Science & Engineering Joint Major (B.S.)",
+    "description": "Combine electrical engineering and computer sciences with materials science to innovate in hardware development, nanotechnology, and emerging materials. This joint major emphasizes research and applied engineering.",
+    "id": "electrical-engineering-computer-sciences-materials",
+    "college": "College of Engineering"
+  },
+  {
+    "shortName": "EENU-BS",
+    "name": "EECS / Nuclear Engineering Joint Major (B.S.)",
+    "description": "Study the integration of electrical engineering, computer science, and nuclear engineering to address challenges in energy, safety, and technology development. This interdisciplinary major prepares you for cutting-edge research and industry roles.",
+    "id": "electrical-engineering-computer-sciences-nuclear-joint-major",
+    "college": "College of Engineering"
+  },
+  {
+    "shortName": "EAHC-BA",
+    "name": "East Asian Humanities (B.A.)",
+    "description": "Explore the literature, history, philosophy, and cultures of East Asia through interdisciplinary study. This major fosters critical understanding of the region's rich traditions and contemporary transformations.",
+    "id": "east-asian-humanities",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "EART-BA",
+    "name": "East Asian Religion, Thought and Culture (B.A.)",
+    "description": "Examine East Asian religion, thought, and culture through critical analysis and creative inquiry. This major offers deep insight into diverse human experiences and historical traditions across time and place.",
+    "id": "east-asian-religion-thought-culture",
+    "college": "College of Letters & Science"
+  },
+  {
+    "shortName": "ECON-BA",
+    "name": "Economics (B.A.)",
+    "description": "Study economic systems, behaviors, and policies that shape societies. Engage with key themes of identity, power, and justice through interdisciplinary perspectives.",
+    "id": "economics",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Education (B.A.)",
+    "shortName": "EDUC-BA",
+    "description": "Explore educational theories and practices within social and cultural contexts. This major encourages critical engagement with issues of policy, equity, and identity.",
+    "id": "education",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Electrical Engineering & Computer Sciences (B.S.)",
+    "shortName": "EECS-BS",
+    "description": "Advance your understanding of electrical engineering and computer sciences through rigorous study and innovation. Prepare to solve real-world challenges with analytical and technical expertise.",
+    "id": "electrical-engineering-computer-sciences",
+    "college": "College of Engineering"
+  },
+  {
+    "name": "Energy Engineering (B.S.)",
+    "shortName": "ENENG-BS",
+    "description": "Develop expertise in energy engineering by exploring theory, application, and innovation. This major equips you to address pressing energy challenges through interdisciplinary collaboration.",
+    "id": "energy-engineering",
+    "college": "College of Engineering"
+  },
+  {
+    "name": "Engineering Mathematics and Statistics (B.S.)",
+    "shortName": "EMST-BS",
+    "description": "Engage deeply with engineering mathematics and statistics, applying theory to practical problems. Prepare for complex technical challenges through analytical and collaborative approaches.",
+    "id": "engineering-math-statistics",
+    "college": "College of Engineering"
+  },
+  {
+    "name": "Engineering Physics (B.S.)",
+    "shortName": "ENGPH-BS",
+    "description": "Explore the principles of physics within engineering contexts. This program fosters innovation and problem-solving skills to tackle real-world technical issues.",
+    "id": "engineering-physics",
+    "college": "College of Engineering"
+  },
+  {
+    "name": "English (B.A.)",
+    "shortName": "ENGL-BA",
+    "description": "Discover the study of literature, writing, and critical analysis. This major prepares you for diverse careers through exploration of human expression and culture.",
+    "id": "english",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Environmental Earth Science (B.S.)",
+    "shortName": "ENES-BS",
+    "description": "Study earth systems and environmental processes through theoretical and applied approaches. Prepare to address environmental challenges with scientific rigor and innovation.",
+    "id": "environmental-earth-science",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Environmental Economics and Policy (B.S.)",
+    "shortName": "EEP-BS",
+    "description": "Examine economic and policy issues related to the environment. Engage with interdisciplinary frameworks to understand and influence sustainable solutions.",
+    "id": "environmental-economics-policy",
+    "college": "College of Natural Resources"
+  },
+  {
+    "name": "Environmental Engineering Science (B.S.)",
+    "shortName": "EES-BS",
+    "description": "Advance knowledge in environmental engineering science through applied and theoretical study. This major prepares you to develop innovative solutions to environmental problems.",
+    "id": "environmental-engineering-science",
+    "college": "College of Engineering"
+  },
+  {
+    "name": "Environmental Sciences (B.A.)",
+    "shortName": "ENVSC-BA",
+    "description": "Explore environmental science with an emphasis on interdisciplinary inquiry and applied research. Prepare to address global environmental issues through critical thinking and collaboration.",
+    "id": "environmental-sciences",
+    "college": "College of Natural Resources"
+  },
+  {
+    "name": "Ethnic Studies (B.A.)",
+    "shortName": "ETHN-BA",
+    "description": "Investigate the experiences and histories of diverse ethnic groups through interdisciplinary approaches. This major critically examines identity, power, and social justice in contemporary and historical contexts.",
+    "id": "ethnic-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Film & Media (B.A.)",
+    "shortName": "FILM-BA",
+    "description": "Explore film and media through both critical analysis and creative practice. This major provides insight into cultural expression and historical developments across diverse media forms.",
+    "id": "film",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "French (B.A.)",
+    "shortName": "FREN-BA",
+    "description": "Study French language, literature, and culture with immersive and analytical methods. Gain a broad understanding of the Francophone world’s rich traditions and contemporary relevance.",
+    "id": "french",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Gender and Women's Studies (B.A.)",
+    "shortName": "GWS-BA",
+    "description": "Explore gender, sexuality, and feminist theory within social and cultural frameworks. Engage critically with issues of power, identity, and social justice across diverse communities.",
+    "id": "gender-womens-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Genetics and Plant Biology (B.S.)",
+    "shortName": "GPBIO-BS",
+    "description": "Advance your knowledge of genetics and plant biology through rigorous research and coursework. Prepare to address biological challenges using innovative experimental approaches.",
+    "id": "genetics-plant-biology",
+    "college": "College of Natural Resources"
+  },
+  {
+    "name": "Geography (B.A.)",
+    "shortName": "GEOG-BA",
+    "description": "Examine spatial relationships and human-environment interactions through interdisciplinary inquiry. This major develops critical thinking about place, power, and society.",
+    "id": "geography",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Geology (B.A.)",
+    "shortName": "GEOL-BA",
+    "description": "Study Earth’s materials, processes, and history through coursework and research. This major prepares students for diverse careers and graduate study in the geosciences.",
+    "id": "geology",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Geophysics (B.S.)",
+    "shortName": "GEOPH-BS",
+    "description": "Explore the physical properties and dynamic processes of the Earth with applied and theoretical study. Prepare for careers addressing environmental and resource challenges through scientific analysis.",
+    "id": "geophysics",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "German (B.A.)",
+    "shortName": "GERM-BA",
+    "description": "Engage with German language, literature, and culture through critical inquiry and creative exploration. Develop a deep understanding of German-speaking societies and their histories.",
+    "id": "german",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Global Studies (B.A.)",
+    "shortName": "GLST-BA",
+    "description": "Investigate global issues through interdisciplinary frameworks that examine identity, power, and justice. This major prepares students to engage with challenges in a rapidly changing world.",
+    "id": "global-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Greek (B.A.)",
+    "shortName": "GREEK-BA",
+    "description": "Study ancient Greek language, literature, and culture through critical and creative approaches. This major offers insight into classical traditions and their enduring influence.",
+    "id": "greek",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Greek and Latin (B.A.)",
+    "shortName": "GRLA-BA",
+    "description": "Delve into the languages and cultures of ancient Greece and Rome through rigorous study. This major emphasizes critical analysis of classical texts and historical contexts.",
+    "id": "greek-and-latin",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "History (B.A.)",
+    "shortName": "HIST-BA",
+    "description": "Explore history through critical inquiry and creative analysis of past events and narratives. This major deepens understanding of human experience across time and place.",
+    "id": "history",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Industrial Engineering & Operations Research (B.S.)",
+    "shortName": "IEOR-BS",
+    "description": "Study industrial engineering and operations research with a focus on both theory and practical application. Prepare to solve complex problems using analytical and technical skills.",
+    "id": "industrial-engineering-operations-research",
+    "college": "College of Engineering"
+  },
+  {
+    "name": "Industrial Engineering & Operations Research & Business Administration (B.S. MET)",
+    "shortName": "IEBA-MET",
+    "description": "Integrate industrial engineering, operations research, and business administration in a comprehensive program. Develop skills to lead innovation and manage complex technical challenges.",
+    "id": "industrial-engineering-operations-research-business-administration",
+    "college": ["College of Engineering", "Haas School of Business"]
+  },
+  {
+    "name": "Integrative Biology (B.S.)",
+    "shortName": "INTB-BS",
+    "description": "Advance understanding of biological systems through interdisciplinary study and research. This major prepares students to address complex biological questions innovatively.",
+    "id": "integrative-biology",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Interdisciplinary Studies (B.A.)",
+    "shortName": "INTD-BA",
+    "description": "Bridge multiple disciplines to develop innovative solutions to contemporary challenges. This major fosters strategic thinking and leadership across fields of study.",
+    "id": "interdisciplinary-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Italian Studies (B.A.)",
+    "shortName": "ITAL-BA",
+    "description": "Explore Italian language, literature, and culture through critical and creative inquiry. Gain insight into Italy’s rich artistic and historical traditions.",
+    "id": "italian-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Japanese Language (B.A.)",
+    "shortName": "JPNL-BA",
+    "description": "Engage deeply with Japanese language and culture through critical and creative study. This major provides broad understanding of Japan’s history and contemporary society.",
+    "id": "japanese-language",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Landscape Architecture (B.A.)",
+    "shortName": "LAND-BA",
+    "description": "Discover landscape architecture through design, research, and applied learning. This major prepares students for careers focused on creating sustainable and inspiring environments.",
+    "id": "landscape-architecture",
+    "college": "College of Environmental Design"
+  },
+  {
+    "name": "Latin (B.A.)",
+    "shortName": "LATN-BA",
+    "description": "Study Latin language and literature through critical analysis and creative exploration. This major offers deep insight into classical heritage and its influence.",
+    "id": "latin",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Legal Studies (B.A.)",
+    "shortName": "LEGL-BA",
+    "description": "Examine legal systems, theories, and practices from interdisciplinary perspectives. This major engages critically with themes of power, justice, and society.",
+    "id": "legal-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Linguistics (B.A.)",
+    "shortName": "LING-BA",
+    "description": "Explore the scientific study of language through coursework and research. This major prepares students for diverse careers by deepening understanding of language structure and use.",
+    "id": "linguistics",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Marine Science (B.S.)",
+    "shortName": "MAR-SC",
+    "description": "Advance understanding of marine ecosystems through theory, research, and applied science. Prepare to address challenges in ocean and coastal environments with interdisciplinary approaches.",
+    "id": "marine-science",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Materials Science & Engineering (B.S.)",
+    "shortName": "MSE-BS",
+    "description": "Study materials science and engineering with emphasis on innovation and practical application. This major prepares students to solve real-world challenges through interdisciplinary collaboration.",
+    "id": "materials-science-engineering",
+    "college": "College of Engineering"
+  },
+  {
+    "name": "Materials Science & Engineering / Mechanical Engineering Joint Major (B.S.)",
+    "shortName": "MSEM-BS",
+    "description": "Combine materials science and mechanical engineering to develop expertise in both fields. This joint major prepares students for innovative problem-solving and technical leadership.",
+    "id": "materials-science-engineering-mechanical-joint-major",
+    "college": "College of Engineering"
+  },
+  {
+    "name": "Materials Science & Engineering / Nuclear Engineering Joint Major (B.S.)",
+    "shortName": "MSEN-BS",
+    "description": "Integrate materials science with nuclear engineering in a rigorous program. Prepare to tackle advanced technical challenges with interdisciplinary skills.",
+    "id": "materials-science-engineering-nuclear-joint-major",
+    "college": "College of Engineering"
+  },
+  {
+    "name": "Materials Science & Engineering and Business Administration (B.S. MET)",
+    "shortName": "MSEB-MET",
+    "description": "Combine materials science and engineering with business administration. This major prepares students to lead innovation and manage technical enterprises effectively.",
+    "id": "materials-science-engineering-business-administration",
+    "college": ["College of Engineering", "Haas School of Business"]
+  },
+  {
+    "name": "Mathematics (B.S.)",
+    "shortName": "MATH-BS",
+    "description": "Engage deeply with mathematical theory and applications. This major develops analytical skills to address complex problems in diverse fields.",
+    "id": "mathematics",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Mechanical Engineering (B.S.)",
+    "shortName": "MECH-BS",
+    "description": "Advance knowledge of mechanical engineering through theory and applied practice. Prepare to innovate and solve technical challenges across a variety of industries.",
+    "id": "mechanical-engineering",
+    "college": "College of Engineering"
+  },
+  {
+    "name": "Mechanical Engineering & Business Administration (B.S. MET)",
+    "shortName": "MEBA-MET",
+    "description": "Integrate mechanical engineering with business administration. This major prepares students to lead technical projects and enterprises with strategic insight.",
+    "id": "mechanical-engineering-business-administration",
+    "college": ["College of Engineering", "Haas School of Business"]
+  },
+  {
+    "name": "Mechanical Engineering / Nuclear Engineering (B.S.)",
+    "shortName": "MENB-BS",
+    "description": "Combine mechanical and nuclear engineering in a comprehensive program. Prepare to address advanced engineering challenges through interdisciplinary expertise.",
+    "id": "mechanical-engineering-nuclear",
+    "college": "College of Engineering"
+  },
+  {
+    "name": "Media Studies (B.A.)",
+    "shortName": "MEDS-BA",
+    "description": "Study media theory, history, and practice through critical and creative approaches. This major offers insight into media’s evolving role in culture and society.",
+    "id": "media-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Microbial Biology (B.S.)",
+    "shortName": "MICB-BS",
+    "description": "Advance understanding of microbial biology through research and applied science. Prepare to tackle challenges in health, environment, and biotechnology.",
+    "id": "microbial-biology",
+    "college": "College of Natural Resources"
+  },
+  {
+    "name": "Middle Eastern Languages & Cultures (B.A.)",
+    "shortName": "MECL-BA",
+    "description": "Explore the languages, literatures, and cultures of the Middle East through interdisciplinary inquiry. This major fosters critical understanding of the region’s historical and contemporary issues.",
+    "id": "middle-eastern-languages-cultures",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Molecular Environmental Biology (B.S.)",
+    "shortName": "MEBI-BS",
+    "description": "Study the molecular basis of environmental processes and organisms. This major combines biology, chemistry, and ecology to prepare students for research and environmental solutions.",
+    "id": "molecular-environmental-biology",
+    "college": "College of Natural Resources"
+  },
+  {
+    "name": "Molecular and Cell Biology (B.S.)",
+    "shortName": "MCBI-BS",
+    "description": "Investigate the molecular and cellular foundations of life through experimental research. This major emphasizes interdisciplinary approaches to understanding biological systems.",
+    "id": "molecular-cell-biology",
+    "college": "College of Natural Resources"
+  },
+  {
+    "name": "Music (B.A.)",
+    "shortName": "MUSI-BA",
+    "description": "Engage with music as both an art form and cultural practice. The curriculum combines performance, composition, and critical analysis across diverse traditions and genres.",
+    "id": "music",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Native American Studies (B.A.)",
+    "shortName": "NAMS-BA",
+    "description": "Examine Native American histories, cultures, and contemporary issues through interdisciplinary study. This major centers Indigenous perspectives and social justice.",
+    "id": "native-american-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Neuroscience (B.S.)",
+    "shortName": "NEUR-BS",
+    "description": "Explore the structure and function of the nervous system through integrative study and research. This major prepares students for careers in medicine, research, and related fields.",
+    "id": "neuroscience",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Nuclear Engineering (B.S.)",
+    "shortName": "NUCE-BS",
+    "description": "Focus on principles and applications of nuclear science and engineering. This major prepares students for careers in energy, medicine, and advanced technology sectors.",
+    "id": "nuclear-engineering",
+    "college": "College of Engineering"
+  },
+  {
+    "name": "Nutritional & Metabolic Biology (B.S.)",
+    "shortName": "NUMB-BS",
+    "description": "Explore human metabolism and nutrition through molecular and physiological perspectives. This major prepares students for careers in health, research, and biomedical fields.",
+    "id": "nutritional-metabolic-biology",
+    "college": "College of Natural Resources"
+  },
+  {
+    "name": "Nutritional Sciences: Physiology & Metabolism (B.S.)",
+    "shortName": "NSPM-BS",
+    "description": "Investigate physiological processes that regulate nutrition and metabolism with an emphasis on research and health sciences. Students gain interdisciplinary skills to address nutrition-related challenges.",
+    "id": "physiology-and-metabolism",
+    "college": "College of Natural Resources"
+  },
+  {
+    "name": "Nutritional Sciences: Toxicology (B.S.)",
+    "shortName": "NSTM-BS",
+    "description": "Study how toxins and chemicals impact metabolic systems and human health. This major combines research and applied science to prepare students for careers in public health and regulation.",
+    "id": "nutritional-sciences-toxicology",
+    "college": "College of Natural Resources"
+  },
+  {
+    "name": "Philosophy (B.A.)",
+    "shortName": "PHIL-BA",
+    "description": "Engage with fundamental questions about knowledge, ethics, and existence. This major develops critical thinking and analytical skills across diverse philosophical traditions.",
+    "id": "philosophy",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Physics (B.S.)",
+    "shortName": "PHYS-BS",
+    "description": "Study the fundamental laws of nature through theoretical and experimental approaches. This major prepares students for research and technical careers in physical sciences.",
+    "id": "physics",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Planetary Science (B.S.)",
+    "shortName": "PLAN-BS",
+    "description": "Explore the formation, geology, atmospheres, and potential habitability of planets within and beyond our solar system. This interdisciplinary major combines astronomy, geology, and atmospheric science to understand planetary environments.",
+    "id": "planetary-science",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Political Economy (B.A.)",
+    "shortName": "POEC-BA",
+    "description": "Examine the interaction of economic and political systems to understand public policy, global inequality, and institutional dynamics. This major integrates theory and empirical research to address complex societal challenges.",
+    "id": "political-economy",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Political Science (B.A.)",
+    "shortName": "POLS-BA",
+    "description": "Analyze political systems, behavior, and theory from comparative and global perspectives. This major fosters understanding of power, governance, and public policy.",
+    "id": "political-science",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Psychology (B.A.)",
+    "shortName": "PSYC-BA",
+    "description": "Explore human behavior and mental processes through scientific study. This major prepares students for diverse fields including research, counseling, and health sciences.",
+    "id": "psychology",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Public Health (B.A.)",
+    "shortName": "PHLH-BA",
+    "description": "Examine population health, epidemiology, and health policy to address social determinants of well-being. This interdisciplinary major prepares students to promote health equity and community resilience.",
+    "id": "public-health",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Rhetoric (B.A.)",
+    "shortName": "RHET-BA",
+    "description": "Explore the art of persuasion and argumentation across media, public speaking, and cultural contexts. This major develops critical thinking and communication skills through analysis of discourse.",
+    "id": "rhetoric",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Scandinavian (B.A.)",
+    "shortName": "SCAN-BA",
+    "description": "Study the languages, literatures, and cultures of the Nordic region with emphasis on history and social institutions. This major fosters deep engagement with Scandinavian societies past and present.",
+    "id": "scandinavian",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Slavic Languages and Literatures (B.A.)",
+    "shortName": "SLAV-BA",
+    "description": "Explore the languages, literatures, and cultures of Russia, Eastern Europe, and the Balkans through historical and literary study. This major highlights the region’s diverse voices and traditions.",
+    "id": "slavic-languages-literatures",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Social Welfare (B.A.)",
+    "shortName": "SWEL-BA",
+    "description": "Investigate social policies, community programs, and advocacy aimed at reducing poverty and inequality. This major prepares students for careers in social services and public policy.",
+    "id": "socialwelfare",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Society and Environment (B.A.)",
+    "shortName": "SAEN-BA",
+    "description": "Examine the complex interactions between human societies and their environments through interdisciplinary study. This major emphasizes policy, ecology, and sustainable solutions to environmental challenges.",
+    "id": "society-environment",
+    "college": "College of Natural Resources"
+  },
+  {
+    "name": "Sociology (B.A.)",
+    "shortName": "SOCY-BA",
+    "description": "Analyze social behavior, institutions, and inequalities using empirical research and social theory. This major covers diverse topics including crime, family, and social change.",
+    "id": "sociology",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "South and Southeast Asian Studies (B.A.)",
+    "shortName": "SSEA-BA",
+    "description": "Study the cultures, histories, and languages of South and Southeast Asia through interdisciplinary coursework. This major provides broad perspectives on a diverse and dynamic region.",
+    "id": "south-southeast-asian-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Spanish and Portuguese (B.A.)",
+    "shortName": "SPPT-BA",
+    "description": "Explore Spanish and Portuguese languages and literatures with comparative study of Iberian and Latin American cultures. This major develops linguistic skills and cultural understanding.",
+    "id": "spanish-portuguese",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Statistics (B.S.)",
+    "shortName": "STAT-BS",
+    "description": "Gain rigorous training in probability, statistical theory, and data analysis for applications in science, business, and policy. This major equips students to extract insights from complex data.",
+    "id": "statistics",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Sustainable Environmental Design (B.A.)",
+    "shortName": "SEDZ-BA",
+    "description": "Study the design of buildings, communities, and landscapes with a focus on sustainability and ecological resilience. This major integrates environmental science with creative problem-solving.",
+    "id": "sustainable-environmental-design",
+    "college": "College of Environmental Design"
+  },
+  {
+    "name": "Theater and Performance Studies (B.A.)",
+    "shortName": "THEA-BA",
+    "description": "Explore theater history, theory, and practice with opportunities in acting, directing, and playwriting. This major cultivates creative expression and critical analysis of performance.",
+    "id": "theater-performance-studies",
+    "college": "College of Letters & Science"
+  },
+  {
+    "name": "Urban Studies (B.A.)",
+    "shortName": "URBN-BA",
+    "description": "Examine urbanization, planning, and social dynamics in cities through policy, design, and geographic perspectives. This major prepares students to engage with the challenges of urban life.",
+    "id": "urban-studies",
+    "college": "College of Environmental Design"
+  }
+]

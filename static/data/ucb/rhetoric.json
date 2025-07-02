@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Rhetoric (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Rhetoric major at UC Berkeley is an interdisciplinary program that focuses on the study of persuasion, communication, and argumentation. Students examine the ways in which language and symbols are used to shape understanding, influence beliefs, and construct identities. The major is grounded in the Department's historical emphasis on classical rhetoric, while also engaging with contemporary theories and practices of communication. Through coursework and independent study, students develop critical thinking, writing, and speaking skills, preparing them for a variety of careers in fields such as law, politics, media, and education.",
+  "shortProgramDescription": "The Rhetoric B.A. at UC Berkeley explores the art of persuasion and effective communication, preparing students for careers that require strong critical thinking and expression skills.",
+  "classHighlights": [
+    "The Rhetoric department offers a range of lower-division courses introducing students to the fundamental concepts of rhetoric, including Rhetoric 1A: Introduction to Rhetoric and Rhetoric 10: Introduction to Argumentation. These courses provide a foundation in the principles of effective communication and argumentation.",
+    "Upper-division courses allow students to explore specialized topics such as the history of rhetoric, rhetorical theory, and the practice of argumentation. Courses like Rhetoric 103: History of Rhetoric and Rhetoric 104: Rhetorical Theory enable students to deepen their understanding of the field.",
+    "Students can also choose from a variety of electives that focus on the application of rhetorical principles in different contexts, such as Rhetoric 111: Argumentation and Public Advocacy and Rhetoric 115: Rhetoric and Culture. These courses help students develop practical skills in argumentation, persuasion, and communication.",
+    "The major also includes a senior seminar, which provides students with the opportunity to integrate their knowledge and skills in a capstone project. Although the page does not specifically state what the senior seminar entails, it is a required component.",
+    "Throughout the major, students engage with a range of theoretical and practical approaches to rhetoric, preparing them for a variety of post-graduation paths."
+  ],
+  "learningOutcomes": [
+    "Analyze and interpret complex texts and arguments",
+    "Develop effective written and oral communication skills",
+    "Understand the principles of persuasion and argumentation",
+    "Apply rhetorical theories and practices to real-world contexts",
+    "Critically evaluate the role of language and symbols in shaping understanding and identity"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Comparative Literature",
+      "link": "https://complit.berkeley.edu"
+    },
+    {
+      "title": "English",
+      "link": "https://english.berkeley.edu"
+    },
+    {
+      "title": "Media Studies",
+      "link": "https://filmmedia.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/rhetoric",
+    "https://rhetoric.berkeley.edu"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "The Rhetoric major is designed to be completed in four years. Students should consult with a departmental advisor to plan their course of study."
+}

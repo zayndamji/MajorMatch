@@ -1,0 +1,44 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Management Science and Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The undergraduate major in Management Science and Engineering (MS&E) provides students with an understanding of how individuals, organizations, and societies make decisions, and the means to analyze and improve the decision-making process. The program is designed to give students a broad understanding of the field, as well as the ability to apply analytical and computational techniques to real-world problems.",
+  "shortProgramDescription": "The MS&E major prepares students to address complex problems in a wide range of fields, including business, government, and non-profit organizations, by providing them with a strong foundation in analytical and computational techniques.",
+  "classHighlights": [
+    "Foundational Courses: Students take courses in Probability and Statistics (MS&E 120), Economics (ECON 1, 3), and Introduction to Modeling and Analysis (MS&E 101).",
+    "Mathematical and Computational Foundations: Students complete courses in calculus (MATH 19-21, 51), linear algebra (MATH 51, 113), and differential equations (MATH 52, 53, 131A).",
+    "Core MS&E Courses: Students take courses in Deterministic Models (MS&E 211), Stochastic Models (MS&E 221), and Optimization (MS&E 212).",
+    "Engineering and Economic Analysis: Students learn to analyze and optimize systems, and understand the economic and financial implications of their decisions.",
+    "Data-Driven Decision Making: Students learn to work with data, including data analysis, data visualization, and machine learning.",
+    "Electives and Specializations: Students can choose from a range of electives and specializations, including courses in data science, artificial intelligence, and energy systems."
+  ],
+  "learningOutcomes": [
+    "Apply analytical and computational techniques to real-world problems",
+    "Understand the decision-making process and how to analyze and improve it",
+    "Work effectively with data, including data analysis, data visualization, and machine learning",
+    "Analyze and optimize systems, and understand the economic and financial implications of decisions",
+    "Communicate complex ideas effectively to both technical and non-technical audiences"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Industrial Engineering",
+      "link": "https://bulletin.stanford.edu/programs/IOE-BS"
+    },
+    {
+      "title": "Civil and Environmental Engineering",
+      "link": "https://cee.stanford.edu"
+    },
+    {
+      "title": "Computer Science",
+      "link": "https://cs.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/MGTSC-BS",
+    "https://msande.stanford.edu"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 units",
+  "additionalInformation": "Students declare through the School of Engineering. The major requires a minimum of 11 courses in the major department, as well as additional math, science, and engineering requirements."
+}

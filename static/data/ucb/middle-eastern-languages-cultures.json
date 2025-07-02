@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Middle Eastern Languages & Cultures (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Middle Eastern Languages and Cultures offers an undergraduate major in Middle Eastern Languages and Cultures, which encompasses the study of languages, literatures, cultures, and histories of the Middle East. The program allows students to explore the region through various disciplinary approaches, including language and literature, history, and cultural studies. Students are required to gain proficiency in a Middle Eastern language and engage with the cultural and historical contexts of the region.",
+  "shortProgramDescription": "The Middle Eastern Languages & Cultures major at UC Berkeley offers a comprehensive study of the languages, literatures, cultures, and histories of the Middle East, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "Language and Literature Courses: The program includes a range of courses focused on Middle Eastern languages, such as Arabic, Hebrew, Persian, and Turkish. Students develop language proficiency through coursework that covers various skill levels, from introductory to advanced. Literature courses explore the rich literary traditions of the region, examining works in their original languages or in translation.",
+    "Historical and Cultural Studies: Courses in this category examine the historical, social, and cultural contexts of the Middle East. Students engage with topics such as the history of the region, religious traditions, and the impact of modernity on Middle Eastern societies.",
+    "Thematic and Interdisciplinary Courses: The major includes courses that explore specific themes or topics related to the Middle East, such as gender, politics, or cultural identity. These courses often draw on multiple disciplines, integrating insights from fields like anthropology, history, literature, and sociology."
+  ],
+  "learningOutcomes": [
+    "Demonstrate proficiency in a Middle Eastern language.",
+    "Analyze and interpret literary and cultural texts from the Middle East.",
+    "Understand the historical and cultural contexts of the region.",
+    "Apply disciplinary approaches to the study of the Middle East.",
+    "Communicate knowledge of Middle Eastern languages, cultures, and histories effectively."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Near Eastern Studies Major",
+      "link": "https://nes.stanford.edu"
+    },
+    {
+      "title": "Middle Eastern Studies Minor",
+      "link": "https://guides.lib.berkeley.edu/c.php?g=864844"
+    },
+    {
+      "title": "South and Southeast Asian Studies Major",
+      "link": "https://seasia.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/middle-eastern-languages-cultures",
+    "https://melc.berkeley.edu/undergraduate/major",
+    "https://melc.berkeley.edu/undergraduate/courses"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "Students are advised to consult with the department about course selection, study abroad opportunities, and honors programs."
+}

@@ -1,0 +1,45 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Linguistics (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Linguistics at Stanford University offers an undergraduate major in Linguistics leading to the Bachelor of Arts degree. The major is designed to provide students with a broad understanding of the fundamental principles and methods of linguistic analysis, as well as the opportunity to explore the diversity of linguistic structures and the ways in which they are acquired, processed, and used in human communication. Students learn about the sound systems, grammatical structures, and meaning of languages, as well as the social and cognitive contexts in which language is used.",
+  "shortProgramDescription": "The Linguistics B.A. at Stanford provides a comprehensive education in the scientific study of language, preparing students for graduate study or careers in language-related fields.",
+  "classHighlights": [
+    "Introduction to Linguistics: Courses such as LINGUIST 1 introduce students to the fundamental concepts and methods of linguistic analysis, covering phonetics, phonology, morphology, syntax, and semantics.",
+    "Phonetics and Phonology: Courses like LINGUIST 145 and LINGUIST 147 focus on the sound systems of languages, including the articulation, acoustic properties, and patterning of speech sounds.",
+    "Morphology and Syntax: Courses such as LINGUIST 120 and LINGUIST 221 examine the internal structure of words and the rules governing sentence formation in various languages.",
+    "Semantics and Pragmatics: Courses like LINGUIST 230 and LINGUIST 236 explore the meaning of words, phrases, and sentences, as well as how context influences interpretation.",
+    "Sociolinguistics and Language Acquisition: Courses such as LINGUIST 160 and LINGUIST 264 investigate the social factors influencing language use and the processes by which children and adults acquire language.",
+    "Computational Linguistics: Courses like LINGUIST 255 and LINGUIST 278 introduce students to the computational modeling of linguistic structures and the processing of human language by machines."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles and methods of linguistic analysis.",
+    "Analyze and describe the sound systems, grammatical structures, and meaning of languages.",
+    "Recognize the diversity of linguistic structures across languages and language families.",
+    "Apply linguistic knowledge to understand language acquisition, processing, and use in human communication.",
+    "Evaluate the social and cognitive contexts in which language is used.",
+    "Demonstrate an understanding of the computational modeling of linguistic structures and the processing of human language by machines."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Symbolic Systems",
+      "link": "https://symsys.stanford.edu"
+    },
+    {
+      "title": "Philosophy",
+      "link": "https://philosophy.stanford.edu"
+    },
+    {
+      "title": "Psychology",
+      "link": "https://psychology.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/LING-BA",
+    "https://linguistics.stanford.edu/undergraduate-program"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "At least 45 units of Linguistics courses; total approximately 180 quarter units",
+  "additionalInformation": "Students are encouraged to consult with the Linguistics department adviser to plan their course of study. The major is flexible and can be tailored to students' interests and career goals."
+}

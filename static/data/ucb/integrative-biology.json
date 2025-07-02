@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Integrative Biology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Integrative Biology major provides a comprehensive understanding of biological principles, integrating molecular, organismal, and evolutionary perspectives. The program emphasizes laboratory research, fieldwork, and critical thinking, preparing students for careers in research, healthcare, conservation, and education, as well as graduate study.",
+  "shortProgramDescription": "The Integrative Biology B.S. at UC Berkeley offers a broad foundation in biological sciences, incorporating laboratory and field experiences to prepare students for diverse careers or further study.",
+  "classHighlights": [
+    "Foundational courses in biology, chemistry, and physics provide a broad base for understanding living systems.",
+    "Integrative Biology core courses cover topics such as cell biology, genetics, evolution, and ecology, ensuring a comprehensive understanding of biological principles.",
+    "Laboratory courses and research experiences allow students to develop practical skills in experimental design, data analysis, and scientific inquiry.",
+    "Upper-division electives in areas like developmental biology, microbiology, and conservation biology enable students to explore specialized topics in depth.",
+    "Courses in mathematics and statistics, such as calculus and statistical analysis, support the understanding of biological systems and data interpretation."
+  ],
+  "learningOutcomes": [
+    "Understand the principles of biology, from molecular mechanisms to ecosystem dynamics.",
+    "Apply laboratory and field techniques to investigate biological questions.",
+    "Analyze and interpret biological data using statistical and computational methods.",
+    "Communicate complex biological concepts effectively in written and oral forms.",
+    "Demonstrate an understanding of the evolutionary and ecological contexts of biological phenomena.",
+    "Integrate knowledge from multiple biological disciplines to address complex problems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Molecular and Cell Biology",
+      "link": "https://mcb.berkeley.edu/undergrad/mcb-major"
+    },
+    {
+      "title": "Biology and Society",
+      "link": "https://ls.berkeley.edu/departments/biology-society"
+    },
+    {
+      "title": "Environmental Science, Policy, and Management",
+      "link": "https://esp.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/integrative-biology",
+    "https://ib.berkeley.edu/undergrad/major.html",
+    "https://advising.berkeley.edu/departments/integrative-biology"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "The major requires a minimum GPA in prerequisite and upper-division courses. Research opportunities, internships, and study abroad programs are available to complement coursework."
+}

@@ -1,0 +1,45 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Physics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Physics is designed to provide students with a comprehensive understanding of the fundamental principles and laws that govern the behavior of the physical universe. The program includes coursework in classical mechanics, electromagnetism, quantum mechanics, statistical mechanics, and thermodynamics, as well as laboratory and computational physics. Students are encouraged to engage in research and explore topics of interest through electives and advanced coursework.",
+  "shortProgramDescription": "Stanford's Physics B.S. program provides a rigorous foundation in the principles and methods of physics, preparing students for diverse careers in research, academia, industry, and beyond.",
+  "classHighlights": [
+    "The introductory sequence includes Mechanics (PHYSICS41 or PHYSICS21), Electricity and Magnetism (PHYSICS43 or PHYSICS23), and Waves and Optics (PHYSICS45 or PHYSICS25). These courses provide a comprehensive introduction to the fundamental principles of physics.",
+    "Students complete a set of core courses including Classical Mechanics (PHYSICS121), Electricity and Magnetism (PHYSICS130), Quantum Mechanics (PHYSICS143 and PHYSICS145), and Statistical Mechanics and Thermodynamics (PHYSICS171). These courses build on the introductory sequence and provide a deeper understanding of the principles of physics.",
+    "Laboratory coursework includes Physics Laboratory (PHYSICS61 and PHYSICS81) and Advanced Laboratory (PHYSICS166). Students also complete a computational physics course (PHYSICS61 or PHYSICS168).",
+    "Advanced electives allow students to explore specialized topics such as condensed matter physics, particle physics, and astrophysics. Students can choose from a range of courses, including PHYSICS153, PHYSICS156, PHYSICS162, and PHYSICS164.",
+    "Mathematical methods are emphasized throughout the program, with courses in Differential Equations (MATH51) and Linear Algebra (MATH113 or PHYSICS55). Students also complete a course in Mathematical Methods for Physicists (PHYSICS55)."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles and laws that govern the behavior of the physical universe.",
+    "Apply mathematical and computational techniques to solve problems in physics.",
+    "Design and conduct experiments to test hypotheses and measure physical phenomena.",
+    "Analyze and interpret data from experiments and simulations.",
+    "Communicate complex ideas and results effectively in written and oral form.",
+    "Demonstrate a deep understanding of the principles of classical mechanics, electromagnetism, quantum mechanics, and statistical mechanics."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Physics Minor",
+      "link": "https://physics.stanford.edu/undergraduate-program/physics-minor"
+    },
+    {
+      "title": "Engineering Physics",
+      "link": "https://engineering.stanford.edu/academics/undergraduate-programs/engineering-physics"
+    },
+    {
+      "title": "Astronautics and Aeronautics",
+      "link": "https://aa.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/PHYS-BS",
+    "https://physics.stanford.edu/undergraduate-program/requirements-bs-physics",
+    "https://exploredegrees.stanford.edu/undergraduate/physics_bs/"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must declare the major through the Department of Physics. The program requires a minimum GPA in physics and overall coursework. Research opportunities are available through the department and other university resources."
+}

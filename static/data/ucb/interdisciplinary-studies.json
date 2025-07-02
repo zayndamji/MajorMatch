@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Interdisciplinary Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Interdisciplinary Studies major is designed for students who wish to pursue an individually tailored course of study that doesn't fit within a single department or existing major. Students, in consultation with faculty advisors, design a coherent program that integrates multiple disciplines. The major requires a minimum of 12 upper division courses, including a senior colloquium and a minimum of 3 courses in each of 2 or 3 focus areas.",
+  "shortProgramDescription": "The Interdisciplinary Studies B.A. allows students to create a customized major by combining courses from multiple departments, tailored to their individual interests and academic goals.",
+  "classHighlights": [
+    "Students take a minimum of 12 upper division courses, which must include a senior colloquium.",
+    "The major requires at least 3 courses in each of 2 or 3 focus areas, allowing students to explore multiple disciplines.",
+    "Courses are chosen in consultation with faculty advisors to create a coherent program.",
+    "The major is designed to be highly flexible, accommodating a wide range of academic interests and career goals."
+  ],
+  "learningOutcomes": [
+    "Design a coherent, interdisciplinary course of study that integrates multiple disciplines.",
+    "Demonstrate a broad understanding of the chosen fields of study.",
+    "Apply critical thinking, research, and analytical skills across disciplines.",
+    "Communicate effectively about complex, interdisciplinary topics."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Comparative Literature",
+      "link": "https://comparativeliterature.berkeley.edu"
+    },
+    {
+      "title": "Media Studies",
+      "link": "https://filmmedia.berkeley.edu"
+    },
+    {
+      "title": "Interdisciplinary Studies in Arts and Culture",
+      "link": "https://arts.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/interdisciplinary-studies",
+    "https://interdisciplinary.berkeley.edu"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "Students must find a faculty sponsor and submit a proposal for their major course of study. The major is designed to be flexible and accommodate a wide range of academic interests."
+}

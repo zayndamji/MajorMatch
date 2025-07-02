@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Analytics (BA)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Division of Computing, Data Science, and Society offers an undergraduate major in Analytics that combines coursework in computer science, statistics, and domain-specific knowledge. The program focuses on training students to derive insights from data, develop predictive models, and communicate findings effectively to inform decision-making across various sectors.",
+  "shortProgramDescription": "The Analytics major at UC Berkeley prepares students to extract insights from data and drive informed decision-making through a blend of computational and statistical techniques.",
+  "classHighlights": [
+    "The Analytics major includes foundational courses such as Data8: Foundations of Data Science (DATA8), Introduction to Data Science (INFO88D), and Probability and Statistics in Data Science (STAT88).",
+    "Students also take core courses in programming, including Introduction to Programming in Python (COMPSCI61A) and Data Structures (COMPSCI61B), which equip them with skills to manipulate and analyze data.",
+    "Statistical knowledge is developed through courses like Probability and Statistics (STAT134) and Linear and Generalized Linear Models (STAT155), enabling students to build predictive models.",
+    "Domain-specific knowledge and electives allow students to apply analytics in various contexts, including business, public policy, or environmental science, through courses like Data Science for Business (ISOT249) or Environmental Data Science (ESPM88).",
+    "Additional electives and upper-division courses provide depth in areas such as machine learning, optimization, and data visualization, rounding out the student's ability to tackle complex problems."
+  ],
+  "learningOutcomes": [
+    "Apply data science principles to analyze complex data sets and extract meaningful insights.",
+    "Develop predictive models using statistical and machine learning techniques.",
+    "Communicate findings effectively through data visualization and storytelling.",
+    "Work with large datasets using programming languages like Python and SQL.",
+    "Understand ethical considerations and potential biases in data analysis.",
+    "Integrate domain-specific knowledge with analytical skills to solve real-world problems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Data Science",
+      "link": "https://data.berkeley.edu/undergrad/major"
+    },
+    {
+      "title": "Computer Science",
+      "link": "https://cs.berkeley.edu/programs/undergraduate-programs/"
+    },
+    {
+      "title": "Statistics",
+      "link": "https://statistics.berkeley.edu/programs/undergraduate/statistics"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/analytics",
+    "https://data.berkeley.edu/academics/data-science-curriculum",
+    "https://www.berkeley.edu/catalog/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "Students must complete the university's general education requirements and maintain a minimum GPA. The major is designed to be completed within four years, with flexibility to accommodate study abroad or other academic pursuits."
+}

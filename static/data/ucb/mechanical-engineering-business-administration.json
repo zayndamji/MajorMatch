@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Mechanical Engineering & Business Administration (B.S. MET)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mechanical Engineering & Business Administration program combines a foundation in mechanical engineering with core business administration courses to prepare students for leadership roles at the intersection of technology and management. The program is designed for students who wish to pursue a career in engineering management, product development, or related fields.",
+  "shortProgramDescription": "The B.S. in Mechanical Engineering & Business Administration integrates rigorous engineering training with essential business skills, preparing students for technical leadership and management roles.",
+  "classHighlights": [
+    "The lower division coursework includes calculus, physics, chemistry, and introduction to mechanical engineering. Students also complete foundational courses in programming and computer-aided design.",
+    "Upper division mechanical engineering courses cover mechanics of solids and fluids, thermodynamics, heat transfer, mechanical systems design, and manufacturing processes.",
+    "Business administration courses include financial management, marketing, organizational behavior, and operations management, providing a comprehensive understanding of business principles.",
+    "Students also complete elective courses in mechanical engineering and business administration, allowing them to tailor their education to their interests and career goals.",
+    "The program emphasizes hands-on learning through laboratory and project-based courses, as well as a capstone design experience."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mechanical engineering to design and analyze complex systems.",
+    "Understand and apply business administration concepts, including financial management, marketing, and operations management.",
+    "Integrate technical and business knowledge to solve real-world problems.",
+    "Communicate effectively with technical and non-technical stakeholders.",
+    "Work effectively in teams to achieve common goals."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mechanical Engineering",
+      "link": "https://me.berkeley.edu/undergraduate-program/"
+    },
+    {
+      "title": "Business Administration",
+      "link": "https://haas.berkeley.edu/undergraduate-program/"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/mechanical-engineering-business-administration",
+    "https://me.berkeley.edu/undergraduate-program/",
+    "https://haas.berkeley.edu/undergraduate-program/"
+  ],
+  "programDuration": "4 years (8 semesters, semester system)",
+  "creditRequirements": "128-130 semester units",
+  "additionalInformation": "Students in this program must be admitted to both the Mechanical Engineering and Business Administration programs. The program is highly competitive, and admission is limited."
+}

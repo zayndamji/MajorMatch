@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Nuclear Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Nuclear Engineering undergraduate program at UC Berkeley provides a broad-based education in the principles of nuclear science and engineering, preparing students for careers in the nuclear industry, government, and research institutions, as well as for graduate study. The program includes coursework in nuclear physics, reactor design, radiation protection, and nuclear materials, as well as a strong foundation in mathematics, physics, and chemistry.",
+  "shortProgramDescription": "UC Berkeley's Nuclear Engineering B.S. program provides a comprehensive education in nuclear science and engineering, preparing students for careers or graduate study.",
+  "classHighlights": [
+    "The program begins with foundational courses in Mathematics, including Calculus (MATH 1A, 1B) and Differential Equations (MATH 54 or 128A), and Physics, including Mechanics (PHYSICS 7A, 8A) and Electricity & Magnetism (PHYSICS 7B, 8B).",
+    "Nuclear Engineering core courses cover Nuclear Physics (NUCENG 101), Introduction to Nuclear Engineering (NUCENG 100), Nuclear Reactions and Radiation (NUCENG 104), and Nuclear Reactor Design (NUCENG 161).",
+    "Students also take courses in Thermodynamics (ME 40 or ENGIN 40), Fluid Mechanics (ME 106 or CENG 106), and Materials Science (MAT SCI 45 or 103).",
+    "Electives in Nuclear Engineering include courses on Nuclear Reactor Analysis (NUCENG 162), Nuclear Reactor Operations (NUCENG 163), Radiation Protection (NUCENG 165), and Nuclear Fuel Cycles (NUCENG 167).",
+    "The program also includes a range of technical electives, allowing students to explore specialized areas such as nuclear energy systems, radiation detection, and nuclear materials."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of nuclear physics and engineering to solve problems.",
+    "Design and analyze nuclear systems, including reactors and radiation shielding.",
+    "Understand and apply principles of radiation protection and nuclear safety.",
+    "Communicate complex technical information effectively.",
+    "Work effectively in teams to solve engineering problems.",
+    "Understand the social, economic, and environmental context of nuclear engineering."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Materials Science and Engineering",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/materials-science-engineering-bs"
+    },
+    {
+      "title": "Chemical Engineering",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/chemical-engineering-bs"
+    },
+    {
+      "title": "Mechanical Engineering",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/mechanical-engineering-bs"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/nuclear-engineering",
+    "https://nuceng.berkeley.edu/undergraduate-program/",
+    "https://www.berkeley.edu/catalog/2022-2023/departments/nuclear-engineering"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120-128 semester units",
+  "additionalInformation": "The program requires a strong foundation in mathematics, physics, and chemistry. Internship and research opportunities are available to students. Students are encouraged to participate in the department's undergraduate student organizations and activities."
+}

@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Chemistry (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science degree in Chemistry is designed to provide a thorough foundation in the various fields of chemistry, as well as a thorough grounding in the related sciences, mathematics, and English. The Department of Chemistry provides an education that instills in students the ability to think critically, ask probing questions, and apply chemical concepts to the solution of problems. Students are also encouraged to participate in research projects.",
+  "shortProgramDescription": "The Chemistry B.S. program at UC Berkeley provides a comprehensive education in the chemical sciences, preparing students for careers in research, industry, or further study.",
+  "classHighlights": [
+    "The Chemistry B.S. program requires foundational courses in General Chemistry (CHEM1A/1B/1C or CHEM4A/4B/4C), Organic Chemistry (CHEM112A/112B), and Physical Chemistry (CHEM130/130B). These courses provide a thorough understanding of chemical principles, reactions, and laboratory techniques.",
+    "Students also take courses in Quantitative Analysis (CHEM106 or CHEMH106), Inorganic Chemistry (CHEM143), and advanced electives such as Chemical Biology, Materials Chemistry, or Environmental Chemistry.",
+    "Laboratory work is a critical component, with required courses in Organic Chemistry Lab (CHEM112L) and Physical Chemistry Lab (CHEM130L). Students also complete a series of upper-division electives, allowing them to explore specialized areas of chemistry.",
+    "Mathematics and physics coursework is also required, typically including Calculus (MATH1A/1B) and Physics (PHYSICS7A/7B or PHYSICS8A/8B).",
+    "Upper-division chemistry electives allow students to tailor their education to their interests, with options ranging from biochemistry to materials science."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a thorough understanding of chemical principles, including bonding, reactions, and thermodynamics.",
+    "Apply chemical concepts to solve problems in various subfields of chemistry.",
+    "Develop laboratory skills, including synthesis, analysis, and characterization techniques.",
+    "Communicate scientific information effectively through written and oral presentations.",
+    "Understand the principles of safety and ethics in chemical research and practice."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Chemical Biology",
+      "link": "https://chemistry.berkeley.edu/academics/chemical-biology"
+    },
+    {
+      "title": "Chemical Engineering",
+      "link": "https://cheme.berkeley.edu"
+    },
+    {
+      "title": "Molecular and Cell Biology",
+      "link": "https://mcb.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/chemistry-bs",
+    "https://chemistry.berkeley.edu/undergraduate/chembs",
+    "https://chemistry.berkeley.edu/academics"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of approximately 120-130 semester units, including major requirements, breadth courses, and electives",
+  "additionalInformation": "Students must complete a series of required courses, maintain a satisfactory GPA, and fulfill the university's general education requirements. Research opportunities are available, and students are encouraged to participate in undergraduate research projects."
+}

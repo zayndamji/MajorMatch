@@ -1,0 +1,45 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Theater and Performance Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Theater and Performance Studies offers an undergraduate major in Theater and Performance Studies leading to a Bachelor of Arts degree. The program combines a liberal arts education with an intensive, practical, performance-based curriculum. Students participate in a range of performance activities, including acting, directing, playwriting, and design. The curriculum also includes coursework in theater history, dramatic theory, and performance studies.",
+  "shortProgramDescription": "The Theater and Performance Studies major at Stanford offers a comprehensive liberal arts education combined with intensive performance training and theoretical study.",
+  "classHighlights": [
+    "Theater and Performance Foundations: Students begin with foundational courses such as Introduction to Theater and Performance Studies (THEMES2/THEMES3), and Acting (THTRMSTG30/130), which introduce key concepts, practices, and histories of theater and performance.",
+    "Acting and Performance: Courses in acting, such as Advanced Acting (THTRMSTG131), and directing, like Directing (THTRMSTG140), allow students to develop practical skills in performance and staging.",
+    "Playwriting and Dramaturgy: Playwriting courses (THTRMSTG150) and dramaturgy (THTRMSTG155) enable students to explore the creation and analysis of dramatic texts and their contexts.",
+    "Design and Production: Students can engage in design and production through courses like Introduction to Design (THTRMSTG60), Lighting Design (THTRMSTG161), and Costume Design (THTRMSTG162), learning the principles and practices of bringing performances to life.",
+    "Theater History and Theory: Coursework in theater history (THTRMSTG170) and performance theory (THTRMSTG171) provides a deeper understanding of the historical and theoretical contexts of theater and performance.",
+    "Performance Studies: Courses like Performance Studies (THTRMSTG180) allow students to explore the broader field of performance, including its cultural, social, and political contexts."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a comprehensive understanding of the field of theater and performance studies, including its histories, theories, and practices.",
+    "Apply practical skills in acting, directing, playwriting, and design to create and present performances.",
+    "Analyze and interpret dramatic texts and performances within their cultural, historical, and theoretical contexts.",
+    "Critically evaluate the role of theater and performance in society, including their social, cultural, and political impacts.",
+    "Develop and articulate their own perspectives and voices as practitioners and scholars of theater and performance."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Drama",
+      "link": "https://dramastanford.titanpad.com"
+    },
+    {
+      "title": "Comparative Literature",
+      "link": "https://comparativelit.stanford.edu"
+    },
+    {
+      "title": "English",
+      "link": "https://english.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/THPST-BA",
+    "https://tps.stanford.edu/undergraduate-program",
+    "https://tps.stanford.edu/undergraduate-advising"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The major is structured to be completed within four years. Students are advised to declare the major by the end of their sophomore year to ensure timely completion. The department offers advising and support to help students navigate the program and make informed choices about their coursework and performance activities."
+}

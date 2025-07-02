@@ -1,0 +1,48 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Symbolic Systems (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Symbolic Systems major is an interdisciplinary program that integrates aspects of philosophy, psychology, linguistics, computer science, and cognitive science to study the nature of intelligence, representation, and meaning. The program provides a broad foundation in the core disciplines, combined with advanced coursework in areas like artificial intelligence, cognitive science, and computational linguistics.",
+  "shortProgramDescription": "The Symbolic Systems B.S. program provides a broad foundation in cognitive science, artificial intelligence, and computational linguistics, preparing students for research or professional opportunities in areas like AI, human-computer interaction, and data science.",
+  "classHighlights": [
+    "Core Courses: Students complete a set of foundational courses including Symbolic Systems 1/2 (SYMBOLIC101/102), Introduction to Logic (PHIL160), and Programming Abstractions (CS106B), which provide a broad introduction to the field and its methodologies.",
+    "Cognitive Science and AI: Courses like Cognitive Neuroscience (PSYCH214), Artificial Intelligence (CS221), and Human-Computer Interaction (CS247) enable students to explore the mechanisms of human cognition and the design of intelligent systems.",
+    "Linguistics and Computation: Students engage with courses such as Introduction to Linguistics (LINGUIX1), Natural Language Processing (CS224D), and Computational Models of Language (SYMBOLIC205), which examine the structure and processing of human language.",
+    "Philosophy and Symbolic Systems: Coursework in Philosophy of Mind (PHIL162), Philosophy of Language (PHIL164), and Logic (PHIL160) provides students with a deeper understanding of the fundamental questions and theoretical frameworks in the study of symbolic systems.",
+    "Electives and Depth: Students select from a range of electives across the contributing departments to fulfill the major requirements, allowing them to tailor their program to their interests in areas like cognitive science, AI, or computational linguistics."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental theories and methods in the study of symbolic systems, including cognition, representation, and computation.",
+    "Apply knowledge from philosophy, psychology, linguistics, and computer science to analyze complex problems in symbolic systems.",
+    "Design and implement computational models and systems that simulate or interact with human cognition and language.",
+    "Analyze and critique current research and theories in areas such as artificial intelligence, cognitive science, and computational linguistics.",
+    "Communicate complex ideas and research findings effectively in written and oral forms."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Computer Science (B.S.)",
+      "link": "https://cs.stanford.edu"
+    },
+    {
+      "title": "Linguistics (B.A.)",
+      "link": "https://linguistics.stanford.edu"
+    },
+    {
+      "title": "Philosophy (B.A.)",
+      "link": "https://philosophy.stanford.edu"
+    },
+    {
+      "title": "Psychology (B.A./B.S.)",
+      "link": "https://psychology.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/SYMBO-BS",
+    "https://symsys.stanford.edu",
+    "https://symsys.stanford.edu/advising"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "at least 55 units of SYMBOLIC and related courses, with specific requirements and electives across departments; total approx. 180 quarter units",
+  "additionalInformation": "The major is managed through the Symbolic Systems Program, with advising available for course planning and career guidance. Students are encouraged to explore research opportunities and internships to complement their coursework."
+}

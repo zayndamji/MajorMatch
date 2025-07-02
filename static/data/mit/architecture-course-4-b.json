@@ -1,0 +1,40 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Art and Design (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Department of Architecture offers an undergraduate program in Art and Design leading to a Bachelor of Science degree. The program is designed to provide students with a rigorous foundation in the principles of art and design, as well as the technical skills and knowledge necessary to pursue a career in the field. Students in the program take a range of courses in art and design, including studio classes, art history, and theory, as well as courses in other departments across MIT.",
+  "shortProgramDescription": "MIT's Art and Design B.S. provides a comprehensive education in the arts, combining studio practice, art history, and theory to prepare students for diverse careers.",
+  "classHighlights": [
+    "Studio courses: Students complete a sequence of studio courses that introduce fundamental principles and techniques in art and design, including drawing, painting, sculpture, and other mediums.",
+    "Art and Design Theory: Courses in art and design theory provide students with a critical understanding of the historical and contemporary contexts of art and design.",
+    "Art History: Students take courses in art history to gain a deeper understanding of the development of art and design across cultures and historical periods.",
+    "Electives and Concentrations: Students have the opportunity to explore specific areas of interest through elective courses and concentrations, such as graphic design, animation, or interactive media.",
+    "Interdisciplinary Opportunities: The program encourages students to explore intersections between art and design and other fields at MIT, such as science, technology, and engineering."
+  ],
+  "learningOutcomes": [
+    "Demonstrate proficiency in a range of artistic and design techniques and mediums.",
+    "Understand the historical and contemporary contexts of art and design.",
+    "Apply critical thinking and analysis to artistic and design work.",
+    "Communicate effectively through visual and written means.",
+    "Pursue interdisciplinary approaches to art and design.",
+    "Develop a personal artistic or design voice and vision."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Architecture",
+      "link": "https://architecture.mit.edu"
+    },
+    {
+      "title": "Media Arts and Sciences",
+      "link": "https://masg.media.mit.edu"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/architecture-course-4-b",
+    "https://architecture.mit.edu/undergraduate"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "180-192 units (total), with at least 72 units in HASS and CI-H/CI-HW",
+  "additionalInformation": "Students must declare the major by the end of the third semester and complete a set of required courses in art and design, including studio classes and art history."
+}

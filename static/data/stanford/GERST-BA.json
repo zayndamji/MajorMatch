@@ -1,0 +1,43 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "German Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of German Studies at Stanford University offers a program leading to the Bachelor of Arts in German Studies. Students may pursue a major in German Studies by completing a program of study that includes coursework in German language, literature, and culture, as well as courses that focus on the historical and cultural contexts of the German-speaking world. The major is designed to provide students with a deep understanding of the German language and culture, as well as the skills to analyze and interpret complex texts and cultural artifacts.",
+  "shortProgramDescription": "The German Studies major at Stanford provides students with a comprehensive understanding of German language, literature, and culture, preparing them for a range of careers or further study.",
+  "classHighlights": [
+    "The German Studies major begins with foundational language courses (GERMAN 1-6 or equivalent), followed by a sequence of courses that introduce students to the literature, culture, and history of the German-speaking world (GERMAN 101-103).",
+    "Students then take a range of upper-division courses that focus on specific topics, such as German literature, culture, and history, including courses on the Enlightenment, Romanticism, and Modernism.",
+    "Advanced courses (GERMAN 171-199) allow students to explore specialized topics, such as German film, literature, and culture, and to develop their research and analytical skills.",
+    "Courses in the major emphasize the development of critical thinking, writing, and speaking skills, as well as the ability to analyze and interpret complex texts and cultural artifacts.",
+    "The major also encourages students to explore the intersections between German Studies and other disciplines, such as history, philosophy, and comparative literature."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a high level of proficiency in the German language.",
+    "Analyze and interpret complex texts and cultural artifacts from the German-speaking world.",
+    "Understand the historical and cultural contexts of the German-speaking world.",
+    "Develop critical thinking, writing, and speaking skills.",
+    "Explore the intersections between German Studies and other disciplines."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Comparative Literature",
+      "link": "https://comparativelit.stanford.edu"
+    },
+    {
+      "title": "European Studies",
+      "link": "https://europeanstudies.stanford.edu"
+    },
+    {
+      "title": "Modern Thought and Literature",
+      "link": "https://mtl.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/GERST-BA",
+    "https://german.stanford.edu/undergraduate-program"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 units of German coursework; total approx.180 quarter units",
+  "additionalInformation": "Students are encouraged to study abroad in a German-speaking country. The major is designed to be flexible, allowing students to pursue their interests and career goals."
+}

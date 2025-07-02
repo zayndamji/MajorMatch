@@ -1,0 +1,41 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Spanish (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Spanish and Portuguese offers a program leading to the Bachelor of Arts in Spanish. The major is designed to develop students' proficiency in the Spanish language and to introduce them to the literatures and cultures of Spain and Spanish America through the study of cultural and literary texts and of other cultural artifacts.",
+  "shortProgramDescription": "The Spanish major at Stanford develops students' language proficiency and introduces them to the literatures and cultures of Spain and Spanish America.",
+  "classHighlights": [
+    "Language courses: The program includes language courses that focus on developing students' language skills, with courses such as Spanish Language and Culture (SPAN121, SPAN122), Advanced Spanish Language and Culture (SPAN141, SPAN142), and others.",
+    "Literature and Culture courses: Students take courses on Spanish and Spanish-American literature and culture, including introductory surveys, period-specific courses, and genre-specific courses, such as Introduction to Spanish Literature (SPAN161), Spanish-American Literature (SPAN162), and others.",
+    "Electives and Specialized courses: The major allows students to explore their interests through electives and specialized courses, such as courses on specific authors, themes, or cultural topics, and courses that combine Spanish with other disciplines."
+  ],
+  "learningOutcomes": [
+    "Develop advanced proficiency in Spanish language skills",
+    "Analyze and interpret literary and cultural texts from Spain and Spanish America",
+    "Understand the cultural and historical contexts of Spanish and Spanish-American literatures and cultures",
+    "Apply critical thinking and writing skills in the analysis of cultural and literary texts"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Portuguese (B.A.)",
+      "link": "https://bulletin.stanford.edu/programs/PORT-BA"
+    },
+    {
+      "title": "French (B.A.)",
+      "link": "https://bulletin.stanford.edu/programs/FRENCH-BA"
+    },
+    {
+      "title": "Italian (B.A.)",
+      "link": "https://bulletin.stanford.edu/programs/ITALIAN-BA"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/SPAN-BA",
+    "https://spanish-portuguese.stanford.edu/undergraduate-program/spanish-major",
+    "https://spanish-portuguese.stanford.edu/undergraduate-program"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 units (quarter system)",
+  "additionalInformation": "Students declare the major through the Department of Spanish and Portuguese. The major is flexible and allows students to pursue their interests in Spanish language, literature, and culture."
+}

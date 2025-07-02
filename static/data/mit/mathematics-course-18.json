@@ -1,0 +1,40 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Mathematics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Department of Mathematics offers a program of study leading to the Bachelor of Science degree. The curriculum provides a foundation in the main areas of mathematics and is designed for students who want a thorough grounding in the field.",
+  "shortProgramDescription": "MIT's Mathematics B.S. program provides a comprehensive education in the core areas of mathematics, preparing students for graduate study or careers in mathematics and related fields.",
+  "classHighlights": [
+    "Students take 18.01-18.02 (Calculus I-II) or 18.01-18.03 (Calculus I and Honors Calculus I), providing a foundation in calculus.",
+    "The program includes 18.100A/18.100B or 18.100P (Real Analysis), 18.701 (Algebra I), and 18.702 (Algebra II), covering advanced algebra and analysis.",
+    "Further required courses include 18.06 (Linear Algebra), 18.03 (Differential Equations), and 18.04 (Complex Variables with Applications), ensuring a broad understanding of mathematical concepts.",
+    "Electives are chosen from a wide range of mathematics courses, including topics such as number theory, geometry, topology, and differential equations.",
+    "The program also allows for study in related fields such as physics, computer science, or engineering, providing a well-rounded education."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a thorough understanding of calculus, linear algebra, differential equations, and real and complex analysis.",
+    "Apply mathematical principles to solve problems in various mathematical disciplines.",
+    "Communicate complex mathematical ideas effectively.",
+    "Understand the foundational aspects of mathematics, including algebra, analysis, and geometry.",
+    "Prepare for graduate study or careers in mathematics and related fields."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mathematics Minor",
+      "link": "https://catalog.mit.edu/undergraduate/education-statistics-data-science/minor-mathematics/"
+    },
+    {
+      "title": "Applied Mathematics",
+      "link": "https://catalog.mit.edu/undergraduate/degree-charts/applied-mathematics-course-18-1/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/mathematics-course-18/",
+    "https://math.mit.edu/academics/undergrad/index.php",
+    "https://math.mit.edu/academics/undergrad/major.php"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of 180 credits, with at least 8 units of mathematics and 6 units of related fields",
+  "additionalInformation": "Students must declare the major through the Department of Mathematics. Course selection should be made in consultation with a departmental advisor."
+}

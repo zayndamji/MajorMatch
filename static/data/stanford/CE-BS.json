@@ -1,0 +1,46 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Civil Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Department of Civil and Environmental Engineering offers a Bachelor of Science degree in Civil Engineering. The program's mission is to educate students to be leaders in the design, construction, operation, and maintenance of infrastructure systems. The curriculum provides a broad foundation in the fundamental principles of civil engineering, including structural analysis and design, transportation systems, water resources engineering, geotechnical engineering, and environmental engineering. Students can choose from a range of technical electives to develop depth in a particular area. The program aims to produce graduates with a strong foundation in engineering principles, problem-solving skills, and the ability to communicate complex ideas effectively.",
+  "shortProgramDescription": "The Civil Engineering B.S. program at Stanford provides a broad foundation in the fundamental principles of civil engineering and prepares students for leadership roles in the field.",
+  "classHighlights": [
+    "The program begins with foundational courses in Engineering Mechanics (CME100), Mechanics of Fluids (CME211), and Introduction to Environmental Engineering (CEE103A).",
+    "Structural analysis and design are covered in courses such as Structural Analysis (CEE102A) and Structural Design (CEE105).",
+    "Courses in Transportation Systems (CEE270A/B), Water Resources Engineering (CEE265A/B), Geotechnical Engineering (CEE262A/B), and Environmental Engineering (CEE161A/B) provide a broad introduction to the field.",
+    "Students also complete a range of technical electives to develop depth in a particular area, such as structural engineering, transportation systems, or environmental engineering.",
+    "The program includes a range of laboratory and design courses, such as Structural Design (CEE105) and Geotechnical Engineering Laboratory (CEE262C).",
+    "Students are also required to complete a senior project or other capstone experience, such as CEE195 or CEE196.",
+    "Mathematics and science requirements include Calculus I-III (MATH19-21), Differential Equations (MATH51), and Physics (PHYS41/43)."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad understanding of the fundamental principles of civil engineering.",
+    "Apply engineering principles to solve complex problems in civil engineering.",
+    "Communicate complex ideas effectively in written and oral form.",
+    "Design and analyze systems, components, and processes in civil engineering.",
+    "Work effectively in teams to solve complex engineering problems.",
+    "Understand the social, environmental, and economic context of civil engineering projects."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Engineering (B.S.)",
+      "link": "https://bulletin.stanford.edu/programs/ENV-BS"
+    },
+    {
+      "title": "Mechanical Engineering (B.S.)",
+      "link": "https://bulletin.stanford.edu/programs/ME-BS"
+    },
+    {
+      "title": "Engineering (B.S.) - Undeclared",
+      "link": "https://bulletin.stanford.edu/programs/ENGR-BS-UND"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/CE-BS",
+    "https://cee.stanford.edu/undergraduate-program"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must declare their major through the School of Engineering. The program is accredited by the Engineering Accreditation Commission of ABET."
+}

@@ -1,0 +1,44 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Slavic Languages and Literatures (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Slavic Languages and Literatures offers a major in Slavic Languages and Literatures leading to a Bachelor of Arts degree. The major is designed to provide students with a broad understanding of the cultures of the Slavic world, including literature, history, and culture. Students develop proficiency in a Slavic language and explore the rich literary and cultural heritage of the region.",
+  "shortProgramDescription": "The Slavic Languages and Literatures major at Stanford provides a comprehensive education in the languages, literatures, and cultures of Slavic countries, preparing students for diverse careers or graduate study.",
+  "classHighlights": [
+    "Language Courses: Students complete a sequence of language courses in a Slavic language (such as Russian, Czech, or Polish), progressing from introductory to advanced levels, to achieve linguistic proficiency.",
+    "Literature and Culture: Courses cover major literary works, cultural movements, and historical contexts, examining the development of Slavic literatures and their significance within the global literary canon.",
+    "Historical and Cultural Contexts: Students explore the history, culture, and society of Slavic countries through courses that may include topics like folklore, cinema, and the impact of historical events on cultural production.",
+    "Electives and Specializations: The major allows for electives that can be tailored to the student's interests, whether in a specific national literature, comparative Slavic studies, or thematic areas like gender or political discourse.",
+    "Senior Colloquium: Students participate in a capstone seminar that synthesizes their undergraduate study, often involving a research project or presentation on a topic of their choice within the field."
+  ],
+  "learningOutcomes": [
+    "Demonstrate advanced proficiency in a Slavic language, both written and spoken.",
+    "Analyze and interpret major works of Slavic literature within their cultural and historical contexts.",
+    "Understand the cultural, historical, and societal developments of Slavic countries.",
+    "Apply critical methodologies to the study of Slavic cultures and literatures.",
+    "Communicate effectively about Slavic cultures, both in the target language and in English."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Russian Studies",
+      "link": "https://russianstudies.stanford.edu"
+    },
+    {
+      "title": "Comparative Literature",
+      "link": "https://complit.stanford.edu"
+    },
+    {
+      "title": "European Studies",
+      "link": "https://europeanstudies.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/SLAV-BA",
+    "https://slavic.stanford.edu/undergraduate-program",
+    "https://slavic.stanford.edu"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 units in Slavic languages and literatures, plus language proficiency requirements; total approximately 180 quarter units for the degree",
+  "additionalInformation": "Students are encouraged to study abroad in a Slavic country to enhance language skills and cultural understanding. The major is flexible, allowing for a range of electives and specializations within the field of Slavic studies."
+}

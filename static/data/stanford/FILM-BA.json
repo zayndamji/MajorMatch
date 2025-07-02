@@ -1,0 +1,42 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Film and Media Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Film and Media Studies program provides students with a broad understanding of the historical, theoretical, and cultural significance of film and media. Students explore the development of cinema and media in relation to social, cultural, and technological contexts, analyzing the ways in which media shape our understanding of the world. Through a range of courses, students develop critical thinking, writing, and analytical skills, preparing them for a variety of careers or further study.",
+  "shortProgramDescription": "The Film and Media Studies B.A. at Stanford provides a comprehensive education in film and media history, theory, and criticism, preparing students for diverse careers or advanced study.",
+  "classHighlights": [
+    "The introductory course, Introduction to Film and Media Studies (FILMSTUDY 1), provides a foundational understanding of key concepts, critical approaches, and historical contexts.",
+    "Courses in Film History (e.g., FILMSTUDY 120, FILMSTUDY 121) explore the development of cinema in different periods and regions, examining the social, cultural, and technological factors that influenced filmmaking.",
+    "Theory and Criticism courses (e.g., FILMSTUDY 140, FILMSTUDY 141) focus on critical approaches to film and media, including genre studies, auteur theory, and cultural critique, helping students develop analytical and interpretive skills.",
+    "Electives allow students to explore specialized topics, such as Screenwriting (FILMSTUDY 173), Media Industries (FILMSTUDY 174), and Documentary Film (FILMSTUDY 175), applying theoretical knowledge to practical areas of film and media production and analysis."
+  ],
+  "learningOutcomes": [
+    "Analyze film and media texts within their historical, cultural, and technological contexts.",
+    "Apply critical theories and methodologies to the study of film and media.",
+    "Develop critical thinking, writing, and analytical skills through the study of film and media.",
+    "Understand the social, cultural, and economic factors that shape film and media production, distribution, and reception.",
+    "Communicate complex ideas and arguments effectively in written and oral forms."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Comparative Literature",
+      "link": "https://complit.stanford.edu"
+    },
+    {
+      "title": "Modern Thought and Literature",
+      "link": "https://mtl.stanford.edu"
+    },
+    {
+      "title": "Communication",
+      "link": "https://communication.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/FILM-BA",
+    "https://filmstudies.stanford.edu"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 units of Film and Media Studies coursework; total approximately 180 quarter units for the degree",
+  "additionalInformation": "Students are encouraged to explore related fields through electives and to pursue internship or research opportunities to complement their coursework."
+}

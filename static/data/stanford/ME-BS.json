@@ -1,0 +1,47 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Mechanical Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Mechanical Engineering program at Stanford University aims to develop a broad foundation in mechanical engineering principles, as well as the skills to apply these principles to real-world problems. The program covers topics such as mechanics, thermodynamics, materials science, and mechanical design, providing a strong grounding for a variety of careers or further study.",
+  "shortProgramDescription": "Stanford's Mechanical Engineering B.S. provides a comprehensive education in mechanical engineering fundamentals, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "Mechanics and Materials: Courses cover statics (ME69), dynamics (ME70), mechanics of solids and fluids (ME301, ME341), and materials science (MATSCI105). Students develop a deep understanding of mechanical principles and material properties.",
+    "Thermodynamics and Energy: Courses include thermodynamics (ME100), heat transfer (ME111), and energy systems (ME101), providing a comprehensive understanding of energy conversion and transfer.",
+    "Mechanical Design and Systems: Students learn mechanical design principles (ME101B, ME102B), systems dynamics, and control systems (ME102, ME106), and apply these to real-world problems.",
+    "Mathematics and Science: The program requires a strong foundation in mathematics (including differential equations and linear algebra) and science (physics, chemistry).",
+    "Laboratory and Computational Courses: Practical laboratory and computational courses, such as ME111, ME106, and ME301, help students apply theoretical concepts to experimental and computational problems.",
+    "Engineering Fundamentals: Students complete foundational engineering courses, including ENGR40M (electronics) or ENGR76 (intro to engineering) and ENGR108 (intro to signals and systems).",
+    "Technical Electives: Students choose from a range of technical electives to explore specialized areas within mechanical engineering, such as biomechanical engineering, energy systems, or robotics."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mechanical engineering to analyze and design mechanical systems.",
+    "Understand and apply knowledge of mechanics, thermodynamics, and materials science.",
+    "Design and conduct experiments, as well as analyze and interpret data.",
+    "Use mathematical and computational tools to model and simulate mechanical systems.",
+    "Communicate complex technical information effectively in written and oral forms.",
+    "Work effectively in teams to design, develop, and test mechanical systems.",
+    "Consider ethical, societal, and environmental implications of mechanical engineering designs and practices."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Aeronautics and Astronautics (B.S.)",
+      "link": "https://bulletin.stanford.edu/programs/AA-BS"
+    },
+    {
+      "title": "Civil Engineering (B.S.)",
+      "link": "https://bulletin.stanford.edu/programs/CE-BS"
+    },
+    {
+      "title": "Engineering (B.S.) - Undeclared",
+      "link": "https://bulletin.stanford.edu/programs/ENGR-BS"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/ME-BS",
+    "https://me.stanford.edu/"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "At least 180 quarter units, including major requirements and technical electives, with a minimum of 96 units in the major",
+  "additionalInformation": "Students must declare the major through the School of Engineering; AP/IB credits may be applied towards certain requirements with departmental approval."
+}

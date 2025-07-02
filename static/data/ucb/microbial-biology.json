@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Microbial Biology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Microbial Biology major is an interdisciplinary program that provides a foundation in the biology of microorganisms, with an emphasis on their interactions with their environments and their roles in the biosphere. The major is designed to provide a broad understanding of microbial biology, including the structure, function, and genetics of microorganisms, as well as their applications in biotechnology, medicine, and the environment.",
+  "shortProgramDescription": "The Microbial Biology major at UC Berkeley provides a comprehensive education in the biology of microorganisms, preparing students for careers in research, industry, and academia.",
+  "classHighlights": [
+    "The major requires a series of core courses that provide a foundation in biology, chemistry, and mathematics, including Biology 1A/1AL, Biology 1B, Chemistry 1A/1AL, Chemistry 1B, and Mathematics 1A/1B.",
+    "Students take additional coursework in microbial biology, including Microbial Biology 132, Microbial Biology 150, and Microbial Biology 153, which cover topics such as microbial physiology, genetics, and ecology.",
+    "Upper-division coursework includes classes on microbial pathogenesis, virology, and microbial ecology, as well as laboratory courses that provide hands-on experience with microbiological techniques.",
+    "Students also complete a series of electives that allow them to explore specialized areas of microbial biology, such as biotechnology, environmental microbiology, or microbial genomics.",
+    "The major also requires coursework in physics and biochemistry, providing a broad foundation in the physical and chemical sciences that underlie microbial biology."
+  ],
+  "learningOutcomes": [
+    "Understand the principles of microbial biology, including the structure, function, and genetics of microorganisms.",
+    "Apply knowledge of microbial biology to understand the interactions between microorganisms and their environments.",
+    "Analyze and interpret data related to microbial biology, including data from laboratory and field experiments.",
+    "Communicate effectively about microbial biology, both in writing and orally.",
+    "Apply principles of microbiology to real-world problems, such as the development of new biotechnology products or the mitigation of environmental pollution."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Molecular and Cell Biology",
+      "link": "https://mcb.berkeley.edu/undergrad/major"
+    },
+    {
+      "title": "Integrative Biology",
+      "link": "https://ib.berkeley.edu/undergraduate/major"
+    },
+    {
+      "title": "Plant and Microbial Biology",
+      "link": "https://pmb.berkeley.edu/undergraduate/major"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/microbial-biology",
+    "https://microbialbiology.berkeley.edu/undergraduate-program/",
+    "https://advising.berkeley.edu/lsas/undergraduate-advising/major-requirements/microbial-biology-major"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits (including major requirements, breadth requirements, and electives)",
+  "additionalInformation": "The Microbial Biology major is a competitive major, and admission is based on a student's academic performance, particularly in the sciences. Students are encouraged to consult with advisors to plan their coursework and to explore opportunities for research and internships."
+}

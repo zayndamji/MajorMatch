@@ -1,0 +1,40 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Italian (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Italian offers a program leading to the Bachelor of Arts in Italian. The program is designed to develop students' linguistic and cultural proficiency through the study of Italian language, literature, and culture. Students acquire a deep understanding of Italian literary and cultural traditions, as well as the skills to analyze and interpret literary and cultural texts.",
+  "shortProgramDescription": "The Italian B.A. program at Stanford develops students' linguistic and cultural proficiency through the study of Italian language, literature, and culture.",
+  "classHighlights": [
+    "Language Courses: Students take a sequence of language courses (ITALIAN 1-3, ITALIAN 101-103) to develop their linguistic skills, with a focus on grammar, vocabulary, and conversation.",
+    "Literature and Culture Courses: Students explore Italian literature and culture through courses such as Italian Literature (ITALIAN 105, ITALIAN 106), Italian Culture (ITALIAN 107), and specialized topics courses, which cover various aspects of Italian literary and cultural heritage.",
+    "Advanced Courses: Students take advanced courses (ITALIAN 201-203) that focus on specific topics in Italian literature, culture, and linguistics, allowing them to deepen their knowledge and develop critical thinking and analytical skills."
+  ],
+  "learningOutcomes": [
+    "Demonstrate advanced proficiency in Italian language, including reading, writing, speaking, and listening skills.",
+    "Analyze and interpret Italian literary and cultural texts in their historical and cultural contexts.",
+    "Understand the cultural and historical significance of Italian literature and cultural traditions.",
+    "Develop critical thinking and analytical skills through the study of Italian language, literature, and culture."
+  ],
+  "similarPrograms": [
+    {
+      "title": "French (B.A.)",
+      "link": "https://bulletin.stanford.edu/programs/FR-BA"
+    },
+    {
+      "title": "Spanish (B.A.)",
+      "link": "https://bulletin.stanford.edu/programs/SPANISH-BA"
+    },
+    {
+      "title": "Comparative Literature (B.A.)",
+      "link": "https://bulletin.stanford.edu/programs/COMPLIT-BA"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/ITAL-BA",
+    "https://italian.stanford.edu/undergraduate-program"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 units in Italian, with at least 30 units at the 100-level or above; total approximately 180 quarter units",
+  "additionalInformation": "Students are encouraged to study abroad in Italy to enhance their language skills and cultural knowledge."
+}

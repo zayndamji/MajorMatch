@@ -1,0 +1,42 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Psychology (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Psychology offers a Bachelor of Arts degree in Psychology. The undergraduate major in Psychology provides students with a broad background in the field, including exposure to the subfields of developmental, social, personality, cognitive, and clinical psychology. Coursework includes study of the biological bases of behavior, research methods, and statistical analysis. The major is designed to provide a general foundation in Psychology while also allowing students to explore areas of interest in depth.",
+  "shortProgramDescription": "The Psychology B.A. at Stanford provides a comprehensive education in the field, with a focus on research methods, statistical analysis, and the biological bases of behavior.",
+  "classHighlights": [
+    "The Psychology Department requires 11 courses for the major. Students must complete the introductory course, Introduction to Psychology (PSYCH1 or PSYCH55), and the research methods and statistics sequence, Research Methods in Psychology (PSYCH55 or PSYCH155) and Statistical Methods in Psychology (PSYCH55 or PSYCH155).",
+    "Courses in the major are divided into four groups: Group 1: Introduction to Psychology; Group 2: Research Methods and Statistics; Group 3: Core Areas in Psychology (Developmental Psychology, Social Psychology, Cognitive Neuroscience and/or Clinical Psychology); and Group 4: Additional Psychology Courses.",
+    "In Group 3, students must take at least one course in three of the four Core Areas. Some examples of courses in these areas include Developmental Psychology (PSYCH56), Social Psychology (PSYCH157), Cognitive Neuroscience (PSYCH153), and Abnormal Psychology (PSYCH154).",
+    "Students also have the opportunity to take additional psychology courses, including seminars and special topics courses, to fulfill the remaining units required for the major."
+  ],
+  "learningOutcomes": [
+    "Understand the major concepts, theoretical perspectives, and empirical findings in Psychology",
+    "Apply research methods and statistical analysis to the study of psychological phenomena",
+    "Demonstrate knowledge of the biological bases of behavior",
+    "Analyze the role of developmental, social, cognitive, and clinical factors in shaping human behavior",
+    "Communicate effectively about psychological concepts and research findings"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Psychology Minor",
+      "link": "https://bulletin.stanford.edu/programs/PSYCH-MN"
+    },
+    {
+      "title": "Symbolic Systems",
+      "link": "https://symsys.stanford.edu"
+    },
+    {
+      "title": "Linguistics",
+      "link": "https://linguistics.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/PSYCH-BA",
+    "https://psychology.stanford.edu/undergraduate-program"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "At least 11 courses (units vary by course)",
+  "additionalInformation": "The Psychology major is a flexible program that allows students to explore a range of topics in Psychology. Students are encouraged to consult with department advisors to plan their course of study."
+}

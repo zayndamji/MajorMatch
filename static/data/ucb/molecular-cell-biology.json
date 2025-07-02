@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Molecular and Cell Biology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Molecular and Cell Biology major is designed to provide students with a comprehensive understanding of the molecular and cellular basis of life, preparing them for careers in research, healthcare, education, and biotechnology. The curriculum includes foundational courses in biology, chemistry, physics, and mathematics, as well as advanced courses in molecular biology, genetics, cell biology, and biochemistry.",
+  "shortProgramDescription": "The Molecular and Cell Biology major at UC Berkeley provides a rigorous foundation in the molecular and cellular basis of life, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "Foundational courses include Biology 1A/1AL, Biology 1B, Chemistry 1A/1AL, Chemistry 1B/1BL, Physics 7A/7B or 8A/8B, and Mathematics 1A/1B, providing a broad base in the natural sciences.",
+    "Core courses in molecular and cell biology include MCB 32 (Introduction to Molecular and Cell Biology Lab), MCB 102 (Molecular and Cell Biology), MCB 104 (Molecular and Cellular Biology of Development), MCB 150 (Molecular Biology), and MCB 160 (Cell Biology).",
+    "Biochemistry and genetics coursework includes MCB 103 (Biochemistry Lab) and MCB 140 (Genetics).",
+    "Additional upper-division courses allow students to explore specialized topics in molecular and cell biology, such as MCB 162 (Cell Biology Laboratory) and MCB 165 (Microbiology).",
+    "Laboratory courses, such as MCB 132 and MCB 144, provide hands-on experience with experimental techniques and data analysis."
+  ],
+  "learningOutcomes": [
+    "Understand the molecular and cellular basis of life.",
+    "Apply knowledge of molecular biology, genetics, and biochemistry to complex biological systems.",
+    "Analyze and interpret experimental data related to molecular and cell biology.",
+    "Communicate complex scientific concepts effectively in written and oral formats.",
+    "Demonstrate laboratory skills and experimental techniques relevant to molecular and cell biology.",
+    "Evaluate the ethical implications of advances in molecular and cell biology."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Biology",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/biology"
+    },
+    {
+      "title": "Integrative Biology",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/integrative-biology"
+    },
+    {
+      "title": "Microbiology",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/microbiology"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/molecular-cell-biology",
+    "https://mcb.berkeley.edu/undergraduate/",
+    "https://advising.berkeley.edu/programs/mcb"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of approximately 120 semester units, including major and breadth requirements.",
+  "additionalInformation": "Students must complete a set of core courses, laboratory courses, and upper-division electives. GPA requirements and other academic standards apply. Preparation for graduate study or professional programs is encouraged."
+}

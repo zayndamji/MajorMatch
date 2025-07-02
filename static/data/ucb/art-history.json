@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Art History (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Art History major is designed to provide students with a comprehensive understanding of the visual arts in their historical and cultural contexts. The program covers a broad range of topics, including the development of artistic styles, the role of art in different cultures, and the critical and theoretical frameworks used to interpret art. Students take courses that span various historical periods and geographical regions, and they develop their critical thinking, research, and writing skills through the study of art historical texts, images, and other visual materials.",
+  "shortProgramDescription": "The Art History major at UC Berkeley offers a rigorous and comprehensive education in the history and interpretation of visual arts, preparing students for careers in museums, galleries, academia, and other cultural institutions.",
+  "classHighlights": [
+    "The Art History major requires students to take a series of core courses that introduce them to the major historical periods and geographical regions of art history, including ancient, medieval, Renaissance, modern, and contemporary art. These courses provide a foundation in the critical and theoretical frameworks used to interpret art and its cultural contexts.",
+    "Students also take upper-division courses that allow them to explore specific topics in greater depth, such as the art of particular cultures or historical periods, or the critical and theoretical issues that shape the field of art history. These courses develop students' critical thinking, research, and writing skills, and prepare them for advanced study or careers in the field.",
+    "In addition to their coursework, Art History majors are encouraged to participate in internships, volunteer work, or other experiential learning opportunities that provide hands-on experience in museums, galleries, or other cultural institutions. These experiences help students to develop their professional skills and to build connections with professionals in the field."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad knowledge of the history of art, including the major historical periods and geographical regions.",
+    "Analyze and interpret works of art within their cultural and historical contexts.",
+    "Apply critical and theoretical frameworks to the study of art and its cultural contexts.",
+    "Develop effective research and writing skills, including the ability to formulate and support a clear argument.",
+    "Cultivate critical thinking and visual literacy skills."
+  ],
+  "similarPrograms": [
+    {
+      "title": "History of Art and Visual Culture",
+      "link": "https://historyofart.ucsc.edu/"
+    },
+    {
+      "title": "Art Practice",
+      "link": "https://art.berkeley.edu/"
+    },
+    {
+      "title": "Classics",
+      "link": "https://classics.berkeley.edu/"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/art-history",
+    "https://art-history.berkeley.edu/undergraduate-program/",
+    "https://www.berkeley.edu/catalog/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits (major and campus requirements)",
+  "additionalInformation": "The Art History major is administered by the Department of History of Art. Students are encouraged to participate in study abroad programs, internships, and other experiential learning opportunities to enhance their education and career prospects."
+}

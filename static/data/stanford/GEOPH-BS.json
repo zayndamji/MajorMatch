@@ -1,0 +1,44 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Geophysics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Geophysics major is designed to provide a comprehensive understanding of the Earth's internal and external processes. Students learn about the Earth's structure, composition, and evolution, as well as the physical processes that shape our planet. The program combines coursework in geophysics, geology, physics, mathematics, and computer science to prepare students for careers in research, industry, and academia.",
+  "shortProgramDescription": "The Geophysics B.S. program at Stanford University provides a rigorous education in the Earth's physical processes, preparing students for careers in research, industry, and academia.",
+  "classHighlights": [
+    "🌎 **Foundational Courses**: Students take introductory courses in Geophysics (GEOPHYS101), Earth Systems (EARTHSYS101), and Physics (PHYSICS1-3), providing a broad foundation in Earth sciences and physical principles.",
+    "📊 **Mathematical and Computational Methods**: Students complete coursework in Mathematical Methods for Geophysicists (GEOPHYS205), Numerical Methods (CME100), and Programming (CME211 or CS106A/B), developing skills in data analysis and computational modeling.",
+    "🌊 **Geophysics Core**: The program includes core courses in Seismology (GEOPHYS215), Gravity and Magnetic Methods (GEOPHYS216), and Geodynamics (GEOPHYS217), covering the fundamental principles of geophysics.",
+    "🔍 **Electives and Specializations**: Students choose from a range of electives, including courses in Geophysics (GEOPHYS230-250), Geology (GEOL101-150), and Environmental Earth Science (EES101-150), allowing them to tailor their education to their interests and career goals.",
+    "💻 **Research and Field Methods**: Students participate in research projects and fieldwork, applying theoretical knowledge to real-world problems and developing practical skills in data collection and analysis."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of geophysics, including seismology, gravity, and magnetic methods.",
+    "Apply mathematical and computational methods to analyze and model geophysical data.",
+    "Demonstrate knowledge of the Earth's internal and external processes, including plate tectonics and geodynamics.",
+    "Communicate complex scientific concepts effectively in written and oral form.",
+    "Design and implement research projects, including data collection and analysis.",
+    "Evaluate and interpret geophysical data, including seismic, gravity, and magnetic data."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Geology",
+      "link": "https://earth.stanford.edu/academics/undergraduate/geology-major"
+    },
+    {
+      "title": "Environmental Earth Science",
+      "link": "https://earth.stanford.edu/academics/undergraduate/environmental-earth-science-major"
+    },
+    {
+      "title": "Earth Systems",
+      "link": "https://earth.stanford.edu/academics/undergraduate/earth-systems-major"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/GEOPH-BS",
+    "https://earth.stanford.edu/academics/undergraduate/geophysics-major"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must declare the major through the School of Earth, Energy & Environmental Sciences. The program requires a strong foundation in mathematics, physics, and computer science."
+}

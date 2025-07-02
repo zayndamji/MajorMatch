@@ -1,0 +1,44 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Chemical Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The undergraduate program in Chemical Engineering provides a foundation in the fundamental principles of chemical engineering, including thermodynamics, transport phenomena, and reaction kinetics. Students learn to apply these principles to solve problems in a variety of areas, including energy, materials, and biotechnology. The program emphasizes the development of skills in problem-solving, communication, and teamwork.",
+  "shortProgramDescription": "MIT's Chemical Engineering B.S. program provides a rigorous foundation in the principles of chemical engineering and prepares students for diverse careers or further study.",
+  "classHighlights": [
+    "Core Chemical Engineering Courses: Students take a sequence of core courses in chemical engineering, including Thermodynamics (10.40), Fluid Mechanics (10.50), Heat and Mass Transfer (10.551), and Chemical Reaction Engineering (10.65). These courses provide a foundation in the fundamental principles of chemical engineering.",
+    "Mathematics and Science: Students complete a sequence of mathematics courses, including Calculus I–III (18.01–03) and Differential Equations (18.03). They also take courses in chemistry, physics, and biology, including General Chemistry (5.111), Organic Chemistry (5.12), and Introduction to Biology (7.012).",
+    "Engineering and Design: Students take courses in engineering and design, including Introduction to Chemical Engineering (10.10) and Chemical Engineering Laboratory (10.91). They also complete a design project, applying their knowledge of chemical engineering principles to a real-world problem.",
+    "Electives and Specializations: Students choose from a range of electives and specializations, including courses in energy, materials, and biotechnology. They can also pursue a minor or a concentration in a related field.",
+    "Laboratory and Research Experience: Students gain hands-on experience in laboratory and research settings, including the Chemical Engineering Laboratory (10.91) and research projects with faculty members."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of chemical engineering to solve problems in a variety of areas.",
+    "Design and analyze chemical engineering processes and systems.",
+    "Communicate complex ideas and results effectively in written and oral form.",
+    "Work effectively in teams to solve problems and complete projects.",
+    "Analyze and interpret data from laboratory and research experiences."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Chemistry",
+      "link": "https://chemistry.mit.edu/undergraduate-program/"
+    },
+    {
+      "title": "Materials Science and Engineering",
+      "link": "https://dmse.mit.edu/"
+    },
+    {
+      "title": "Biological Engineering",
+      "link": "https://be.mit.edu/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/chemical-engineering-course-10",
+    "https://cheme.mit.edu/academics/undergraduate/",
+    "https://www.mit.edu/~mse/about/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "180 units (semester system)",
+  "additionalInformation": "Students are required to complete a minimum of 180 units, including General Institute Requirements and departmental requirements. The program is accredited by the Engineering Accreditation Commission of ABET."
+}

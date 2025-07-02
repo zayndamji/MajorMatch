@@ -1,0 +1,48 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Materials Science and Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The undergraduate program in Materials Science and Engineering provides a foundation in the science and engineering of materials, including their structure, properties, and performance. Students develop an understanding of the relationships between materials' properties and their underlying structure, as well as the processing techniques used to produce materials with specific properties. The program prepares students for careers in a wide range of industries, including aerospace, energy, electronics, and biomedical, as well as for graduate study.",
+  "shortProgramDescription": "MIT's Materials Science and Engineering B.S. program provides a comprehensive education in the science and engineering of materials, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The program starts with foundational subjects in materials science and engineering, including 3.091 (Introduction to Solid-State Chemistry), 3.024 (Electronic, Optical and Magnetic Properties of Materials), and 3.016 (Mathematics for Materials Scientists and Engineers).",
+    "Students take core courses in materials characterization, thermodynamics, and kinetics, including 3.012 (Fundamentals of Materials Science) and 3.022 (Mechanical Properties of Materials).",
+    "The curriculum includes subjects on materials processing and engineering, such as 3.042 (Materials Processing), and 3.044 (Materials Processing Laboratory).",
+    "Students also study the structure and properties of various materials classes, including metals, ceramics, polymers, and biomaterials, through subjects like 3.032 (Mechanical Behavior of Materials) and 3.052 (Nanomechanics of Materials and Biomaterials).",
+    "Electives allow students to pursue specialized areas, such as energy materials, nanomaterials, or biomaterials, and to engage with cutting-edge research in the field.",
+    "Laboratory subjects, such as 3.003 (Principles of Materials Science and Engineering Laboratory), provide hands-on experience with materials characterization and processing techniques.",
+    "The program emphasizes the development of problem-solving skills, data analysis, and communication, preparing students for professional practice or graduate study."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of materials science and engineering to understand the structure, properties, and performance of materials.",
+    "Analyze and interpret data related to materials behavior and properties.",
+    "Design and conduct experiments to characterize materials and their properties.",
+    "Understand the relationships between materials processing, structure, and properties.",
+    "Communicate complex technical information effectively in written and oral forms.",
+    "Work effectively in teams to solve materials-related problems.",
+    "Stay current with emerging trends and advancements in materials science and engineering."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Materials Science and Engineering Minor",
+      "link": "https://catalog.mit.edu/mit/programs/engineering/minors/materials-science-engineering-minor/"
+    },
+    {
+      "title": "Chemical Engineering",
+      "link": "https://catalog.mit.edu/departments/chemical-engineering/"
+    },
+    {
+      "title": "Mechanical Engineering",
+      "link": "https://catalog.mit.edu/departments/mechanical-engineering/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/",
+    "https://dmse.mit.edu/academics/undergraduate/",
+    "https://catalog.mit.edu/mit/programs/engineering/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "180-192 units (total), including General Institute Requirements and Departmental Requirements; semester credit system",
+  "additionalInformation": "Students must declare the major through the Department of Materials Science and Engineering. The program is designed to be flexible, allowing students to pursue their interests through elective subjects and undergraduate research opportunities."
+}

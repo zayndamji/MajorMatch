@@ -1,0 +1,47 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Film & Media (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Film and Media department's undergraduate program provides a comprehensive education in the study of film and media, encompassing historical, theoretical, and critical approaches. Students explore the development of cinema and media within social, cultural, and political contexts, gaining a nuanced understanding of the ways in which media shape our perceptions and experiences. The program emphasizes critical thinking, research, and analytical writing skills.",
+  "shortProgramDescription": "The Film & Media B.A. program at UC Berkeley provides a rigorous education in the critical study of film and media, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The Film and Media major requires a foundational understanding of film history and theory, starting with introductory courses like Film 20AC: 'Introduction to Film' which provides an understanding of the elements of film and Film 25AC: 'Introduction to Film and Media Studies', which explores methods, contexts, and critical approaches to the study of film and media.",
+    "Core upper-division courses such as 'Film and Media History' (Film 100) and 'Film Theory' (Film 105) form the backbone of the major, ensuring students have a deep understanding of historical and theoretical frameworks.",
+    "Electives allow students to explore specialized topics, including national cinemas, film genre studies, media and cultural studies, and film production. Courses like 'Screenwriting' (Film 170) and 'Film Production' (Film 175) enable students to engage practically with film and media.",
+    "The major also emphasizes the importance of critical thinking and research skills, with courses like 'Research Methods in Film and Media Studies' (Film 195) that prepare students for advanced research and analysis in the field.",
+    "Students are also encouraged to explore related fields through upper-division electives outside the department, such as courses in English, Comparative Literature, or other relevant departments, allowing for an interdisciplinary approach to their studies.",
+    "Courses like 'Senior Seminar' (Film 195) provide a capstone-like experience, enabling students to synthesize their knowledge in a specialized area.",
+    "Throughout the major, students are required to develop their analytical and critical thinking skills, as well as their written and oral communication skills, ensuring they are well-prepared for a range of career paths or graduate study."
+  ],
+  "learningOutcomes": [
+    "Understand the historical development of film and media within various cultural and social contexts.",
+    "Apply critical and theoretical frameworks to the analysis of film and media.",
+    "Develop skills in critical thinking, research, and analytical writing.",
+    "Analyze the ways in which film and media reflect, shape, and are shaped by societal norms and values.",
+    "Demonstrate an understanding of the technical and aesthetic aspects of film and media production.",
+    "Communicate complex ideas effectively in written and oral form."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Media Studies Minor",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/media-studies-minor"
+    },
+    {
+      "title": "Comparative Literature",
+      "link": "https://complit.berkeley.edu/undergraduate"
+    },
+    {
+      "title": "Theater, Dance, and Performance Studies",
+      "link": "https://tdps.berkeley.edu/undergraduate"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/film",
+    "https://filmmedia.berkeley.edu/undergraduate/",
+    "https://www.berkeley.edu/catalog/degree-programs/film-media-ba"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 total units (semester system)",
+  "additionalInformation": "Students are advised to consult with departmental advisors to plan their course of study. The major is designed to be flexible, allowing students to pursue their interests through elective courses. Students are also encouraged to take advantage of the department's internship and research opportunities."
+}

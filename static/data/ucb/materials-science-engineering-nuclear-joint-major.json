@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Materials Science & Engineering / Nuclear Engineering Joint Major (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Materials Science & Engineering / Nuclear Engineering Joint Major is an interdisciplinary program that combines the study of materials science and nuclear engineering. Students in this program gain a deep understanding of the properties and applications of materials, as well as the principles of nuclear engineering. The program is designed to provide a comprehensive education in the fundamentals of materials science and nuclear engineering, preparing students for careers in a wide range of fields, including energy, aerospace, and biotechnology.",
+  "shortProgramDescription": "The Materials Science & Engineering / Nuclear Engineering Joint Major provides a comprehensive education in the fundamentals of materials science and nuclear engineering, preparing students for careers in energy, aerospace, and biotechnology.",
+  "classHighlights": [
+    "Students in the program take a range of core courses in materials science and engineering, including thermodynamics, kinetics, and materials characterization.",
+    "Courses in nuclear engineering cover topics such as nuclear reactions, radiation transport, and nuclear reactor design.",
+    "Additional coursework includes classes in physics, chemistry, and mathematics, providing a strong foundation in the underlying principles of materials science and nuclear engineering.",
+    "Students also complete laboratory courses and a senior design project, gaining hands-on experience with materials characterization and nuclear engineering techniques.",
+    "The program includes elective courses that allow students to explore specialized topics in materials science and nuclear engineering, such as nanomaterials, biomaterials, and nuclear energy systems."
+  ],
+  "learningOutcomes": [
+    "Apply knowledge of materials science and nuclear engineering to solve complex problems.",
+    "Understand the properties and applications of a wide range of materials.",
+    "Analyze and design nuclear energy systems.",
+    "Communicate complex technical information effectively.",
+    "Work effectively in teams to design and implement projects.",
+    "Apply mathematical and scientific principles to materials science and nuclear engineering problems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Materials Science & Engineering Major",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/materials-science-engineering-major"
+    },
+    {
+      "title": "Nuclear Engineering Major",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/nuclear-engineering-major"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/materials-science-engineering-nuclear-joint-major",
+    "https://www.berkeley.edu/catalog/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120-128 semester units",
+  "additionalInformation": "Students must complete a senior design project and satisfy all lower-division and upper-division major requirements. The program is administered by the Department of Materials Science & Engineering and the Department of Nuclear Engineering."
+}

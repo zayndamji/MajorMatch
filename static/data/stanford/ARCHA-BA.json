@@ -1,0 +1,43 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Archaeology (BA)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Anthropology offers a program of study leading to the Bachelor of Arts degree in Archaeology. The Archaeology track within the Anthropology major provides students with a broad education in the methods and theories of archaeology, as well as a foundation in anthropological and archaeological concepts, methods, and theories. Students take courses that cover a wide range of topics, from the earliest human history to complex societies, and gain hands-on experience through field and laboratory research.",
+  "shortProgramDescription": "The Archaeology major at Stanford provides a comprehensive understanding of archaeological methods, theories, and practices, preparing students for careers or further study in the field.",
+  "classHighlights": [
+    "The Archaeology track includes foundational courses in Anthropology, such as Introduction to Archaeology (ANTHRO 1 or 3), Archaeological Methods and Theories (ANTHRO 121), and Archaeological Science (ANTHRO 122).",
+    "Students also take courses in specific archaeological topics, such as the Archaeology of Human Origins (ANTHRO 134), Archaeology of Complex Societies (ANTHRO 136), and Archaeology of Specific Regions (e.g., ANTHRO 138, ANTHRO 139).",
+    "In addition, students are required to complete a set of electives that provide a deeper understanding of archaeological methods, theories, and practices, as well as related fields such as anthropology, history, and art history.",
+    "Courses in the major also emphasize the development of critical thinking, writing, and research skills, with opportunities for hands-on experience through field schools, laboratory research, and other experiential learning opportunities.",
+    "Students are also encouraged to explore related fields through coursework in departments such as Classics, History, and Art History."
+  ],
+  "learningOutcomes": [
+    "Understand the major concepts, methods, and theories in archaeology",
+    "Analyze and interpret archaeological data and evidence",
+    "Apply critical thinking and problem-solving skills to archaeological problems",
+    "Communicate complex ideas and research findings effectively in written and oral form",
+    "Demonstrate an understanding of the cultural, historical, and social contexts of archaeological sites and artifacts"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Anthropology",
+      "link": "https://bulletin.stanford.edu/programs/ANTHRO-BA"
+    },
+    {
+      "title": "Classics",
+      "link": "https://bulletin.stanford.edu/programs/CLASSICS-BA"
+    },
+    {
+      "title": "Art History",
+      "link": "https://bulletin.stanford.edu/programs/ARTHIST-BA"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/ARCHA-BA",
+    "https://anthropology.stanford.edu"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "45 units in Anthropology, with specific requirements for the Archaeology track; total approximately 180 quarter units for the BA degree",
+  "additionalInformation": "Students must declare the Anthropology major, with a track in Archaeology, through the Department of Anthropology. Coursework should be planned in consultation with a departmental adviser."
+}

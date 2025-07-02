@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "English (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of English at UC Berkeley offers a comprehensive undergraduate major that engages students in the study of literature from diverse periods, cultures, and genres. Students explore a broad range of texts and develop critical skills in reading, analysis, and interpretation. The program emphasizes the historical and cultural contexts of literary works, as well as theoretical approaches to understanding them. Through a variety of course offerings, students gain a deeper understanding of the English literary tradition and its relevance to contemporary issues and global perspectives.",
+  "shortProgramDescription": "The English B.A. program at UC Berkeley provides students with a rich understanding of literature, critical thinking, and effective writing, preparing them for various careers or further academic study.",
+  "classHighlights": [
+    "The department offers a range of lower-division courses introducing students to the study of literature, including 'Introduction to Literary Analysis' and 'Introduction to Critical Theory'. These foundational courses provide a basis for more advanced study.",
+    "Upper-division courses allow students to explore specific periods (e.g., Medieval, Renaissance, 18th-century, 19th-century, 20th-century), genres (e.g., poetry, drama, novel), and theoretical approaches (e.g., feminist, postcolonial, queer theory).",
+    "Courses often focus on the intersection of literature with historical and cultural contexts, as well as contemporary issues, offering a nuanced understanding of the English literary canon and its global relevance.",
+    "Students can choose from a variety of electives that align with their interests, including courses on literary and cultural theory, creative writing, and the history of the book.",
+    "The major requires students to complete a set of core courses that ensure a broad understanding of literary periods and critical methodologies, as well as a concentration or cluster of courses that allows for deeper exploration of specific areas."
+  ],
+  "learningOutcomes": [
+    "Develop critical skills in reading, analysis, and interpretation of literary texts.",
+    "Understand the historical and cultural contexts that shape literary works.",
+    "Analyze the ways in which literature reflects and critiques societal norms and values.",
+    "Apply various theoretical approaches to the study of literature.",
+    "Communicate complex ideas effectively through written and oral presentations.",
+    "Cultivate a nuanced understanding of the English literary tradition and its global relevance."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Comparative Literature",
+      "link": "https://complit.berkeley.edu"
+    },
+    {
+      "title": "Media Studies",
+      "link": "https://filmmedia.berkeley.edu"
+    },
+    {
+      "title": "Classics",
+      "link": "https://classics.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/english",
+    "https://english.berkeley.edu/undergraduate",
+    "https://www.berkeley.edu/catalog/departments/english"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 total units (semester system); the major typically requires 40-50 upper-division units in English",
+  "additionalInformation": "Students must fulfill the university's general education requirements in addition to the major requirements. The department offers a variety of advising resources and support for students planning their course of study."
+}

@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Marine Science (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Marine Science major is an interdisciplinary program that provides a rigorous foundation in the natural sciences, with a specific focus on the marine environment. The major is designed for students who wish to pursue a broad education in the natural sciences, with a strong emphasis on the study of the Earth's oceans. Students in the major take a core curriculum that includes courses in biology, chemistry, physics, and mathematics, as well as upper division courses in marine science. The program prepares students for a variety of careers in fields such as oceanography, marine biology, and environmental science, as well as for graduate study.",
+  "shortProgramDescription": "The Marine Science B.S. provides a comprehensive education in the natural sciences, focusing on the marine environment and preparing students for careers or graduate study in oceanography, marine biology, or related fields.",
+  "classHighlights": [
+    "The major requires a foundation in the natural sciences, including introductory courses in biology (IB 1 or IB 3, MCB C100A or equivalent), chemistry (CHEM 1A, 1AL, 3A, 3AL), physics (PHYSICS 7A, 7B or PHYSICS 8A, 8B), and mathematics (MATH 1A, 1B).",
+    "Students take upper-division courses in oceanography, including Introduction to Oceanography (EPS C100/ESC C100), Oceanography Laboratory (EPS 101L/ESC 101L), and at least 3 additional upper-division courses in marine science.",
+    "Electives in the major allow students to explore topics such as marine biology, oceanography, and coastal processes, with courses such as Marine Biology (MCB 164 or IB 164), Marine Conservation Biology (IB 166), and Coastal Processes (EPS 114 or ESC 114).",
+    "Additional upper division elective courses are selected from a list of approved courses, which include topics such as biological oceanography, chemical oceanography, and marine geology."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of oceanography, including the physical, chemical, biological, and geological processes that shape the ocean.",
+    "Apply scientific principles to the study of the marine environment, including the ability to collect and analyze data.",
+    "Communicate complex scientific information effectively in written and oral forms.",
+    "Demonstrate a broad understanding of the natural sciences, with a focus on the marine environment.",
+    "Prepare for a variety of careers in fields related to marine science, or for graduate study in oceanography or a related field."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Earth and Planetary Science",
+      "link": "https://eps.berkeley.edu/undergrad/major"
+    },
+    {
+      "title": "Environmental Science, Policy, and Management",
+      "link": "https://ourenvironment.berkeley.edu/programs/esp-majors"
+    },
+    {
+      "title": "Integrative Biology",
+      "link": "https://ib.berkeley.edu/undergrad/major"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/marine-science",
+    "https://marine.berkeley.edu/",
+    "https://eps.berkeley.edu/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "The Marine Science major is a rigorous, interdisciplinary program that requires a strong foundation in the natural sciences. Students are encouraged to participate in research opportunities and fieldwork."
+}

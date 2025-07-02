@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Education B.A.",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Education B.A. program provides foundational knowledge in education, including the social, cultural, and political contexts of schooling. Coursework covers educational theory, policy, and practice, preparing students for diverse careers in education and related fields. The program emphasizes critical thinking, research skills, and practical application.",
+  "shortProgramDescription": "The Education B.A. program at UC Berkeley prepares students for careers in education by examining the complexities of teaching, learning, and educational systems.",
+  "classHighlights": [
+    "Core Courses: Foundation courses such as Education 101AC (Introduction to Educational Studies) and Education 101B (Introduction to the Study of Teaching and Learning) ground students in educational theory and research methods.",
+    "Theoretical Foundations: Courses like Education 103 (The Social Contexts of Education) and Education 104 (The History of American Education) provide historical, social, and cultural perspectives on education.",
+    "Pedagogy and Practice: Classes such as Education 111AC (Pedagogy and Practice in Context) and Education 140 (Teaching and Learning) focus on instructional strategies, curriculum development, and the application of theory to practice.",
+    "Diverse Educational Settings: Electives covering topics like Education 125 (Multilingual Education) and Education 130 (Education and Social Change) expose students to the breadth of educational contexts and issues.",
+    "Research and Analysis: Methodological courses such as Education 204A (Advanced Research Methods in Education) equip students with skills to critically analyze educational phenomena and contribute to the field through research."
+  ],
+  "learningOutcomes": [
+    "Understand the historical, social, and cultural contexts that shape educational systems and practices.",
+    "Analyze educational policies, theories, and practices through multiple lenses.",
+    "Apply educational research methods to investigate educational issues.",
+    "Develop critical thinking and problem-solving skills related to teaching and learning.",
+    "Communicate complex educational concepts effectively to diverse audiences."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Minor in Education",
+      "link": "https://education.berkeley.edu/undergraduate/minor"
+    },
+    {
+      "title": "Interdisciplinary Studies in Education Minor",
+      "link": "https://education.berkeley.edu/undergraduate/interdisciplinary-studies-education-minor"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/education",
+    "https://education.berkeley.edu/undergraduate/education-ba",
+    "https://education.berkeley.edu/academics/undergraduate-programs"
+  ],
+  "programDuration": "4 years (8 semesters, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "The Education B.A. is a highly interdisciplinary program drawing on fields like sociology, psychology, history, and linguistics. Students are encouraged to engage in fieldwork, research, and community projects to supplement coursework."
+}

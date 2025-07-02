@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Economics (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Economics at UC Berkeley offers a comprehensive undergraduate program that provides a rigorous foundation in economic theory, empirical analysis, and applied fields. The program is designed to equip students with the analytical tools and critical thinking skills necessary to understand complex economic issues, evaluate data, and make informed decisions. Students can choose from a variety of elective courses to explore different areas of economics, such as macroeconomics, microeconomics, international trade, and econometrics.",
+  "shortProgramDescription": "The Economics B.A. at UC Berkeley provides a rigorous foundation in economic theory, empirical analysis, and applied fields, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The introductory courses, Economics 1 and 2, provide a broad introduction to the principles of microeconomics and macroeconomics. These courses cover the fundamental concepts of supply and demand, consumer behavior, production costs, and the role of government in the economy.",
+    "The intermediate theory courses, Economics 100A and 100B, build on the foundational knowledge gained in the introductory courses, providing a more in-depth analysis of microeconomic and macroeconomic theory. Students learn about consumer theory, producer theory, general equilibrium, and macroeconomic models.",
+    "The econometrics course, Economics 141, teaches students how to apply statistical methods to economic data, including regression analysis, hypothesis testing, and time series analysis.",
+    "Upper-division courses offer students the opportunity to explore specialized fields, such as international trade, labor economics, and public finance. These courses provide in-depth analysis of specific economic topics and often incorporate empirical research and data analysis.",
+    "Students can choose from a range of elective courses to tailor their major to their interests and career goals. The department offers courses in a variety of fields, including economic history, economic development, and environmental economics."
+  ],
+  "learningOutcomes": [
+    "Apply economic principles to analyze complex economic issues",
+    "Evaluate economic data using statistical methods",
+    "Understand the theoretical foundations of microeconomics and macroeconomics",
+    "Analyze the role of government in the economy",
+    "Communicate economic ideas effectively in written and oral form",
+    "Apply economic concepts to real-world problems"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mathematical Economics Minor",
+      "link": "https://economics.berkeley.edu/undergraduate/minor"
+    },
+    {
+      "title": "Economics Minor",
+      "link": "https://economics.berkeley.edu/undergraduate/minor"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/economics",
+    "https://economics.berkeley.edu/undergraduate"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "The Economics Department requires students to complete a set of core courses, including introductory economics, intermediate theory, and econometrics. Students must also complete upper-division electives to fulfill the major requirements. The department offers advising resources and support for students to help them navigate the major and plan their course schedule."
+}

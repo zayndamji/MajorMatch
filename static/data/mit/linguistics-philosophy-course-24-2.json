@@ -1,0 +1,44 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Linguistics and Philosophy (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Linguistics and Philosophy program is an interdisciplinary major that combines the study of language and the study of fundamental philosophical questions. Students in this program explore the structure and semantics of language, as well as the principles of reasoning and inference. The program prepares students for graduate study in linguistics, philosophy, or related fields, and for careers in areas such as law, education, and research.",
+  "shortProgramDescription": "The Linguistics and Philosophy major at MIT provides a rigorous foundation in the study of language and philosophical inquiry, preparing students for a range of academic and professional pursuits.",
+  "classHighlights": [
+    "Students take foundational courses in linguistics, including phonetics, phonology, morphology, syntax, and semantics, as well as introductory courses in philosophy, including logic and ethics. Courses such as 24.900 Introduction to Linguistics and 24.211 Linguistics I provide a grounding in linguistic theory and analysis.",
+    "Philosophy courses, including 24.210 Logic and 24.241 Metaphysics and Epistemology, introduce students to key areas of philosophical inquiry, including logic, metaphysics, and epistemology. Students also engage with the history of philosophy through courses like 24.251 History of Philosophy.",
+    "The major includes a range of advanced courses in linguistics and philosophy, such as 24.902 Language and its Structure I, 24.903 Phonology, 24.904 Morphology, and 24.241 Metaphysics and Epistemology. Students also have the opportunity to explore specialized topics through seminars and electives.",
+    "Throughout the major, students develop skills in critical thinking, argumentation, and analytical writing. They learn to analyze complex linguistic and philosophical data, to evaluate arguments, and to construct well-supported claims.",
+    "The Linguistics and Philosophy major is designed to be flexible, allowing students to pursue their interests in either linguistics or philosophy, or to combine the two fields in a way that suits their academic and professional goals."
+  ],
+  "learningOutcomes": [
+    "Apply linguistic and philosophical theories to the analysis of language and the study of fundamental philosophical questions.",
+    "Analyze complex linguistic and philosophical data, and evaluate arguments and evidence.",
+    "Develop skills in critical thinking, argumentation, and analytical writing.",
+    "Understand the principles of linguistic and philosophical inquiry, including the structure and semantics of language, and the methods of philosophical analysis.",
+    "Pursue advanced study or careers in areas such as linguistics, philosophy, law, education, and research."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Linguistics",
+      "link": "https://linguistics.mit.edu/undergraduate/major/"
+    },
+    {
+      "title": "Philosophy",
+      "link": "https://philosophy.mit.edu/undergraduate/"
+    },
+    {
+      "title": "Cognitive Science",
+      "link": "https://bcs.mit.edu/undergraduate/major"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2",
+    "https://linguistics.mit.edu/undergraduate/major/",
+    "https://philosophy.mit.edu/undergraduate/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "A minimum of 128-135 units, with at least 48 units in linguistics and philosophy courses, and a minimum of 48 units in other General Institute Requirements.",
+  "additionalInformation": "Students must complete the General Institute Requirements in addition to the major requirements. The major is designed to be flexible, allowing students to pursue their interests in either linguistics or philosophy, or to combine the two fields."
+}

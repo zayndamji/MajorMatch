@@ -1,0 +1,39 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Earth, Atmospheric, and Planetary Sciences (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Department of Earth, Atmospheric, and Planetary Sciences offers a program leading to a Bachelor of Science degree. The program provides a broad foundation in the fundamental principles of earth sciences, including the study of the Earth's lithosphere, hydrosphere, atmosphere, and biosphere, as well as the planets. Students develop an understanding of the complex interactions between these components and the processes that shape our planet.",
+  "shortProgramDescription": "The EAPS B.S. program provides a comprehensive education in earth sciences, preparing students for careers in research, industry, government, and education.",
+  "classHighlights": [
+    "The program requires 6 foundational subjects: Introduction to Geology (12.001), Introduction to Earth, Atmospheric, and Planetary Sciences (12.002), Principles of Geology (12.003), Earth's Systems and Environments (12.004), and two additional subjects in mathematics and physics.",
+    "Students take core subjects in EAPS, including Structural Geology and Tectonics (12.110), Geobiology (12.007), Earth's Climate (12.310), and Atmospheric Physics (12.330).",
+    "Electives allow students to explore specialized areas, such as geochemistry, geophysics, climate science, and planetary science, through subjects like Geochemistry (12.225), Planetary Geology (12.421), and Climate Change Science (12.520).",
+    "Additional requirements include laboratory and field experiences, such as Field Geology (12.115) and laboratory subjects in geochemistry, geophysics, or paleoclimatology.",
+    "Students must also complete a set of GIR subjects in mathematics, physics, chemistry, and biology, as well as restricted electives to broaden their understanding of EAPS and related fields."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of earth sciences, including the study of the Earth's lithosphere, hydrosphere, atmosphere, and biosphere.",
+    "Analyze complex interactions between earth systems and the processes that shape our planet.",
+    "Apply mathematical and scientific principles to understand earth processes and phenomena.",
+    "Communicate scientific information and research results effectively.",
+    "Demonstrate laboratory and field skills relevant to EAPS research and applications."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Science and Engineering",
+      "link": "https://catalog.mit.edu/departments-and-programs/course-1/"
+    },
+    {
+      "title": "Geology and Geophysics",
+      "link": "https://eaps.mit.edu/undergraduate/major-requirements"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/",
+    "https://eaps.mit.edu/undergraduate/major-requirements"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "180-186 units (total), including GIR subjects, EAPS core subjects, and restricted electives",
+  "additionalInformation": "Students must maintain a satisfactory academic record and complete required subjects in EAPS and related fields. Research opportunities are available through UROPs and other programs."
+}

@@ -1,0 +1,44 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Brain and Cognitive Sciences (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Department of Brain and Cognitive Sciences is devoted to understanding the mind and brain through a multidisciplinary approach, incorporating perspectives from psychology, neuroscience, computer science, and other related fields. The undergraduate major in Brain and Cognitive Sciences provides a foundation for a range of careers or graduate study by providing a comprehensive education in the cognitive sciences and neurosciences. Coursework includes molecular and cellular neuroscience, neuroanatomy, systems neuroscience, and cognitive science. Students develop laboratory, computational, and quantitative skills necessary for understanding the brain and cognitive processes.",
+  "shortProgramDescription": "The B.S. in Brain and Cognitive Sciences at MIT integrates psychology, neuroscience, and cognitive science to prepare students for careers or further study.",
+  "classHighlights": [
+    "Foundational courses introduce key concepts in Brain and Cognitive Sciences. Students take Introduction to Psychology (9.00), Introduction to Neuroscience (9.01), and Cognitive Science (9.012/9.13) to establish a broad base in the field.",
+    "🧠 **Neuroscience**: Required and elective courses cover molecular and cellular neurobiology, neuroanatomy, and systems neuroscience. Examples include Molecular and Cellular Neuroscience (9.14), Systems Neuroscience (9.17), and Neuroanatomy (9.22).",
+    "💡 **Cognitive Science and Psychology**: Courses like Cognitive Science (9.012/9.13), Developmental Psychology (9.08/9.86), and Social Psychology (9.67) allow students to explore various aspects of cognition and behavior.",
+    "📊 **Quantitative Methods and Research Skills**: Students acquire skills in statistical analysis, experimental design, and computational modeling through courses such as Statistics for Brain and Cognitive Sciences (9.07/9.59) and Computational Neuroscience (9.40).",
+    "🔬 **Laboratory Experience**: Laboratory coursework and research experiences, such as Research in Brain and Cognitive Sciences (9.17H/9.21H), enable students to apply theoretical knowledge in experimental settings."
+  ],
+  "learningOutcomes": [
+    "Understand the biological basis of cognition and behavior.",
+    "Apply principles from psychology, neuroscience, and cognitive science.",
+    "Analyze and interpret data related to brain and cognitive processes.",
+    "Design and conduct experiments to investigate cognitive phenomena.",
+    "Integrate knowledge from multiple disciplines to understand complex brain functions."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Cognitive Science Minor",
+      "link": "https://catalog.mit.edu/mit/minors/cogsci/"
+    },
+    {
+      "title": "Neuroscience Minor (Course 9-2)",
+      "link": "https://catalog.mit.edu/mit/minors/neuroscience/"
+    },
+    {
+      "title": "Linguistics and Philosophy",
+      "link": "https://catalog.mit.edu/mit/shc/linguistics-philosoph-course-24/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9",
+    "https://bcs.mit.edu/undergraduate",
+    "https://bcs.mit.edu/undergraduate/degree-requirements"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of 34–36 HASS and Science/Engineering GIRs plus required major courses; typically around 126–128 total units (subject to variation based on AP/IB credits and specific coursework)",
+  "additionalInformation": "Students must complete General Institute Requirements (GIRs) in addition to major-specific courses. Research opportunities are available through UROPs and other research programs. The major is administered by the Department of Brain and Cognitive Sciences."
+}

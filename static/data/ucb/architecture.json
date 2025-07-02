@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Architecture (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Bachelor of Arts in Architecture is an undergraduate degree that provides a comprehensive education in the field of architecture, preparing students for a variety of careers in the field or for further study at the graduate level. The program emphasizes the development of critical thinking, creativity, and technical skills, with a curriculum that includes coursework in architectural history, theory, and design, as well as electives in related fields such as art, engineering, and environmental studies.",
+  "shortProgramDescription": "The Architecture B.A. program at UC Berkeley provides a broad-based education in the field, preparing students for careers or graduate study through a combination of core and elective coursework.",
+  "classHighlights": [
+    "The program requires students to complete a series of core courses in architectural history and theory, including Architecture 1-2 (Introduction to Architectural History) and Architecture 100A-100B (Architectural Theory and Design).",
+    "Students also take coursework in design, including Architecture 101A-101B (Architectural Design Fundamentals) and advanced design studios.",
+    "Electives allow students to explore related fields, such as art, engineering, and environmental studies, and to develop their interests in specific areas of architecture, such as sustainability or urban design.",
+    "Additional coursework includes Architecture 110 (Introduction to Architecture and Urbanism), Architecture 111 (History of Architecture), and Architecture 112 (Theory of Architecture).",
+    "Students can also choose from a range of upper-division electives, including courses in architectural technology, urban planning, and historic preservation."
+  ],
+  "learningOutcomes": [
+    "Develop critical thinking and problem-solving skills in the context of architectural design and theory.",
+    "Understand the historical and cultural contexts of architecture and urbanism.",
+    "Apply technical skills and knowledge in the design and development of architectural projects.",
+    "Communicate effectively through written, visual, and oral presentations.",
+    "Analyze and evaluate architectural designs and theories.",
+    "Demonstrate an understanding of the social, cultural, and environmental implications of architectural practice."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Architecture Minor",
+      "link": "https://guide.berkeley.edu/undergraduate/degree-programs/architecture-minor"
+    },
+    {
+      "title": "Landscape Architecture",
+      "link": "https://ced.berkeley.edu/academics/landscape-architecture/"
+    },
+    {
+      "title": "City and Regional Planning",
+      "link": "https://ced.berkeley.edu/academics/city-and-regional-planning/"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/architecture",
+    "https://www.berkeley.edu/catalog/degree-programs/architecture-ba",
+    "https://ced.berkeley.edu/academics/architecture/"
+  ],
+  "programDuration": "4 years (semester system)",
+  "creditRequirements": "120 units (semester system)",
+  "additionalInformation": "The program is administered by the Department of Architecture in the College of Environmental Design. Students must meet the university's residency requirement and maintain a minimum GPA. Upper-division transfer students and change-of-major students are also eligible to apply."
+}

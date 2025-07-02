@@ -1,0 +1,46 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Political Science (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Political Science offers an undergraduate major in Political Science designed to introduce students to the broad subfields that comprise the discipline: American Politics, Comparative Politics, International Relations, and Political Theory. The major is structured to allow students to explore these subfields while developing a deep understanding of the methods and theories that underpin the study of politics. Students are encouraged to pursue their interests through coursework and research opportunities.",
+  "shortProgramDescription": "The Political Science major at Stanford introduces students to the study of politics through coursework in the major subfields of the discipline, preparing them for diverse careers or further study.",
+  "classHighlights": [
+    "The introductory course, Introduction to Political Science (POLISCI 110), provides a foundational understanding of the discipline, its key concepts, and the various approaches to studying politics.",
+    "Students take core courses in American Politics (e.g., POLISCI 140), Comparative Politics (e.g., POLISCI 143), International Relations (e.g., POLISCI 145), and Political Theory (e.g., POLISCI 150), which introduce the main subfields and theoretical perspectives.",
+    "Methodology courses, such as Introduction to Social Science Methods (POLISCI 200), and Quantitative Methods in Political Science (POLISCI 205), equip students with the skills to analyze and interpret political data.",
+    "Upper-level courses allow students to explore specific topics in greater depth, including Advanced American Politics (e.g., POLISCI 240), Comparative Politics seminars (e.g., POLISCI 243), and International Relations seminars (e.g., POLISCI 245).",
+    "Political Theory courses, such as POLISCI 250 and POLISCI 253, engage students with classical and contemporary theoretical texts, fostering critical thinking and analytical skills.",
+    "Electives enable students to pursue their interests, whether in specialized areas like environmental politics, global governance, or political economy, or in interdisciplinary approaches that combine politics with other fields."
+  ],
+  "learningOutcomes": [
+    "Understand the major subfields of Political Science and their key concepts.",
+    "Apply theoretical perspectives to analyze political phenomena.",
+    "Use quantitative and qualitative methods to study politics.",
+    "Develop critical thinking and analytical skills through engagement with complex political texts and issues.",
+    "Communicate effectively about political topics in written and oral forms.",
+    "Evaluate the ethical and societal implications of political processes and policies."
+  ],
+  "similarPrograms": [
+    {
+      "title": "International Relations",
+      "link": "https://fsi.stanford.edu"
+    },
+    {
+      "title": "Public Policy",
+      "link": "https://gspp.stanford.edu"
+    },
+    {
+      "title": "Urban Studies",
+      "link": "https://urp.stanford.edu"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/POLSC-BA",
+    "https://politicalscience.stanford.edu/undergraduate-program",
+    "https://exploredegrees.stanford.edu/undergraduate/politicalscience/"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 units of Political Science coursework; total approximately 180 quarter units for the degree",
+  "additionalInformation": "Students are advised to consult with departmental advisors to plan their course of study, as the major allows for flexibility in choosing upper-level courses. Opportunities for research and honors are available for qualified students."
+}

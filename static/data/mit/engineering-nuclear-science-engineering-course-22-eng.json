@@ -1,0 +1,46 @@
+{
+  "collegeName": "Massachusetts Institute of Technology",
+  "programType": "Major",
+  "programName": "Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Engineering program at MIT is designed for students planning a career in nuclear engineering or related fields. It provides a broad foundation in the fundamental principles of engineering, along with specialized knowledge in nuclear science and engineering. The curriculum includes coursework in mathematics, physics, and engineering sciences, as well as laboratory and design experiences.",
+  "shortProgramDescription": "MIT's Engineering B.S. program provides a comprehensive education in engineering principles, with a focus on nuclear science and engineering.",
+  "classHighlights": [
+    "Students are required to take foundational courses in mathematics, including Calculus I-III (18.01-18.03), Differential Equations (18.03), and Linear Algebra (18.06).",
+    "Physics coursework includes Mechanics (8.01), Electricity and Magnetism (8.02), and Waves and Optics (8.03).",
+    "Core engineering courses cover topics such as Introduction to Nuclear Engineering (22.011), Nuclear Reactor Physics (22.212), and Nuclear Systems Design (22.033).",
+    "Engineering sciences and specialized courses include Thermodynamics (22.01), Fluid Mechanics, and Materials Science.",
+    "Laboratory and design experiences are integrated throughout the curriculum, with courses such as Nuclear Engineering Design Project (22.033) and Junior Lab (22.09).",
+    "Electives allow students to explore advanced topics in nuclear engineering, such as Radiation Protection, Nuclear Reactor Dynamics, and Plasma Physics."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mathematics and physics to engineering problems",
+    "Understand the principles of nuclear science and engineering",
+    "Design and analyze nuclear systems and components",
+    "Communicate complex technical information effectively",
+    "Work effectively in teams to solve engineering problems",
+    "Apply laboratory and experimental skills to engineering challenges"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Nuclear Science and Engineering",
+      "link": "https://catalog.mit.edu/degree-charts/nuclear-science-engineering-course-22/"
+    },
+    {
+      "title": "Mechanical Engineering",
+      "link": "https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/"
+    },
+    {
+      "title": "Materials Science and Engineering",
+      "link": "https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/"
+    }
+  ],
+  "sources": [
+    "https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng",
+    "https://nse.mit.edu/undergraduate-programs/",
+    "https://www.mit.edu/catalogue/programs.shtml"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "180-192 units (semester credits)",
+  "additionalInformation": "Students must complete a minimum of 180 units, including General Institute Requirements, departmental requirements, and restricted electives. The program is designed to be completed in 4 years, with flexibility to accommodate variations in student preparation and interests."
+}

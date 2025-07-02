@@ -1,0 +1,42 @@
+{
+  "collegeName": "Stanford University",
+  "programType": "Major",
+  "programName": "Feminist, Gender, and Sexuality Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Feminist, Gender, and Sexuality Studies (FGSS) major at Stanford University is an interdisciplinary program that examines the intersections of gender, sexuality, race, class, and nation. The major provides a rigorous foundation in feminist and queer theories, and prepares students to analyze and critique the complex relationships between power, identity, and culture. Students explore the ways in which gender and sexuality shape and are shaped by social, cultural, and political contexts, and develop a nuanced understanding of the intersections and divergences between different forms of inequality.",
+  "shortProgramDescription": "The FGSS major provides a comprehensive understanding of feminist and queer theories, and prepares students to analyze the complex relationships between power, identity, and culture.",
+  "classHighlights": [
+    "Core Courses: The major requires three core courses: Introduction to Feminist, Gender, and Sexuality Studies (FGSS100A), Feminist Theory (FGSS101A), and Queer Studies (FGSS102A). These courses provide a foundation in feminist and queer theories, and introduce students to key concepts and methodologies.",
+    "Thematic Clusters: Students choose one thematic cluster, which includes courses on topics such as intersectionality, transnational feminisms, and queer of color critique. These clusters allow students to explore specific areas of interest and develop a nuanced understanding of the complex relationships between power, identity, and culture.",
+    "Electives: The major requires additional elective courses, which can be chosen from a range of departments, including English, History, Sociology, and Anthropology. These electives allow students to explore related fields and develop a broader understanding of the intersections between FGSS and other disciplines.",
+    "Methods and Praxis: Students are required to take a course on methods and praxis, which introduces them to the ways in which feminist and queer scholarship is used in various fields, including academia, activism, and policy-making."
+  ],
+  "learningOutcomes": [
+    "Analyze the complex relationships between power, identity, and culture using feminist and queer theories.",
+    "Understand the intersections and divergences between different forms of inequality, including gender, sexuality, race, class, and nation.",
+    "Develop a nuanced understanding of the ways in which gender and sexuality shape and are shaped by social, cultural, and political contexts.",
+    "Critique dominant narratives and power structures, and develop a nuanced understanding of the ways in which they are maintained and challenged.",
+    "Apply feminist and queer theories to real-world problems and issues, including those related to social justice, activism, and policy-making."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Comparative Studies in Race and Ethnicity",
+      "link": "https://csre.stanford.edu"
+    },
+    {
+      "title": "Native American Studies",
+      "link": "https://nativeamericanstudies.stanford.edu"
+    },
+    {
+      "title": "Gender and Sexuality Studies Minor",
+      "link": "https://bulletin.stanford.edu/programs/GSS-M"
+    }
+  ],
+  "sources": [
+    "https://bulletin.stanford.edu/programs/FGSS-BA",
+    "https://fgss.stanford.edu/undergraduate/major"
+  ],
+  "programDuration": "12 quarters (4 academic years, quarter system)",
+  "creditRequirements": "45 units minimum (not including prerequisites or GERs); total approximately 180 quarter units for the degree",
+  "additionalInformation": "Students declare the major through the Department of English or the Program in Feminist, Gender, and Sexuality Studies. The major is open to students from all disciplines."
+}

@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Chemistry (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Chemistry B.A. program provides a comprehensive foundation in chemistry, with flexibility for pursuing other interests. The curriculum includes core courses in general chemistry, organic chemistry, physical chemistry, and inorganic chemistry, as well as laboratory work and electives. Students develop skills in problem-solving, critical thinking, and communication.",
+  "shortProgramDescription": "The Chemistry B.A. at UC Berkeley provides a broad foundation in chemistry, preparing students for various careers or further study.",
+  "classHighlights": [
+    "The Chemistry B.A. program begins with foundational courses in General Chemistry (CHEM 1A/1AL, 1B/1BL) and Quantitative Chemistry (CHEM 3A/3AL, 3B/3BL), which introduce stoichiometry, thermodynamics, and chemical reactions.",
+    "Students then progress to Organic Chemistry (CHEM 112A/112B, 113/114/115), where they study reaction mechanisms, synthesis, and the properties of organic compounds.",
+    "Physical Chemistry (CHEM 130/130L, 131/131L, 132/132L) follows, covering quantum mechanics, thermodynamics, and spectroscopy.",
+    "Inorganic Chemistry (CHEM 105/105L, 107A/107B) is also required, focusing on main group and transition metal chemistry, and Advanced Inorganic Chemistry.",
+    "Laboratory courses, such as Quantitative Chemistry Lab (CHEM 3AL, 3BL) and Physical Chemistry Lab (CHEM 130L, 131L, 132L), develop experimental skills and data analysis.",
+    "Electives allow students to explore specialized areas, such as biochemistry, materials science, or environmental chemistry.",
+    "The program emphasizes the development of laboratory skills, problem-solving, and communication through written and oral presentations."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of chemistry, including atomic and molecular structure, chemical reactions, and thermodynamics.",
+    "Apply chemical knowledge to solve problems and analyze data.",
+    "Develop laboratory skills, including experimental design, data collection, and analysis.",
+    "Communicate chemical concepts and results effectively through written and oral presentations.",
+    "Demonstrate an understanding of the role of chemistry in society and the environment."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Chemical Biology",
+      "link": "https://chemistry.berkeley.edu/academics/chemical-biology"
+    },
+    {
+      "title": "Chemical Engineering",
+      "link": "https://cheme.berkeley.edu"
+    },
+    {
+      "title": "Molecular and Cell Biology",
+      "link": "https://mcb.berkeley.edu"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/chemistry-ba",
+    "https://chemistry.berkeley.edu/academics/chemistry-ba",
+    "https://chemistry.berkeley.edu/undergraduate-program"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of 120 units; major requires 45-50 units in chemistry and related fields; semester system",
+  "additionalInformation": "Students must maintain a minimum GPA in the major and overall. Some courses have prerequisites or concurrent enrollment requirements. Laboratory courses and electives provide opportunities for research and hands-on experience."
+}

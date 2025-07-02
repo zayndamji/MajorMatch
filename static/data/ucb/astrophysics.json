@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Berkeley",
+  "programType": "Major",
+  "programName": "Astrophysics (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Astrophysics major is designed to provide a broad and deep understanding of the physical principles underlying the study of the universe. The program includes a foundation in physics and astronomy, as well as coursework in mathematics and computational methods. Students learn about the structure and evolution of stars, galaxies, and the universe as a whole, and develop skills in data analysis and scientific computing.",
+  "shortProgramDescription": "The Astrophysics B.A. provides a comprehensive education in the principles of astrophysics, preparing students for careers in research, education, or industry.",
+  "classHighlights": [
+    "Lower Division Physics and Astronomy Courses: Students take introductory physics (Physics 7A, 7B) and astronomy (Astronomy 10, 10L) courses, followed by more advanced courses in classical mechanics (Physics 105), electromagnetism (Physics 110), and thermodynamics (Physics 112).",
+    "Upper Division Astrophysics and Physics Courses: Upper division coursework includes stellar astrophysics (Astronomy 101), galactic and extragalactic astrophysics (Astronomy 102), and cosmology (Astronomy 103). Students also take courses in quantum mechanics (Physics 137A), statistical mechanics (Physics 141A), and computational physics (Physics 129).",
+    "Mathematics and Computational Methods: Students complete coursework in calculus (Math 1A, 1B, 53), differential equations (Math 54), and linear algebra (Math 110). They also learn computational methods, including programming (Python or other languages) and data analysis techniques.",
+    "Electives and Specialized Courses: Students can choose from a range of electives, including courses on planetary science, stellar evolution, and cosmology. They can also participate in research projects and internships, gaining hands-on experience in astrophysical research and data analysis."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of astrophysics and the structure of the universe",
+    "Apply mathematical and computational techniques to analyze astrophysical data",
+    "Develop skills in scientific computing, data analysis, and problem-solving",
+    "Communicate complex scientific concepts effectively in writing and orally",
+    "Demonstrate an understanding of the historical and cultural context of astrophysical discoveries"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Physics (B.A.)",
+      "link": "https://physics.berkeley.edu/undergraduate/program"
+    },
+    {
+      "title": "Astronomy (B.A.)",
+      "link": "https://astro.berkeley.edu/undergraduate-program/"
+    },
+    {
+      "title": "Earth and Planetary Science (B.A.)",
+      "link": "https://eps.berkeley.edu/undergraduate/eps-ba"
+    }
+  ],
+  "sources": [
+    "https://guide.berkeley.edu/undergraduate/degree-programs/astrophysics",
+    "https://astro.berkeley.edu/undergraduate-program/",
+    "https://physics.berkeley.edu/undergraduate/program"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "120 semester credits",
+  "additionalInformation": "Students must complete a minimum of 120 semester credits, including coursework in physics, astronomy, mathematics, and computational methods. The major requires a strong foundation in physics and astronomy, as well as skills in data analysis and scientific computing."
+}
