@@ -2,7 +2,6 @@ import universities from '$lib/data/universities.json';
 import fs from 'fs';
 import path from 'path';
 
-/** @type {import('./$types').LayoutServerLoad} */
 export async function load({ url }) {
 	const segments = url.pathname.split('/').filter(Boolean);
 	const universityId = segments[1] ?? null;
@@ -12,6 +11,8 @@ export async function load({ url }) {
 
 	if (url.pathname === '/') {
 		pageTitle = 'Major Match';
+	} else if (url.pathname === '/compare') {
+		pageTitle = 'Major Match – Compare Majors';
 	} else if (url.pathname === '/universities') {
 		pageTitle = 'Major Match – All Universities';
 	} else if (segments.length === 2 && universityId) {

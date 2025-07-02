@@ -77,6 +77,11 @@
         Browse Universities
       </a>
     </div>
+    <div class="buttons are-large">
+      <a class="box homepage-button p-4 has-text-white" href="/compare">
+        Compare Majors
+      </a>
+    </div>
   </div>
 </section>
 

@@ -12,6 +12,15 @@
 
     if (parts.length === 0) return breadcrumbs;
 
+    // Handle /compare route
+    if (parts[0] === 'compare') {
+      breadcrumbs.push({
+        label: 'Compare Majors',
+        href: '/compare'
+      });
+      return breadcrumbs;
+    }
+
     if (parts[0] === 'universities') {
       breadcrumbs.push({ label: 'Universities', href: '/universities' });
 
