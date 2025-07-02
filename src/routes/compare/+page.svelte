@@ -58,7 +58,7 @@
     }
 
     try {
-      const res = await fetch(`/api/${univId}/majors`);
+      const res = await fetch(`/api/${univId}/majors.json`);
       if (!res.ok) throw new Error('No majors found');
       const majors = await res.json();
 
@@ -121,7 +121,7 @@
   async function fetchMajorDetails(univId, majorId, side) {
     if (!univId || !majorId) return;
 
-    const res = await fetch(`/api/${univId}/${majorId}`);
+    const res = await fetch(`/api/${univId}/${majorId}.json`);
     if (!res.ok) {
       if (side === 'left') leftMajorDetails = null;
       else rightMajorDetails = null;

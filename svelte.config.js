@@ -15,7 +15,7 @@ for (const university of universities) {
   dynamicEntries.push(`/universities/${univId}/majors`);
 
   // API route
-  dynamicEntries.push(`/api/${univId}/majors`);
+  dynamicEntries.push(`/api/${univId}/majors.json`);
 
   const majorsPath = path.resolve(`./src/lib/data/${univId}/majors.json`);
   if (fs.existsSync(majorsPath)) {
@@ -25,7 +25,7 @@ for (const university of universities) {
       dynamicEntries.push(`/universities/${univId}/majors/${major.id}`);
 
       // Individual major routes
-      dynamicEntries.push(`/api/${univId}/majors/${major.id}`);
+      dynamicEntries.push(`/api/${univId}/${major.id}.json`);
     }
   }
 }
