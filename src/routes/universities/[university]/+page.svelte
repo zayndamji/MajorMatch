@@ -146,7 +146,11 @@
           </p>
 
           <p class="is-size-6 mb-1 has-text-white">
-            {major.college}
+            {#if Array.isArray(major.college)}
+              {major.college.join(' · ')}
+            {:else}
+              {major.college}
+            {/if}
           </p>
 
           <p class="is-size-6 has-text-grey-light">
