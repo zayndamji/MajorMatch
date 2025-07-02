@@ -2,267 +2,290 @@
   {
     "name": "Architecture (B.S.)",
     "id": "architecture-course-4",
-    "college": "School of Architecture and Planning"
+    "college": "School of Architecture and Planning",
+    "description": "Study the design, theory, and technology of the built environment in this interdisciplinary architecture program. You'll develop creative and analytical skills through studio work, history and theory courses, and hands-on design projects."
   },
   {
     "name": "Art and Design (B.S.)",
     "id": "architecture-course-4-b",
-    "college": "School of Architecture and Planning"
+    "college": "School of Architecture and Planning",
+    "description": "Combine artistic vision with technical skill in this studio-based program focused on contemporary art and design. You'll explore visual media, spatial design, and creative technologies while developing a personal artistic practice."
   },
   {
     "name": "Planning (B.S.)",
     "id": "planning-course-11",
-    "college": "School of Architecture and Planning"
+    "college": "School of Architecture and Planning",
+    "description": "Engage with the social, environmental, and technical aspects of urban and regional planning. This program equips students to design equitable, sustainable communities through policy analysis, spatial planning, and data-driven strategies."
   },
   {
     "name": "Aerospace Engineering (B.S.)",
     "id": "aerospace-engineering-course-16",
-    "college": "School of Engineering"
+    "college": "School of Engineering",
+    "description": "Explore the principles of aerospace engineering, focusing on the design, development, and testing of aircraft and spacecraft. This program emphasizes a strong foundation in aerodynamics, propulsion, structural analysis, and systems integration."
   },
   {
     "name": "Archaeology and Materials as Recommended by the Department of Materials Science and Engineering (B.S.)",
     "id": "archaeology-materials-course-3-c",
-    "college": "School of Engineering"
-  },
-  {
-    "name": "Artificial Intelligence and Decision Making (B.S.)",
-    "id": "artifical-intelligence-decision-making-course-6-4",
-    "college": "School of Engineering"
+    "college": "School of Engineering",
+    "description": "Investigate the intersection of archaeology and materials science through the study of ancient technologies and artifacts. This program blends analytical techniques with cultural understanding to uncover the material history of civilizations."
   },
   {
     "name": "Biological Engineering (B.S.)",
     "id": "biological-engineering-course-20",
-    "college": "School of Engineering"
+    "college": "School of Engineering",
+    "description": "Explore how engineering principles can be applied to biological systems to solve challenges in health, sustainability, and biotechnology. Students engage with molecular biology, biomechanics, and systems biology through labs and design projects."
   },
   {
-    "name": "Chemical-Biological Engineering (B.S.)",
+    "name": "Chemical Biological Engineering (B.S.)",
     "id": "chemical-biological-engineering-course-10-b",
-    "college": "School of Engineering"
+    "college": "School of Engineering",
+    "description": "Bridge the fields of chemical engineering and molecular biology in this interdisciplinary major. The curriculum focuses on chemical processes in living systems and prepares students for careers in biotechnology, pharmaceuticals, and healthcare."
   },
   {
     "name": "Chemical Engineering (B.S.)",
     "id": "chemical-engineering-course-10",
-    "college": "School of Engineering"
+    "college": "School of Engineering",
+    "description": "Gain a rigorous foundation in thermodynamics, transport phenomena, and chemical kinetics while designing systems for manufacturing, energy, and environmental solutions. Students develop strong analytical and problem-solving skills for industry and research."
   },
   {
-    "name": "Chemical Engineering as Recommended by the Department of Chemical Engineering (B.S.)",
-    "id": "chemical-engineering-course-10-c",
-    "college": "School of Engineering"
-  },
-  {
-    "name": "Computer Science and Engineering (B.S.)",
-    "id": "computer-science-engineering-course-6-3",
-    "college": "School of Engineering"
-  },
-  {
-    "name": "Electrical Engineering with Computing (B.S.)",
-    "id": "electrical-engineering-computing-6-5",
-    "college": "School of Engineering"
-  },
-  {
-    "name": "Engineering (B.S.)",
+    "name": "Engineering (dept. Civil/Environmental) (B.S.)",
     "id": "engineering-civil-environmental-engineering-course-1-eng",
-    "college": "School of Engineering"
+    "college": "School of Engineering",
+    "description": "Focus on civil and environmental systems that support sustainable infrastructure and public health. This flexible program combines engineering analysis with fieldwork to address challenges in construction, water resources, and environmental protection."
   },
   {
-    "name": "Engineering (B.S.)",
+    "name": "Engineering (dept. Mechanical) (B.S.)",
     "id": "mechanical-engineering-course-2-a",
-    "college": "School of Engineering"
+    "college": "School of Engineering",
+    "description": "Develop a deep understanding of mechanical systems through courses in dynamics, thermodynamics, and fluid mechanics. The program blends theory with hands-on design to prepare students for careers in industry or advanced study."
   },
   {
-    "name": "Engineering (B.S.)",
+    "name": "Engineering (dept. Chemical) (B.S.)",
     "id": "engineering-chemical-engineering-course-10-eng",
-    "college": "School of Engineering"
+    "college": "School of Engineering",
+    "description": "Build a strong foundation in chemical engineering with a flexible curriculum tailored to diverse interests. Students study core principles while exploring applications in energy, materials, and biotechnology."
   },
   {
-    "name": "Engineering (B.S.)",
+    "name": "Engineering (dept. Aeronautics) (B.S.)",
     "id": "engineering-aeronautics-astronautics-course-16-eng",
-    "college": "School of Engineering"
+    "college": "School of Engineering",
+    "description": "Examine flight systems and space exploration through a flexible engineering lens. This program allows students to tailor their aerospace studies while developing broad analytical and design skills."
   },
   {
-    "name": "Engineering (B.S.)",
+    "name": "Engineering (dept. Nuclear) (B.S.)",
     "id": "engineering-nuclear-science-engineering-course-22-eng",
-    "college": "School of Engineering"
+    "college": "School of Engineering",
+    "description": "Engage with the science and engineering of nuclear systems, including energy production and radiation applications. Students combine a broad engineering core with specialized courses in nuclear technology and safety."
   },
   {
     "name": "Materials Science and Engineering (B.S.)",
     "id": "materials-science-engineering-course-3",
-    "college": "School of Engineering"
-  },
-  {
-    "name": "Materials Science and Engineering (B.S.)",
-    "id": "materials-science-engineering-course-3-a",
-    "college": "School of Engineering"
+    "college": "School of Engineering",
+    "description": "Explore the structure, properties, and performance of materials across scales. This program prepares students to design new materials for applications in electronics, energy, medicine, and beyond."
   },
   {
     "name": "Mechanical and Ocean Engineering (B.S.)",
     "id": "mechanical-ocean-engineering-course-2-oe",
-    "college": "School of Engineering"
+    "college": "School of Engineering",
+    "description": "Combine mechanical engineering with the study of ocean systems in this unique program. Students learn about fluid dynamics, marine robotics, and offshore structures while applying engineering skills to ocean exploration and sustainability."
   },
   {
     "name": "Mechanical Engineering (B.S.)",
     "id": "mechanical-engineering-course-2",
-    "college": "School of Engineering"
+    "college": "School of Engineering",
+    "description": "Explore the principles of mechanics, thermodynamics, and materials to design and build innovative systems. This program emphasizes hands-on problem solving and prepares students for diverse engineering challenges."
   },
   {
     "name": "Nuclear Science and Engineering (B.S.)",
     "id": "nuclear-science-engineering-course-22",
-    "college": "School of Engineering"
+    "college": "School of Engineering",
+    "description": "Study nuclear processes and technologies to address global challenges in energy, medicine, and security. Students gain a strong foundation in physics, materials, and reactor systems through research and design projects."
   },
   {
     "name": "Anthropology (B.S.)",
     "id": "anthropology-course-21a",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Examine human cultures, societies, and biological diversity across time and place. This major combines theory and fieldwork to explore how people live, think, and interact with their environments."
   },
   {
     "name": "Comparative Media Studies (B.S.)",
     "id": "comparative-media-studies-cms",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Analyze media systems across cultures and technologies, from print to digital. Students study storytelling, design, and policy to understand media’s impact on society and develop new creative practices."
   },
   {
     "name": "Economics (B.S.)",
     "id": "economics-course-14",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Explore how individuals, markets, and governments allocate resources and respond to incentives. This program offers analytical tools for studying growth, inequality, policy, and global markets."
   },
   {
     "name": "Global Studies and Languages (B.S.)",
     "id": "global-studies-languages-course-21g",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Engage with world cultures through language, literature, and media. This interdisciplinary major fosters global awareness and cross-cultural understanding through immersive study and research."
   },
   {
     "name": "History (B.S.)",
     "id": "history-course-21h",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Study the past to understand the forces that shape the present and future. This major emphasizes critical thinking and research across regions, periods, and themes from politics to culture."
   },
   {
     "name": "Humanities (B.S.)",
     "id": "humanities-course-21",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Design an individualized program across literature, philosophy, languages, and other humanities fields. This flexible major encourages interdisciplinary exploration and creative expression."
   },
   {
     "name": "Humanities and Engineering (B.S.)",
     "id": "humanities-engineering-course-21e",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Bridge the technical and humanistic with a joint program in engineering and the humanities. Students pursue in-depth study in both areas to address complex societal and technological issues."
   },
   {
     "name": "Humanities and Science (B.S.)",
     "id": "humanities-science-course-21s",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Combine a scientific discipline with the study of the humanities in a flexible, interdisciplinary curriculum. Students explore how science and culture intersect in shaping knowledge and innovation."
   },
   {
     "name": "Linguistics and Philosophy (B.S.)",
     "id": "linguistics-philosophy-course-24-2",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Examine language and thought through a joint study of linguistics and philosophy. Students investigate meaning, logic, and cognition in human communication and reasoning."
   },
   {
     "name": "Literature (B.S.)",
     "id": "literature-course-21l",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Explore literature across cultures, genres, and historical periods. This major emphasizes close reading, critical theory, and the power of narrative to shape human experience."
   },
   {
     "name": "Mathematical Economics (B.S.)",
     "id": "mathematical-economics-course-14-2",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Combine rigorous economic theory with mathematical modeling and data analysis. This major is ideal for students interested in advanced research, policy, or quantitative finance."
   },
   {
     "name": "Music (B.S.)",
     "id": "music-course-21m",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Study music through performance, theory, history, and technology. This program encourages creativity and interdisciplinary exploration of music’s cultural and scientific dimensions."
   },
   {
     "name": "Philosophy (B.S.)",
     "id": "philosophy-course-24-1",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Explore fundamental questions about knowledge, ethics, and existence. Students develop skills in critical analysis, argumentation, and conceptual clarity through a study of philosophical texts and problems."
   },
   {
     "name": "Political Science (B.S.)",
     "id": "political-science-course-17",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Analyze political systems, behavior, and institutions around the world. This major offers tools for understanding governance, policy, and global affairs through empirical and theoretical perspectives."
   },
   {
-    "name": "Science, Technology, and Society/Second Major (B.S.)",
+    "name": "Science, Technology, and Society (Second Major) (B.S.)",
     "id": "science-technology-society-sts",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Study how science and technology shape—and are shaped by—culture, politics, and society. This interdisciplinary major is designed to complement a technical or scientific field solely as a second major."
   },
   {
     "name": "Theater Arts (B.S.)",
     "id": "theater-arts-course-21m-2",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Explore performance, design, and production through coursework and hands-on theater making. This major fosters creative expression and critical engagement with the performing arts."
   },
   {
     "name": "Writing (B.S.)",
     "id": "writing-course-21w",
-    "college": "School of Humanities, Arts, and Social Sciences"
+    "college": "School of Humanities, Arts, and Social Sciences",
+    "description": "Develop your voice across genres from fiction to technical communication. This major emphasizes writing as a creative, analytical, and professional practice for diverse audiences."
   },
   {
     "name": "Business Analytics (B.S.)",
     "id": "business-analytics-course-15-2",
-    "college": "Sloan School of Management"
+    "college": "Sloan School of Management",
+    "description": "Apply data science and analytical methods to solve business problems. Students gain skills in modeling, optimization, and machine learning to drive strategic decision-making."
   },
   {
     "name": "Finance (B.S.)",
     "id": "finance-course-15-3",
-    "college": "Sloan School of Management"
+    "college": "Sloan School of Management",
+    "description": "Study financial markets, corporate finance, and investment strategies. This program prepares students to analyze risk, allocate capital, and understand the dynamics of the global economy."
   },
   {
     "name": "Management (B.S.)",
     "id": "management-course-15-1",
-    "college": "Sloan School of Management"
+    "college": "Sloan School of Management",
+    "description": "Study the fundamentals of business leadership, strategy, and organizational behavior. This program equips students with analytical and managerial skills to lead in diverse industries."
   },
   {
     "name": "Biology (B.S.)",
     "id": "biology-course-7",
-    "college": "School of Science"
+    "college": "School of Science",
+    "description": "Explore the molecular, cellular, and systems-level mechanisms of life. This major prepares students for careers in research, biotechnology, and medicine through hands-on discovery."
   },
   {
     "name": "Brain and Cognitive Sciences (B.S.)",
     "id": "brain-cognitive-sciences-course-9",
-    "college": "School of Science"
+    "college": "School of Science",
+    "description": "Investigate how the brain enables thought, perception, and behavior. Students explore neuroscience, psychology, and computation to understand the mind and brain at multiple scales."
   },
   {
     "name": "Chemistry (B.S.)",
     "id": "chemistry-course-5",
-    "college": "School of Science"
+    "college": "School of Science",
+    "description": "Study the structure, properties, and transformations of matter. This program emphasizes experimental techniques and theoretical frameworks for solving problems in science and engineering."
   },
   {
     "name": "Earth, Atmospheric, and Planetary Sciences (B.S.)",
     "id": "earth-atmospheric-planetary-sciences-course-12",
-    "college": "School of Science"
+    "college": "School of Science",
+    "description": "Examine the processes that shape the Earth and other planets. This interdisciplinary major combines geology, climate science, oceanography, and planetary science to address environmental and planetary questions."
   },
   {
     "name": "Mathematics (B.S.)",
     "id": "mathematics-course-18",
-    "college": "School of Science"
+    "college": "School of Science",
+    "description": "Engage with the abstract structures and practical tools of modern mathematics. Students gain deep analytical skills and explore applications in science, engineering, and beyond."
   },
   {
     "name": "Mathematics with Computer Science (B.S.)",
     "id": "mathematics-computer-science-course-18-c",
-    "college": "School of Science"
+    "college": "School of Science",
+    "description": "Combine mathematical rigor with computational thinking and programming. This interdisciplinary major prepares students for theoretical and applied work at the intersection of math and computer science."
   },
   {
     "name": "Physics (B.S.)",
     "id": "physics-course-8",
-    "college": "School of Science"
+    "college": "School of Science",
+    "description": "Study the fundamental laws governing the universe, from quantum mechanics to cosmology. This major emphasizes mathematical modeling, experimentation, and critical reasoning."
   },
   {
     "name": "Computer Science and Engineering (B.S.)",
     "id": "computer-science-engineering-course-6-3",
-    "college": "MIT Schwarzman College of Computing"
+    "college": ["MIT Schwarzman College of Computing", "School of Engineering"],
+    "description": "Develop a strong foundation in algorithms, systems, and software engineering. Students learn to design and implement technologies that drive innovation across industries."
   },
   {
     "name": "Artificial Intelligence and Decision Making (B.S.)",
     "id": "artifical-intelligence-decision-making-course-6-4",
-    "college": "MIT Schwarzman College of Computing"
+    "college": ["MIT Schwarzman College of Computing", "School of Engineering"],
+    "description": "Explore machine learning, robotics, and human-centered AI. This program equips students to build intelligent systems and understand how decisions are made under uncertainty."
   },
   {
     "name": "Electrical Engineering with Computing (B.S.)",
     "id": "electrical-engineering-computing-6-5",
-    "college": "MIT Schwarzman College of Computing"
+    "college": ["MIT Schwarzman College of Computing", "School of Engineering"],
+    "description": "Study circuits, signals, and systems alongside computer science fundamentals. This major bridges hardware and software, preparing students to build integrated computing technologies."
   },
   {
     "name": "Chemistry and Biology (B.S.)",
     "id": "chemistry-biology-course-5-7",
-    "college": "School of Science"
+    "college": "School of Science",
+    "description": "Integrate chemical and biological sciences to explore life at the molecular level. This interdisciplinary program is ideal for students interested in biomedical research and biotechnology."
   },
   {
     "name": "Climate System Science and Engineering (B.S.)",
@@ -270,7 +293,8 @@
     "college": [
       "School of Engineering",
       "School of Science"
-    ]
+    ],
+    "description": "Study the Earth’s climate system through science and engineering approaches. This major prepares students to tackle challenges in sustainability, climate modeling, and environmental design."
   },
   {
     "name": "Computation and Cognition (B.S.)",
@@ -278,7 +302,8 @@
     "college": [
       "School of Engineering",
       "School of Science"
-    ]
+    ],
+    "description": "Combine insights from computer science and neuroscience to understand intelligence. Students explore the computational foundations of learning, perception, and cognition."
   },
   {
     "name": "Computer Science and Molecular Biology (B.S.)",
@@ -286,7 +311,8 @@
     "college": [
       "School of Engineering",
       "School of Science"
-    ]
+    ],
+    "description": "Apply computational methods to the study of genes, proteins, and cells. This program merges biology with programming and data analysis to advance modern bioscience."
   },
   {
     "name": "Computer Science, Economics, and Data Science (B.S.)",
@@ -294,7 +320,8 @@
     "college": [
       "School of Engineering",
       "School of Humanities, Arts, and Social Sciences"
-    ]
+    ],
+    "description": "Analyze data-driven economic systems using tools from computer science and statistics. This interdisciplinary major prepares students to understand and influence modern markets and platforms."
   },
   {
     "name": "Urban Science and Planning with Computer Science (B.S.)",
@@ -302,6 +329,7 @@
     "college": [
       "School of Engineering",
       "School of Architecture and Planning"
-    ]
+    ],
+    "description": "Integrate urban planning with computing to design smarter cities. Students use data, modeling, and design tools to address challenges in housing, mobility, and sustainability."
   }
 ]
