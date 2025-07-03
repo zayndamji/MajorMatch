@@ -2,761 +2,913 @@
   {
     "name": "Astronomy & Astrophysics (B.A.)",
     "id": "astronomy-astrophysics-ba",
-    "college": "Astronomy & Astrophysics"
+    "college": "Astronomy & Astrophysics",
+    "description": "The B.A. in Astronomy & Astrophysics offers a broad foundation in the structure and evolution of the universe. Designed with flexibility in mind, the major suits students pursuing science communication, education, or interdisciplinary paths."
   },
   {
     "name": "Astronomy & Astrophysics (B.S.)",
     "id": "astronomy-astrophysics-bs",
-    "college": "Astronomy & Astrophysics"
+    "college": "Astronomy & Astrophysics",
+    "description": "The B.S. in Astronomy & Astrophysics emphasizes rigorous training in physics, math, and computational techniques to understand celestial phenomena. It prepares students for graduate study and careers in research, aerospace, and data science."
   },
   {
     "name": "Anthropology (Archaeology) (B.A.)",
     "id": "anthropology-archaeology-ba",
-    "college": "Anthropology"
+    "college": "Anthropology",
+    "description": "This concentration explores human history through material remains, from ancient tools to modern landscapes. Students gain training in excavation, artifact analysis, and cultural theory, preparing for careers in heritage, museums, or field research."
   },
   {
     "name": "Anthropology (Biological Anthropology) (B.A.)",
     "id": "anthropology-biological-anthropology-ba",
-    "college": "Anthropology"
+    "college": "Anthropology",
+    "description": "Biological Anthropology investigates human evolution, genetics, and primate behavior. Students explore the biological roots of humanity while developing skills in lab work, field studies, and evolutionary theory."
   },
   {
     "name": "Anthropology (Sociocultural Anthropology) (B.A.)",
     "id": "anthropology-sociocultural-anthropology-ba",
-    "college": "Anthropology"
+    "college": "Anthropology",
+    "description": "Sociocultural Anthropology examines cultural practices, belief systems, and social structures across societies. Students engage with ethnographic methods and critical theory to analyze topics like identity, globalization, and inequality."
   },
   {
     "name": "Anthropology with a Concentration in Climate Change and Human Solutions (B.A.)",
     "id": "anthropology-with-a-concentration-in-climate-change-and-human-solutions-ba",
-    "college": "Anthropology"
+    "college": "Anthropology",
+    "description": "This concentration explores human dimensions of climate change—vulnerability, adaptation, and innovation—through an anthropological lens. Students combine environmental studies with fieldwork and policy analysis to address global challenges."
   },
   {
     "name": "Biological Anthropology (B.S.)",
     "id": "biological-anthropology-bs",
-    "college": "Anthropology"
+    "college": "Anthropology",
+    "description": "The B.S. in Biological Anthropology integrates evolutionary biology, genetics, and anatomy with anthropology. With lab and field-based learning, students gain a scientific foundation for careers in health, forensics, and human biology."
   },
   {
     "name": "Environmental Anthropology (B.S.)",
     "id": "environmental-anthropology-bs",
-    "college": "Anthropology"
+    "college": "Anthropology",
+    "description": "Environmental Anthropology investigates how cultures shape and respond to ecological change. With an emphasis on field methods, sustainability, and political ecology, students prepare for roles in environmental policy, advocacy, and research."
   },
   {
     "name": "Bioengineering (B.S.)",
     "id": "bioengineering-bs",
-    "college": "Bioengineering (BE)"
+    "college": "Bioengineering (BE)",
+    "description": "The Bioengineering B.S. provides a strong foundation in biology, engineering, and applied mathematics to solve biomedical problems. Students explore systems biology, biomechanics, and device design while preparing for careers in biotech, medicine, or research."
   },
   {
     "name": "Bioengineering (Biotechnology) (B.S.)",
     "id": "bioengineering-biotechnology-bs",
-    "college": "Bioengineering (BE)"
+    "college": "Bioengineering (BE)",
+    "description": "This program focuses on engineering solutions in biotech, including genetic engineering, pharmaceuticals, and bioprocessing. Students develop skills in molecular biology, bio-manufacturing, and instrumentation for careers in the biotech industry or graduate school."
   },
   {
     "name": "Bioengineering (Bioinformatics) (B.S.)",
     "id": "bioengineering-bioinformatics-bs",
-    "college": "Bioengineering (BE)"
+    "college": "Bioengineering (BE)",
+    "description": "Combining biology, computation, and data science, this major focuses on analyzing biological data for insights into health, genomics, and disease. Students prepare for roles in biomedical data analysis, AI in healthcare, and research."
   },
   {
     "name": "Bioengineering: BioSystems (B.S.)",
     "id": "bioengineering-biosystems-bs",
-    "college": "Bioengineering (BE)"
+    "college": "Bioengineering (BE)",
+    "description": "BioSystems engineering applies systems-level thinking to biological processes, including synthetic biology, control systems, and tissue modeling. The program trains students to engineer complex biological networks and medical technologies."
   },
   {
     "name": "Black Diaspora and African American Studies (B.A.)",
     "id": "black-diaspora-and-african-american-studies-ba",
-    "college": "Black Diaspora and African American Studies"
+    "college": "Black Diaspora and African American Studies",
+    "description": "This major examines the histories, cultures, and politics of Black communities across Africa and the African diaspora. Students engage with literature, theory, and activism to explore race, identity, and social justice."
   },
   {
     "name": "Biochemistry (B.S.)",
     "id": "biochemistry-bs",
-    "college": "Chemistry and Biochemistry"
+    "college": "Chemistry and Biochemistry",
+    "description": "The Biochemistry B.S. blends chemistry and molecular biology to explore life at the molecular level. Students study protein structure, enzymology, and metabolism, preparing for careers in research, biotech, and health sciences."
   },
   {
     "name": "Chemistry (B.S.)",
     "id": "chemistry-bs",
-    "college": "Chemistry and Biochemistry"
+    "college": "Chemistry and Biochemistry",
+    "description": "The Chemistry B.S. provides rigorous training in physical, organic, analytical, and inorganic chemistry. Students gain hands-on lab experience and a strong theoretical foundation for careers in research, industry, or graduate study."
   },
   {
     "name": "Environmental Chemistry (B.S.)",
     "id": "environmental-chemistry-bs",
-    "college": "Chemistry and Biochemistry"
+    "college": "Chemistry and Biochemistry",
+    "description": "Explores the chemical principles underlying environmental processes and challenges. Students gain the skills to analyze pollution, climate, and sustainability through a molecular lens."
   },
   {
     "name": "Molecular Synthesis (B.S.)",
     "id": "molecular-synthesis-bs",
-    "college": "Chemistry and Biochemistry"
+    "college": "Chemistry and Biochemistry",
+    "description": "Focuses on the design and creation of complex molecules with practical applications in medicine and materials science. Emphasizes synthetic techniques and structure-function relationships."
   },
   {
     "name": "Pharmacological Chemistry (B.S.)",
     "id": "pharmacological-chemistry-bs",
-    "college": "Chemistry and Biochemistry"
+    "college": "Chemistry and Biochemistry",
+    "description": "Combines chemistry and biology to study drug design, action, and metabolism. Prepares students for careers in pharmaceuticals, biotechnology, and health sciences."
   },
   {
     "name": "Chinese Studies (B.A.)",
     "id": "chinese-studies-ba",
-    "college": "Chinese Studies"
+    "college": "Chinese Studies",
+    "description": "Examines Chinese language, literature, history, and culture across time. Offers interdisciplinary training in understanding China’s global role and cultural complexity."
   },
   {
     "name": "Cinematic Arts (B.A.)",
     "id": "cinematic-arts-ba",
-    "college": "Cinematic Arts"
+    "college": "Cinematic Arts",
+    "description": "Explores film and media as artistic, cultural, and political forms. Students engage in both critical analysis and creative production across genres and technologies."
   },
   {
     "name": "Classical Studies (B.A.)",
     "id": "classical-studies-ba",
-    "college": "Classical Studies"
+    "college": "Classical Studies",
+    "description": "Delves into the literature, history, and philosophy of ancient Greece and Rome. Encourages close reading, analytical thinking, and engagement with foundational texts."
   },
   {
     "name": "Cognitive Science (B.A.)",
     "id": "cognitive-science-ba",
-    "college": "Cognitive Science"
+    "college": "Cognitive Science",
+    "description": "Interdisciplinary study of the mind, integrating psychology, linguistics, philosophy, and neuroscience. Emphasizes theoretical and empirical approaches to human cognition."
   },
   {
     "name": "Cognitive Science (B.S.)",
     "id": "cognitive-science-bs",
-    "college": "Cognitive Science"
+    "college": "Cognitive Science",
+    "description": "Applies computational and scientific methods to understanding cognition. Prepares students for research and technical careers involving human-computer interaction and AI."
   },
   {
     "name": "Cognitive Science with Specialization in Clinical Aspects of Cognition (B.S.)",
     "id": "cognitive-science-with-specialization-in-clinical-aspects-of-cognition-bs",
-    "college": "Cognitive Science"
+    "college": "Cognitive Science",
+    "description": "Focuses on cognitive disorders, brain injury, and mental health from an interdisciplinary lens. Ideal for students pursuing clinical research or healthcare careers."
   },
   {
     "name": "Cognitive Science with Specialization in Design and Interaction (B.S.)",
     "id": "cognitive-science-with-specialization-in-design-and-interaction-bs",
-    "college": "Cognitive Science"
+    "college": "Cognitive Science",
+    "description": "Combines cognitive science with human-centered design and user experience. Prepares students to create intuitive technologies and interfaces informed by human behavior."
   },
   {
     "name": "Cognitive Science with Specialization in Language and Culture (B.S.)",
     "id": "cognitive-science-with-specialization-in-language-and-culture-bs",
-    "college": "Cognitive Science"
+    "college": "Cognitive Science",
+    "description": "Explores how language, thought, and culture interact. Integrates cognitive linguistics and anthropology to examine communication and cross-cultural cognition."
   },
   {
     "name": "Cognitive Science with Specialization in Machine Learning and Neural Computation (B.S.)",
     "id": "cognitive-science-with-specialization-in-machine-learning-and-neural-computation-bs",
-    "college": "Cognitive Science"
+    "college": "Cognitive Science",
+    "description": "Blends cognitive science with data science, neuroscience, and AI. Students study learning algorithms and brain-inspired computing systems."
   },
   {
     "name": "Cognitive Science with Specialization in Neuroscience (B.S.)",
     "id": "cognitive-science-with-specialization-in-neuroscience-bs",
-    "college": "Cognitive Science"
+    "college": "Cognitive Science",
+    "description": "Examines the neural basis of perception, action, and thought. Emphasizes interdisciplinary approaches to studying the brain and behavior."
   },
   {
     "name": "Cognitive and Behavioral Neuroscience (B.S.)",
     "id": "cognitive-and-behavioral-neuroscience-bs",
-    "college": "Cognitive Science"
+    "college": "Cognitive Science",
+    "description": "Focuses on the biological and cognitive processes underlying behavior. Prepares students for research and clinical pathways in neuroscience and psychology."
   },
   {
     "name": "Communication (B.A.)",
     "id": "communication-ba",
-    "college": "Communication"
+    "college": "Communication",
+    "description": "Investigates the role of media, language, and technology in society. Combines theory and practice to understand communication in cultural and institutional contexts."
   },
   {
     "name": "Media Industries and Communication (B.A.)",
     "id": "media-industries-and-communication-ba",
-    "college": "Communication"
+    "college": "Communication",
+    "description": "Explores media systems, industries, and policy from a global perspective. Emphasizes critical analysis of power, representation, and cultural production."
   },
   {
     "name": "Computer Engineering (B.S.)",
     "id": "computer-engineering-bs",
-    "college": "Computer Science and Engineering (CSE)"
+    "college": "Computer Science and Engineering (CSE)",
+    "description": "Bridges hardware and software design with applications in computing systems. Students gain skills in digital logic, embedded systems, and computer architecture."
   },
   {
     "name": "Computer Science (B.S.)",
     "id": "computer-science-bs",
-    "college": "Computer Science and Engineering (CSE)"
+    "college": "Computer Science and Engineering (CSE)",
+    "description": "Covers theory and practice of computing, from algorithms to software systems. Prepares students for careers in technology, research, and entrepreneurship."
   },
   {
     "name": "Computer Science with Specialization in Bioinformatics (B.S.)",
     "id": "computer-science-with-specialization-in-bioinformatics-bs",
-    "college": "Computer Science and Engineering (CSE)"
+    "college": "Computer Science and Engineering (CSE)",
+    "description": "Integrates computer science with biology to analyze genomic and biomedical data. Students develop tools for discovery in health, biotech, and life sciences."
   },
   {
     "name": "Critical Gender Studies (B.A.)",
     "id": "critical-gender-studies-ba",
-    "college": "Critical Gender Studies"
+    "college": "Critical Gender Studies",
+    "description": "Interrogates the intersections of gender, race, sexuality, and power. Draws from multiple disciplines to examine social justice and cultural transformation."
   },
   {
     "name": "Data Science (B.S.)",
     "id": "data-science-bs",
-    "college": "Data Science"
+    "college": "Data Science",
+    "description": "An interdisciplinary program integrating statistics, computer science, and domain knowledge. It prepares students to analyze large datasets and extract meaningful insights to address real-world problems."
   },
   {
     "name": "Business Economics (B.S.)",
     "id": "business-economics-bs",
-    "college": "Economics"
+    "college": "Economics",
+    "description": "Focuses on applying economic theory and quantitative methods to business challenges. Students develop analytical skills to inform decisions in finance, marketing, and management."
   },
   {
     "name": "Economics (B.A.)",
     "id": "economics-ba",
-    "college": "Economics"
+    "college": "Economics",
+    "description": "Offers a broad foundation in economic theory and its applications. The curriculum emphasizes critical thinking about markets, institutions, and public policy."
   },
   {
     "name": "Economics (B.S.)",
     "id": "economics-bs",
-    "college": "Economics"
+    "college": "Economics",
+    "description": "Provides rigorous training in economic analysis with a strong quantitative focus. Graduates are prepared for careers in research, policy, and industry."
   },
   {
     "name": "Economics and Mathematics - Joint Major (B.S.)",
     "id": "economics-and-mathematics-joint-major-bs",
-    "college": "Economics"
+    "college": "Economics",
+    "description": "Combines advanced mathematical techniques with economic theory. This joint major equips students for analytical roles in academia, finance, and data science."
   },
   {
     "name": "Economics-Public Policy (B.A./MPP only)",
     "id": "economics-public-policy-ba-mpp-only",
-    "college": "Economics"
+    "college": "Economics",
+    "description": "Explores the intersection of economics and public policy. Students examine how economic principles guide policymaking to address societal challenges."
   },
   {
     "name": "Education Sciences (B.S.)",
     "id": "education-sciences-bs",
-    "college": "Education Studies"
+    "college": "Education Studies",
+    "description": "Examines learning and teaching through empirical research and data analysis. The program prepares students to improve educational outcomes and equity."
   },
   {
     "name": "Computer Engineering (B.S.)",
     "id": "computer-engineering-bs",
-    "college": "Electrical and Computer Engineering (ECE)"
+    "college": "Electrical and Computer Engineering (ECE)",
+    "description": "Integrates computer science and electrical engineering fundamentals. Students design and build hardware-software systems in computing and communications."
   },
   {
     "name": "Electrical Engineering (B.S.)",
     "id": "electrical-engineering-bs",
-    "college": "Electrical and Computer Engineering (ECE)"
+    "college": "Electrical and Computer Engineering (ECE)",
+    "description": "Covers the theory and practice of electrical systems, circuits, and signal processing. The curriculum prepares students for innovation in technology and energy."
   },
   {
     "name": "Electrical Engineering and Society (B.A.)",
     "id": "electrical-engineering-and-society-ba",
-    "college": "Electrical and Computer Engineering (ECE)"
+    "college": "Electrical and Computer Engineering (ECE)",
+    "description": "Examines the societal, ethical, and policy dimensions of electrical engineering. Students explore technology’s impact on communities and public welfare."
   },
   {
     "name": "Engineering Physics (B.S.)",
     "id": "engineering-physics-bs",
-    "college": "Electrical and Computer Engineering (ECE)"
+    "college": "Electrical and Computer Engineering (ECE)",
+    "description": "Bridges physics and engineering to address complex technological challenges. The program emphasizes research and innovation at the forefront of applied science."
   },
   {
     "name": "Environmental Systems (Earth Sciences) (B.S.)",
     "id": "environmental-systems-earth-sciences-bs",
-    "college": "Environmental Systems Program"
+    "college": "Environmental Systems Program",
+    "description": "Focuses on Earth's physical processes and their environmental impacts. Students integrate geology, chemistry, and physics to study sustainability and natural resources."
   },
   {
     "name": "Environmental Systems (Ecology, Behavior, & Evolution) (B.S.)",
     "id": "environmental-systems-ecology,-behavior,-evolution-bs",
-    "college": "Environmental Systems Program"
+    "college": "Environmental Systems Program",
+    "description": "This program explores the interactions among organisms, their behaviors, and evolving environments. Students study ecological principles, evolutionary biology, and animal behavior to understand how life adapts to changing ecosystems. It prepares graduates for careers in conservation, research, and environmental management."
   },
   {
     "name": "Environmental Systems (Environmental Chemistry) (B.S.)",
     "id": "environmental-systems-environmental-chemistry-bs",
-    "college": "Environmental Systems Program"
+    "college": "Environmental Systems Program",
+    "description": "Focusing on the chemical processes that affect the environment, this major integrates chemistry with environmental science. Students analyze pollutant behaviors, chemical cycles, and their impact on ecosystems and human health. The curriculum prepares students for work in environmental monitoring, remediation, and policy."
   },
   {
     "name": "Environmental Systems (Environmental Policy) (B.A.)",
     "id": "environmental-systems-environmental-policy-ba",
-    "college": "Environmental Systems Program"
+    "college": "Environmental Systems Program",
+    "description": "This interdisciplinary program examines the formulation, implementation, and impact of environmental policies. Students explore how scientific knowledge and social factors shape decisions that address climate change, conservation, and sustainability. Graduates are equipped to influence policy-making and advocacy."
   },
   {
     "name": "Ethnic Studies (B.A.)",
     "id": "ethnic-studies-ba",
-    "college": "Ethnic Studies"
+    "college": "Ethnic Studies",
+    "description": "Ethnic Studies critically examines race, ethnicity, and culture in historical and contemporary contexts. Students engage with diverse perspectives to understand social justice, identity, and power structures. This major fosters critical thinking and prepares students for work in education, activism, and public policy."
   },
   {
     "name": "German Studies (B.A.)",
     "id": "german-studies-ba",
-    "college": "German Studies"
+    "college": "German Studies",
+    "description": "German Studies combines language proficiency with an exploration of German literature, history, and culture. Students engage with texts and media to understand Germany’s role in global cultural and political developments. The program prepares graduates for careers in international relations, education, and the arts."
   },
   {
     "name": "Global Health (B.A.)",
     "id": "global-health-ba",
-    "college": "Global Health"
+    "college": "Global Health",
+    "description": "The B.A. in Global Health addresses health challenges from social, cultural, and political perspectives. Students study the determinants of health, health systems, and global inequalities. The program emphasizes interdisciplinary approaches to improving health outcomes worldwide."
   },
   {
     "name": "Global Health (B.S.)",
     "id": "global-health-bs",
-    "college": "Global Health"
+    "college": "Global Health",
+    "description": "This science-focused program integrates biology, epidemiology, and data analysis to study global health issues. Students develop skills in disease prevention, health policy, and clinical sciences. Graduates are prepared for careers in public health, research, and healthcare delivery."
   },
   {
     "name": "Global South Studies (B.A.)",
     "id": "global-south-studies-ba",
-    "college": "Global South Studies"
+    "college": "Global South Studies",
+    "description": "This interdisciplinary major explores the histories, cultures, and politics of regions in the Global South. Students critically analyze issues of development, inequality, and resistance from local and global perspectives. The program fosters a deep understanding of postcolonial and transnational dynamics."
   },
   {
     "name": "Public Health (B.S.)",
     "id": "public-health-bs",
-    "college": "Herbert Wertheim School of Public Health and Human Longevity Science"
+    "college": "Herbert Wertheim School of Public Health and Human Longevity Science",
+    "description": "The Public Health B.S. program trains students in the scientific foundations of population health. Emphasizing epidemiology, biostatistics, and environmental health, it prepares graduates to tackle pressing health challenges. Students gain practical experience through research and community engagement."
   },
   {
     "name": "Public Health with Concentration in Biostatistics (B.S.)",
     "id": "public-health-with-concentration-in-biostatistics-bs",
-    "college": "Herbert Wertheim School of Public Health and Human Longevity Science"
+    "college": "Herbert Wertheim School of Public Health and Human Longevity Science",
+    "description": "This concentration emphasizes quantitative methods to analyze health data. Students learn statistical modeling and computational tools to interpret epidemiological and clinical research. Graduates are equipped for roles in research institutions, healthcare analytics, and policy development."
   },
   {
     "name": "Public Health with Concentration in Climate and Environmental Sciences (B.S.)",
     "id": "public-health-with-concentration-in-climate-and-environmental-sciences-bs",
-    "college": "Herbert Wertheim School of Public Health and Human Longevity Science"
+    "college": "Herbert Wertheim School of Public Health and Human Longevity Science",
+    "description": "Focusing on the intersection of environment and health, this concentration studies climate change’s impact on populations. Students investigate environmental hazards, resilience, and sustainable solutions. The program prepares graduates for leadership in environmental health policy and research."
   },
   {
     "name": "Public Health with Concentration in Community Health Sciences (B.S.)",
     "id": "public-health-with-concentration-in-community-health-sciences-bs",
-    "college": "Herbert Wertheim School of Public Health and Human Longevity Science"
+    "college": "Herbert Wertheim School of Public Health and Human Longevity Science",
+    "description": "This concentration examines social determinants of health and strategies for community-based interventions. Students learn to design and evaluate health programs that promote equity and wellness. Graduates are prepared for careers in health education, advocacy, and program management."
   },
   {
     "name": "Public Health with Concentration in Epidemiology (B.S.)",
     "id": "public-health-with-concentration-in-epidemiology-bs",
-    "college": "Herbert Wertheim School of Public Health and Human Longevity Science"
+    "college": "Herbert Wertheim School of Public Health and Human Longevity Science",
+    "description": "Students focus on disease patterns, causes, and control in populations. Training includes study design, data analysis, and infectious disease dynamics. Graduates are prepared for roles in research, outbreak investigation, and public health policy."
   },
   {
     "name": "Public Health with Concentration in Health Policy and Management Sciences (B.S.)",
     "id": "public-health-with-concentration-in-health-policy-and-management-sciences-bs",
-    "college": "Herbert Wertheim School of Public Health and Human Longevity Science"
+    "college": "Herbert Wertheim School of Public Health and Human Longevity Science",
+    "description": "This concentration explores the organization, financing, and delivery of health services. Students study policy analysis, management strategies, and healthcare economics. Graduates are equipped for leadership in health administration and policy-making."
   },
   {
     "name": "Public Health with Concentration in Medicine Sciences (B.S.)",
     "id": "public-health-with-concentration-in-medicine-sciences-bs",
-    "college": "Herbert Wertheim School of Public Health and Human Longevity Science"
+    "college": "Herbert Wertheim School of Public Health and Human Longevity Science",
+    "description": "Focusing on clinical and biomedical aspects of public health, this concentration integrates medicine with population health principles. Students study disease mechanisms, prevention strategies, and health promotion. The program prepares graduates for careers in clinical research and healthcare."
   },
   {
     "name": "History (B.A.)",
     "id": "history-ba",
-    "college": "History"
+    "college": "History",
+    "description": "The History major offers a critical examination of past events, cultures, and ideas. Students engage with diverse sources and methodologies to understand change over time. The program fosters analytical skills valuable in law, education, and public service."
   },
   {
     "name": "Italian Studies (B.A.)",
     "id": "italian-studies-ba",
-    "college": "Italian Studies"
+    "college": "Italian Studies",
+    "description": "Italian Studies combines language mastery with an exploration of Italy’s rich cultural heritage. Students study literature, art, history, and society to gain a comprehensive understanding of Italian influence. The major prepares students for careers in international relations, arts, and education."
   },
   {
     "name": "Japanese Studies (B.A.)",
     "id": "japanese-studies-ba",
-    "college": "Japanese Studies"
+    "college": "Japanese Studies",
+    "description": "This major immerses students in Japanese language, culture, and history. Emphasizing literature, film, and society, it offers insights into Japan’s past and present. Graduates pursue careers in diplomacy, translation, education, and cultural exchange."
   },
   {
     "name": "Jewish Studies (B.A.)",
     "id": "jewish-studies-ba",
-    "college": "Jewish Studies"
+    "college": "Jewish Studies",
+    "description": "Jewish Studies offers an interdisciplinary exploration of Jewish history, culture, religion, and thought. Students engage with texts and traditions across time and place, examining Jewish identities and experiences globally. The program prepares graduates for careers in education, community leadership, and cultural institutions."
   },
   {
     "name": "Latin American Studies (B.A.)",
     "id": "latin-american-studies-ba",
-    "college": "Latin American Studies"
+    "college": "Latin American Studies",
+    "description": "This major explores the diverse histories, cultures, and politics of Latin America. Through interdisciplinary study, students analyze social movements, colonial legacies, and contemporary challenges. Graduates develop a nuanced understanding of the region’s global significance."
   },
   {
     "name": "Latin American Studies with a Concentration in Mexico (B.A.)",
     "id": "latin-american-studies-with-a-concentration-in-mexico-ba",
-    "college": "Latin American Studies"
+    "college": "Latin American Studies",
+    "description": "Focusing on Mexico’s rich history and culture, this concentration examines its social, political, and economic development. Students study indigenous traditions, revolutionary movements, and modern transformations. The program prepares students for research and careers related to Mexico and its diaspora."
   },
   {
     "name": "Latin American Studies with a Concentration in Migration and Border Studies (B.A.)",
     "id": "latin-american-studies-with-a-concentration-in-migration-and-border-studies-ba",
-    "college": "Latin American Studies"
+    "college": "Latin American Studies",
+    "description": "This concentration investigates migration patterns and border dynamics within Latin America and beyond. Students explore issues of identity, displacement, and policy from multidisciplinary perspectives. The program equips graduates to engage with contemporary debates on migration and transnationalism."
   },
   {
     "name": "Linguistics (B.A.)",
     "id": "linguistics-ba",
-    "college": "Linguistics"
+    "college": "Linguistics",
+    "description": "Linguistics is the scientific study of language structure, acquisition, and use. Students examine phonetics, syntax, semantics, and language change across cultures. This major prepares students for careers in education, technology, and language research."
   },
   {
     "name": "Linguistics (Specialization in Cognition and Language) (B.A.)",
     "id": "linguistics-specialization-in-cognition-and-language-ba",
-    "college": "Linguistics"
+    "college": "Linguistics",
+    "description": "This specialization explores the cognitive processes underlying language acquisition and use. Students study psycholinguistics, neurolinguistics, and language development. The program prepares graduates for research and careers in cognitive science and speech therapy."
   },
   {
     "name": "Linguistics (Specialization in Language and Society) (B.A.)",
     "id": "linguistics-specialization-in-language-and-society-ba",
-    "college": "Linguistics"
+    "college": "Linguistics",
+    "description": "Focusing on the social dimensions of language, this specialization examines language variation, identity, and power. Students analyze language in cultural and political contexts. Graduates are prepared for work in sociolinguistics, education, and policy."
   },
   {
     "name": "Linguistics: Language Studies (Specialization in Individual Language) (B.A.)",
     "id": "linguistics-language-studies-specialization-in-individual-language-ba",
-    "college": "Linguistics"
+    "college": "Linguistics",
+    "description": "This specialization offers in-depth study of a specific language’s structure, history, and literature. Students develop advanced proficiency and cultural understanding. The program supports careers in translation, language preservation, and education."
   },
   {
     "name": "Linguistics (Specialization in Speech and Language Sciences) (B.A.)",
     "id": "linguistics-specialization-in-speech-and-language-sciences-ba",
-    "college": "Linguistics"
+    "college": "Linguistics",
+    "description": "This specialization emphasizes the biological and developmental aspects of speech and language. Students study speech production, disorders, and therapeutic approaches. Graduates are well-prepared for careers in speech pathology and audiology."
   },
   {
     "name": "Literary Arts (B.A.)",
     "id": "literary-arts-ba",
-    "college": "Literature"
+    "college": "Literature",
+    "description": "Literary Arts nurtures creative expression through writing in genres such as poetry, fiction, and nonfiction. Students engage with literary theory and workshops to develop their craft. The program prepares graduates for careers in writing, publishing, and the arts."
   },
   {
     "name": "Literatures in English (B.A.)",
     "id": "literatures-in-english-ba",
-    "college": "Literature"
+    "college": "Literature",
+    "description": "This major offers an in-depth study of English-language literature from diverse periods and cultures. Students analyze literary texts, contexts, and theories to understand the evolution of English letters. Graduates are prepared for careers in education, writing, and research."
   },
   {
     "name": "Spanish Literature (B.A.)",
     "id": "spanish-literature-ba",
-    "college": "Literature"
+    "college": "Literature",
+    "description": "Spanish Literature explores the rich literary traditions of the Spanish-speaking world. Students read and analyze works from Spain and Latin America, studying their historical and cultural contexts. The major prepares students for careers in translation, education, and cultural scholarship."
   },
   {
     "name": "World Literature and Culture (B.A.)",
     "id": "world-literature-and-culture-ba",
-    "college": "Literature"
+    "college": "Literature",
+    "description": "This interdisciplinary major surveys literature across global cultures and historical periods. Students explore themes of identity, migration, and globalization through diverse literary traditions. Graduates develop critical skills applicable to international careers in humanities and cultural studies."
   },
   {
     "name": "Mathematical Biology (B.S.)",
     "id": "mathematical-biology-bs",
-    "college": "Mathematics"
+    "college": "Mathematics",
+    "description": "Mathematical Biology applies quantitative methods to understand biological systems. Students study modeling, data analysis, and computational techniques in areas such as genetics, ecology, and physiology. The program prepares graduates for research and careers at the intersection of math and life sciences."
   },
   {
     "name": "Mathematics (Applied) (B.S.)",
     "id": "mathematics-applied-bs",
-    "college": "Mathematics"
+    "college": "Mathematics",
+    "description": "This program focuses on the application of mathematical techniques to real-world problems in science, engineering, and industry. Students develop strong analytical and computational skills to model complex systems. Graduates are prepared for careers in data science, engineering, and applied research."
   },
   {
     "name": "Mathematics (B.S.)",
     "id": "mathematics-bs",
-    "college": "Mathematics"
+    "college": "Mathematics",
+    "description": "The Mathematics major emphasizes theoretical foundations and rigorous problem-solving across algebra, analysis, and geometry. Students explore pure and applied topics to build a deep understanding of mathematical structures. This program prepares students for graduate study and diverse quantitative careers."
   },
   {
     "name": "Mathematics and Economics - Joint Major (B.S.)",
     "id": "mathematics-and-economics-joint-major-bs",
-    "college": "Mathematics"
+    "college": "Mathematics",
+    "description": "This interdisciplinary major combines quantitative rigor with economic theory. Students learn mathematical modeling and statistical methods to analyze economic behavior and policy. Graduates are well-equipped for careers in finance, consulting, and economic research."
   },
   {
     "name": "Mathematics - Applied Science (B.S.)",
     "id": "mathematics-applied-science-bs",
-    "college": "Mathematics"
+    "college": "Mathematics",
+    "description": "This program applies mathematical concepts to scientific and engineering challenges. Students gain experience in computational methods, modeling, and interdisciplinary problem-solving. The major prepares graduates for work in technology, research, and applied sciences."
   },
   {
     "name": "Mathematics - Computer Science (B.S.)",
     "id": "mathematics-computer-science-bs",
-    "college": "Mathematics"
+    "college": "Mathematics",
+    "description": "This major blends mathematical theory with computer science principles. Students study algorithms, computation, and discrete mathematics to develop skills in programming and analysis. Graduates pursue careers in software development, data science, and research."
   },
   {
     "name": "Mathematics - Secondary Education (B.A.)",
     "id": "mathematics-secondary-education-ba",
-    "college": "Mathematics"
+    "college": "Mathematics",
+    "description": "Designed for aspiring educators, this major combines mathematical coursework with training in teaching methods. Students prepare to teach secondary-level mathematics and engage with curriculum design. Graduates are ready to impact math education in diverse school settings."
   },
   {
     "name": "Probability and Statistics (B.S.)",
     "id": "probability-and-statistics-bs",
-    "college": "Mathematics"
+    "college": "Mathematics",
+    "description": "This major emphasizes the theory and application of probability and statistics. Students learn to analyze data, model uncertainty, and develop inferential methods. The program prepares graduates for careers in analytics, biostatistics, and decision science."
   },
   {
     "name": "Aerospace Engineering (B.S.)",
     "id": "aerospace-engineering-bs",
-    "college": "Mechanical and Aerospace Engineering (MAE)"
+    "college": "Mechanical and Aerospace Engineering (MAE)",
+    "description": "This major covers the design, analysis, and testing of aircraft and spacecraft. Students study aerodynamics, propulsion, and structural mechanics to understand flight and space systems. Graduates are prepared for engineering roles in aerospace industries and research."
   },
   {
     "name": "Aerospace Engineering with a Specialization in Aerothermodynamics (B.S.)",
     "id": "aerospace-engineering-with-a-specialization-in-aerothermodynamics-bs",
-    "college": "Mechanical and Aerospace Engineering (MAE)"
+    "college": "Mechanical and Aerospace Engineering (MAE)",
+    "description": "Focusing on high-temperature gas dynamics and thermal phenomena, this specialization explores propulsion and atmospheric reentry. Students develop skills in heat transfer, fluid mechanics, and combustion. The program prepares students for advanced aerospace research and development."
   },
   {
     "name": "Aerospace Engineering with a Specialization in Astrodynamics and Space Applications (B.S.)",
     "id": "aerospace-engineering-with-a-specialization-in-astrodynamics-and-space-applications-bs",
-    "college": "Mechanical and Aerospace Engineering (MAE)"
+    "college": "Mechanical and Aerospace Engineering (MAE)",
+    "description": "This specialization addresses orbital mechanics, spacecraft navigation, and mission design. Students learn to model and control space vehicles and systems. Graduates are equipped for careers in satellite technology, space exploration, and aerospace engineering."
   },
   {
-    "name": "Aerospace Engineering with a Specialization in Flight Dynamics and Controls (B.S.)",
-    "id": "aerospace-engineering-with-a-specialization-in flight-dynamics-and-controls-bs",
-    "college": "Mechanical and Aerospace Engineering (MAE)"
+    "name": "Aerospace Engineering with a Specialization in Flight Dynamics and Controls (B.S.)",
+    "id": "aerospace-engineering-with-a-specialization-in-flight-dynamics-and-controls-bs",
+    "college": "Mechanical and Aerospace Engineering (MAE)",
+    "description": "Focusing on the stability and control of air and spacecraft, this specialization covers feedback systems, control theory, and guidance. Students acquire skills to design and analyze control systems for flight. Graduates pursue careers in aerospace control systems and autonomous vehicles."
   },
   {
     "name": "Mechanical Engineering (B.S.)",
     "id": "mechanical-engineering-bs",
-    "college": "Mechanical and Aerospace Engineering (MAE)"
+    "college": "Mechanical and Aerospace Engineering (MAE)",
+    "description": "Mechanical Engineering provides a broad foundation in mechanics, materials, and energy systems. Students learn design, manufacturing, and analysis to solve engineering problems. The major prepares students for careers across industries including automotive, energy, and robotics."
   },
   {
     "name": "Mechanical Engineering with a Specialization in Controls and Robotics (B.S.)",
     "id": "mechanical-engineering-with-a-specialization-in-controls-and-robotics-bs",
-    "college": "Mechanical and Aerospace Engineering (MAE)"
+    "college": "Mechanical and Aerospace Engineering (MAE)",
+    "description": "This specialization focuses on the design and control of robotic systems and automation. Students study sensors, actuators, and control algorithms. Graduates are prepared for work in robotics, manufacturing, and intelligent systems."
   },
   {
     "name": "Mechanical Engineering with a Specialization in Fluid Mechanics and Thermal Systems (B.S.)",
     "id": "mechanical-engineering-with-a-specialization-in-fluid-mechanics-and-thermal-systems-bs",
-    "college": "Mechanical and Aerospace Engineering (MAE)"
+    "college": "Mechanical and Aerospace Engineering (MAE)",
+    "description": "This specialization explores fluid flow, heat transfer, and thermodynamics. Students analyze and design thermal systems for energy conversion and environmental applications. Graduates pursue careers in HVAC, energy, and aerospace."
   },
   {
     "name": "Mechanical Engineering with a Specialization in Materials Science and Engineering (B.S.)",
     "id": "mechanical-engineering-with-a-specialization-in-materials-science-and-engineering-bs",
-    "college": "Mechanical and Aerospace Engineering (MAE)"
+    "college": "Mechanical and Aerospace Engineering (MAE)",
+    "description": "Focusing on the properties and processing of engineering materials, this specialization covers metals, polymers, and composites. Students learn to select and design materials for diverse applications. Graduates are prepared for careers in manufacturing, materials development, and engineering."
   },
   {
     "name": "Mechanical Engineering with a Specialization in Mechanics of Materials (B.S.)",
     "id": "mechanical-engineering-with-a-specialization-in-mechanics-of-materials-bs",
-    "college": "Mechanical and Aerospace Engineering (MAE)"
+    "college": "Mechanical and Aerospace Engineering (MAE)",
+    "description": "This specialization studies the mechanical behavior of solids under stress and strain. Students learn elasticity, plasticity, and failure analysis. The program prepares students for careers in structural engineering, materials testing, and research."
   },
   {
     "name": "Mechanical Engineering with a Specialization in Renewable Energy and Environmental Flows (B.S.)",
     "id": "mechanical-engineering-with-a-specialization-in-renewable-energy-and-environmental-flows-bs",
-    "college": "Mechanical and Aerospace Engineering (MAE)"
+    "college": "Mechanical and Aerospace Engineering (MAE)",
+    "description": "This specialization addresses sustainable energy systems and environmental fluid dynamics. Students explore wind, solar, and bioenergy technologies, as well as fluid flow in natural and engineered environments. Graduates contribute to renewable energy development and environmental solutions."
   },
   {
     "name": "Music",
     "id": "music",
-    "college": "Mechanical and Aerospace Engineering (MAE)"
+    "college": "Mechanical and Aerospace Engineering (MAE)",
+    "description": "Music offers a comprehensive study of theory, history, and performance across diverse genres and cultures. Students develop skills in composition, analysis, and musicianship. The program fosters creative expression and prepares students for careers in performance, education, and the arts."
   },
   {
     "name": "Music (B.A.)",
     "id": "music-ba",
-    "college": "Mechanical and Aerospace Engineering (MAE)"
+    "college": "Mechanical and Aerospace Engineering (MAE)",
+    "description": "This Bachelor of Arts in Music emphasizes a broad liberal arts education alongside intensive study of music theory, history, and performance. Students engage with diverse musical traditions and develop critical and creative skills for artistic careers."
   },
   {
     "name": "Interdisciplinary Computing and the Arts (B.A.)",
     "id": "interdisciplinary-computing-and-the-arts-ba",
-    "college": "Mechanical and Aerospace Engineering (MAE)"
+    "college": "Mechanical and Aerospace Engineering (MAE)",
+    "description": "This interdisciplinary major integrates computing with artistic practice. Students explore digital media, interactive design, and creative coding. The program prepares graduates for innovative careers at the intersection of technology and the arts."
   },
   {
     "name": "Music Humanities (B.A.)",
     "id": "music-humanities-ba",
-    "college": "Mechanical and Aerospace Engineering (MAE)"
+    "college": "Mechanical and Aerospace Engineering (MAE)",
+    "description": "Music Humanities examines music’s cultural, historical, and philosophical contexts. Students analyze musical works, traditions, and their social meanings. The program prepares students for careers in musicology, education, and cultural leadership."
   },
   {
     "name": "Chemical Engineering (B.S.)",
     "id": "chemical-engineering-bs",
-    "college": "NanoEngineering"
+    "college": "NanoEngineering",
+    "description": "Chemical Engineering combines principles of chemistry, physics, and biology to design processes for manufacturing chemicals, materials, and energy. Students gain expertise in reaction engineering, thermodynamics, and process design. Graduates work in pharmaceuticals, energy, and materials industries."
   },
   {
     "name": "NanoEngineering (B.S.)",
     "id": "nanoengineering-bs",
-    "college": "NanoEngineering"
+    "college": "NanoEngineering",
+    "description": "NanoEngineering focuses on the science and technology of materials and devices at the nanoscale. Students study quantum mechanics, nanofabrication, and biomolecular engineering. The major prepares graduates for careers in nanotechnology, electronics, and biotechnology."
   },
   {
     "name": "Philosophy (B.A.)",
     "id": "philosophy-ba",
-    "college": "Philosophy"
+    "college": "Philosophy",
+    "description": "Philosophy explores fundamental questions about knowledge, ethics, mind, and reality. Students engage with classic and contemporary texts to develop critical thinking and argumentation skills. The major prepares graduates for careers in law, academia, and public policy."
   },
   {
     "name": "Physics (B.A.)",
     "id": "physics-ba",
-    "college": "Physics"
+    "college": "Physics",
+    "description": "Physics studies the fundamental principles governing matter and energy. Students explore classical mechanics, electromagnetism, quantum theory, and relativity. This major fosters analytical skills and prepares students for diverse careers in science, engineering, and research."
   },
   {
     "name": "Physics (B.S.)",
     "id": "physics-bs",
-    "college": "Physics"
+    "college": "Physics",
+    "description": "The Physics B.S. emphasizes rigorous training in experimental and theoretical physics. Students study mechanics, electromagnetism, quantum physics, and thermodynamics with a strong focus on research and lab work. Graduates are prepared for careers in science, engineering, and advanced study."
   },
   {
     "name": "Political Science",
     "id": "political-science",
-    "college": "Physics"
+    "college": "Physics",
+    "description": "Political Science explores the theory and practice of politics at local, national, and global levels. Students analyze political behavior, institutions, and policies using qualitative and quantitative methods. The major prepares students for careers in government, law, and public affairs."
   },
   {
     "name": "Political Science (B.A.)",
     "id": "political-science-ba",
-    "college": "Physics"
+    "college": "Physics",
+    "description": "This program offers a broad study of political systems, ideologies, and policy-making processes. Students engage with diverse perspectives and develop skills in critical thinking and argumentation. Graduates pursue careers in public service, law, and international relations."
   },
   {
     "name": "Political Science/American Politics (B.A.)",
     "id": "political-science-american-politics-ba",
-    "college": "Physics"
+    "college": "Physics",
+    "description": "Focusing on the American political system, this major examines institutions, electoral processes, and policy development. Students analyze domestic political dynamics and their impact on governance. Graduates are equipped for careers in politics, advocacy, and public administration."
   },
   {
     "name": "Political Science/Comparative Politics (B.A.)",
     "id": "political-science-comparative-politics-ba",
-    "college": "Physics"
+    "college": "Physics",
+    "description": "This specialization compares political systems, cultures, and practices across countries. Students explore themes such as democratization, conflict, and development. Graduates gain insights for careers in diplomacy, research, and international organizations."
   },
   {
     "name": "Political Science/Data Analytics (B.S.)",
     "id": "political-science-data-analytics-bs",
-    "college": "Physics"
+    "college": "Physics",
+    "description": "Combining political science with data analytics, this major trains students to apply quantitative methods to political and social data. Emphasis is placed on statistics, programming, and modeling political phenomena. Graduates are prepared for careers in data-driven policy analysis and research."
   },
   {
     "name": "Political Science/International Affairs (B.A./MIA only)",
     "id": "political-science-international-affairs-ba-mia-only",
-    "college": "Physics"
+    "college": "Physics",
+    "description": "This joint program focuses on global politics, diplomacy, and international security. Students study international relations theories alongside practical policy challenges. The curriculum prepares graduates for careers in diplomacy, global governance, and international development."
   },
   {
     "name": "Political Science/International Relations (B.A.)",
     "id": "political-science-international-relations-ba",
-    "college": "Physics"
+    "college": "Physics",
+    "description": "Students explore the interactions among states, international organizations, and non-state actors. The major covers conflict resolution, international law, and global governance. Graduates pursue careers in foreign service, NGOs, and international policy."
   },
   {
     "name": "Political Science/Political Theory (B.A.)",
     "id": "political-science-political-theory-ba",
-    "college": "Physics"
+    "college": "Physics",
+    "description": "This specialization investigates foundational questions about justice, power, and democracy through classical and contemporary political thought. Students analyze texts and develop skills in philosophical reasoning. Graduates are prepared for law, academia, and public policy."
   },
   {
     "name": "Political Science/Public Law (B.A.)",
     "id": "political-science-public-law-ba",
-    "college": "Physics"
+    "college": "Physics",
+    "description": "Focusing on the relationship between law and politics, this major examines constitutional law, civil rights, and legal institutions. Students study legal reasoning and its role in society. Graduates often pursue careers in law, policy analysis, and advocacy."
   },
   {
     "name": "Political Science/Public Policy (B.A.)",
     "id": "political-science-public-policy-ba",
-    "college": "Physics"
+    "college": "Physics",
+    "description": "This program explores the formulation, implementation, and evaluation of public policies. Students learn to analyze policy challenges using interdisciplinary approaches. Graduates are equipped for careers in government, nonprofits, and policy research."
   },
   {
     "name": "Political Science/Race, Ethnicity, and Politics (B.A.)",
     "id": "political-science-race,-ethnicity,-and-politics-ba",
-    "college": "Physics"
+    "college": "Physics",
+    "description": "This specialization examines the role of race and ethnicity in political life and policy. Students explore issues of identity, inequality, and social movements. Graduates are prepared for careers in advocacy, public service, and academic research."
   },
   {
     "name": "Psychology (B.A.)",
     "id": "psychology-ba",
-    "college": "Psychology"
+    "college": "Psychology",
+    "description": "The Psychology B.A. offers a broad overview of human behavior, cognition, and emotion from diverse perspectives. Students study psychological theory alongside research methods. Graduates pursue careers in counseling, education, and social services."
   },
   {
     "name": "Psychology (B.S.)",
     "id": "psychology-bs",
-    "college": "Psychology"
+    "college": "Psychology",
+    "description": "This program emphasizes scientific approaches to studying brain function, behavior, and mental processes. Students engage in laboratory research and data analysis. Graduates are prepared for advanced study and careers in clinical, cognitive, and neuroscience fields."
   },
   {
     "name": "Psychology with a Specialization in Clinical Psychology (B.S.)",
     "id": "psychology-with-a-specialization-in-clinical-psychology-bs",
-    "college": "Psychology"
+    "college": "Psychology",
+    "description": "Focusing on assessment, diagnosis, and treatment of mental health disorders, this specialization combines research and applied clinical training. Students prepare for careers in mental health services and clinical research."
   },
   {
     "name": "Psychology with a Specialization in Cognitive Psychology (B.S.)",
     "id": "psychology-with-a-specialization-in-cognitive-psychology-bs",
-    "college": "Psychology"
+    "college": "Psychology",
+    "description": "This specialization investigates perception, memory, language, and decision-making. Students engage in experimental research and computational modeling. Graduates pursue careers in academia, human factors, and cognitive neuroscience."
   },
   {
     "name": "Psychology with a Specialization in Developmental Psychology (B.S.)",
     "id": "psychology-with-a-specialization-in-developmental-psychology-bs",
-    "college": "Psychology"
+    "college": "Psychology",
+    "description": "Focusing on psychological growth across the lifespan, this specialization examines cognitive, social, and emotional development. Students conduct longitudinal research and study developmental disorders. Graduates work in education, health, and developmental research."
   },
   {
     "name": "Psychology with a Specialization in Human Health (B.S.)",
     "id": "psychology-with-a-specialization-in-human-health-bs",
-    "college": "Psychology"
+    "college": "Psychology",
+    "description": "This specialization explores the psychological factors influencing physical health and illness. Students study behavioral medicine, health interventions, and the mind-body connection. Graduates are prepared for careers in healthcare, research, and public health."
   },
   {
     "name": "Psychology with a Specialization in Sensation and Perception (B.S.)",
     "id": "psychology-with-a-specialization-in-sensation-and-perception-bs",
-    "college": "Psychology"
+    "college": "Psychology",
+    "description": "Focusing on how organisms sense and interpret the world, this specialization covers vision, hearing, and sensory processing. Students engage in experimental research on perception and neural mechanisms. Graduates pursue careers in neuroscience, psychology, and technology."
   },
   {
     "name": "Psychology with a Specialization in Social Psychology (B.S.)",
     "id": "psychology-with-a-specialization-in-social-psychology-bs",
-    "college": "Psychology"
+    "college": "Psychology",
+    "description": "This specialization examines how social environments influence thoughts, feelings, and behaviors. Topics include group dynamics, persuasion, and interpersonal relationships. Graduates work in research, counseling, marketing, and organizational behavior."
   },
   {
     "name": "Cognitive and Behavioral Neuroscience (B.S.)",
     "id": "cognitive-and-behavioral-neuroscience-bs",
-    "college": "Psychology"
+    "college": "Psychology",
+    "description": "This major integrates psychology and neuroscience to study brain mechanisms underlying cognition and behavior. Students learn about neural circuits, cognitive function, and brain disorders through lab research. Graduates pursue careers in neuroscience, psychology, and medicine."
   },
   {
     "name": "Business Psychology (B.S.)",
     "id": "business-psychology-bs",
-    "college": "Psychology"
+    "college": "Psychology",
+    "description": "Business Psychology applies psychological principles to organizational behavior, leadership, and decision-making. Students study motivation, teamwork, and consumer behavior. Graduates are prepared for roles in human resources, consulting, and management."
   },
   {
     "name": "Geosciences (B.S.)",
     "id": "geosciences-bs",
-    "college": "Scripps Institution of Oceanography"
+    "college": "Scripps Institution of Oceanography",
+    "description": "Geosciences explores Earth's physical processes, including geology, geophysics, and environmental science. Students study natural hazards, climate, and Earth systems through fieldwork and lab research. Graduates work in research, environmental management, and resource exploration."
   },
   {
     "name": "Marine Biology (B.S.)",
     "id": "marine-biology-bs",
-    "college": "Scripps Institution of Oceanography"
+    "college": "Scripps Institution of Oceanography",
+    "description": "Marine Biology investigates the biology and ecology of ocean organisms and ecosystems. Students engage in field and lab studies of marine life and conservation issues. Graduates pursue careers in research, environmental policy, and marine resource management."
   },
   {
     "name": "Oceanic and Atmospheric Sciences (B.S.)",
     "id": "oceanic-and-atmospheric-sciences-bs",
-    "college": "Scripps Institution of Oceanography"
+    "college": "Scripps Institution of Oceanography",
+    "description": "This program studies ocean and atmospheric dynamics and their impact on climate and the environment. Students analyze physical, chemical, and biological processes through observation and modeling. Graduates work in climate science, environmental consulting, and research."
   },
   {
     "name": "Oceanic and Atmospheric Sciences (B.S./MPP only)",
     "id": "oceanic-and-atmospheric-sciences-bs-mpp-only",
-    "college": "Scripps Institution of Oceanography"
+    "college": "Scripps Institution of Oceanography",
+    "description": "A specialized track combining oceanic and atmospheric science with policy studies. Students focus on environmental challenges, science communication, and policy solutions. Graduates pursue careers at the intersection of science, policy, and environmental management."
   },
   {
     "name": "Sociology (B.A.)",
     "id": "sociology-ba",
-    "college": "Sociology"
+    "college": "Sociology",
+    "description": "Sociology examines social behavior, institutions, and structures shaping human life. Students analyze topics such as culture, inequality, and social change through research and theory. Graduates pursue careers in social services, research, and public policy."
   },
   {
     "name": "Sociology - International Studies (B.A.)",
     "id": "sociology-international-studies-ba",
-    "college": "Sociology"
+    "college": "Sociology",
+    "description": "This specialization studies global social processes and transnational issues. Students explore migration, development, and cultural exchange. Graduates work in international NGOs, policy, and global research."
   },
   {
     "name": "Sociology - American Studies (B.A.)",
     "id": "sociology-american-studies-ba",
-    "college": "Sociology"
+    "college": "Sociology",
+    "description": "Focusing on American society, this track examines race, class, and culture in the U.S. Students study historical and contemporary social issues. Graduates pursue careers in education, advocacy, and community development."
   },
   {
     "name": "Sociology - Science and Medicine (B.A.)",
     "id": "sociology-science-and-medicine-ba",
-    "college": "Sociology"
+    "college": "Sociology",
+    "description": "This specialization explores the social dimensions of science, health, and medicine. Students analyze healthcare systems, medical technologies, and public health. Graduates work in health policy, medical sociology, and research."
   },
   {
     "name": "Sociology - Economy and Society (B.A.)",
     "id": "sociology-economy-and-society-ba",
-    "college": "Sociology"
+    "college": "Sociology",
+    "description": "Students examine economic systems and their social impacts, including labor markets and inequality. The track combines sociological theory with empirical analysis. Graduates are prepared for roles in policy, business, and social research."
   },
   {
     "name": "Sociology - Culture and Communication (B.A.)",
     "id": "sociology-culture-and-communication-ba",
-    "college": "Sociology"
+    "college": "Sociology",
+    "description": "This track focuses on the role of culture, media, and communication in society. Students study identity, representation, and social narratives. Graduates work in media, cultural institutions, and social research."
   },
   {
     "name": "Sociology - Social Inequality (B.A.)",
     "id": "sociology-social-inequality-ba",
-    "college": "Sociology"
+    "college": "Sociology",
+    "description": "This specialization investigates the causes and consequences of social inequalities related to race, class, gender, and more. Students explore policy and social justice issues. Graduates are prepared for careers in advocacy, policy, and research."
   },
   {
     "name": "Sociology - Law and Society (B.A.)",
     "id": "sociology-law-and-society-ba",
-    "college": "Sociology"
+    "college": "Sociology",
+    "description": "This track studies the interaction between law, legal institutions, and social structures. Students analyze how law shapes and is shaped by society. Graduates pursue careers in legal studies, policy, and social justice."
   },
   {
     "name": "Structural Engineering (B.S.)",
     "id": "structural-engineering-bs",
-    "college": "Structural Engineering (SE)"
+    "college": "Structural Engineering (SE)",
+    "description": "Structural Engineering focuses on the analysis and design of safe, sustainable structures. Students learn mechanics, materials, and earthquake engineering. Graduates work in construction, infrastructure design, and consulting."
   },
   {
     "name": "Structural Engineering with a Specialization in Aerospace Structures (B.S.)",
     "id": "structural-engineering-with-a-specialization-in-aerospace-structures-bs",
-    "college": "Structural Engineering (SE)"
+    "college": "Structural Engineering (SE)",
+    "description": "This specialization addresses the design and analysis of structures used in aerospace applications. Students study advanced materials and structural dynamics. Graduates pursue careers in aerospace engineering, research, and development."
   },
   {
     "name": "Structural Engineering with a Specialization in Civil Structures (B.S.)",
     "id": "structural-engineering-with-a-specialization-in-civil-structures-bs",
-    "college": "Structural Engineering (SE)"
+    "college": "Structural Engineering (SE)",
+    "description": "This specialization focuses on the design and analysis of civil infrastructure, including bridges, buildings, and transportation systems. Students study advanced materials and structural dynamics. Graduates pursue careers in engineering firms and public agencies."
   },
   {
     "name": "Structural Engineering with a Specialization in Geotechnical Engineering (B.S.)",
     "id": "structural-engineering-with-a-specialization-in-geotechnical-engineering-bs",
-    "college": "Structural Engineering (SE)"
+    "college": "Structural Engineering (SE)",
+    "description": "This track explores soil mechanics and foundation design critical to supporting structures. Students analyze ground behavior and develop solutions for construction on challenging terrains. Graduates work in geotechnical consulting and infrastructure development."
   },
   {
     "name": "Structural Engineering with a Specialization in Structural Health Monitoring/Non-Destructive Evaluation (B.S.)",
     "id": "structural-engineering-with-a-specialization-in-structural-health-monitoring-non-destructive-evaluation-bs",
-    "college": "Structural Engineering (SE)"
+    "college": "Structural Engineering (SE)",
+    "description": "This specialization emphasizes technologies for assessing structural integrity without damage. Students study sensors, data analysis, and maintenance strategies. Graduates contribute to infrastructure safety, longevity, and innovation."
   },
   {
     "name": "Dance (B.A.)",
     "id": "dance-ba",
-    "college": "Theatre and Dance"
+    "college": "Theatre and Dance",
+    "description": "The Dance major combines performance, choreography, and theory. Students develop technical skills and artistic expression across diverse dance styles. Graduates pursue careers in performance, education, and choreography."
   },
   {
     "name": "Theatre (B.A.)",
     "id": "theatre-ba",
-    "college": "Theatre and Dance"
+    "college": "Theatre and Dance",
+    "description": "This program explores theatre arts through acting, directing, design, and history. Students gain hands-on experience in production and performance. Graduates work in theatre, film, education, and related fields."
   },
   {
     "name": "Urban Studies and Planning (B.A.)",
     "id": "urban-studies-and-planning-ba",
-    "college": "Urban Studies and Planning"
+    "college": "Urban Studies and Planning",
+    "description": "Urban Studies and Planning examines city development, policy, and sustainability. Students study social, economic, and environmental aspects of urban life. Graduates pursue careers in planning, policy, and community development."
   },
   {
     "name": "Real Estate and Development (B.S.)",
     "id": "real-estate-and-development-bs",
-    "college": "Urban Studies and Planning"
+    "college": "Urban Studies and Planning",
+    "description": "This major integrates real estate finance, development, and urban economics. Students analyze market trends and project feasibility. Graduates are prepared for careers in real estate, development, and investment."
   },
   {
     "name": "Art History/ Criticism (B.A.)",
     "id": "art-history--criticism-ba",
-    "college": "Visual Arts"
+    "college": "Visual Arts",
+    "description": "Art History and Criticism explores the cultural and historical contexts of visual art. Students analyze artworks and movements critically. Graduates pursue careers in museums, academia, and the arts."
   },
   {
     "name": "Interdisciplinary Computing and the Arts (B.A.)",
     "id": "interdisciplinary-computing-and-the-arts-ba",
-    "college": "Visual Arts"
+    "college": "Visual Arts",
+    "description": "This major combines computer science with artistic practice. Students create digital media, interactive installations, and creative technologies. Graduates work in digital arts, design, and technology."
   },
   {
     "name": "Media (B.A.)",
     "id": "media-ba",
-    "college": "Visual Arts"
+    "college": "Visual Arts",
+    "description": "The Media major studies communication through film, video, and digital platforms. Students develop skills in production, theory, and criticism. Graduates pursue careers in media production, journalism, and creative industries."
   },
   {
     "name": "Speculative Design (B.A.)",
     "id": "speculative-design-ba",
-    "college": "Visual Arts"
+    "college": "Visual Arts",
+    "description": "Speculative Design explores design’s role in imagining future possibilities and societal change. Students experiment with concepts, narratives, and materials. Graduates contribute to innovation, design research, and critical practice."
   },
   {
     "name": "Studio (B.A.)",
     "id": "studio-ba",
-    "college": "Visual Arts"
+    "college": "Visual Arts",
+    "description": "The Studio major emphasizes hands-on creation in various visual art media. Students develop technical skills and personal artistic vision. Graduates pursue careers as professional artists, educators, and curators."
   }
 ]
