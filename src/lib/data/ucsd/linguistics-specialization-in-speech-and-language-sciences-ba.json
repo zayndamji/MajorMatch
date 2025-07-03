@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Linguistics (Specialization in Speech and Language Sciences) (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Linguistics Department at UC San Diego offers a Bachelor of Arts degree in Linguistics with a specialization in Speech and Language Sciences. This program provides students with a comprehensive understanding of the scientific study of language, focusing on the sound structure, grammar, meaning, and use of language. Students explore the psychological and neurological aspects of language processing, language acquisition, and the physical properties of speech.",
+  "shortProgramDescription": "The Linguistics (Specialization in Speech and Language Sciences) B.A. program at UC San Diego provides a rigorous foundation in linguistics, focusing on the scientific study of language structure, language processing, and language acquisition.",
+  "classHighlights": [
+    "The program includes core linguistics courses such as Introduction to Linguistics (LIGN 100), Phonetics (LIGN 101), Phonology (LIGN 120), Morphology (LIGN 121), Syntax (LIGN 130), and Semantics (LIGN 140), which provide a solid foundation in linguistic theory and analysis.",
+    "Students take additional required courses in Speech and Language Sciences, including Language Acquisition (LIGN 160), Psycholinguistics (LIGN 165), and Speech Perception (LIGN 170), which focus on the psychological and neurological aspects of language processing.",
+    "Electives in areas such as phonetics, phonology, syntax, semantics, and language acquisition allow students to explore their interests and tailor their coursework to their career goals.",
+    "Upper-division courses, including Research Methods in Linguistics (LIGN 185) and Senior Seminar (LIGN 195), provide students with research experience and training in linguistic analysis and presentation."
+  ],
+  "learningOutcomes": [
+    "Analyze and describe the sound structure, grammar, and meaning of languages using linguistic theory and methods.",
+    "Understand the psychological and neurological aspects of language processing and language acquisition.",
+    "Apply linguistic knowledge to real-world problems, such as language teaching, language documentation, and speech technology.",
+    "Conduct research in linguistics using appropriate methods and techniques.",
+    "Communicate complex linguistic concepts clearly and effectively in writing and speech."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Linguistics (B.A.)",
+      "link": "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/departments/linguistics/undergraduate-programs/linguistics-ba/"
+    },
+    {
+      "title": "Cognitive Science (B.A.)",
+      "link": "https://catalog.ucsd.edu/college-and-schools/social-sciences/departments/cognitive-science/undergraduate-programs/cognitive-science-ba/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/departments/linguistics/undergraduate-programs/linguistics-specialization-in-speech-and-language-sciences-ba/",
+    "https://linguistics.ucsd.edu/undergraduate/index.html"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must satisfy the college and university requirements for the B.A. degree, including completion of the writing requirement and the general education requirements."
+}

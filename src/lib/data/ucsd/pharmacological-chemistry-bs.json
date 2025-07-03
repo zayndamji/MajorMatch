@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Pharmacological Chemistry (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Pharmacological Chemistry major is designed for students who wish to pursue a career in the pharmaceutical industry or a related field. The program provides a strong foundation in chemistry, biochemistry, and pharmacology, as well as a comprehensive understanding of the principles and practices of pharmacological chemistry.",
+  "shortProgramDescription": "The Pharmacological Chemistry B.S. program provides students with a comprehensive education in chemistry, biochemistry, and pharmacology, preparing them for careers in the pharmaceutical industry or related fields.",
+  "classHighlights": [
+    "The program requires a series of core chemistry courses, including CHEM 131, CHEM 132, CHEM 143, and CHEM 152, which provide a foundation in general, organic, and biological chemistry.",
+    "Biochemistry courses, including BICD 100 and BICD 110, provide a comprehensive understanding of the principles of biochemistry and its application to pharmacological chemistry.",
+    "Pharmacology courses, including PHAR 100 and PHAR 110, provide a detailed understanding of the principles of pharmacology and its application to the development of new therapeutic agents.",
+    "Additional required courses include MATH 10A, MATH 10B, and MATH 20A, which provide a foundation in mathematical principles, as well as PHYS 1A and PHYS 1B, which provide a foundation in physical principles.",
+    "Electives in pharmacological chemistry, including PHAR 121 and PHAR 122, allow students to explore advanced topics in the field and gain a deeper understanding of the principles and practices of pharmacological chemistry."
+  ],
+  "learningOutcomes": [
+    "Apply the principles of chemistry, biochemistry, and pharmacology to the development of new therapeutic agents.",
+    "Understand the mechanisms of action of pharmacological agents and their interactions with biological systems.",
+    "Analyze the pharmacokinetic and pharmacodynamic properties of therapeutic agents.",
+    "Design and conduct experiments to investigate the properties of pharmacological agents.",
+    "Communicate complex scientific information effectively in written and oral form."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Chemistry (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses/chemistry-bs/"
+    },
+    {
+      "title": "Biochemistry (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses/biochemistry-bs/"
+    },
+    {
+      "title": "Chemistry with a Specialization in Biochemistry (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses/chemistry-biochemistry-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/pharmacological-chemistry-bs/",
+    "https://chemistry.ucsd.edu/undergraduate-program/majors/pharmacological-chemistry.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The program is designed to be completed in four years. Students are advised to consult with the department advisor to plan their course schedule."
+}

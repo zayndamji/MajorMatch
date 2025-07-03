@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Mechanical Engineering with a Specialization in Materials Science and Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mechanical Engineering with a Specialization in Materials Science and Engineering major is designed to provide students with a comprehensive education in mechanical engineering with a focus on the properties, applications, and processing of materials. The program includes coursework in mechanics, thermodynamics, materials science, and engineering design, as well as laboratory and computational experiences.",
+  "shortProgramDescription": "This major prepares students for careers in mechanical engineering with a specialization in materials science and engineering, focusing on the properties and applications of various materials.",
+  "classHighlights": [
+    "The program begins with foundational courses in engineering, including Engineering Graphics (MAE 3), Introduction to Thermodynamics (MAE 11), and Introduction to Materials Science for Engineers (MAE 101).",
+    "Students then progress to core mechanical engineering courses, including Mechanics of Solids (MAE 101), Dynamics (MAE 30B), and Mechanical Engineering Laboratory (MAE 107).",
+    "Materials science and engineering coursework includes Materials Science Laboratory (MAE 112), Materials Selection and Failure (MAE 156A), and additional electives that cover various aspects of materials science.",
+    "Students also complete mathematics and science requirements, including Calculus (MATH 20A-B-C-D), Physics (PHYS 2A-B-C), and Chemistry (CHEM 6A-B-C).",
+    "The program also includes a range of technical electives, allowing students to explore specialized topics in mechanical engineering and materials science.",
+    "Laboratory and computational experiences are integrated throughout the curriculum, providing hands-on experience with materials characterization, mechanical testing, and engineering design.",
+    "Upper-division coursework includes Mechanical Engineering Design (MAE 156B), Mechanical Engineering Systems (MAE 170), and additional electives that build on the foundational knowledge gained in earlier courses."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mechanics, thermodynamics, and materials science to solve engineering problems.",
+    "Design and conduct experiments to characterize materials and mechanical systems.",
+    "Analyze and interpret data from materials science and mechanical engineering experiments.",
+    "Understand the properties, applications, and processing of various materials.",
+    "Communicate technical information effectively through written reports and oral presentations.",
+    "Work effectively in teams to design and develop mechanical systems and products."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mechanical Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/curriculum/mae/undergrad/mae-bsc-degrees/mae-bs/"
+    },
+    {
+      "title": "NanoEngineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/curriculum/jacobs/mae/undergrad/nanoengineering-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/curriculum/mae/undergrad/mae-bsc-degrees/mae-bs-materials-science/",
+    "https://mae.ucsd.edu/",
+    "https://catalog.ucsd.edu/curriculum/mae/undergrad/mae-bsc-degrees/mae-bs/"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "approximately 200 quarter units",
+  "additionalInformation": "Students must complete a series of required courses in mechanical engineering and materials science, as well as mathematics and science requirements. The program is designed to be completed in four years, with a typical course load of 12-16 units per quarter."
+}

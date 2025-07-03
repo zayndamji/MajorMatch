@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Psychology with a Specialization in Social Psychology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Psychology with a Specialization in Social Psychology is designed to provide students with a comprehensive understanding of psychological principles, with a focus on social psychology. The program covers a wide range of topics, including research methods, statistical analysis, and the biological and cognitive aspects of psychology, as well as the social and cultural factors that influence human behavior. Students learn about the theories, principles, and research methods used in social psychology, and develop skills in critical thinking, problem-solving, and research design.",
+  "shortProgramDescription": "The B.S. in Psychology with a Specialization in Social Psychology at UC San Diego provides a comprehensive education in psychological principles, with a focus on social psychology.",
+  "classHighlights": [
+    "Core courses in psychology introduce students to the fundamental principles of psychology, including research methods, statistical analysis, and the biological and cognitive aspects of psychology.",
+    "Courses in social psychology cover topics such as social influence, attitudes, and group dynamics, and provide students with a deep understanding of the social and cultural factors that influence human behavior.",
+    "Electives in the program allow students to explore specialized topics in psychology, such as developmental psychology, cognitive psychology, and personality psychology, and to develop their research skills through hands-on experience in laboratory and field settings.",
+    "The program also emphasizes the development of critical thinking, problem-solving, and communication skills, preparing students for a wide range of careers in fields such as research, education, and mental health."
+  ],
+  "learningOutcomes": [
+    "Understand the major theories, principles, and research methods used in social psychology",
+    "Apply critical thinking and problem-solving skills to real-world problems in psychology",
+    "Develop research skills, including the ability to design and conduct studies, collect and analyze data, and interpret results",
+    "Communicate complex ideas and research findings effectively in written and oral form",
+    "Understand the biological, cognitive, and social factors that influence human behavior"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Psychology (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/psychology-ba/"
+    },
+    {
+      "title": "Psychology with a Specialization in Cognitive Psychology (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses/psychology-bs-cognitive/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/psychology-bs-social/",
+    "https://psychology.ucsd.edu/undergraduate-program/major/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "total of 48 upper-division units in the major; total approximately 180-200 quarter units for the degree",
+  "additionalInformation": "Students must meet the major's GPA requirements and complete all required courses. The major is designed to be completed in 4 years, with careful planning and advising."
+}

@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Bioengineering (Biotechnology) (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bioengineering: Biotechnology major is designed to provide students with a comprehensive education in the application of engineering principles to the field of biotechnology. The program is highly interdisciplinary, combining coursework in biology, chemistry, physics, mathematics, and engineering to prepare students for careers in biotechnology and related fields.",
+  "shortProgramDescription": "The Bioengineering: Biotechnology B.S. program combines engineering principles with biotechnology to prepare students for careers in research, industry, and academia.",
+  "classHighlights": [
+    "The program begins with foundational courses in biology, chemistry, physics, and mathematics, including BILD 1/2 (Introduction to Biology), CHEM 6A/B/C (General Chemistry), PHYS 1A/2A/1B/2B (Physics), and MATH 2/3/4 (Calculus).",
+    "Students then progress to core bioengineering courses, including BENG 100 (Introduction to Bioengineering), BENG 101A (Bioengineering Systems Analysis), and BENG 186B (Biotechnology: Molecular and Cellular Engineering).",
+    "Additional required courses include biochemistry (CHEM 114A/B), molecular biology (BILD 3), and biophysics (BENG 111A or CHEM 114C), providing a comprehensive understanding of biological systems and their engineering applications.",
+    "Electives allow students to explore specialized areas such as synthetic biology, tissue engineering, and biomedical devices, with courses like BENG 168 (Synthetic Biology), BENG 172 (Tissue Engineering), and BENG 187 (Biomedical Devices).",
+    "The program also includes laboratory courses, such as BENG 121A (Bioengineering Laboratory I), where students gain hands-on experience with experimental techniques and data analysis."
+  ],
+  "learningOutcomes": [
+    "Apply engineering principles to biological systems",
+    "Understand the molecular and cellular basis of biotechnology",
+    "Analyze and design biological systems and devices",
+    "Communicate complex scientific and engineering concepts effectively",
+    "Work effectively in teams to solve problems",
+    "Apply ethical and societal considerations to biotechnology applications"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Bioengineering (Biomedical Engineering) (B.S.)",
+      "link": "https://catalog.ucsd.edu/courses/BENG.html"
+    },
+    {
+      "title": "Biological Sciences (B.S.)",
+      "link": "https://catalog.ucsd.edu/courses/BILD.html"
+    },
+    {
+      "title": "Chemistry and Biochemistry (B.S.)",
+      "link": "https://catalog.ucsd.edu/courses/CHEM.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/programs/BE/#majorstext",
+    "https://bioeng.ucsd.edu/undergraduate/programs/bioengineering-biotechnology-bs",
+    "https://catalog.ucsd.edu/courses/BENG.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "approx. 180 quarter units",
+  "additionalInformation": "Students must complete a set of required courses and electives, maintain a minimum GPA, and fulfill UCSD's general education requirements. The program is accredited by the Engineering Accreditation Commission of ABET."
+}

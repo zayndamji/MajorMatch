@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Cinematic Arts (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Cinematic Arts major provides students with a comprehensive understanding of the history, theory, and aesthetics of film and digital media. Students explore the creative, cultural, and industrial contexts of cinematic production, and develop critical thinking, writing, and research skills. The program emphasizes the analysis and interpretation of cinematic texts, as well as the social, cultural, and historical contexts in which they are produced and consumed.",
+  "shortProgramDescription": "The Cinematic Arts B.A. program provides students with a deep understanding of film and digital media, preparing them for careers in the arts, media, and cultural industries.",
+  "classHighlights": [
+    "Foundational Courses: Students begin with introductory courses such as Cinematic Arts I: Introduction to Cinematic Arts (VIS 1) and Cinematic Arts II: Film and Digital Media (VIS 20), which provide a broad introduction to the field and its methodologies.",
+    "Historical and Theoretical Courses: Students explore the history and theory of film and digital media through courses such as History of Film (VIS 101A-B-C) and Film Theory (VIS 120), which examine the development of cinematic forms and the critical discourses surrounding them.",
+    "Critical and Analytical Courses: Students develop critical thinking and analytical skills through courses such as Film Criticism (VIS 121) and Media and Culture (VIS 130), which focus on the interpretation of cinematic texts and the cultural contexts in which they are produced and consumed.",
+    "Production and Practice Courses: While the major is focused on the study of cinematic arts, students may also engage with production and practice courses, such as Introduction to Media Production (VIS 40) and Digital Media Production (VIS 140), which provide hands-on experience with media production techniques and technologies."
+  ],
+  "learningOutcomes": [
+    "Analyze and interpret cinematic texts within their historical, cultural, and social contexts.",
+    "Understand the development of film and digital media as artistic, cultural, and industrial forms.",
+    "Develop critical thinking, writing, and research skills in the study of cinematic arts.",
+    "Apply theoretical and critical frameworks to the study of film and digital media.",
+    "Recognize the cultural, social, and historical contexts that shape the production and consumption of cinematic arts."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Visual Arts (B.A.)",
+      "link": "https://catalog.ucsd.edu/arts-humanities/visual-arts/"
+    },
+    {
+      "title": "Literature (B.A.)",
+      "link": "https://catalog.ucsd.edu/arts-humanities/literature/"
+    },
+    {
+      "title": "Theater (B.A.)",
+      "link": "https://catalog.ucsd.edu/arts-humanities/theater/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/arts-humanities/cinematic-arts/",
+    "https://cinema.ucsd.edu/undergraduate/cinematic-arts-ba.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-200 quarter units",
+  "additionalInformation": "The Cinematic Arts major is designed for students who are interested in the study of film and digital media as artistic, cultural, and industrial forms. The program is ideal for students who wish to pursue careers in film and media production, criticism, or academia, or who wish to develop a deeper understanding of the cultural and historical contexts of cinematic production."
+}

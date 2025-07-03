@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Molecular Synthesis (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Molecular Synthesis major is designed to provide students with a comprehensive understanding of the principles of molecular synthesis, including the synthesis of complex molecules and the development of new synthetic methods. The program is designed to prepare students for careers in the pharmaceutical, biotechnology, and chemical industries, as well as for graduate study in chemistry or related fields.",
+  "shortProgramDescription": "The Molecular Synthesis major at UC San Diego provides students with a strong foundation in the principles of molecular synthesis and prepares them for careers in the chemical industry or graduate study.",
+  "classHighlights": [
+    "The core curriculum for the Molecular Synthesis major includes courses in organic chemistry (CHEM 41A, 41B, 41C), physical chemistry (CHEM 131A, 131B), and biochemistry (CHEM 114A, 114B). These courses provide students with a comprehensive understanding of the principles of molecular synthesis and its applications.",
+    "Students also complete a series of laboratory courses (CHEM 43A, 43B, 143A, 143B, 143C) that provide hands-on experience with synthetic techniques and instrumentation.",
+    "In addition to the core curriculum, students complete a series of upper-division courses in molecular synthesis (CHEM 163, 164, 165) that cover advanced topics in synthetic chemistry, including catalysis, stereochemistry, and reaction mechanisms.",
+    "The major also requires students to complete a series of mathematics and physics courses (MATH 20A, 20B, 20C, PHYS 2A, 2B, 2C) that provide a foundation for understanding the principles of chemistry and biochemistry."
+  ],
+  "learningOutcomes": [
+    "Apply knowledge of chemistry to understand and predict the properties and behavior of molecules.",
+    "Design and synthesize complex molecules using a variety of synthetic techniques.",
+    "Analyze and interpret data from a variety of experimental techniques, including spectroscopy and chromatography.",
+    "Understand the principles of physical chemistry, including thermodynamics and kinetics.",
+    "Communicate complex scientific information in a clear and concise manner."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Chemistry (B.S.)",
+      "link": "https://catalog.ucsd.edu/main/programs/chemistry-bs"
+    },
+    {
+      "title": "Biochemistry (B.S.)",
+      "link": "https://catalog.ucsd.edu/main/programs/biochemistry-bs"
+    },
+    {
+      "title": "Chemical Physics (B.S.)",
+      "link": "https://catalog.ucsd.edu/main/programs/chemical-physics-bs"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/main/programs/molecular-synthesis-bs",
+    "https://chemistry.ucsd.edu/undergraduate-program/majors/molecular-synthesis/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-200 quarter units",
+  "additionalInformation": "The Molecular Synthesis major is a highly structured program that requires students to complete a series of core courses and laboratory experiences. Students are also encouraged to participate in research projects and internships to gain hands-on experience in the field."
+}

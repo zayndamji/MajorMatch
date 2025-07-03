@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Political Science/Data Analytics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Political Science/Data Analytics is an interdisciplinary program offered by the Department of Physics. It combines coursework in political science, data analysis, and computational methods to equip students with the skills to analyze and interpret complex data in the context of political phenomena. Students learn to apply data analytics techniques to understand political processes, institutions, and behaviors.",
+  "shortProgramDescription": "The Political Science/Data Analytics B.S. program integrates political science theory with data analysis and computational techniques to prepare students for careers in politics, government, and data-driven fields.",
+  "classHighlights": [
+    "The program includes foundational courses in political science, such as Introduction to Political Science (POLI 5), American Politics (POLI 27), and Comparative Politics (POLI 30).",
+    "Students take a series of data analytics and computational courses, including Introduction to Data Analysis (DSC 10), Data Structures and Algorithms (CSE 12), and Statistical Methods for Data Science (DSC 40).",
+    "Additional coursework includes classes on statistical modeling, machine learning, and data visualization, as well as electives in political science and related fields.",
+    "Students also complete upper-division courses in political science, such as Political Behavior (POLI 131), Public Policy (POLI 140), and International Relations (POLI 142).",
+    "The program emphasizes the development of technical skills, including programming languages like Python and R, and data analysis tools like pandas and NumPy."
+  ],
+  "learningOutcomes": [
+    "Apply data analytics techniques to understand political phenomena and institutions.",
+    "Analyze and interpret complex data in the context of political science.",
+    "Develop technical skills in programming languages and data analysis tools.",
+    "Understand the theoretical foundations of political science and data analytics.",
+    "Communicate complex data insights effectively to various audiences.",
+    "Integrate political science theory with data-driven methods to inform policy and decision-making."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Political Science (B.A.)",
+      "link": "https://catalog.ucsd.edu/college-arts-humanities/departments-political-science/undergraduate-major-political-science-ba/"
+    },
+    {
+      "title": "Data Science Minor",
+      "link": "https://catalog.ucsd.edu/cse/data-science-minor/"
+    },
+    {
+      "title": "Mathematics and Computer Science (B.S.)",
+      "link": "https://catalog.ucsd.edu/cse/undergraduate-major-mathematics-computer-science-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/PHYS/Political%20Science%20B.S./",
+    "https://physics.ucsd.edu/undergraduate-programs/political-science-data-analytics-bs",
+    "https://datascience.ucsd.edu/undergraduate-programs/"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The program is offered by the Department of Physics. Students are advised to consult with the department for specific course requirements and advising."
+}

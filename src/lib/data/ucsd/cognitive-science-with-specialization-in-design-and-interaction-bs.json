@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Cognitive Science with Specialization in Design and Interaction (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Cognitive Science with Specialization in Design and Interaction B.S. program is an interdisciplinary major that focuses on the design and evaluation of complex interactive systems, emphasizing human-centered design principles, user experience, and the cognitive science underlying human-technology interaction. Students learn about design principles, human-computer interaction, user research methods, and the cognitive and social factors that influence the design and use of interactive systems.",
+  "shortProgramDescription": "The Cognitive Science with Specialization in Design and Interaction B.S. program prepares students to design and evaluate interactive systems, applying human-centered design principles and understanding the cognitive science underlying human-technology interaction.",
+  "classHighlights": [
+    "Students in this major take core cognitive science courses that cover the foundations of cognitive science, including perception, attention, memory, language, and decision-making.",
+    "The Design and Interaction specialization includes coursework in human-computer interaction, user experience design, and design principles, as well as courses that focus on the cognitive and social factors that influence the design and use of interactive systems, such as COGS 120, COGS 121, and COGS 131.",
+    "Additional courses cover research methods, statistics, and programming, providing students with a comprehensive understanding of the design and evaluation of complex interactive systems.",
+    "Electives allow students to explore related areas, such as human-centered design, usability engineering, and the social and cultural factors that shape the design and use of technology.",
+    "The major culminates in advanced courses that integrate theoretical foundations with practical design and evaluation skills."
+  ],
+  "learningOutcomes": [
+    "Apply human-centered design principles to the design and evaluation of interactive systems.",
+    "Understand the cognitive science underlying human-technology interaction.",
+    "Use research methods and statistical analysis to inform design decisions.",
+    "Design and evaluate user interfaces and user experiences.",
+    "Consider the social and cultural factors that influence the design and use of technology.",
+    "Integrate theoretical foundations with practical design and evaluation skills."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Cognitive Science (B.S.)",
+      "link": "https://catalog.ucsd.edu/COURSESEXTRA/Catalog/curriculum-cogsci-bs.html"
+    },
+    {
+      "title": "Cognitive Science with Specialization in Human-Computer Interaction (B.A.)",
+      "link": "https://catalog.ucsd.edu/COURSESEXTRA/Catalog/curriculum-cogsci-ba.html"
+    },
+    {
+      "title": "Computer Science (B.S.)",
+      "link": "https://catalog.ucsd.edu/COURSESEXTRA/Catalog/cse-bs.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/COURSESEXTRA/Catalog/curriculum-cogsci-bs.html",
+    "https://cogsci.ucsd.edu/undergraduate-programs/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are advised to consult with a departmental advisor to plan their course schedule and to discuss research and internship opportunities."
+}

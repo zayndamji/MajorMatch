@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Dance (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Dance major at UC San Diego offers students a comprehensive education in dance technique, history, and criticism, as well as choreography and performance. The program is designed to provide students with a deep understanding of dance as an art form and its various cultural and historical contexts. Students work with faculty to develop their technical skills, creative expression, and critical thinking.",
+  "shortProgramDescription": "The Dance B.A. program at UC San Diego provides a rigorous foundation in dance technique, history, and choreography, preparing students for careers in the field or further study.",
+  "classHighlights": [
+    "Technique and Performance: Students take a range of technique courses in ballet, modern, and other styles, as well as performance courses that allow them to apply their technical skills in a practical setting. Courses include Dance 101-102, 201-202, and 301-302.",
+    "Choreography and Improvisation: Students learn choreographic techniques and principles, as well as improvisation skills, through courses such as Dance 120, 220, and 320.",
+    "Dance History and Criticism: Students study the history of dance, including its cultural and social contexts, through courses such as Dance 140, 240, and 340.",
+    "Dance and Technology: Students explore the intersection of dance and technology through courses that incorporate video, digital media, and other technologies."
+  ],
+  "learningOutcomes": [
+    "Develop technical proficiency in multiple dance styles",
+    "Create and perform choreography",
+    "Analyze and critique dance performances",
+    "Understand the cultural and historical contexts of dance",
+    "Apply dance techniques and principles to various performance settings"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Theatre (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/theatre/"
+    },
+    {
+      "title": "Dance Minor",
+      "link": "https://catalog.ucsd.edu/front/courses/dance-minor/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/dance/",
+    "https://theatre.ucsd.edu/undergraduate/dance-major"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must declare the major through the Department of Theatre and Dance and meet with a departmental advisor to plan their course of study."
+}

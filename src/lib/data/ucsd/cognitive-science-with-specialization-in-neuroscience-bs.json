@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Cognitive Science with Specialization in Neuroscience (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Cognitive Science with Specialization in Neuroscience major is designed to provide students with a comprehensive understanding of the cognitive processes and their neural basis. The program combines coursework in cognitive science, neuroscience, and related fields to provide a foundation for a variety of careers or further study.",
+  "shortProgramDescription": "The Cognitive Science with Specialization in Neuroscience major provides a comprehensive education in the cognitive processes and their neural basis, preparing students for careers or further study.",
+  "classHighlights": [
+    "The major requires a set of core courses in cognitive science, including COGS 101A, COGS 101B, COGS 107A, COGS 107B, and COGS 108. These courses provide a foundation in the principles of cognitive science, including perception, attention, memory, language, and decision-making.",
+    "Students also complete a set of required courses in neuroscience, including COGS 100/PSY 101, COGS 108, and NEU/MCDB 100. These courses provide a foundation in the principles of neuroscience, including the structure and function of the nervous system.",
+    "In addition to the core and required courses, students complete a set of elective courses that provide a deeper understanding of the cognitive processes and their neural basis. These electives include courses in cognitive neuroscience, neuroplasticity, and neurophysiology.",
+    "The major also includes a set of upper-division writing courses, including COGS 189, which provide students with the opportunity to develop their writing skills and apply their knowledge to real-world problems."
+  ],
+  "learningOutcomes": [
+    "Understand the principles of cognitive science and their application to real-world problems.",
+    "Understand the structure and function of the nervous system and its role in cognitive processes.",
+    "Apply knowledge of cognitive science and neuroscience to the analysis of complex problems.",
+    "Communicate complex ideas and research findings effectively in written and oral form.",
+    "Evaluate the strengths and limitations of different theoretical approaches and methodologies in cognitive science and neuroscience."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Cognitive Science (B.A.)",
+      "link": "https://catalog.ucsd.edu/degree-certificate-programs/undergraduate-programs/cognitive-science-ba/"
+    },
+    {
+      "title": "Neuroscience (B.S.)",
+      "link": "https://catalog.ucsd.edu/degree-certificate-programs/undergraduate-programs/neuroscience-bs/"
+    },
+    {
+      "title": "Psychology (B.A.)",
+      "link": "https://catalog.ucsd.edu/degree-certificate-programs/undergraduate-programs/psychology-ba/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/degree-certificate-programs/undergraduate-programs/cognitive-science-bs/",
+    "https://cogs.ucsd.edu/undergraduate-programs/cognitive-science-bs/",
+    "https://cogs.ucsd.edu/undergraduate-programs/cognitive-science-with-specializations/"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-190 quarter units",
+  "additionalInformation": "The major requires a minimum GPA of 2.0 and completion of all required and elective courses. Students are encouraged to participate in research and internship opportunities to gain practical experience."
+}

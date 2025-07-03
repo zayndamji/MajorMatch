@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Electrical Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science degree in Electrical Engineering is offered by the Department of Electrical and Computer Engineering. The program provides a comprehensive foundation in electrical engineering, including circuit analysis, electronics, digital systems, computer architecture, signals and systems, and electromagnetic fields. Students gain hands-on experience through laboratory courses and electives, preparing them for a wide range of careers or graduate study.",
+  "shortProgramDescription": "The Electrical Engineering B.S. program at UC San Diego provides a rigorous foundation in core areas of electrical engineering, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "Core electrical engineering courses include Circuit Analysis (ECE 101), Electronics (ECE 102), Digital Systems (ECE 25), and Electromagnetic Fields (ECE 107/107L).",
+    "Students complete a sequence of mathematics courses, including Calculus (MATH 20A-B-C-D) and Differential Equations (MATH 20D, MATH 21D).",
+    "Foundational physics courses cover Mechanics (PHYS 2A or 4A) and Electricity & Magnetism (PHYS 2B or 4B).",
+    "Advanced ECE courses cover topics such as Signals and Systems (ECE 101), Communication Systems (ECE 154A), Control Systems (ECE 171A), and VLSI Design (ECE 111).",
+    "Laboratory courses, including ECE 35, ECE 100, and ECE 111L, provide hands-on experience with electrical engineering principles and design.",
+    "Electives allow students to explore specialized areas, including computer architecture, digital signal processing, and power systems."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical and scientific principles to analyze and design electrical engineering systems.",
+    "Demonstrate understanding of circuit analysis, electronics, and digital systems.",
+    "Use laboratory equipment and software tools to measure, analyze, and design electrical systems.",
+    "Communicate technical information effectively in written and oral forms.",
+    "Work effectively in teams to solve engineering problems.",
+    "Understand the ethical and societal implications of electrical engineering."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Computer Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/college-and-schools/engineering/department-of-electrical-and-computer-engineering/computer-engineering-bs"
+    },
+    {
+      "title": "Electrical Engineering Minor",
+      "link": "https://catalog.ucsd.edu/college-and-schools/engineering/department-of-electrical-and-computer-engineering/electrical-engineering-minor"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/college-and-schools/engineering/department-of-electrical-and-computer-engineering/electrical-engineering-bs",
+    "https://ece.ucsd.edu/undergrad/electrical-engineering-bs"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "around 200 units (quarter system)",
+  "additionalInformation": "Students must complete lower-division requirements before advancing to upper-division courses. The program has specific GPA and course requirements. Transfer credits and AP/IB credits may apply with department approval."
+}

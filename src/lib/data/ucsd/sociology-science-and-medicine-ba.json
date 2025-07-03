@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Sociology - Science and Medicine (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Sociology - Science and Medicine major provides students with a comprehensive understanding of the social aspects of science, medicine, and health. It examines the social structures, institutions, and relationships that shape the practice of science and medicine, as well as the social consequences of scientific and medical advancements. Students in this major explore the intersections of sociology, science, and medicine, preparing them for careers in healthcare, research, policy, and education.",
+  "shortProgramDescription": "The Sociology - Science and Medicine major examines the social dimensions of science and medicine, preparing students for careers in healthcare, research, and policy.",
+  "classHighlights": [
+    "The major requires foundational courses in sociology, including Introduction to Sociology (SOC 1) and Sociological Theory (SOC 100/101), which provide a grounding in sociological perspectives and theory.",
+    "Courses on research methods, such as Sociological Research Methods (SOC 104) and Statistics for Sociologists (SOC 105), equip students with the skills to analyze and interpret social data related to science and medicine.",
+    "The major includes upper-division courses that focus on the sociology of science, medicine, and health, such as The Sociology of Science and Technology (SOC 135), Medicine and Society (SOC 136), and Health and Illness (SOC 137), allowing students to explore specific topics in depth.",
+    "Electives may include courses on topics such as inequality, social movements, and policy, which provide a broader understanding of the social context of science and medicine.",
+    "Students also have the opportunity to take courses in related departments, such as the Department of Science Studies or the Department of Family Medicine and Public Health, to further enrich their understanding of the field."
+  ],
+  "learningOutcomes": [
+    "Understand the social dimensions of science, medicine, and health.",
+    "Apply sociological theories and methods to analyze issues in science and medicine.",
+    "Critically evaluate the social consequences of scientific and medical advancements.",
+    "Develop skills in research design, data analysis, and interpretation.",
+    "Communicate complex ideas effectively in written and oral forms."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Sociology (B.A.)",
+      "link": "https://catalog.ucsd.edu/courses/SOC.html"
+    },
+    {
+      "title": "Science Studies (B.A.)",
+      "link": "https://catalog.ucsd.edu/courses/SNS.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/courses/SOC.html",
+    "https://sociology.ucsd.edu/undergraduate-programs/sociology-major/index.html"
+  ],
+  "programDuration": "4 years (8 quarters, quarter system)",
+  "creditRequirements": "48 upper-division units within the major; total approximately 180 quarter units for graduation",
+  "additionalInformation": "Students are advised to consult with the department advisor to plan their course sequence and ensure they meet major requirements. The major is designed to be flexible, allowing students to pursue their interests within the field of sociology and science and medicine."
+}

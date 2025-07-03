@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Linguistics: Language Studies (Specialization in Individual Language) (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Linguistics major with a specialization in Individual Language is designed for students who wish to focus on the in-depth study of a specific language. The program covers the structure, syntax, and semantics of the chosen language, as well as its historical and cultural context. Students gain a deep understanding of linguistic theory and its application to the language of their choice.",
+  "shortProgramDescription": "The Linguistics major with a specialization in Individual Language provides students with a comprehensive understanding of a specific language and its linguistic structures.",
+  "classHighlights": [
+    "The program requires students to complete a set of core linguistics courses, including Introduction to Linguistics (LING 100), Phonetics and Phonology (LING 101), Morphology (LING 102), and Syntax (LING 103).",
+    "Students also take courses specific to their chosen language, such as language-specific phonology, morphology, and syntax.",
+    "Electives in linguistic theory, language acquisition, and sociolinguistics provide further depth and context.",
+    "Courses in the department cover a range of languages, including but not limited to Spanish, French, German, Italian, Chinese, Japanese, and American Sign Language.",
+    "Students are encouraged to explore the linguistic and cultural nuances of their chosen language through coursework and research opportunities."
+  ],
+  "learningOutcomes": [
+    "Apply linguistic theory to the analysis of a specific language.",
+    "Demonstrate an understanding of the phonological, morphological, and syntactic structures of the chosen language.",
+    "Analyze the historical and cultural context of the language.",
+    "Evaluate the role of language in shaping identity and culture.",
+    "Communicate complex linguistic concepts in written and oral form."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Linguistics (B.A.)",
+      "link": "https://catalog.ucsd.edu/courses/LING.html"
+    },
+    {
+      "title": "Language and Culture Minor",
+      "link": "https://catalog.ucsd.edu/minors/LANGCULT_minor.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/courses/LING.html",
+    "https://linguistics.ucsd.edu/undergraduate/index.html"
+  ],
+  "programDuration": "4 academic years (quarter system, typically 12 quarters)",
+  "creditRequirements": "Total: approximately 180 quarter units; major: 52-56 units",
+  "additionalInformation": "Students must declare their major through the Department of Linguistics and meet with an advisor to plan their course of study."
+}

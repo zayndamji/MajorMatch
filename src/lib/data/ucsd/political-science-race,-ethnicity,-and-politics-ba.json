@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Political Science/Race, Ethnicity, and Politics (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Political Science/Race, Ethnicity, and Politics major is an interdisciplinary program that examines the complex relationships between politics, race, ethnicity, and social inequality. Students explore the experiences of diverse racial and ethnic groups in the United States and globally, analyzing the ways in which politics shapes and is shaped by social identities. The program is designed to provide students with a nuanced understanding of the intersections between politics, culture, and identity, preparing them for careers in fields such as law, government, education, and social justice.",
+  "shortProgramDescription": "The Political Science/Race, Ethnicity, and Politics major examines the complex relationships between politics, race, ethnicity, and social inequality, preparing students for careers in fields such as law, government, and social justice.",
+  "classHighlights": [
+    "The major requires coursework in POLI 5 (Introduction to Political Theory), POLI 10 (Introduction to Comparative Politics), and POLI 30 (Introduction to American Politics), providing a foundation in the core subfields of political science.",
+    "Students take additional courses in political theory, comparative politics, and American politics, with a focus on issues related to race, ethnicity, and social inequality, such as POLI 110 (Democracy and Dictatorship), POLI 120 (Politics of Developing Areas), and POLI 130 (Ethnic Politics).",
+    "The major includes coursework in methods and statistics, such as POLI 184 (Introduction to Social Science Methods) and SOCI 60 (Principles of Data Science), to equip students with the skills to analyze and interpret data related to politics and social inequality.",
+    "Students also take upper-division courses that focus on specific topics related to race, ethnicity, and politics, such as POLI 142 (Politics of Identity), POLI 145 (Immigration and Politics), and POLI 148 (Racial and Ethnic Politics in the United States).",
+    "The major is housed in the Department of Physics is not correct; it is actually in the Department of Political Science.",
+    "Electives may include courses from other departments, such as Ethnic Studies, Sociology, and History, allowing students to explore related topics and disciplines."
+  ],
+  "learningOutcomes": [
+    "Analyze the complex relationships between politics, race, ethnicity, and social inequality.",
+    "Understand the historical and contemporary experiences of diverse racial and ethnic groups.",
+    "Apply theoretical frameworks to understand the intersections between politics, culture, and identity.",
+    "Develop skills in data analysis and interpretation related to politics and social inequality.",
+    "Communicate effectively about issues related to politics, race, ethnicity, and social inequality."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Political Science (B.A.)",
+      "link": "https://catalog.ucsd.edu/programs/POLI-BA/"
+    },
+    {
+      "title": "Ethnic Studies (B.A.)",
+      "link": "https://catalog.ucsd.edu/programs/ETHS-BA/"
+    },
+    {
+      "title": "Sociology (B.A.)",
+      "link": "https://catalog.ucsd.edu/programs/SOCI-BA/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/programs/POLI-BA-SP/",
+    "https://politicalscience.ucsd.edu/undergraduate/majors/political-science.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "48 upper-division units in the major; total 180 quarter units",
+  "additionalInformation": "The major is designed to be completed in four years. Students are encouraged to pursue research opportunities, internships, and study abroad programs to enhance their academic experience."
+}

@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Sociology - International Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Sociology - International Studies major is an interdisciplinary program that combines the study of sociology with international studies. Students examine global issues, social structures, and institutions from a sociological perspective, gaining a deeper understanding of the complex relationships between societies and cultures.",
+  "shortProgramDescription": "The Sociology - International Studies major prepares students to analyze global issues and social structures through a sociological lens, developing critical thinking and research skills.",
+  "classHighlights": [
+    "Sociology core courses, including Introduction to Sociology (SOC1), Sociological Theory (SOC106), and Research Methods (SOC181), provide a foundation in sociological theory and methods.",
+    "International Studies coursework, such as Introduction to International Studies (INTL101) and Globalization and Development (INTL130), focuses on global issues, international relations, and cultural exchange.",
+    "Electives in sociology and international studies allow students to explore topics such as globalization, inequality, and social movements, developing a nuanced understanding of global social dynamics.",
+    "Upper-division coursework in sociology, including Social Inequality (SOC142) and Social Change (SOC146), provides advanced training in sociological analysis and theory.",
+    "Courses in international studies, such as Human Rights (INTL140) and Global Governance (INTL150), examine global institutions and policies, preparing students for careers in international relations and global affairs."
+  ],
+  "learningOutcomes": [
+    "Analyze global social issues and structures through a sociological lens.",
+    "Understand the complex relationships between societies and cultures.",
+    "Apply sociological theory and methods to real-world problems.",
+    "Develop critical thinking and research skills in the context of international studies.",
+    "Evaluate the impact of globalization on social inequality and social change."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Sociology (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/sociology-ba/"
+    },
+    {
+      "title": "International Studies (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/international-studies-ba/"
+    },
+    {
+      "title": "Global Studies Minor",
+      "link": "https://catalog.ucsd.edu/front/minors/global-studies-minor/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/sociology-international-studies-ba/",
+    "https://sociology.ucsd.edu/undergraduate-programs/majors/sociology-international-studies.html"
+  ],
+  "programDuration": "4 years (8 quarters, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the required coursework in sociology and international studies, as well as meet the university's general education requirements. Internships and study abroad opportunities are available to enhance the major."
+}

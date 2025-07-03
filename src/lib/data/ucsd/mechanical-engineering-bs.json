@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Mechanical Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mechanical Engineering program is designed to provide students with a broad foundation in the principles of mechanical engineering, including the mechanics of solids and fluids, thermodynamics, heat transfer, and mechanical design. The program includes a strong emphasis on laboratory work, computational methods, and design, as well as a range of technical electives that allow students to pursue their individual interests.",
+  "shortProgramDescription": "The Mechanical Engineering B.S. program provides a comprehensive education in the fundamentals of mechanical engineering, preparing students for a wide range of careers or graduate study.",
+  "classHighlights": [
+    "The program begins with a series of foundational courses in mathematics and physics, including Calculus (MATH 20A-B-C-D), Physics (PHYS 2A-B-C), and Differential Equations (MATH 20D, MATH 20E).",
+    "Students then move on to core mechanical engineering courses, including Mechanics of Solids and Fluids (MAE 101A-B), Thermodynamics (MAE 105), and Mechanical Design (MAE 101C, MAE 107).",
+    "Additional required courses include Materials Science (MAE 160), Dynamics and Vibrations (MAE 130A-B), and Controls (MAE 140).",
+    "Students also complete a series of laboratory courses, including MAE 106L, MAE 107L, and MAE 131L, which provide hands-on experience with experimental techniques and data analysis.",
+    "Technical electives allow students to explore specialized areas, such as aerospace engineering, biomechanical engineering, or energy systems.",
+    "Upper-division courses emphasize design, analysis, and problem-solving, with many courses incorporating real-world projects and case studies."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mechanical engineering to analyze and design systems and components.",
+    "Demonstrate proficiency in laboratory techniques, data analysis, and experimental methods.",
+    "Use computational tools and programming languages to model and simulate mechanical systems.",
+    "Design and conduct experiments to test hypotheses and validate models.",
+    "Communicate complex technical information effectively in written and oral forms.",
+    "Work effectively in teams to solve complex engineering problems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Aerospace Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/engineering/mae/undergraduate/aerospace-engineering-bs/"
+    },
+    {
+      "title": "NanoEngineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/engineering/mae/undergraduate/nanoengineering-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/engineering/mae/undergraduate/mechanical-engineering-bs/",
+    "https://mae.ucsd.edu/undergraduate-programs/bs-mechanical-engineering"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "approx. 200 quarter units",
+  "additionalInformation": "The program requires a minimum GPA of 2.0 in major courses. Students are encouraged to participate in research, internships, and other extracurricular activities to enhance their educational experience."
+}

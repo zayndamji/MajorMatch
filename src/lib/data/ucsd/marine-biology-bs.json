@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Marine Biology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Marine Biology major is designed to provide students with a broad understanding of the marine environment, including the organisms that live in it, the physical and chemical factors that influence them, and the interactions between organisms and their environment. The program is designed to prepare students for a variety of careers in fields such as research, conservation, education, and policy, as well as for graduate study in marine biology or related fields.",
+  "shortProgramDescription": "The Marine Biology major provides a comprehensive education in the biology of marine organisms and ecosystems, preparing students for careers or graduate study in marine-related fields.",
+  "classHighlights": [
+    "The major requires a foundation in biology, chemistry, and physics, with courses such as BILD 1 and 2 (Introduction to Biology), CHEM 6A-B-C (General Chemistry), and PHYS 1A-B-C or 2A-B-C (Introductory Physics).",
+    "Students take core courses in marine biology, including SIO 120 (Introduction to Marine Biology), SIO 133 (Marine Ecology), and SIO 161 (Introduction to Marine Invertebrates), as well as electives in areas such as marine ecology, conservation biology, and oceanography.",
+    "Upper-division courses provide advanced training in areas such as marine ecology, marine conservation, and oceanography, with courses such as SIO 180 (Marine Conservation Biology) and SIO 210 (Marine Ecology).",
+    "The major also includes laboratory and field-based courses, such as SIO 161L (Marine Invertebrates Laboratory) and SIO 187 (Marine Biology Field Research Methods), which provide hands-on experience with marine organisms and ecosystems.",
+    "Students also complete a series of mathematics and statistics courses, including MATH 10A-B-C (Calculus) and MATH 183 (Statistical Methods), to develop quantitative skills necessary for a career in marine biology."
+  ],
+  "learningOutcomes": [
+    "Understand the principles of marine biology, including the diversity of marine organisms and ecosystems.",
+    "Apply knowledge of biology, chemistry, and physics to understand marine ecosystems and the impact of human activities on these ecosystems.",
+    "Demonstrate laboratory and field skills necessary for research and conservation in marine biology.",
+    "Communicate effectively about marine biology and related topics.",
+    "Analyze and interpret data related to marine biology and ecosystems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Biology (B.S.)",
+      "link": "https://catalog.ucsd.edu/undergraduate-college/arts-and-humanities-division/school-biological-sciences/biology-bs/"
+    },
+    {
+      "title": "Ecology, Behavior, and Evolution (B.S.)",
+      "link": "https://catalog.ucsd.edu/undergraduate-college/arts-and-humanities-division/school-biological-sciences/ecology-behavior-evolution-bs/"
+    },
+    {
+      "title": "Earth Sciences (B.S.)",
+      "link": "https://catalog.ucsd.edu/undergraduate-college/physical-sciences-division/earth-sciences-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/undergraduate-college/physical-sciences-division/scripps-institution-oceanography/marine-biology-bs/",
+    "https://sio.ucsd.edu/education/undergraduate-programs/marine-biology/"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Marine Biology major is administered by the Scripps Institution of Oceanography. Students are advised to consult with departmental advisors to ensure they meet all major requirements."
+}

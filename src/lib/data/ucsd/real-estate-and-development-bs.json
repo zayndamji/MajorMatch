@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Real Estate and Development (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science degree in Real Estate and Development is designed to provide students with a comprehensive understanding of the real estate industry, including its economic, financial, legal, and spatial aspects. The program is interdisciplinary, drawing on coursework from various departments, including Urban Studies and Planning, Economics, and Finance. Students learn about real estate development, finance, law, and marketing, as well as the social and environmental impacts of real estate decisions.",
+  "shortProgramDescription": "The Real Estate and Development B.S. program at UC San Diego equips students with a broad understanding of the real estate industry, preparing them for careers in development, finance, and related fields.",
+  "classHighlights": [
+    "The program includes foundational courses such as Urban Studies and Planning (USP) 1 and 2, which introduce students to the field and its methodologies.",
+    "Students take courses in economics, including Principles of Microeconomics (ECON 1) and Principles of Macroeconomics (ECON 2), providing a basis for understanding real estate markets.",
+    "Real estate-specific courses cover topics such as real estate finance (FMPH 142), real estate law ( LAW 125), and real estate development (USP 143).",
+    "Students also engage with courses on urban planning, policy, and the social and environmental dimensions of real estate, such as Urban Planning (USP 144) and Urban Politics (USP 150).",
+    "The program emphasizes analytical skills, with courses in data analysis and statistical methods, preparing students for careers that require data-driven decision-making.",
+    "Electives allow students to explore specialized topics, such as sustainable development, housing policy, and real estate marketing, tailoring their education to their interests and career goals."
+  ],
+  "learningOutcomes": [
+    "Understand the economic, financial, and legal aspects of the real estate industry.",
+    "Analyze real estate markets and trends using data and statistical methods.",
+    "Apply knowledge of urban planning and policy to real estate development decisions.",
+    "Evaluate the social and environmental impacts of real estate projects.",
+    "Develop skills in real estate finance, law, and marketing.",
+    "Communicate effectively about real estate issues and projects to various stakeholders."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Urban Studies and Planning (B.A.)",
+      "link": "https://catalog.ucsd.edu/courses/USP/"
+    },
+    {
+      "title": "Economics (B.A.)",
+      "link": "https://catalog.ucsd.edu/courses/ECON/"
+    },
+    {
+      "title": "Management (B.Commerce)",
+      "link": "https://catalog.ucsd.edu/courses/MGT/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/USP.html#uspbsred",
+    "https://urbanstudiesandplanning.ucsd.edu/undergraduate/real-estate-and-development-bs/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "Total of 180 quarter units, including major requirements and general education courses",
+  "additionalInformation": "The program is administered by the Urban Studies and Planning department. Students are advised to consult with department advisors for specific course selections and to plan their course of study."
+}

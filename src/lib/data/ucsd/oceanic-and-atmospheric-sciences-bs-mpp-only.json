@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Oceanic and Atmospheric Sciences (B.S./MPP)",
+  "degreeAwarded": "Bachelor of Science and Master of Public Policy",
+  "fullProgramDescription": "The B.S./MPP program in Oceanic and Atmospheric Sciences is an interdisciplinary major that combines the natural sciences, mathematics, and policy. Students in this program gain a strong foundation in the sciences, with a focus on oceanic and atmospheric processes, as well as training in public policy to address the complex environmental challenges facing society.",
+  "shortProgramDescription": "The Oceanic and Atmospheric Sciences B.S./MPP program at UC San Diego provides students with a comprehensive understanding of oceanic and atmospheric sciences and prepares them for careers in policy and research.",
+  "classHighlights": [
+    "The program includes foundational courses in mathematics and science, such as calculus, physics, and chemistry, which provide a basis for understanding oceanic and atmospheric processes.",
+    "Students take core courses in oceanic and atmospheric sciences, including dynamics, thermodynamics, and physical oceanography, to gain a deep understanding of the Earth's systems.",
+    "Electives allow students to explore specialized topics, such as climate change, oceanography, and atmospheric science, and to develop a deeper understanding of the complex interactions between the oceans and atmosphere.",
+    "The program also includes coursework in public policy, including economics, politics, and policy analysis, to prepare students for careers in policy and management.",
+    "Research opportunities are available through the Scripps Institution of Oceanography, allowing students to work with faculty on research projects and gain hands-on experience in the field."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of oceanic and atmospheric sciences, including dynamics, thermodynamics, and physical oceanography.",
+    "Analyze complex environmental problems and develop effective policy solutions.",
+    "Apply scientific knowledge to real-world problems, including climate change, ocean conservation, and environmental management.",
+    "Communicate complex scientific information to diverse audiences, including policymakers, stakeholders, and the general public.",
+    "Work effectively in teams to address complex environmental challenges."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Science",
+      "link": "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/division-of-humanities/departments-and-programs/linguistics-minor/"
+    },
+    {
+      "title": "Earth Sciences",
+      "link": "https://earth.ucsd.edu"
+    },
+    {
+      "title": "Marine Biology",
+      "link": "https://scripps.ucsd.edu/education/marine-biology"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/division-of-physical-sciences/departments-and-programs/scripps-institution-of-oceanography-oceanic-and-atmospheric-sciences-bs-mpp/",
+    "https://scripps.ucsd.edu/education/undergraduate-programs/oa-sciences-bs-mpp"
+  ],
+  "programDuration": "5 years",
+  "creditRequirements": "Total of 180-192 units (quarter system)",
+  "additionalInformation": "The program is administered by the Scripps Institution of Oceanography. Students must apply to the MPP program in their junior year. Research opportunities are available through Scripps."
+}

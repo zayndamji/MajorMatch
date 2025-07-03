@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Psychology with a Specialization in Developmental Psychology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The B.S. in Psychology with a Specialization in Developmental Psychology provides a comprehensive understanding of human development across the lifespan, focusing on cognitive, social, and emotional growth. Students explore the biological, environmental, and cultural factors influencing development through coursework and research experience. The program prepares students for careers in education, research, healthcare, and social services or for graduate study in psychology and related fields.",
+  "shortProgramDescription": "The Developmental Psychology Specialization within the Psychology B.S. program at UC San Diego emphasizes understanding human development through a blend of theoretical foundations, empirical research, and practical applications.",
+  "classHighlights": [
+    "Core Psychology Courses: Students begin with foundational courses like Introduction to Psychology (PSYC1), Methods in Psychology (PSYC60), and Statistics in Psychology (PSYC7), which ground them in the scientific principles and methodologies of psychology.",
+    "Developmental Psychology Core: Courses such as Developmental Psychology (PSYC160) and Developmental Psychobiology (PSYC162) introduce the major theories and empirical findings in the field, covering infancy through adulthood.",
+    "Research Methods and Laboratories: Students participate in research experiences through courses like Psychology Laboratory (PSYC193) and Research Methods in Psychology (PSYC191), gaining hands-on experience with study design, data collection, and analysis.",
+    "Cognitive and Social Development: Advanced courses focusing on Cognitive Development (PSYC164) and Social Development (PSYC166) allow students to explore specific aspects of human development in depth.",
+    "Electives and Specializations: Electives such as Developmental Psychopathology (PSYC168) and Infancy (PSYC163) enable students to tailor their education to their interests, whether in typical development, developmental disorders, or the impact of social and cultural contexts."
+  ],
+  "learningOutcomes": [
+    "Apply developmental theories to explain cognitive, social, and emotional development across the lifespan.",
+    "Design and conduct research studies related to developmental psychology.",
+    "Analyze and interpret data from developmental psychology studies.",
+    "Understand the biological, environmental, and cultural factors that influence human development.",
+    "Communicate complex developmental psychology concepts effectively in written and oral formats.",
+    "Critically evaluate research and theory in developmental psychology."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Psychology (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses-reqs/dept-courses/psyc-ba.html"
+    },
+    {
+      "title": "Psychology with a Specialization in Cognitive and Sensory Systems (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses-reqs/dept-courses/psyc-bs-css.html"
+    },
+    {
+      "title": "Psychology with a Specialization in Clinical/Adult Development and Aging (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses-reqs/dept-courses/psyc-bs-clin.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses-reqs/dept-courses/psyc-bs-dev.html",
+    "https://psychology.ucsd.edu/undergraduate-program/degree-options/bs-psychology/index.html",
+    "https://psychology.ucsd.edu/undergraduate-program/degree-options/bs-psychology/specializations/developmental-psychology.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "Total of 180 quarter units; 64+ units in major, including 28+ upper-division psychology units",
+  "additionalInformation": "The program requires a GPA of 2.0 or higher in major courses. Psychology majors are encouraged to gain research experience and participate in internships or volunteer work related to developmental psychology."
+}

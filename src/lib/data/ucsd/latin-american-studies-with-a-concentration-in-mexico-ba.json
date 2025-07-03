@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major with Concentration",
+  "programName": "Latin American Studies with a Concentration in Mexico (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Latin American Studies major with a concentration in Mexico is an interdisciplinary program that focuses on the history, culture, politics, and economies of Latin America, with a specific emphasis on Mexico. The program is designed to provide students with a comprehensive understanding of the region and its complexities, as well as the skills to analyze and interpret the social, cultural, and economic phenomena that shape the lives of individuals and communities in Latin America, particularly in Mexico.",
+  "shortProgramDescription": "The Latin American Studies major with a concentration in Mexico provides students with a nuanced understanding of Mexico and its place within Latin America, preparing them for careers in fields such as international relations, education, and cultural management.",
+  "classHighlights": [
+    "The program requires students to take a range of core courses in Latin American Studies, including introductory courses on Latin American history and culture, as well as more advanced courses on topics such as politics, economics, and social movements.",
+    "Students also choose from a variety of electives that focus on specific aspects of Latin American Studies, such as language, literature, and cultural studies, as well as courses that examine the region's complex relationships with the United States and other global powers.",
+    "Courses in the major are drawn from a range of departments, including History, Literature, Sociology, and Political Science, ensuring that students develop a rich and interdisciplinary understanding of the field.",
+    "Students are also required to develop proficiency in Spanish or Portuguese, the primary languages of the region, and are encouraged to pursue study abroad opportunities in Mexico or other Latin American countries."
+  ],
+  "learningOutcomes": [
+    "Analyze the complex historical, cultural, and economic contexts that shape Latin America, with a particular emphasis on Mexico.",
+    "Understand the region's diverse cultures, languages, and histories, and be able to interpret the ways in which these factors intersect and influence one another.",
+    "Develop critical thinking and research skills, with the ability to apply these skills to real-world problems and issues in the region.",
+    "Communicate effectively in Spanish or Portuguese, both in writing and in speech."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Latin American Studies Minor",
+      "link": "https://catalog.ucsd.edu/lat-amer-stud-minor"
+    },
+    {
+      "title": "Ethnic Studies Major",
+      "link": "https://catalog.ucsd.edu/ethnic-studies-major"
+    },
+    {
+      "title": "Spanish and Portuguese Language and Literature Major",
+      "link": "https://catalog.ucsd.edu/spanish-portuguese-major"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/lat-amer-stud-major-mex",
+    "https://latinamericanstudies.ucsd.edu/",
+    "https://lasa.ucsd.edu/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of 180 quarter units (or 120 semester units); major requires 52 upper-division units",
+  "additionalInformation": "Students are advised to consult with the program advisor to plan their course of study and to ensure that they meet the major's requirements. Study abroad opportunities are highly recommended."
+}

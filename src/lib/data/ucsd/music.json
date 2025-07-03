@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Mechanical Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Department of Mechanical and Aerospace Engineering offers a comprehensive undergraduate program leading to a Bachelor of Science in Mechanical Engineering. The program includes coursework in mechanical systems, thermodynamics, fluid mechanics, materials science, and mathematics, as well as laboratory and design experiences.",
+  "shortProgramDescription": "The Mechanical Engineering B.S. program at UC San Diego covers fundamental principles, experimental techniques, and design methodologies, preparing students for careers or graduate study.",
+  "classHighlights": [
+    "The lower-division coursework includes calculus, physics, chemistry, and introductory engineering courses, providing a foundation for upper-division study.",
+    "Upper-division courses cover mechanical systems, thermodynamics, fluid mechanics, materials science, and mathematics, with laboratory and design components.",
+    "Students also complete a series of technical electives, allowing them to specialize in areas such as aerospace engineering, biomechanical engineering, or energy systems.",
+    "The program includes a strong emphasis on hands-on learning, with laboratory courses and design projects that simulate real-world engineering challenges.",
+    "The curriculum is designed to meet the needs of students who plan to pursue a career in industry or continue their education at the graduate level."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mechanical engineering to solve problems.",
+    "Design and conduct experiments, as well as analyze and interpret data.",
+    "Develop and implement designs that meet specific requirements.",
+    "Communicate effectively with technical and non-technical audiences.",
+    "Work effectively in teams to achieve common goals.",
+    "Stay up-to-date with the latest developments in mechanical engineering."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Aerospace Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/engineering/mae/undergrad/aerospace-engineering-major/"
+    },
+    {
+      "title": "NanoEngineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/engineering/nanoengineering/undergraduate-program/"
+    },
+    {
+      "title": "Environmental Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/engineering/structural-engineering/building-environmental-engineering/undergrad/enviro-engr-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/engineering/mae/undergrad/mech/",
+    "https://mae.ucsd.edu/undergraduate-programs/bs-mechanical-engineering",
+    "https://catalog.ucsd.edu/engineering/mae/undergrad/mae-advising/"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "total of around 180-200 units; MAE major prep and major require specific courses and 52 upper-division units",
+  "additionalInformation": "The MAE department offers advising and research opportunities. Students are encouraged to participate in internships and research projects to gain practical experience."
+}

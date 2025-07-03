@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Structural Engineering with a Specialization in Geotechnical Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Structural Engineering program with a Specialization in Geotechnical Engineering is designed to provide students with a comprehensive understanding of the principles and practices in structural and geotechnical engineering. The program includes coursework in mathematics, physics, and engineering sciences, as well as specialized courses in structural analysis, geotechnical engineering, and earthquake engineering. Students learn to apply theoretical knowledge to solve real-world engineering problems and are prepared for careers in consulting, government, or research.",
+  "shortProgramDescription": "The Structural Engineering with a Specialization in Geotechnical Engineering B.S. program provides a foundation in engineering principles, with a focus on structural and geotechnical engineering, preparing students for professional practice or graduate study.",
+  "classHighlights": [
+    "The program begins with foundational courses in engineering, including Engineering Calculus, Physics, and Chemistry. These courses provide the mathematical and scientific basis for subsequent engineering coursework.",
+    "Students then progress to core courses in structural engineering, including Structural Analysis, Mechanics of Materials, and Structural Design. These courses introduce students to the principles of structural analysis and design.",
+    "Specialized courses in geotechnical engineering, such as Geotechnical Engineering, Soil Mechanics, and Foundation Design, provide students with a deep understanding of the behavior of earth materials and the design of foundations and earth structures.",
+    "Additional coursework in earthquake engineering and dynamics prepares students to analyze and design structures for seismic loading.",
+    "Students also complete laboratory courses, such as Structural Engineering Laboratory and Geotechnical Engineering Laboratory, where they gain hands-on experience with experimental techniques and data analysis.",
+    "Electives allow students to explore advanced topics in structural and geotechnical engineering, such as advanced structural analysis, geotechnical earthquake engineering, or computational geomechanics."
+  ],
+  "learningOutcomes": [
+    "Apply knowledge of mathematics, science, and engineering to solve structural and geotechnical engineering problems.",
+    "Analyze and design structures and foundations for a variety of loading conditions, including seismic loading.",
+    "Understand the behavior of earth materials and the principles of geotechnical engineering.",
+    "Communicate effectively with engineers, architects, and other stakeholders.",
+    "Work effectively in teams to solve complex engineering problems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Structural Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/engineering/departments/structural-engineering/undergraduate-programs/structural-engineering-bs/"
+    },
+    {
+      "title": "Environmental Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/engineering/departments/environmental-engineering/undergraduate-programs/environmental-engineering-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/engineering/departments/structural-engineering/undergraduate-programs/structural-engineering-with-a-specialization-in-geotechnical-engineering-bs/",
+    "https://se.ucsd.edu"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "approximately 200-210 units (quarter system)",
+  "additionalInformation": "Students must complete a series of required courses in mathematics, physics, and engineering sciences, as well as specialized coursework in structural and geotechnical engineering. The program is accredited by the Engineering Accreditation Commission of ABET."
+}

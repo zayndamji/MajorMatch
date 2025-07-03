@@ -1,0 +1,37 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Speculative Design (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Speculative Design major is an interdisciplinary program that combines design, art, and critical thinking to explore the intersection of technology, culture, and society. Students learn to create innovative designs that challenge conventional thinking and foster new perspectives on the world.",
+  "shortProgramDescription": "The Speculative Design major at UC San Diego prepares students to create innovative designs that challenge conventional thinking and explore the intersection of technology, culture, and society.",
+  "classHighlights": [
+    "The Speculative Design program includes a foundation in Visual Arts, with courses such as VAR 20- Introduction to Visual Studies, VAR 30 - Drawing Fundamentals, and VAR 60 - Introduction to Contemporary Art Practices.",
+    "Students take core courses in Speculative Design, including VAR 100 - Introduction to Speculative Design, VAR 101 - Speculative Design Studio, and VAR 102 - Speculative Design and Critical Theory.",
+    "Upper-division courses cover topics such as design theory, critical theory, and the intersection of technology and society, including VAR 104 - Design and Critical Theory, and VAR 105 - Speculative Design and Technology.",
+    "Students also take electives in areas such as visual arts, design, and media studies, allowing them to tailor their education to their interests and career goals."
+  ],
+  "learningOutcomes": [
+    "Demonstrate an understanding of the principles and practices of speculative design",
+    "Apply critical thinking and creative skills to design innovative solutions",
+    "Analyze the intersection of technology, culture, and society",
+    "Communicate complex ideas effectively through visual and written means",
+    "Develop a portfolio of work that showcases their skills and creativity"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Visual Arts (B.A.)",
+      "link": "https://catalog.ucsd.edu/arts-humanities/departments/visual-arts/undergraduate-programs/visual-arts-ba/"
+    },
+    {
+      "title": "Media Studies (B.A.)",
+      "link": "https://catalog.ucsd.edu/arts-humanities/departments/literature/departments/communication/lower-division-courses/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/arts-humanities/departments/visual-arts/undergraduate-programs/speculative-design-ba/"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-200 total quarter units",
+  "additionalInformation": "Students must complete the Visual Arts major preparation requirements and maintain a minimum GPA of 2.0 in major courses."
+}

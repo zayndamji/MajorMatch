@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Mechanical Engineering with a Specialization in Renewable Energy and Environmental Flows (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "This program is designed to provide students with a comprehensive understanding of mechanical engineering principles and their application to renewable energy and environmental flows. The curriculum includes coursework in fluid mechanics, thermodynamics, and mechanical systems, as well as specialized courses in renewable energy and environmental flows.",
+  "shortProgramDescription": "The Mechanical Engineering with a Specialization in Renewable Energy and Environmental Flows program at UC San Diego provides students with a strong foundation in mechanical engineering and specialized knowledge in renewable energy and environmental flows.",
+  "classHighlights": [
+    "The program begins with foundational courses in mechanical engineering, including MAE 30 (Introduction to Engineering Mechanics), MAE 131A (Fluid Mechanics I), and MAE 105 (Introduction to Mathematical Physics).",
+    "Students then progress to more advanced courses, including MAE 131B (Fluid Mechanics II), MAE 150A (Thermodynamics), and MAE 156A (Fluid Mechanics and Energy Conversion).",
+    "Specialized courses in renewable energy and environmental flows include MAE 180A (Introduction to Fluid Mechanics and Energy Conversion), MAE 182A (Renewable Energy Systems), and MAE 189 (Environmental Fluid Mechanics).",
+    "Students also complete a series of laboratory and design courses, including MAE 101C (Mechanical Engineering Laboratory) and MAE 110A (Mechanical Engineering Design).",
+    "Electives allow students to explore topics such as sustainable energy, energy efficiency, and environmental impact assessment."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mechanical engineering to solve problems in renewable energy and environmental flows.",
+    "Analyze complex systems and processes in fluid mechanics, thermodynamics, and mechanical systems.",
+    "Design and optimize systems for renewable energy generation and energy efficiency.",
+    "Evaluate the environmental impact of mechanical systems and processes.",
+    "Communicate technical information effectively through written and oral presentations."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mechanical Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/engineering/mae/undergraduate-programs/mae-bs/"
+    },
+    {
+      "title": "Environmental Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/engineering/structural-engineering-undergraduate-programs/environmental-engineering-bs/"
+    },
+    {
+      "title": "Energy Engineering Minor",
+      "link": "https://catalog.ucsd.edu/engineering/mae/undergraduate-programs/energy-engineering-minor/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/engineering/mae/undergraduate-programs/mae-bs-specializations/renewable-energy/",
+    "https://mae.ucsd.edu/",
+    "https://advising.ucsd.edu/catalog/engineering/mae.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "approx. 200 quarter units",
+  "additionalInformation": "Students are advised to consult with the Mechanical and Aerospace Engineering department for specific course requirements and advising."
+}

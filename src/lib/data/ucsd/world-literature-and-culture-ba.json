@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "World Literature and Culture (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The World Literature and Culture major is an interdisciplinary program that explores the literary and cultural production of diverse societies around the world. Students examine the historical, social, and cultural contexts that shape literary works and cultural practices, developing a nuanced understanding of the complex interactions between cultures and societies. The major prepares students for a wide range of careers in fields such as education, publishing, international relations, and cultural management.",
+  "shortProgramDescription": "The World Literature and Culture major provides students with a deep understanding of literary and cultural practices across the globe, preparing them for careers in diverse fields.",
+  "classHighlights": [
+    "The major requires students to complete a series of core courses that introduce them to the key concepts and methodologies of literary and cultural analysis, including LIT 100: Introduction to Literary Analysis and LIT 150: World Literature.",
+    "Students then choose from a range of elective courses that explore specific literary and cultural traditions, such as LIT 160: Introduction to Asian American Literature and LIT 170: Introduction to Latin American Literature.",
+    "Upper-division courses allow students to engage with more specialized topics, such as LIT 205: Topics in World Literature and LIT 206: Topics in Cultural Studies, and to develop their critical thinking and writing skills through seminars and workshops.",
+    "The major also encourages students to explore related fields, such as history, anthropology, and language studies, and to develop a nuanced understanding of the complex interactions between cultures and societies."
+  ],
+  "learningOutcomes": [
+    "Analyze literary and cultural texts within their historical, social, and cultural contexts",
+    "Understand the complex interactions between cultures and societies",
+    "Develop critical thinking and writing skills through the analysis of literary and cultural texts",
+    "Explore the literary and cultural production of diverse societies around the world",
+    "Apply theoretical frameworks and methodologies to the study of literature and culture"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Comparative Literature",
+      "link": "https://catalog.ucsd.edu/courses/LIT/"
+    },
+    {
+      "title": "Literature",
+      "link": "https://catalog.ucsd.edu/courses/LIT/"
+    },
+    {
+      "title": "Cultural Studies",
+      "link": "https://catalog.ucsd.edu/courses/CULTURAL_STUDIES/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/courses/LIT/",
+    "https://literature.ucsd.edu/undergraduate-programs/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "48 upper-division units in Literature, plus prerequisites and electives; total approx. 180-200 quarter units",
+  "additionalInformation": "Students must satisfy the upper-division writing requirement. The major is administered by the Department of Literature."
+}

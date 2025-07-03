@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Physics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Physics is designed to provide a comprehensive education in the fundamental principles of physics. The program includes coursework in classical mechanics, electromagnetism, thermodynamics, quantum mechanics, and statistical mechanics, as well as laboratory and computational physics. Students are also required to complete a set of mathematics courses and have the opportunity to choose from a range of elective courses in physics and related fields.",
+  "shortProgramDescription": "The Physics B.S. program at UC San Diego provides a rigorous foundation in the principles of physics, preparing students for careers in research, industry, or further study.",
+  "classHighlights": [
+    "The physics core curriculum includes Classical Mechanics (PHYSICS 2A), Electricity and Magnetism (PHYSICS 2B and 2C), and Quantum Mechanics (PHYSICS 140A and 140B).",
+    "Students also complete laboratory courses, including Introduction to Physics Laboratory (PHYSICS 2CL) and Advanced Physics Laboratory (PHYSICS 110A and 110B).",
+    "Mathematics requirements include Calculus (MATH 10A, 10B, and 20A) and Differential Equations (MATH 20D or 20E).",
+    "Additional required courses cover Thermodynamics and Statistical Mechanics (PHYSICS 100A and 100B) and Computational Physics (PHYSICS 141).",
+    "Electives allow students to explore specialized topics in physics, such as Condensed Matter Physics, Nuclear and Particle Physics, and Astrophysics."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a thorough understanding of the fundamental principles of physics, including classical mechanics, electromagnetism, thermodynamics, quantum mechanics, and statistical mechanics.",
+    "Apply mathematical and computational techniques to solve physics problems.",
+    "Design and conduct experiments to test hypotheses and measure physical phenomena.",
+    "Analyze and interpret data from experiments and simulations.",
+    "Communicate complex physics concepts and results effectively in written and oral form."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Physics Minor",
+      "link": "https://physics.ucsd.edu/undergraduate-program/physics-minor"
+    },
+    {
+      "title": "Engineering Physics (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/Programs?Deptcode=PHYSICS&LastYrCatKey=999"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/Programs?Deptcode=PHYSICS&LastYrCatKey=999",
+    "https://physics.ucsd.edu/undergraduate-program/degree-requirements"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are advised to consult with the department for specific course requirements and recommendations. Preparation for graduate study is emphasized."
+}

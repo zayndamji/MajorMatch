@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Psychology with a Specialization in Clinical Psychology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The B.S. in Psychology with a Specialization in Clinical Psychology is designed to provide a comprehensive understanding of psychological principles, research methods, and their application to clinical psychology. The program includes coursework in statistics, research methods, abnormal psychology, and clinical psychology, as well as electives in areas such as developmental psychopathology and psychological assessment. Students are prepared for careers in research, healthcare, and social services, or for further study in graduate programs.",
+  "shortProgramDescription": "The B.S. in Psychology with a Specialization in Clinical Psychology provides a foundation in psychological theory, research methods, and clinical applications, preparing students for careers or further study.",
+  "classHighlights": [
+    "Foundational courses in psychology introduce students to the field's core concepts, including introductory psychology, statistics, and research methods.",
+    "Clinical psychology coursework covers abnormal psychology, clinical psychology, and psychological assessment, providing a comprehensive understanding of clinical practices.",
+    "Electives in areas such as developmental psychopathology, health psychology, and cultural psychology allow students to explore specific interests.",
+    "Upper-division courses focus on advanced topics, including research design, data analysis, and the application of psychological principles to real-world problems.",
+    "The program emphasizes the development of critical thinking, research, and analytical skills, preparing students for a range of career paths or graduate study."
+  ],
+  "learningOutcomes": [
+    "Understand the major theories and concepts in psychology and clinical psychology.",
+    "Apply research methods and statistical techniques to psychological questions.",
+    "Analyze and interpret data related to clinical psychology.",
+    "Demonstrate knowledge of abnormal psychology and clinical practices.",
+    "Evaluate the ethical and cultural considerations in clinical psychology.",
+    "Communicate complex psychological concepts effectively."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Psychology (B.A.)",
+      "link": "https://catalog.ucsd.edu/college-arts-humanities/departments-arts-humanities/psychology-ba/"
+    },
+    {
+      "title": "Psychology with a Specialization in Cognitive and Brain Sciences (B.S.)",
+      "link": "https://catalog.ucsd.edu/college-arts-humanities/departments-arts-humanities/psychology-bs-cognitive-science/"
+    },
+    {
+      "title": "Psychology Minor",
+      "link": "https://catalog.ucsd.edu/college-arts-humanities/departments-arts-humanities/psychology-minor/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/college-arts-humanities/departments-arts-humanities/psychology-bs-clinical-psychology/",
+    "https://psychology.ucsd.edu/undergraduate-program/majors-and-minors/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system, although some students may take longer)",
+  "creditRequirements": "Total of 180 quarter units; major requirements include 64 units of upper-division psychology coursework, with specific requirements in clinical psychology and research methods.",
+  "additionalInformation": "The program is designed to be completed in four years, assuming a normal course load each quarter. Students are encouraged to participate in research projects and internships to gain practical experience."
+}

@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Environmental Chemistry (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Environmental Chemistry major is designed to provide students with a strong foundation in the chemical principles underlying environmental processes and the skills to analyze and address environmental issues. The program combines coursework in chemistry, biology, earth sciences, and environmental science to prepare students for careers in research, industry, government, and education.",
+  "shortProgramDescription": "The Environmental Chemistry B.S. program provides a comprehensive education in the chemical aspects of environmental science, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The Environmental Chemistry core includes CHEM 6A-B-C, CHEM 7L, CHEM 131A, CHEM 152A, CHEM 162, CHEM 174, and CHEM 196. These courses cover fundamental principles of chemistry, laboratory techniques, and environmental chemistry.",
+    "Students also complete coursework in biology (BILD 1 or BILD 2, BILD 3), earth sciences (DSC 30), and physics (PHYS 1A or PHYS 2A, PHYS 1B or PHYS 2B, PHYS 1C or PHYS 2C).",
+    "Electives and upper-division coursework include classes in environmental chemistry (CHEM 143A-B, CHEM 144), analytical chemistry (CHEM 156), and biochemistry (CHEM 114A-B).",
+    "Additional requirements include MATH 2, MATH 3, and MATH 10A-B or MATH 20A-B-C, as well as a laboratory course in biochemistry or molecular biology (CHEM 114L, BILD 100).",
+    "Students gain hands-on experience through laboratory and fieldwork, including experiments and projects in environmental chemistry and related areas."
+  ],
+  "learningOutcomes": [
+    "Apply chemical principles to understand and analyze environmental processes.",
+    "Design and conduct experiments to measure and analyze environmental samples.",
+    "Communicate complex scientific information effectively to diverse audiences.",
+    "Understand the impact of human activities on the environment and develop strategies to mitigate these impacts.",
+    "Work collaboratively to address environmental challenges and develop sustainable solutions."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Chemistry (B.S.)",
+      "link": "https://catalog.ucsd.edu/main/Courses/CHEM_BS.html"
+    },
+    {
+      "title": "Biochemistry (B.S.)",
+      "link": "https://catalog.ucsd.edu/main/Courses/CHEM_BIOCHEM_BS.html"
+    },
+    {
+      "title": "Environmental Science (B.S.)",
+      "link": "https://catalog.ucsd.edu/main/Courses/ENV_SCI_BS.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/main/Courses/CHEM_ENV_BS.html",
+    "https://chemistry.ucsd.edu/undergraduate-program/index.html",
+    "https://chemistry.ucsd.edu/undergraduate-program/majors/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-190 quarter units",
+  "additionalInformation": "The Environmental Chemistry major requires a strong foundation in chemistry, biology, and mathematics. Students are encouraged to participate in research projects, internships, and other hands-on experiences to gain practical skills and build their professional network."
+}

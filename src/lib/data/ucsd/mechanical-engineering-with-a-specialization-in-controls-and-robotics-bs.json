@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Mechanical Engineering with a Specialization in Controls and Robotics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mechanical Engineering with a Specialization in Controls and Robotics program is designed to provide students with a comprehensive understanding of mechanical engineering principles, with a focus on control systems and robotics. The program includes coursework in mechanics, thermodynamics, materials science, and electrical engineering, as well as specialized courses in controls, robotics, and mechatronics. Students learn to analyze and design complex systems, and develop skills in programming, problem-solving, and collaboration.",
+  "shortProgramDescription": "The Mechanical Engineering with a Specialization in Controls and Robotics B.S. program provides students with a strong foundation in mechanical engineering and specialized knowledge in control systems and robotics.",
+  "classHighlights": [
+    "Students take foundational courses in Mechanical Engineering, including Statics (MAE 3), Dynamics (MAE 30B), Mechanics of Materials (MAE 3), and Thermodynamics (MAE 105A).",
+    "Coursework in Electrical Engineering and Computer Science is also required, including Introduction to Electronics (MAE 140) and Programming for Robotics (MAE 143C).",
+    "Specialized courses in Controls and Robotics include Control Systems (MAE 143B), Robotics: Kinematics and Control (MAE 142), and Mechatronics (MAE 148B).",
+    "Students also complete laboratory courses, including Mechanical Engineering Laboratory (MAE 107) and Mechatronics Laboratory (MAE 148C).",
+    "Electives in Mechanical Engineering and related fields allow students to explore areas of interest and deepen their knowledge in specific topics."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mechanical engineering to analyze and design complex systems.",
+    "Develop and implement control systems and robotics technologies.",
+    "Use programming languages and software tools to model, simulate, and optimize mechanical systems.",
+    "Analyze and solve problems in mechanics, thermodynamics, and materials science.",
+    "Collaborate effectively in teams to design and develop mechanical systems and solutions.",
+    "Communicate technical information effectively through written and oral presentations."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mechanical Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/curriculum/mae/undergrad/mae-bs/"
+    },
+    {
+      "title": "Aerospace Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/curriculum/mae/undergrad/aero-bs/"
+    },
+    {
+      "title": "NanoEngineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/curriculum/nano/undergrad/nano-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/curriculum/mae/undergrad/mae-bs-controls-robotics/",
+    "https://mae.ucsd.edu/",
+    "https://catalog.ucsd.edu/curriculum/mae/undergrad/mae-bs/"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "approx. 200 quarter units",
+  "additionalInformation": "Students must complete a senior design project and satisfy upper-division writing requirements. Electives and specializations allow students to tailor their education to their interests and career goals."
+}

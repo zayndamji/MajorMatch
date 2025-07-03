@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Bioengineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bioengineering program at UC San Diego is an interdisciplinary major that combines engineering principles with biological sciences to develop innovative solutions for health and medicine. The program provides a foundation in engineering, mathematics, and physical sciences, as well as a deep understanding of biological systems. Students learn to apply engineering principles to medical and biological problems, preparing them for careers in industry, research, or graduate study.",
+  "shortProgramDescription": "The Bioengineering B.S. program at UC San Diego integrates engineering and biological sciences to prepare students for careers in health and medicine.",
+  "classHighlights": [
+    "Mathematics and Physics: Students complete a series of mathematics and physics courses, including Calculus (MATH 20A-B-C-D), Physics (PHYS 2A-B-C), and Differential Equations (MATH 20D or MATH 31).",
+    "Engineering Foundations: The program includes foundational engineering courses such as Introduction to Bioengineering (BE 1 or BE 100), Biomechanics (BE 120 or BE 220), and Biomaterials (BE 130 or BE 230).",
+    "Biological Sciences: Students take a range of biological sciences courses, including Introduction to Biology (BILD 1 or BILD 3), Biochemistry (BICD 100 or CHEM 114A-B), and Molecular Biology (BICD 110 or BICD 120).",
+    "Bioengineering Core: The major includes core bioengineering courses such as Biomechanics (BE 120 or BE 220), Biomaterials (BE 130 or BE 230), and Systems Physiology (BE 140 or BE 240).",
+    "Technical Electives: Students choose from a range of technical electives, including courses in bioinformatics, biomedical devices, and tissue engineering."
+  ],
+  "learningOutcomes": [
+    "Apply engineering principles to biological systems",
+    "Design and develop biomedical devices and systems",
+    "Understand the biological and physical principles underlying human physiology",
+    "Analyze and interpret data from biological systems",
+    "Communicate complex ideas and results effectively",
+    "Work effectively in teams to solve complex problems"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Biology (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses/degree/biol-bs/"
+    },
+    {
+      "title": "Biochemistry (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses/degree/chem-biochem-bs/"
+    },
+    {
+      "title": "Nanoengineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses/degree/mae-nano-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/degree/be-bs/",
+    "https://be.ucsd.edu/undergrad/",
+    "https://jacobsschool.ucsd.edu/academics/majors/bioengineering"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "approx. 180-200 quarter units",
+  "additionalInformation": "Students must complete a set of required courses, including mathematics, physics, and biology. The major also includes a set of core bioengineering courses and technical electives. Students are encouraged to participate in research and internship opportunities."
+}

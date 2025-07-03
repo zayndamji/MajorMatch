@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Mathematics (Applied) (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Mathematics (Applied) is designed to provide students with a strong foundation in mathematical techniques, modeling, and computational methods, preparing them for careers in industry, government, or research. The program includes a broad range of courses in mathematics, including core topics such as differential equations, linear algebra, and probability, as well as specialized courses in applied mathematics. Students are also required to complete a minor or a secondary field of study. The program emphasizes the development of problem-solving skills, mathematical modeling, and computational techniques.",
+  "shortProgramDescription": "The Mathematics (Applied) B.S. program at UC San Diego provides a rigorous foundation in applied mathematical techniques, preparing students for careers in industry, research, or government.",
+  "classHighlights": [
+    "The core mathematics courses include Calculus (MATH 20A-B-C-D), Linear Algebra (MATH 20F), and Differential Equations (MATH 20D or MATH 140A-B), providing a solid foundation in mathematical principles.",
+    "Students take additional coursework in applied mathematics, including Numerical Analysis (MATH 174), Mathematical Modeling (MATH 176 or 183), and Probability and Statistics (MATH 180A-B or 181A-B).",
+    "Electives in the department allow students to explore topics such as Mathematical Biology (MATH 154 or 187), Mathematical Finance (MATH 171), or Optimization (MATH 171 or 173).",
+    "Further required coursework includes Computer Programming (CSE 8A-B or 11) and Programming with data structures (CSE 12 or 15L).",
+    "Advanced courses in the department cover a range of specialized topics, ensuring students gain a broad understanding of applied mathematics."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical techniques and models to solve real-world problems in fields such as science, engineering, and finance.",
+    "Develop skills in computational methods and programming.",
+    "Analyze and interpret data using statistical techniques.",
+    "Understand and apply mathematical theories, including differential equations and linear algebra.",
+    "Communicate complex mathematical ideas and results effectively."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mathematics (B.S.)",
+      "link": "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/mathematics-department/undergraduate-programs/mathematics-b-s/"
+    },
+    {
+      "title": "Mathematics-Computer Science (B.S.)",
+      "link": "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/mathematics-department/undergraduate-programs/mathematics-computer-science-b-s/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/mathematics-department/undergraduate-programs/mathematics-applied-b-s/",
+    "https://math.ucsd.edu/undergrad/handbook",
+    "https://math.ucsd.edu/undergrad/programs"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-190 quarter units",
+  "additionalInformation": "The program requires a strong foundation in mathematics and computer programming. Students are encouraged to explore various electives to tailor their degree to their interests and career goals."
+}

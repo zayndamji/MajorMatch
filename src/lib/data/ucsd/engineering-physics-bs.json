@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Engineering Physics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Engineering Physics is offered by the Department of Electrical and Computer Engineering. The program is designed to provide a broad foundation in physics and engineering principles, as well as a strong background in mathematics and computational methods. The curriculum includes coursework in mechanics, electromagnetism, thermodynamics, and quantum mechanics, as well as courses in electrical and computer engineering.",
+  "shortProgramDescription": "The Engineering Physics B.S. program provides a strong foundation in physics and engineering principles, preparing students for careers in research, development, and industry.",
+  "classHighlights": [
+    "The program begins with foundational courses in physics, including Mechanics (PHYS 2A or 2B), Electricity and Magnetism (PHYS 2C or 2D), and Thermodynamics (PHYS 105A).",
+    "Students also complete a series of mathematics courses, including Calculus (MATH 20A, 20B, 20C, and 20D) and Differential Equations (MATH 20E or 21C).",
+    "Electrical and Computer Engineering coursework includes Introduction to ECE (ECE 1), Circuit Analysis (ECE 101), and Electronics (ECE 65).",
+    "Additional required courses cover topics such as computational methods, programming, and engineering design.",
+    "Upper-division physics courses provide in-depth coverage of topics like quantum mechanics, statistical mechanics, and electromagnetic theory.",
+    "Students also complete a series of technical electives in ECE or other approved departments."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of physics and engineering to solve complex problems.",
+    "Demonstrate a strong understanding of mathematical and computational methods.",
+    "Analyze and design electrical and computer engineering systems.",
+    "Communicate technical concepts effectively.",
+    "Work effectively in teams to solve engineering problems.",
+    "Apply principles of physics to engineering design and development."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Physics (B.S.)",
+      "link": "https://catalog.ucsd.edu/PROGRAMS/MAJORS/PHYSICS-BS/"
+    },
+    {
+      "title": "Electrical Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/PROGRAMS/MAJORS/ELECTRICAL-ENGINEERING-BS/"
+    },
+    {
+      "title": "Computer Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/PROGRAMS/MAJORS/COMPUTER-ENGINEERING-BS/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/PROGRAMS/MAJORS/ENGINEERING-PHYSICS-BS/",
+    "https://ece.ucsd.edu/undergraduate-programs/engineering-physics-bs"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must satisfy major, college, and university requirements. The program is designed to be completed in four years, with careful planning and advising."
+}

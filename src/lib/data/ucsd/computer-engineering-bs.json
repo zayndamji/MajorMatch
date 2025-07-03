@@ -1,0 +1,47 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Computer Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Computer Engineering program at UC San Diego is offered by the Department of Computer Science and Engineering (CSE). The program provides a comprehensive education in the design, development, and testing of computer systems, including both hardware and software components. Students learn about the fundamentals of computer architecture, digital systems, and software engineering, as well as the integration of these components into complex systems.",
+  "shortProgramDescription": "The Computer Engineering B.S. program at UC San Diego provides a rigorous foundation in computer systems, preparing students for careers in the tech industry or further study.",
+  "classHighlights": [
+    "The program begins with foundational courses in programming (CSE 11 or CSE 8A/B), computer organization (CSE 30), and digital design (CSE 12).",
+    "Students then progress to more advanced courses in computer architecture (CSE 142/L), software engineering (CSE 110), and operating systems (CSE 120).",
+    "Additional core courses include algorithms (CSE 101), computer networks (CSE 123), and database systems (CSE 132A/B).",
+    "Students also complete a series of mathematics and science courses, including calculus (MATH 20A-D), physics (PHYS 2A-B-C), and differential equations (MATH 20D or MATH 21D).",
+    "The program also includes a range of technical electives, allowing students to specialize in areas such as computer networks, embedded systems, or software engineering.",
+    "Upper-division CSE courses provide advanced knowledge in areas such as computer vision, machine learning, and data science.",
+    "Students also complete a series of breadth courses, including engineering probability and statistics (ECE 109), and engineering ethics (CSE 190 or other approved courses)."
+  ],
+  "learningOutcomes": [
+    "Design and implement computer systems, including both hardware and software components.",
+    "Analyze and optimize computer systems for performance, power, and reliability.",
+    "Apply mathematical and scientific principles to solve complex engineering problems.",
+    "Communicate technical ideas and results effectively in written and oral form.",
+    "Work effectively in teams to design and develop complex systems.",
+    "Understand the social and ethical implications of computer engineering."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Computer Science (B.S.)",
+      "link": "https://catalog.ucsd.edu/curric/CSE/undergrad/cse-major-bs/"
+    },
+    {
+      "title": "Electrical Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/curric/ECE/undergrad/ece-bs/"
+    },
+    {
+      "title": "Computer Science and Engineering Minor",
+      "link": "https://catalog.ucsd.edu/curric/CSE/undergrad/cse-minor/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/curric/CSE/undergrad/computer-engineering-bs/",
+    "https://cse.ucsd.edu/undergraduate/computer-engineering-bs",
+    "https://cse.ucsd.edu/undergraduate/advising"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "around 200-210 quarter units (varies based on transfer credits and specific course choices)",
+  "additionalInformation": "Students must complete a set of lower-division and upper-division CSE courses, as well as a series of mathematics and science courses. The program is designed to be completed in 4 years, with around 14-16 units per quarter. Students are encouraged to participate in research, internships, and other extracurricular activities to enhance their education."
+}

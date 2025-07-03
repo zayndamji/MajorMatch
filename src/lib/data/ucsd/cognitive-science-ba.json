@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Cognitive Science (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Cognitive Science Department at UC San Diego offers an interdisciplinary undergraduate major that focuses on the study of the mind and intelligence. The major encompasses a broad range of topics including perception, cognition, and action, drawing from fields such as psychology, computer science, linguistics, philosophy, and neuroscience. Students explore the theoretical foundations and empirical methods used to understand human cognition and related processes.",
+  "shortProgramDescription": "The Cognitive Science B.A. provides a comprehensive education in the study of mental processes, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The Cognitive Science core includes courses on Cognitive Science: Introduction (COGS 101A), Cognitive Science: Methods (COGS 101B), and Statistics for Cognitive Science (COGS 14A). These foundational courses provide a broad introduction to the field and its methodologies.",
+    "The Perception and Action category includes courses such as Perception (COGS 101C), Cognitive Neuroscience (COGS 107A), and Action and Motor Control (COGS 107B). These courses examine the processes involved in perceiving and interacting with the environment.",
+    "Cognition and Language courses encompass topics such as Human Memory (COGS 102A), Language Processing (COGS 103A), and Reasoning and Decision-Making (COGS 103B). These classes investigate the complex processes underlying human thought and language.",
+    "Specialized electives allow students to delve into areas like Artificial Intelligence (COGS 118A), Human-Computer Interaction (COGS 120), and Cognitive Development (COGS 160). These courses explore the intersection of cognitive science with other disciplines and emerging areas of study.",
+    "Upper-division electives and seminars enable students to engage with advanced topics, research, and theoretical debates within cognitive science. These courses foster a deeper understanding of specific areas and prepare students for independent research or professional pursuits."
+  ],
+  "learningOutcomes": [
+    "Understand the core principles and theories of cognitive science.",
+    "Apply empirical methods and theoretical frameworks to the study of cognition.",
+    "Analyze complex cognitive processes, including perception, language, and decision-making.",
+    "Evaluate the interdisciplinary nature of cognitive science, integrating insights from psychology, computer science, linguistics, and philosophy.",
+    "Communicate complex ideas effectively in written and oral forms.",
+    "Design and conduct research projects applying cognitive science principles."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Linguistics (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses-programs/undergraduate-degrees/linguistics-ba/"
+    },
+    {
+      "title": "Psychology (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses-programs/undergraduate-degrees/psychology-ba/"
+    },
+    {
+      "title": "Computer Science (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses-programs/undergraduate-degrees/computer-science-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses-programs/undergraduate-degrees/cognitive-science-ba/",
+    "https://cogsci.ucsd.edu/undergraduate-programs/index.html"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "Total of 180 quarter units (or equivalent semester units); includes major requirements, general education, and electives.",
+  "additionalInformation": "Students must satisfy major requirements, including core courses, category requirements, and upper-division electives. Preparation for graduate study is encouraged through research participation and advanced coursework."
+}

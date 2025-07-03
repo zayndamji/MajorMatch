@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Mechanical Engineering with a Specialization in Fluid Mechanics and Thermal Systems (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mechanical Engineering with a Specialization in Fluid Mechanics and Thermal Systems program at UC San Diego is designed to provide students with a comprehensive education in mechanical engineering, with a focus on fluid mechanics and thermal systems. The program covers topics such as thermodynamics, fluid mechanics, heat transfer, and mechanical systems, preparing students for careers in industries related to energy, aerospace, and more.",
+  "shortProgramDescription": "The B.S. in Mechanical Engineering with a Specialization in Fluid Mechanics and Thermal Systems at UC San Diego provides a strong foundation in mechanical engineering principles, with a focus on fluid mechanics and thermal systems.",
+  "classHighlights": [
+    "The program begins with foundational courses in mathematics and physics, including calculus, differential equations, and physics. Students also take introductory courses in mechanical engineering, such as Mechanical Engineering Laboratory and Introduction to Mechanical Engineering.",
+    "Students then progress to core mechanical engineering courses, including Thermodynamics, Fluid Mechanics, Heat Transfer, and Mechanical Systems. These courses provide a comprehensive understanding of mechanical engineering principles and their applications.",
+    "In addition to core courses, students take specialized courses in fluid mechanics and thermal systems, such as Advanced Fluid Mechanics and Thermal Systems Design. These courses provide in-depth knowledge of fluid mechanics and thermal systems, preparing students for careers in industries related to energy, aerospace, and more.",
+    "The program also includes laboratory and design courses, where students apply theoretical knowledge to practical problems. Students work on projects and experiments, developing problem-solving skills and learning to work in teams."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical and scientific principles to solve mechanical engineering problems",
+    "Analyze and design mechanical systems, including fluid mechanics and thermal systems",
+    "Understand the principles of thermodynamics, fluid mechanics, and heat transfer",
+    "Use laboratory and experimental techniques to measure and analyze mechanical systems",
+    "Communicate technical information effectively through written and oral presentations",
+    "Work effectively in teams to design and develop mechanical systems"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mechanical Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/engineering/mae/undergraduate-programs/mae-bs/"
+    },
+    {
+      "title": "Aerospace Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/engineering/mae/undergraduate-programs/aerospace-engineering-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/engineering/mae/undergraduate-programs/mae-bs-fluid-mechanics-thermal-systems/",
+    "https://mae.ucsd.edu/undergraduate-programs/bs-mechanical-engineering"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "approximately 200-210 quarter units",
+  "additionalInformation": "Students must complete lower-division courses in mathematics, physics, and chemistry before taking upper-division mechanical engineering courses. The program is accredited by the Engineering Accreditation Commission of ABET."
+}

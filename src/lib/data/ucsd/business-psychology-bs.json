@@ -1,0 +1,36 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Business Psychology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Business Psychology major is an interdisciplinary program that focuses on the application of psychological principles to the business world. The program emphasizes the understanding of human behavior in organizational settings and prepares students for careers in management, human resources, marketing, and other related fields. The curriculum includes coursework in psychology, business, and statistics, providing students with a solid foundation in the principles of business and the skills to apply psychological theory to real-world problems.",
+  "shortProgramDescription": "The Business Psychology B.S. program applies psychological principles to business settings, preparing students for careers in management, human resources, and marketing.",
+  "classHighlights": [
+    "The Business Psychology major requires a foundation in psychology, including courses such as Introduction to Psychology (PSYC 60), Research Methods (PSYC 101), and Statistics (PSYC 60/161).",
+    "Students also complete coursework in business, including Introduction to Business (MGT 1), Organizational Behavior (MGT 101), and Marketing (MKTG 105).",
+    "Additional required courses include Business Psychology (PSYC 142), Consumer Behavior (MKTG 105), and Personnel Psychology (PSYC 145)."
+  ],
+  "learningOutcomes": [
+    "Apply psychological principles to business settings",
+    "Understand human behavior in organizational settings",
+    "Analyze and interpret data related to business and psychology",
+    "Develop effective management and leadership skills",
+    "Communicate effectively in written and oral form"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Psychology (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/psychology-ba/"
+    },
+    {
+      "title": "Management (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/management-ba/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/psychology-bs-business-psychology/"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "Total: approximately 180-200 quarter units; major: 62-63 upper-division units in Psychology and Management",
+  "additionalInformation": "The Business Psychology major is a highly competitive program that requires a supplemental application. Students must meet the major's GPA requirements and complete specific prerequisites to be considered for admission."
+}

@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Business Economics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Business Economics is an interdisciplinary program that combines the rigor of an economics major with relevant business coursework to prepare students for careers in management, finance, marketing, and other business-related fields. The program emphasizes analytical, quantitative, and problem-solving skills, providing a comprehensive understanding of economic theory, business practices, and data analysis. Students learn to apply economic principles to business decision-making and gain a strong foundation in statistical methods, econometrics, and business applications.",
+  "shortProgramDescription": "The Business Economics B.S. at UC San Diego integrates economic theory, quantitative methods, and business applications to prepare students for careers in finance, management, and related fields.",
+  "classHighlights": [
+    "Students complete foundational courses in microeconomics (ECON 1, ECON 100A), macroeconomics (ECON 2, ECON 100B), and econometrics (ECON 120A-B-C), providing a strong theoretical and empirical background.",
+    "Business coursework includes financial accounting (MGT 18 or MGT 120A), managerial accounting (MGT 124), finance (MGT 181 or MGT 134), marketing (MGT 166 or MGT 172), and organizational behavior (MGT 163).",
+    "Quantitative methods are emphasized through statistics (ECON 120A-B-C, MATH 11 or ECON 113) and data analysis, enabling students to apply economic models to real-world business problems.",
+    "Additional electives allow students to explore specialized areas such as international trade, labor economics, or industry studies, tailoring the major to their interests.",
+    "The program requires a minimum of 65 upper-division units in economics, management, and related fields, ensuring a comprehensive education in business economics."
+  ],
+  "learningOutcomes": [
+    "Apply economic theory to business decision-making and policy analysis.",
+    "Analyze data using statistical and econometric methods.",
+    "Understand financial and managerial accounting principles.",
+    "Evaluate business strategies in finance, marketing, and organizational behavior.",
+    "Communicate complex ideas clearly in written and oral formats.",
+    "Use quantitative methods to solve business problems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Economics (B.A. or B.S.)",
+      "link": "https://catalog.ucsd.edu/main-catalog/programs/arts-humanities/social-sciences/economics-ba-bs/"
+    },
+    {
+      "title": "Management (B.A. or B.S.)",
+      "link": "https://catalog.ucsd.edu/main-catalog/programs/arts-humanities/radii/radii-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/main-catalog/programs/arts-humanities/social-sciences/business-economics-bs/",
+    "https://economics.ucsd.edu/undergraduate-programs/index.html",
+    "https://radm.ucsd.edu/undergraduate-programs/management-science/undergraduate-programs/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-182 quarter units (varies by track and electives)",
+  "additionalInformation": "The Business Economics major is managed by the Economics department and requires careful planning to meet all prerequisites and upper-division requirements. Students are advised to consult with department advisors to ensure timely completion."
+}

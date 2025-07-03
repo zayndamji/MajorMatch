@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Interdisciplinary Computing and the Arts (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Interdisciplinary Computing and the Arts major is designed for students who are interested in the intersection of computing and the arts. The program is interdisciplinary, drawing on courses from the Departments of Computer Science and Engineering, Music, Visual Arts, and others. Students in this major gain a strong foundation in computing, as well as a deep understanding of the arts and humanities.",
+  "shortProgramDescription": "The Interdisciplinary Computing and the Arts major prepares students for careers at the intersection of technology and the arts.",
+  "classHighlights": [
+    "The major requires foundational courses in computer science, including Introduction to Computer Science and Programming (CSE 11 or CSE 8A/B), Introduction to Data Structures and Algorithms (CSE 12), and Computer Science and Engineering (CSE 15L).",
+    "Students also complete a series of arts and humanities courses, including Introduction to Media Arts (VIS 106A) and Music and Digital Media (MUS 17).",
+    "Additional required courses include Mathematics for Computation (MATH 15A) and Interdisciplinary Computing and the Arts (ICSA 180).",
+    "Students choose from a range of electives in computer science, arts, and humanities, allowing them to tailor their degree to their interests.",
+    "Departmental courses are offered by the Mechanical and Aerospace Engineering department, however the major is not housed in this department."
+  ],
+  "learningOutcomes": [
+    "Apply computational thinking and programming skills to artistic and creative problems",
+    "Understand the historical and cultural context of digital media and technology",
+    "Analyze and critique digital artworks and media",
+    "Design and develop interactive and immersive digital experiences",
+    "Communicate complex ideas and concepts through digital media"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Computer Science and Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/main/programs/cse-bs/"
+    },
+    {
+      "title": "Music (B.A.)",
+      "link": "https://catalog.ucsd.edu/main/programs/music-ba/"
+    },
+    {
+      "title": "Visual Arts (B.A.)",
+      "link": "https://catalog.ucsd.edu/main/programs/visual-arts-ba/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/main/programs/interdisciplinary-computing-and-the-arts-ba/",
+    "https://ic.ucsd.edu/",
+    "https://jacobsen.ucsd.edu/"
+  ],
+  "programDuration": "4 years (quarter system), 12 quarters",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The major is limited in the number of students it can accept. Students must apply to the major and be accepted. The major is housed in the Jacobs School of Engineering, but draws on courses from across the campus."
+}

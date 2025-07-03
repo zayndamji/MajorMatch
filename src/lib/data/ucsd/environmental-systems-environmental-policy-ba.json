@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Environmental Systems (Environmental Policy) (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Environmental Systems major is an interdisciplinary program that examines the complex interactions between human and natural systems. The Environmental Policy concentration focuses on the development, implementation, and impact of environmental policies. Students in this program gain a comprehensive understanding of the social, economic, and environmental dimensions of environmental issues.",
+  "shortProgramDescription": "The Environmental Systems (Environmental Policy) B.A. provides students with a comprehensive understanding of environmental issues and the policies that shape our response to them.",
+  "classHighlights": [
+    "The Environmental Systems core courses (ENVS30, ENVS101, ENVS102, ENVS103) provide a foundation in the principles of environmental systems, including the social, economic, and environmental dimensions of environmental issues.",
+    "The Environmental Policy concentration requires courses in policy analysis (ENVS110), environmental law (ENVS111), and sustainable development (ENVS112), as well as electives in areas such as climate change policy, environmental justice, and conservation policy.",
+    "Students also choose from a range of electives in the natural sciences, social sciences, and humanities, including courses in ecology, economics, politics, and philosophy, to gain a deeper understanding of the complex interactions between human and natural systems.",
+    "The program also includes a range of upper-division courses that provide advanced training in areas such as environmental governance, sustainable development, and environmental policy analysis."
+  ],
+  "learningOutcomes": [
+    "Understand the complex interactions between human and natural systems",
+    "Analyze the social, economic, and environmental dimensions of environmental issues",
+    "Develop skills in policy analysis and development",
+    "Understand the role of institutions and governance in shaping environmental outcomes",
+    "Apply knowledge of environmental systems and policy to real-world problems"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Science (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses/ENV-SCI"
+    },
+    {
+      "title": "Global Studies (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/GLOBAL"
+    },
+    {
+      "title": "Urban Studies and Planning (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/USP"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/ENVS",
+    "https://envs.ucsd.edu/undergraduate/majors/index.html",
+    "https://envs.ucsd.edu/undergraduate/majors/envs-policy.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the required courses for the major, including the Environmental Systems core and the Environmental Policy concentration. The major is administered by the Environmental Systems Program."
+}

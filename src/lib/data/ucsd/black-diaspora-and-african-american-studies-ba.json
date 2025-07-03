@@ -1,0 +1,37 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Black Diaspora and African American Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The major in Black Diaspora and African American Studies is an interdisciplinary program that examines the experiences, histories, cultures, and social realities of Black people in the United States and throughout the Diaspora. The program is designed to provide students with a nuanced understanding of the complex and multifaceted nature of Black identities, cultures, and histories. Students in the program explore a range of topics, including the African Diaspora, African American history and culture, and the social, economic, and political contexts that shape the lives of Black people.",
+  "shortProgramDescription": "The B.A. in Black Diaspora and African American Studies provides students with a comprehensive understanding of the Black experience in the United States and the Diaspora, preparing them for careers in fields such as education, law, social work, and the arts.",
+  "classHighlights": [
+    "The core courses provide a foundation in the field, introducing students to key concepts, theories, and methodologies. Courses such as Introduction to Black Diaspora and African American Studies and Research Methods in Black Diaspora and African American Studies provide a broad understanding of the field and prepare students for more advanced coursework.",
+    "The major offers a range of upper-division courses that allow students to explore specific topics in greater depth. These courses may include African American History, Black Culture and Identity, and Social Justice Movements in the African Diaspora, among others.",
+    "Electives enable students to tailor their major to their interests, choosing from a range of courses that may include topics such as African Diasporic Cultures, Black Feminist Thought, and African American Literature."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a comprehensive understanding of the Black experience in the United States and the Diaspora.",
+    "Analyze the social, economic, and political contexts that shape the lives of Black people.",
+    "Apply key concepts, theories, and methodologies in the field to real-world problems.",
+    "Communicate complex ideas effectively in written and oral form.",
+    "Think critically about the complex and multifaceted nature of Black identities, cultures, and histories."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Africana Studies Minor",
+      "link": "https://catalog.ucsd.edu/front/coursesindex/#afric"
+    },
+    {
+      "title": "Ethnic Studies Major",
+      "link": "https://catalog.ucsd.edu/front/coursesindex/#ethnic"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/coursesindex/#black",
+    "https://blink.ucsd.edu/sponsor/Black-Diaspora-African-American-Studies/"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "48 upper-division units in the major; total approximately 180 quarter units",
+  "additionalInformation": "Students must satisfy the major requirements in effect at the time of their declaration or any subsequent year. Students are encouraged to consult with an advisor to plan their course of study."
+}

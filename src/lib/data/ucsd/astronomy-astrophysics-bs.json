@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Astronomy & Astrophysics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science degree in Astronomy and Astrophysics is designed to provide a broad background in physics and astronomy, as well as a more specialized understanding of modern astrophysics. The program includes required upper-division courses in classical mechanics, electricity and magnetism, quantum mechanics, and statistical mechanics, in addition to astronomy and astrophysics courses. Students learn about the formation and evolution of stars, galaxies, and the universe, as well as the observational and theoretical tools used in the field.",
+  "shortProgramDescription": "The Astronomy & Astrophysics B.S. program provides a comprehensive education in physics and astronomy, preparing students for graduate study or careers in the field.",
+  "classHighlights": [
+    "The program begins with foundational courses in physics (PHYS2A-B-C or PHYS10-20-30) and mathematics (MATH10A-B-C or MATH20A-B-C), providing a basis for upper-division study.",
+    "Upper-division physics courses include Classical Mechanics (PHYS110A-B), Electricity and Magnetism (PHYS130A-B), Quantum Mechanics (PHYS140A-B), and Statistical Mechanics (PHYS145).",
+    "Astronomy and Astrophysics coursework encompasses Stellar Astrophysics (ASTR120), Galactic Astronomy (ASTR130), Cosmology (ASTR150), and Observational Astronomy (ASTR170).",
+    "Additional required courses include Computational Physics (PHYS105 or ASTR105) and Senior Seminar (ASTR190).",
+    "Students also complete a series of electives in astronomy and astrophysics, allowing for exploration of specialized topics."
+  ],
+  "learningOutcomes": [
+    "Apply knowledge of physics to understand astronomical phenomena.",
+    "Analyze and interpret astronomical data.",
+    "Understand the formation and evolution of stars, galaxies, and the universe.",
+    "Use computational tools to model and analyze astrophysical systems.",
+    "Communicate complex scientific concepts effectively."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Physics (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses/Physics/"
+    },
+    {
+      "title": "Minor in Astronomy and Astrophysics",
+      "link": "https://catalog.ucsd.edu/front/courses/Astronomy/"
+    }
+  ],
+  "sources": [
+    "https://astro.ucsd.edu/",
+    "https://astronomy.ucsd.edu/undergraduate-program/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The program requires a strong foundation in physics and mathematics. Students are encouraged to participate in research projects and internships to gain practical experience."
+}

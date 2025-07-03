@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Sociology (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Sociology at UC San Diego offers a comprehensive undergraduate program leading to a Bachelor of Arts degree in Sociology. The program is designed to provide students with a thorough understanding of sociological theories, methods, and substantive areas of inquiry. Students are trained in the analysis of social structures, institutions, and relationships, and are prepared for a wide range of careers in fields such as research, policy, education, and social services.",
+  "shortProgramDescription": "The Sociology B.A. program at UC San Diego provides students with a rigorous understanding of sociological theories, methods, and applications, preparing them for diverse careers or further study.",
+  "classHighlights": [
+    "The program requires students to complete a set of core courses, including Introduction to Sociology (SOC 1), Sociological Theory (SOC 100), Sociological Methods (SOC 102), and Statistics for Sociologists (SOC 103).",
+    "Students are also required to complete a set of upper-division courses, including Social Inequality (SOC 138), Social Organizations (SOC 140), and Sociology of Culture (SOC 142).",
+    "Elective courses cover a range of topics, including family sociology, criminology, social movements, and global sociology, allowing students to tailor their education to their interests.",
+    "Courses emphasize the development of critical thinking, research, and analytical skills, as well as written and oral communication.",
+    "The department offers a range of specialized courses that focus on contemporary social issues, such as immigration, racial and ethnic relations, and social policy.",
+    "Students are encouraged to engage with faculty research projects and participate in research practicum courses to gain hands-on experience."
+  ],
+  "learningOutcomes": [
+    "Understand and apply sociological theories and concepts to analyze social phenomena.",
+    "Develop skills in sociological research methods, including data collection and analysis.",
+    "Analyze social structures, institutions, and relationships.",
+    "Communicate complex sociological ideas effectively in written and oral form.",
+    "Apply sociological knowledge to understand and address social issues and problems.",
+    "Critically evaluate social policies and programs."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Minor in Sociology",
+      "link": "https://catalog.ucsd.edu/degreeinfo/Sociology/#minorrequirementstext"
+    },
+    {
+      "title": "Urban Studies and Planning (B.A.)",
+      "link": "https://catalog.ucsd.edu/degreeinfo/Urban-Studies-and-Planning/"
+    },
+    {
+      "title": "Ethnic Studies (B.A.)",
+      "link": "https://catalog.ucsd.edu/degreeinfo/Ethnic-Studies/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/degreeinfo/Sociology/",
+    "https://sociology.ucsd.edu/undergraduate-program/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Sociology B.A. program is designed to be completed in four years. Students are advised to consult with departmental advisors to plan their course sequence and ensure timely progress toward degree completion."
+}

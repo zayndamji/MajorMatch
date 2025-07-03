@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Studio (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Studio program, offered through the Visual Arts department, provides students with a comprehensive education in studio arts, preparing them for careers or further study in the arts. The program emphasizes the development of technical skills, critical thinking, and creative expression. Coursework includes foundational studies in drawing, painting, sculpture, and other media, as well as intermediate and advanced courses that allow students to explore specific interests and techniques.",
+  "shortProgramDescription": "The Studio B.A. program at UC San Diego fosters technical and creative skills in studio arts, preparing students for careers or graduate study.",
+  "classHighlights": [
+    "Foundational Courses: Students begin with introductory courses such as Drawing (ART1), Two-Dimensional Studio (VIS1), and Three-Dimensional Studio (VIS2), which introduce fundamental techniques and concepts in visual arts.",
+    "Intermediate Courses: At the intermediate level, students take courses like Intermediate Drawing (VIS60), Intermediate Painting (VIS61), and Intermediate Sculpture (VIS62), which build upon foundational skills and encourage experimentation with different media and techniques.",
+    "Advanced Courses: Advanced courses, including Senior Studio (VIS100) and various Special Topics courses (VIS195), allow students to refine their craft, explore specific themes or techniques, and develop a professional portfolio.",
+    "Art History and Theory: Throughout the program, students are also exposed to art history and theory through courses that contextualize their studio practice within broader historical and critical frameworks."
+  ],
+  "learningOutcomes": [
+    "Develop technical proficiency in a range of studio arts media and techniques.",
+    "Cultivate critical thinking and creative problem-solving skills.",
+    "Understand and apply principles of art history and theory to their studio practice.",
+    "Communicate effectively about their artistic process and intentions.",
+    "Prepare a professional portfolio that showcases their artistic development and achievements."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Art History (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/ART/"
+    },
+    {
+      "title": "Visual Arts Minor",
+      "link": "https://catalog.ucsd.edu/front/courses/VIS/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/VIS/",
+    "https://visualarts.ucsd.edu/undergraduate/major-studio-ba.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 total quarter units, with 56–60 units in major requirements",
+  "additionalInformation": "Students must complete lower-division requirements before advancing to upper-division coursework. The major is administered through the Visual Arts department."
+}

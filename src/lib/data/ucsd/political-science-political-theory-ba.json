@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Political Science/Political Theory (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Political Science major is designed to provide students with a broad understanding of the discipline, as well as the opportunity to focus on specific areas of interest. The Political Theory subfield focuses on the study of political thought and its application to contemporary issues.",
+  "shortProgramDescription": "The Political Science/Political Theory B.A. provides a comprehensive understanding of political systems, institutions, and theories, preparing students for careers in government, law, and public policy.",
+  "classHighlights": [
+    "The major requires a set of core courses that introduce students to the discipline, including POLI 27: Introduction to Political Theory, POLI 28: Comparative Politics, and POLI 30: Introduction to American Politics.",
+    "Students take additional courses in political theory, including POLI 127: Advanced Topics in Political Theory, and other upper-division courses that explore the history of political thought, contemporary theoretical debates, and the application of theory to real-world issues.",
+    "Electives allow students to explore related fields, such as comparative politics, international relations, and public policy, and to develop a deeper understanding of the complex relationships between politics, society, and economy.",
+    "Upper-division courses emphasize critical thinking, research, and writing skills, preparing students for advanced study or careers in fields related to politics and governance."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad understanding of the discipline of political science",
+    "Analyze and interpret complex political phenomena",
+    "Apply theoretical frameworks to real-world issues",
+    "Develop critical thinking, research, and writing skills",
+    "Understand the historical and contemporary contexts of political thought and institutions"
+  ],
+  "similarPrograms": [
+    {
+      "title": "International Relations Minor",
+      "link": "https://catalog.ucsd.edu/front/courses-index/minor-international-relations"
+    },
+    {
+      "title": "Public Policy Minor",
+      "link": "https://catalog.ucsd.edu/front/courses-index/minor-public-policy"
+    },
+    {
+      "title": "Philosophy Major",
+      "link": "https://catalog.ucsd.edu/front/courses-index/major-philosophy-ba"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses-index/major-political-science-ba",
+    "https://politicalscience.ucsd.edu/undergraduate/major.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "48 upper-division units in political science, plus 12 lower-division units; total 180 quarter units",
+  "additionalInformation": "The department recommends that students consult with advisors to plan their course sequence and electives. The major is administered by the Department of Political Science, which is located in the Division of Social Sciences."
+}

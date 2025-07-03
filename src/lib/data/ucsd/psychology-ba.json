@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Psychology (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Psychology major at UC San Diego offers a broad introduction to the scientific study of behavior and mental processes. Students learn about the major areas of psychology, including cognition, social psychology, developmental psychology, and biological psychology. The program emphasizes the development of critical thinking, research methods, and statistical analysis skills. Students are prepared for a variety of careers in fields such as research, education, healthcare, and social services, as well as for graduate study in psychology.",
+  "shortProgramDescription": "The Psychology B.A. program at UC San Diego provides a comprehensive education in the scientific study of behavior and mental processes, preparing students for careers or further study.",
+  "classHighlights": [
+    "The Psychology Department requires students to complete a set of foundational courses, including Introduction to Psychology (PSYC60), Research Methods (PSYC101 or PSYC102), and Statistics (PSYC104 or PSYC107).",
+    "Students also complete a series of core courses that cover major areas of psychology, such as Abnormal Psychology (PSYC165), Social Psychology (PSYC160), and Cognitive Neuroscience (PSYC163).",
+    "Upper-division electives allow students to explore specialized topics in psychology, including Developmental Psychology, Personality, and Clinical Psychology.",
+    "The department offers a range of courses that emphasize the application of psychological principles to real-world problems, such as Health Psychology and Psychology and Law.",
+    "Students can also engage in research experiences through courses like Research Methods and Independent Study (PSYC199)."
+  ],
+  "learningOutcomes": [
+    "Understand the major concepts, theoretical perspectives, and empirical findings in psychology.",
+    "Apply research methods and statistical techniques to study behavior and mental processes.",
+    "Develop critical thinking and analytical skills to evaluate psychological theories and research.",
+    "Communicate effectively about psychological concepts and research findings.",
+    "Recognize the diversity of human behavior and mental processes across cultures and contexts.",
+    "Apply psychological principles to real-world problems and issues."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Cognitive Science (B.A.)",
+      "link": "https://catalog.ucsd.edu/Front/DepartmentsandPrograms/CognitiveScience.aspx"
+    },
+    {
+      "title": "Neuroscience (B.S.)",
+      "link": "https://catalog.ucsd.edu/Front/DepartmentsandPrograms/Neuroscience.aspx"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/Front/DepartmentsandPrograms/Psychology.aspx",
+    "https://psychology.ucsd.edu/undergraduate-program/major-requirements/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "48 upper-division units in Psychology; total approximately 180 quarter units",
+  "additionalInformation": "The Psychology major is a flexible program that allows students to explore a range of topics in psychology while developing a strong foundation in research methods and statistical analysis. Students are encouraged to engage in research experiences and to pursue internships or volunteer work in fields related to psychology."
+}

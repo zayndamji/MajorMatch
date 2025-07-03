@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Anthropology (Archaeology) (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Anthropology major with a focus on Archaeology is designed to provide students with a comprehensive understanding of human culture and behavior through the study of material remains. The program emphasizes the development of critical thinking, research, and analytical skills. Students explore the cultural, social, and historical contexts of past societies, and learn about the theoretical and methodological approaches used in archaeological research.",
+  "shortProgramDescription": "The Anthropology (Archaeology) B.A. program at UC San Diego provides a rigorous education in the archaeological aspects of anthropology, preparing students for careers in research, cultural resource management, and related fields.",
+  "classHighlights": [
+    "Core courses in Anthropology introduce students to the fundamental principles and methods of the field, including cultural anthropology, archaeology, and biological anthropology. ANTH101 and ANTH102 provide a foundation in anthropological theory and methods.",
+    "Archaeology-specific courses, such as ANTH140 and ANTH141, cover the principles and methods of archaeological research, including excavation techniques, artifact analysis, and cultural interpretation.",
+    "Electives in areas such as cultural heritage, museum studies, and geoarchaeology provide students with a deeper understanding of the complex relationships between past cultures and their material remains, with courses like ANTH143 and ANTH145.",
+    "Upper-division courses, including ANTH140B and ANTH149, allow students to explore specialized topics in archaeology, such as archaeological theory, cultural resource management, and the archaeology of specific regions.",
+    "The program also emphasizes the development of research skills, with courses like ANTH195, which provides hands-on experience in designing and conducting research projects."
+  ],
+  "learningOutcomes": [
+    "Understand the theoretical and methodological foundations of archaeology within anthropology.",
+    "Apply critical thinking and analytical skills to the interpretation of material culture.",
+    "Demonstrate knowledge of the cultural, social, and historical contexts of past societies.",
+    "Develop research skills, including the design and implementation of research projects.",
+    "Communicate complex ideas effectively in written and oral forms."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Anthropology (General Anthropology) (B.A.)",
+      "link": "https://catalog.ucsd.edu/anthro"
+    },
+    {
+      "title": "Anthropology (Biological Anthropology) (B.A.)",
+      "link": "https://catalog.ucsd.edu/anthro"
+    }
+  ],
+  "sources": [
+    "https://anthro.ucsd.edu/undergraduate/major.html",
+    "https://catalog.ucsd.edu/curriculum/anthropology/undergraduate-major-anthropology-b-a-with-subfields.html"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The major requires a minimum of12 upper-division courses, including core courses and electives. Students are encouraged to participate in research projects and internships to gain practical experience."
+}

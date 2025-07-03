@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Global Health (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Bachelor of Arts degree in Global Health provides a comprehensive education in the complex factors affecting health outcomes worldwide. Students explore the social, economic, and cultural determinants of health, as well as the policies and interventions designed to improve health equity. The program integrates coursework from multiple disciplines, preparing students for careers or further study in global health and related fields.",
+  "shortProgramDescription": "The Global Health B.A. at UC San Diego equips students with a broad understanding of global health issues, preparing them for careers or graduate study in health-related fields.",
+  "classHighlights": [
+    "The introductory course, Global Health Perspectives (GLBH 20), provides a foundational understanding of global health concepts and frameworks. Students learn about the various factors influencing health outcomes globally, including social determinants, economic conditions, and cultural contexts.",
+    "Core courses such as Introduction to Global Health Research Methods (GLBH 181) and Global Health Policy (GLBH 150) equip students with essential research skills and knowledge of health policies and interventions. Students also explore the social and economic determinants of health in courses like Social Determinants of Health (GLBH 162).",
+    "Electives allow students to delve into specialized areas, including global health disparities, humanitarian emergencies, and health systems. Courses such as Global Health and Human Rights (GLBH 165) and Culture, Health, and Illness (GLBH 163) offer in-depth examinations of critical global health issues.",
+    "Upper-division courses require students to apply theoretical knowledge to real-world problems, developing critical thinking and problem-solving skills. The program emphasizes the importance of cultural competence and community engagement in global health practice."
+  ],
+  "learningOutcomes": [
+    "Understand the complex factors influencing global health outcomes.",
+    "Apply research methods and critical analysis to global health issues.",
+    "Evaluate health policies and interventions aimed at improving health equity.",
+    "Recognize the role of social, economic, and cultural determinants in shaping health outcomes.",
+    "Communicate effectively about global health issues to diverse audiences."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Public Health (B.S.)",
+      "link": "https://catalog.ucsd.edu/main/programs/public-health-b-s-"
+    },
+    {
+      "title": "Sociology (B.A.)",
+      "link": "https://catalog.ucsd.edu/main/programs/sociology-b-a-"
+    },
+    {
+      "title": "Anthropology (B.A.)",
+      "link": "https://catalog.ucsd.edu/main/programs/anthropology-b-a-"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/main/programs/global-health-b-a-",
+    "https://gps.ucsd.edu/academics/departments/global-health/Pages/default.aspx"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-200 quarter units",
+  "additionalInformation": "Students are advised to consult with the department for specific course requirements and to plan their course sequence accordingly. Electives and upper-division courses allow for flexibility in tailoring the major to individual interests and career goals."
+}

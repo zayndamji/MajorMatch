@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Chinese Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Chinese Studies major is designed to provide students with a comprehensive understanding of the Chinese language, culture, history, and society. The program includes coursework in Chinese language, literature, history, and culture, as well as electives in related fields such as Asian Studies and Comparative Literature.",
+  "shortProgramDescription": "The Chinese Studies B.A. provides students with a deep understanding of Chinese language, culture, and history, preparing them for careers in fields such as education, government, and international business.",
+  "classHighlights": [
+    "Language Courses: Students take a sequence of Chinese language courses (CHIN 1-6) to develop their language skills. Advanced language courses (CHIN 100-114) focus on reading, writing, and conversation skills.",
+    "Literature and Culture Courses: Courses in Chinese literature (CHIN 130-149) and culture (CHIN 150-159) introduce students to the rich literary and cultural heritage of China.",
+    "History Courses: Students take courses in Chinese history (HIST 161-163) to understand the historical context of Chinese culture and society.",
+    "Electives: Students choose from a range of electives in related fields such as Asian Studies, Comparative Literature, and History to broaden their knowledge and understanding of China and its place in the world."
+  ],
+  "learningOutcomes": [
+    "Demonstrate proficiency in Chinese language skills",
+    "Understand Chinese culture, history, and society",
+    "Analyze and interpret Chinese literary and cultural texts",
+    "Communicate effectively in Chinese",
+    "Apply knowledge of Chinese culture and history to real-world contexts"
+  ],
+  "similarPrograms": [
+    {
+      "title": "East Asian Studies Minor",
+      "link": "https://catalog.ucsd.edu/front/courses/East%20Asian%20Studies%20Minor/index.html"
+    },
+    {
+      "title": "Asian Studies Minor",
+      "link": "https://catalog.ucsd.edu/front/courses/Asian%20Studies%20Minor/index.html"
+    },
+    {
+      "title": "Japanese Studies (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/Japanese%20Studies%20B.A./index.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/Chinese%20Studies%20B.A./index.html",
+    "https://chinese-studies.ucsd.edu/undergraduate/major.html"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "48 upper-division units in Chinese Studies; total approx. 180 quarter units (or 120 semester units)",
+  "additionalInformation": "Students must complete a sequence of Chinese language courses and demonstrate proficiency in Chinese. The major also requires coursework in Chinese literature, history, and culture."
+}

@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Political Science/Comparative Politics (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Political Science/Comparative Politics major focuses on the comparative study of political systems, institutions, and processes. Students examine the similarities and differences between various countries and political systems, preparing them for careers in fields such as government, international relations, law, and academia. The major is offered through the Department of Political Science.",
+  "shortProgramDescription": "The Political Science/Comparative Politics B.A. provides a comprehensive understanding of political systems and comparative analysis, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The major requires foundational courses in political science, including Introduction to Comparative Politics (POLI 30), Introduction to Political Science Research Methods (POLI 110), and Comparative Politics: Advanced Seminar (POLI 130D).",
+    "Students take additional comparative politics courses, such as Politics of Developing Countries (POLI 132), Politics of Advanced Industrial Societies (POLI 133), and Comparative Political Economy (POLI 135).",
+    "Electives allow students to explore specialized topics, including democratization, authoritarianism, and political institutions, with courses such as Politics of Authoritarian Regimes (POLI 134) and Comparative Political Institutions (POLI 136)."
+  ],
+  "learningOutcomes": [
+    "Understand the core concepts and theories of comparative politics.",
+    "Analyze political systems, institutions, and processes in a comparative framework.",
+    "Apply research methods to study comparative politics.",
+    "Evaluate the role of institutions, culture, and economy in shaping political outcomes.",
+    "Communicate complex ideas in written and oral form."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Political Science (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/PO/"
+    },
+    {
+      "title": "International Studies (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/INTL/"
+    },
+    {
+      "title": "Global Studies (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/GLBL/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/PO/",
+    "https://politicalscience.ucsd.edu/undergraduate/majors/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "Total of 180 quarter units, with at least 52 upper-division units in the major",
+  "additionalInformation": "The major is offered through the Department of Political Science, not Physics. Students must satisfy major prerequisites, complete required courses, and fulfill upper-division unit requirements."
+}

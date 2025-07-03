@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Jewish Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Jewish Studies Program is an interdisciplinary major that explores Jewish history, culture, and society from a variety of perspectives, including history, literature, religion, and sociology. Students examine the complexities of Jewish identity and experience, both in Israel and in the diaspora, and develop a nuanced understanding of the role of Jewish culture in the broader context of the Middle East and the world.",
+  "shortProgramDescription": "The Jewish Studies B.A. provides a comprehensive understanding of Jewish history, culture, and society through an interdisciplinary approach.",
+  "classHighlights": [
+    "The Jewish Studies major requires students to complete a series of core courses that introduce them to the major themes and methodologies of the field, including JWST 101: Introduction to Jewish Studies and JWST 120: Jewish History.",
+    "Students then choose from a range of electives that explore different aspects of Jewish culture and society, including courses on Jewish history, literature, religion, and Israeli culture.",
+    "Courses in the major are drawn from a range of departments, including History, Literature, Religious Studies, and Sociology, and are taught by faculty with expertise in Jewish Studies.",
+    "Some of the specific courses that students may take include JWST 130: The Holocaust, JWST 140: Jewish Literature, and JWST 150: Israeli Culture and Society.",
+    "Students also have the opportunity to take advanced courses that allow them to explore specific topics in greater depth, such as JWST 190: Advanced Topics in Jewish Studies.",
+    "Throughout the major, students develop skills in critical thinking, writing, and analysis, and are encouraged to approach Jewish Studies from a variety of disciplinary perspectives."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a comprehensive understanding of Jewish history, culture, and society.",
+    "Analyze Jewish texts, artifacts, and cultural practices within their historical and cultural contexts.",
+    "Apply critical thinking and analytical skills to the study of Jewish Studies.",
+    "Communicate complex ideas and arguments effectively in writing and in speech.",
+    "Approach Jewish Studies from a variety of disciplinary perspectives, including history, literature, and sociology."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Religious Studies Minor",
+      "link": "https://catalog.ucsd.edu//programs/religious-studies-minor/"
+    },
+    {
+      "title": "History Major",
+      "link": "https://catalog.ucsd.edu//programs/history-major/"
+    },
+    {
+      "title": "Literature Major",
+      "link": "https://catalog.ucsd.edu//programs/literature-major/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu//programs/jewish-studies-ba/",
+    "https://jewishstudies.ucsd.edu/"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "48 upper-division units in Jewish Studies, with a total of 180-184 units required for graduation (quarter system)",
+  "additionalInformation": "Students must declare the major through the Department of Jewish Studies and are advised to do so by the end of their sophomore year. The major is designed to be completed in four years, with a minimum GPA requirement."
+}

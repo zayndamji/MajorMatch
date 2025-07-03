@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Sociology - Culture and Communication (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Sociology - Culture and Communication major at UC San Diego provides students with a comprehensive understanding of the social and cultural contexts of communication. The program focuses on the ways in which culture is produced, disseminated, and consumed, and how these processes shape and are shaped by social structures and institutions. Students examine the social and cultural factors that influence communication, including the role of technology, media, and social inequality.",
+  "shortProgramDescription": "The Sociology - Culture and Communication major explores the social contexts of communication and the cultural factors that shape our understanding of the world.",
+  "classHighlights": [
+    "Sociology core courses, including SOC1, SOC80, and SOC90, provide a foundation in sociological theory and methods, introducing students to the discipline's key concepts and frameworks.",
+    "Courses in Culture and Communication, such as SOC105, SOC106, and SOC107, examine the social and cultural contexts of communication, including the role of media, technology, and social inequality in shaping our understanding of the world.",
+    "Electives in areas like sociology of culture, media studies, and communication theory allow students to explore specific topics in greater depth, such as the cultural significance of media representation, the social impact of new technologies, or the dynamics of interpersonal communication.",
+    "SOC130 and other upper-division courses focus on advanced topics in sociological theory, research methods, and substantive areas like culture, identity, and social change, helping students develop a nuanced understanding of the complex relationships between culture, communication, and society.",
+    "Upper-division electives, including SOC152, SOC154, and SOC155, enable students to explore specialized topics, such as the sociology of art, literature, or music, or the cultural politics of identity and representation."
+  ],
+  "learningOutcomes": [
+    "Understand the social and cultural contexts of communication and their impact on individuals and society",
+    "Analyze the ways in which culture is produced, disseminated, and consumed, and how these processes shape social structures and institutions",
+    "Apply sociological theories and methods to the study of culture and communication",
+    "Critically evaluate the role of technology, media, and social inequality in shaping communication and cultural practices",
+    "Develop a nuanced understanding of the complex relationships between culture, communication, and society"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Sociology (B.A.)",
+      "link": "https://catalog.ucsd.edu/programs/SOCIOLOGY-BA/"
+    },
+    {
+      "title": "Communication (Cognitive Science) (B.A.)",
+      "link": "https://catalog.ucsd.edu/programs/COGS-BA/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/programs/SOCIOLOGY-CULTURE-COMMUNICATION-BA/",
+    "https://sociology.ucsd.edu/undergraduate-programs/index.html"
+  ],
+  "programDuration": "4 years (8 quarters, quarter system)",
+  "creditRequirements": "Total: 180 quarter units; Major: 52 upper-division units in Sociology, plus 4 lower-division units in Sociology or related fields",
+  "additionalInformation": "Students must satisfy the major's prerequisites, complete the required core courses, and fulfill the upper-division unit requirements. The major allows for a range of electives, enabling students to tailor their coursework to their interests and career goals."
+}

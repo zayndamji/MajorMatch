@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Aerospace Engineering with a Specialization in Flight Dynamics and Controls (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Aerospace Engineering with a Specialization in Flight Dynamics and Controls program is designed to provide students with a comprehensive understanding of the principles and practices of aerospace engineering, with a focus on the dynamics and control of flight vehicles. The program includes coursework in mathematics, physics, and engineering, as well as specialized courses in aerospace engineering, flight dynamics, and controls.",
+  "shortProgramDescription": "The Aerospace Engineering with a Specialization in Flight Dynamics and Controls program at UC San Diego provides students with a strong foundation in aerospace engineering principles and practices, with a focus on flight dynamics and controls.",
+  "classHighlights": [
+    "Mathematics and Physics: Students complete coursework in calculus, differential equations, and physics, providing a foundation for understanding aerospace engineering principles.",
+    "Engineering Fundamentals: Students take courses in engineering mechanics, materials science, and electrical engineering, which provide a basis for understanding the design and analysis of aerospace systems.",
+    "Aerospace Engineering Core: Students complete coursework in aerospace engineering, including aerodynamics, flight mechanics, and spacecraft design, which provide a comprehensive understanding of aerospace engineering principles.",
+    "Flight Dynamics and Controls: Students take specialized courses in flight dynamics and controls, including aircraft stability and control, and spacecraft attitude control, which provide a deep understanding of the dynamics and control of flight vehicles.",
+    "Design and Laboratory: Students participate in design and laboratory courses, which provide hands-on experience with aerospace engineering systems and components."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical and scientific principles to solve aerospace engineering problems",
+    "Design and analyze aerospace systems and components",
+    "Understand the principles of flight dynamics and controls",
+    "Communicate effectively in written and oral form",
+    "Work effectively in teams to solve complex engineering problems"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mechanical Engineering",
+      "link": "https://catalog.ucsd.edu/engineering/mechanical-engineering/"
+    },
+    {
+      "title": "Aerospace Engineering",
+      "link": "https://catalog.ucsd.edu/engineering/aerospace-engineering/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/engineering/aerospace-engineering/aerospace-engineering-with-specialization-in-flight-dynamics-and-controls-bs/",
+    "https://mae.ucsd.edu"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete a set of required courses in mathematics, physics, and engineering, as well as a set of specialized courses in aerospace engineering and flight dynamics and controls."
+}

@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Mathematical Biology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mathematical Biology major is an interdisciplinary program that provides a foundation in the mathematical and biological sciences, as well as a broad understanding of the application of mathematics to problems in biology and the life sciences. Students learn to analyze complex biological systems, develop mathematical models, and apply computational techniques to understand biological phenomena.",
+  "shortProgramDescription": "The Mathematical Biology major provides a strong foundation in mathematics and biology, preparing students for careers in research, academia, and industry.",
+  "classHighlights": [
+    "Mathematics Core: Students complete a series of mathematics courses including Calculus (MATH 2A-B-C or MATH 10A-B-C), Linear Algebra (MATH 20F or MATH 20F-H), and Differential Equations (MATH 20D or MATH 20D-E), providing a strong foundation in mathematical theory and application.",
+    "Biology Core: Students take introductory biology courses (BILD 1-2 or BILD 3-4) and upper-division courses in biology, such as Cell Biology (BILD 40 or BILD 62), Genetics (BILD 41 or BILD 63), and Biochemistry (BILD 60 or CHEM 114A-B-C), to gain a broad understanding of biological concepts and principles.",
+    "Mathematical Biology Courses: Students complete a series of courses that integrate mathematical and biological concepts, including Mathematical Biology (MATH 170A-B-C or MATH 170A-B), Computational Biology (BILD 62 or BENG 181), and Biostatistics (MATH 183 or BSPH 181), to develop skills in mathematical modeling and computational analysis.",
+    "Electives and Specializations: Students choose from a range of electives, including courses in mathematics, biology, and computational biology, to develop a specialization or explore areas of interest.",
+    "Computational Skills: Students develop programming skills in languages such as Python, R, or MATLAB, and learn to apply computational techniques to analyze and model biological systems."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical techniques to analyze and model biological systems.",
+    "Develop computational skills to analyze and simulate biological phenomena.",
+    "Understand the principles of biology and the life sciences.",
+    "Integrate mathematical and biological concepts to solve problems.",
+    "Communicate complex ideas and results effectively."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Biology (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses-and-programs/undergraduate-programs/biological-sciences/biol-bs"
+    },
+    {
+      "title": "Mathematics (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses-and-programs/undergraduate-programs/mathematics/math-bs"
+    },
+    {
+      "title": "Bioengineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses-and-programs/undergraduate-programs/engineering/bioengineering-bs"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses-and-programs/undergraduate-programs/mathematics/math-bio-bs",
+    "https://math.ucsd.edu/undergraduate/major.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-190 quarter units",
+  "additionalInformation": "Students must complete a series of lower-division and upper-division courses in mathematics and biology, as well as satisfy the college writing requirement. The major is designed to be completed in four years, with a total of 180-190 quarter units required for graduation."
+}

@@ -1,0 +1,37 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Media (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Media major is designed for students interested in the study of media and its relationship to society. The program emphasizes the critical analysis of media forms, the cultural and social contexts of media production and consumption, and the ways in which media shape and reflect societal values.",
+  "shortProgramDescription": "The Media B.A. provides students with a comprehensive understanding of media studies, covering critical analysis, cultural context, and media's societal impact.",
+  "classHighlights": [
+    "The Department of Visual Arts offers courses that provide a foundation in the principles of art and design, as well as the critical analysis of visual culture. Courses such as Visual Arts 10A-B-C (Introduction to Studio Art) and Visual Arts 20A-B (Introduction to Critical Studies) provide students with a broad understanding of the visual arts and their relationship to media.",
+    "Upper-division courses in the Media major, such as Visual Arts 110 (Media and Culture) and Visual Arts 114 (Media and Identity), allow students to explore specific topics in media studies in-depth, developing their critical thinking and analytical skills.",
+    "Electives in the Media major, including courses such as Visual Arts 120 (Screen Studies) and Visual Arts 130 (Digital Media), enable students to tailor their studies to their interests, whether in film, television, digital media, or other forms of media."
+  ],
+  "learningOutcomes": [
+    "Analyze media forms and their cultural and social contexts",
+    "Understand the historical and theoretical frameworks of media studies",
+    "Apply critical thinking and analytical skills to media texts and practices",
+    "Develop written and oral communication skills in the context of media studies",
+    "Evaluate the social and cultural impacts of media on individuals and society"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Visual Arts Minor",
+      "link": "https://catalog.ucsd.edu/arts-humanities/visual-arts/minor/"
+    },
+    {
+      "title": "Communication Minor",
+      "link": "https://catalog.ucsd.edu/social-sciences/communication/minor/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/arts-humanities/visual-arts/media-ba/",
+    "https://visualarts.ucsd.edu/undergraduate/media-ba.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "Total: 180-192 quarter units; Major: 52-60 upper-division units",
+  "additionalInformation": "Students must complete lower-division preparation courses before advancing to upper-division coursework. The major is designed to be completed in four years, with careful planning and advising."
+}

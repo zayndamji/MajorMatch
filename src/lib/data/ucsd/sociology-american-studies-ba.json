@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Sociology - American Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Sociology - American Studies major is an interdisciplinary program that combines the study of American society and culture with sociological theory and methods. Students examine the social, cultural, and political structures that shape American identity and experience. The program prepares students for careers in fields such as education, research, policy, and social services.",
+  "shortProgramDescription": "The Sociology - American Studies major provides students with a nuanced understanding of American society and culture, preparing them for careers in diverse fields.",
+  "classHighlights": [
+    "The major requires a foundation in sociological theory and methods, including courses such as SOC1: Introduction to Sociology and SOC105: Sociological Theory.",
+    "Students take a range of courses in American Studies, including SOC120: American Culture and Identity, and SOC121: Racial and Ethnic Relations in America.",
+    "Electives allow students to explore specific topics, such as social inequality, immigration, and social movements, through courses like SOC130: Social Inequality and SOC140: Social Movements.",
+    "The major also includes a range of upper-division courses that provide advanced training in sociological research and analysis.",
+    "Students can choose from a variety of electives to tailor their degree to their interests and career goals."
+  ],
+  "learningOutcomes": [
+    "Understand the major social, cultural, and political structures that shape American identity and experience.",
+    "Apply sociological theory and methods to analyze social phenomena.",
+    "Critically evaluate the complex issues facing American society.",
+    "Develop effective research and analytical skills.",
+    "Communicate complex ideas and research findings effectively."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Sociology (B.A.)",
+      "link": "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/departments/sociology/undergraduate-programs/sociology-ba/index.html"
+    },
+    {
+      "title": "Ethnic Studies (B.A.)",
+      "link": "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/departments/ethnic-studies/undergraduate-programs/ethnic-studies-ba/index.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/departments/sociology/undergraduate-programs/sociology-american-studies-ba/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "48 upper-division units in Sociology, including required courses and electives; total approx. 180 quarter units",
+  "additionalInformation": "Students must meet the major requirements as outlined in the UC San Diego catalog. The major is administered by the Sociology department."
+}

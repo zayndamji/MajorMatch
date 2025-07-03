@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Electrical Engineering and Society (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Electrical Engineering and Society major provides a broad education in electrical engineering and emphasizes the social context and implications of technology. The program is designed for students who want to combine a strong foundation in electrical engineering with a broader understanding of the social, economic, and cultural factors that shape technological development and use.",
+  "shortProgramDescription": "The EE and Society major combines core electrical engineering coursework with social context and implications courses, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "Students complete foundational ECE courses such as ECE 5 (Introduction to Electronics and Electrical Engineering), ECE 35 (Introduction to Analog and Digital Circuits), and ECE 45 (Circuits and Systems).",
+    "Required upper-division courses include ECE 101 (Linear Systems Fundamentals), ECE 102 (Introduction to Active Circuit Design), ECE 109 (Probability and Statistics for Engineers), and ECE 111 (Advanced Analog and Digital Circuits).",
+    "Students take additional ECE electives to fulfill upper-division units and explore specialized areas.",
+    "The program includes a sequence of 'and Society' courses: ECE 157 (Engineering Ethics and Professional Responsibility) and other related courses that focus on the societal implications of electrical engineering.",
+    "Students are also required to complete relevant coursework in social sciences, humanities, or other related departments to fulfill the major's interdisciplinary requirements."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad understanding of electrical engineering principles and practices.",
+    "Apply knowledge of electrical engineering to analyze and design systems.",
+    "Understand the social, economic, and cultural contexts of technological development and use.",
+    "Analyze the ethical implications of electrical engineering practices and technologies.",
+    "Communicate complex technical information effectively to diverse audiences."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Electrical Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/courses/ECE.html"
+    },
+    {
+      "title": "Computer Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/courses/ECE.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/ECE.html",
+    "https://jacobsschool.ucsd.edu/academics/undergraduate/ece/index.shtml"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must satisfy the major's specific prerequisites, complete required ECE and 'and Society' coursework, and fulfill the general education requirements."
+}

@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Political Science/Public Policy (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Political Science/Public Policy major is an interdisciplinary program that combines coursework in political science and public policy to provide students with a comprehensive understanding of the political and policy-making processes. The major is designed to prepare students for careers in government, non-profit organizations, and private sector companies, as well as for graduate study in political science, public policy, or related fields.",
+  "shortProgramDescription": "The Political Science/Public Policy major provides students with a comprehensive understanding of the political and policy-making processes, preparing them for careers in government, non-profit organizations, and private sector companies.",
+  "classHighlights": [
+    "The major requires coursework in political science, including introductory courses such as POSC 1/2/3 and upper-division courses in areas such as American politics, comparative politics, and international relations.",
+    "Students also take coursework in public policy, including courses such as POSC 121 and 122, which cover the policy-making process and the role of institutions in shaping policy.",
+    "The major includes a range of elective courses that allow students to explore topics such as environmental policy, health policy, and economic policy, among others.",
+    "The department is Physics, but the major is actually housed in the Department of Political Science.",
+    "Students are encouraged to pursue internships and research opportunities to gain practical experience in the field.",
+    "The major requires a total of 48 units of upper-division coursework, including a minimum of 28 units in political science and 12 units in public policy.",
+    "Students must also complete a series of lower-division prerequisites, including courses in statistics and economics."
+  ],
+  "learningOutcomes": [
+    "Understand the major concepts and theories in political science and public policy.",
+    "Analyze the role of institutions and processes in shaping policy outcomes.",
+    "Evaluate the impact of policy on different populations and communities.",
+    "Develop effective written and oral communication skills.",
+    "Apply theoretical knowledge to real-world problems and issues.",
+    "Critically evaluate information and arguments in the field of public policy."
+  ],
+  "similarPrograms": [
+    {
+      "title": "International Studies Major",
+      "link": "https://catalog.ucsd.edu/front/courses/degree-major/international-studies-major/"
+    },
+    {
+      "title": "Public Health Major",
+      "link": "https://catalog.ucsd.edu/front/courses/degree-major/public-health-major/"
+    },
+    {
+      "title": "Urban Studies and Planning Major",
+      "link": "https://catalog.ucsd.edu/front/courses/degree-major/urban-studies-planning-major/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/degree-major/political-science-public-policy-ba/",
+    "https://political-science.ucsd.edu/undergraduate/majors/political-science-public-policy/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-184 quarter units",
+  "additionalInformation": "The major is designed to be completed in four years, with students typically declaring the major in their sophomore or junior year. Students are encouraged to pursue internships and research opportunities to gain practical experience in the field."
+}

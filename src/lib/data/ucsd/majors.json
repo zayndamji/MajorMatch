@@ -1,0 +1,762 @@
+[
+  {
+    "name": "Astronomy & Astrophysics (B.A.)",
+    "id": "astronomy-astrophysics-ba",
+    "college": "Astronomy & Astrophysics"
+  },
+  {
+    "name": "Astronomy & Astrophysics (B.S.)",
+    "id": "astronomy-astrophysics-bs",
+    "college": "Astronomy & Astrophysics"
+  },
+  {
+    "name": "Anthropology (Archaeology) (B.A.)",
+    "id": "anthropology-archaeology-ba",
+    "college": "Anthropology"
+  },
+  {
+    "name": "Anthropology (Biological Anthropology) (B.A.)",
+    "id": "anthropology-biological-anthropology-ba",
+    "college": "Anthropology"
+  },
+  {
+    "name": "Anthropology (Sociocultural Anthropology) (B.A.)",
+    "id": "anthropology-sociocultural-anthropology-ba",
+    "college": "Anthropology"
+  },
+  {
+    "name": "Anthropology with a Concentration in Climate Change and Human Solutions (B.A.)",
+    "id": "anthropology-with-a-concentration-in-climate-change-and-human-solutions-ba",
+    "college": "Anthropology"
+  },
+  {
+    "name": "Biological Anthropology (B.S.)",
+    "id": "biological-anthropology-bs",
+    "college": "Anthropology"
+  },
+  {
+    "name": "Environmental Anthropology (B.S.)",
+    "id": "environmental-anthropology-bs",
+    "college": "Anthropology"
+  },
+  {
+    "name": "Bioengineering (B.S.)",
+    "id": "bioengineering-bs",
+    "college": "Bioengineering (BE)"
+  },
+  {
+    "name": "Bioengineering (Biotechnology) (B.S.)",
+    "id": "bioengineering-biotechnology-bs",
+    "college": "Bioengineering (BE)"
+  },
+  {
+    "name": "Bioengineering (Bioinformatics) (B.S.)",
+    "id": "bioengineering-bioinformatics-bs",
+    "college": "Bioengineering (BE)"
+  },
+  {
+    "name": "Bioengineering: BioSystems (B.S.)",
+    "id": "bioengineering-biosystems-bs",
+    "college": "Bioengineering (BE)"
+  },
+  {
+    "name": "Black Diaspora and African American Studies (B.A.)",
+    "id": "black-diaspora-and-african-american-studies-ba",
+    "college": "Black Diaspora and African American Studies"
+  },
+  {
+    "name": "Biochemistry (B.S.)",
+    "id": "biochemistry-bs",
+    "college": "Chemistry and Biochemistry"
+  },
+  {
+    "name": "Chemistry (B.S.)",
+    "id": "chemistry-bs",
+    "college": "Chemistry and Biochemistry"
+  },
+  {
+    "name": "Environmental Chemistry (B.S.)",
+    "id": "environmental-chemistry-bs",
+    "college": "Chemistry and Biochemistry"
+  },
+  {
+    "name": "Molecular Synthesis (B.S.)",
+    "id": "molecular-synthesis-bs",
+    "college": "Chemistry and Biochemistry"
+  },
+  {
+    "name": "Pharmacological Chemistry (B.S.)",
+    "id": "pharmacological-chemistry-bs",
+    "college": "Chemistry and Biochemistry"
+  },
+  {
+    "name": "Chinese Studies (B.A.)",
+    "id": "chinese-studies-ba",
+    "college": "Chinese Studies"
+  },
+  {
+    "name": "Cinematic Arts (B.A.)",
+    "id": "cinematic-arts-ba",
+    "college": "Cinematic Arts"
+  },
+  {
+    "name": "Classical Studies (B.A.)",
+    "id": "classical-studies-ba",
+    "college": "Classical Studies"
+  },
+  {
+    "name": "Cognitive Science (B.A.)",
+    "id": "cognitive-science-ba",
+    "college": "Cognitive Science"
+  },
+  {
+    "name": "Cognitive Science (B.S.)",
+    "id": "cognitive-science-bs",
+    "college": "Cognitive Science"
+  },
+  {
+    "name": "Cognitive Science with Specialization in Clinical Aspects of Cognition (B.S.)",
+    "id": "cognitive-science-with-specialization-in-clinical-aspects-of-cognition-bs",
+    "college": "Cognitive Science"
+  },
+  {
+    "name": "Cognitive Science with Specialization in Design and Interaction (B.S.)",
+    "id": "cognitive-science-with-specialization-in-design-and-interaction-bs",
+    "college": "Cognitive Science"
+  },
+  {
+    "name": "Cognitive Science with Specialization in Language and Culture (B.S.)",
+    "id": "cognitive-science-with-specialization-in-language-and-culture-bs",
+    "college": "Cognitive Science"
+  },
+  {
+    "name": "Cognitive Science with Specialization in Machine Learning and Neural Computation (B.S.)",
+    "id": "cognitive-science-with-specialization-in-machine-learning-and-neural-computation-bs",
+    "college": "Cognitive Science"
+  },
+  {
+    "name": "Cognitive Science with Specialization in Neuroscience (B.S.)",
+    "id": "cognitive-science-with-specialization-in-neuroscience-bs",
+    "college": "Cognitive Science"
+  },
+  {
+    "name": "Cognitive and Behavioral Neuroscience (B.S.)",
+    "id": "cognitive-and-behavioral-neuroscience-bs",
+    "college": "Cognitive Science"
+  },
+  {
+    "name": "Communication (B.A.)",
+    "id": "communication-ba",
+    "college": "Communication"
+  },
+  {
+    "name": "Media Industries and Communication (B.A.)",
+    "id": "media-industries-and-communication-ba",
+    "college": "Communication"
+  },
+  {
+    "name": "Computer Engineering (B.S.)",
+    "id": "computer-engineering-bs",
+    "college": "Computer Science and Engineering (CSE)"
+  },
+  {
+    "name": "Computer Science (B.S.)",
+    "id": "computer-science-bs",
+    "college": "Computer Science and Engineering (CSE)"
+  },
+  {
+    "name": "Computer Science with Specialization in Bioinformatics (B.S.)",
+    "id": "computer-science-with-specialization-in-bioinformatics-bs",
+    "college": "Computer Science and Engineering (CSE)"
+  },
+  {
+    "name": "Critical Gender Studies (B.A.)",
+    "id": "critical-gender-studies-ba",
+    "college": "Critical Gender Studies"
+  },
+  {
+    "name": "Data Science (B.S.)",
+    "id": "data-science-bs",
+    "college": "Data Science"
+  },
+  {
+    "name": "Business Economics (B.S.)",
+    "id": "business-economics-bs",
+    "college": "Economics"
+  },
+  {
+    "name": "Economics (B.A.)",
+    "id": "economics-ba",
+    "college": "Economics"
+  },
+  {
+    "name": "Economics (B.S.)",
+    "id": "economics-bs",
+    "college": "Economics"
+  },
+  {
+    "name": "Economics and Mathematics - Joint Major (B.S.)",
+    "id": "economics-and-mathematics-joint-major-bs",
+    "college": "Economics"
+  },
+  {
+    "name": "Economics-Public Policy (B.A./MPP only)",
+    "id": "economics-public-policy-ba-mpp-only",
+    "college": "Economics"
+  },
+  {
+    "name": "Education Sciences (B.S.)",
+    "id": "education-sciences-bs",
+    "college": "Education Studies"
+  },
+  {
+    "name": "Computer Engineering (B.S.)",
+    "id": "computer-engineering-bs",
+    "college": "Electrical and Computer Engineering (ECE)"
+  },
+  {
+    "name": "Electrical Engineering (B.S.)",
+    "id": "electrical-engineering-bs",
+    "college": "Electrical and Computer Engineering (ECE)"
+  },
+  {
+    "name": "Electrical Engineering and Society (B.A.)",
+    "id": "electrical-engineering-and-society-ba",
+    "college": "Electrical and Computer Engineering (ECE)"
+  },
+  {
+    "name": "Engineering Physics (B.S.)",
+    "id": "engineering-physics-bs",
+    "college": "Electrical and Computer Engineering (ECE)"
+  },
+  {
+    "name": "Environmental Systems (Earth Sciences) (B.S.)",
+    "id": "environmental-systems-earth-sciences-bs",
+    "college": "Environmental Systems Program"
+  },
+  {
+    "name": "Environmental Systems (Ecology, Behavior, & Evolution) (B.S.)",
+    "id": "environmental-systems-ecology,-behavior,-evolution-bs",
+    "college": "Environmental Systems Program"
+  },
+  {
+    "name": "Environmental Systems (Environmental Chemistry) (B.S.)",
+    "id": "environmental-systems-environmental-chemistry-bs",
+    "college": "Environmental Systems Program"
+  },
+  {
+    "name": "Environmental Systems (Environmental Policy) (B.A.)",
+    "id": "environmental-systems-environmental-policy-ba",
+    "college": "Environmental Systems Program"
+  },
+  {
+    "name": "Ethnic Studies (B.A.)",
+    "id": "ethnic-studies-ba",
+    "college": "Ethnic Studies"
+  },
+  {
+    "name": "German Studies (B.A.)",
+    "id": "german-studies-ba",
+    "college": "German Studies"
+  },
+  {
+    "name": "Global Health (B.A.)",
+    "id": "global-health-ba",
+    "college": "Global Health"
+  },
+  {
+    "name": "Global Health (B.S.)",
+    "id": "global-health-bs",
+    "college": "Global Health"
+  },
+  {
+    "name": "Global South Studies (B.A.)",
+    "id": "global-south-studies-ba",
+    "college": "Global South Studies"
+  },
+  {
+    "name": "Public Health (B.S.)",
+    "id": "public-health-bs",
+    "college": "Herbert Wertheim School of Public Health and Human Longevity Science"
+  },
+  {
+    "name": "Public Health with Concentration in Biostatistics (B.S.)",
+    "id": "public-health-with-concentration-in-biostatistics-bs",
+    "college": "Herbert Wertheim School of Public Health and Human Longevity Science"
+  },
+  {
+    "name": "Public Health with Concentration in Climate and Environmental Sciences (B.S.)",
+    "id": "public-health-with-concentration-in-climate-and-environmental-sciences-bs",
+    "college": "Herbert Wertheim School of Public Health and Human Longevity Science"
+  },
+  {
+    "name": "Public Health with Concentration in Community Health Sciences (B.S.)",
+    "id": "public-health-with-concentration-in-community-health-sciences-bs",
+    "college": "Herbert Wertheim School of Public Health and Human Longevity Science"
+  },
+  {
+    "name": "Public Health with Concentration in Epidemiology (B.S.)",
+    "id": "public-health-with-concentration-in-epidemiology-bs",
+    "college": "Herbert Wertheim School of Public Health and Human Longevity Science"
+  },
+  {
+    "name": "Public Health with Concentration in Health Policy and Management Sciences (B.S.)",
+    "id": "public-health-with-concentration-in-health-policy-and-management-sciences-bs",
+    "college": "Herbert Wertheim School of Public Health and Human Longevity Science"
+  },
+  {
+    "name": "Public Health with Concentration in Medicine Sciences (B.S.)",
+    "id": "public-health-with-concentration-in-medicine-sciences-bs",
+    "college": "Herbert Wertheim School of Public Health and Human Longevity Science"
+  },
+  {
+    "name": "History (B.A.)",
+    "id": "history-ba",
+    "college": "History"
+  },
+  {
+    "name": "Italian Studies (B.A.)",
+    "id": "italian-studies-ba",
+    "college": "Italian Studies"
+  },
+  {
+    "name": "Japanese Studies (B.A.)",
+    "id": "japanese-studies-ba",
+    "college": "Japanese Studies"
+  },
+  {
+    "name": "Jewish Studies (B.A.)",
+    "id": "jewish-studies-ba",
+    "college": "Jewish Studies"
+  },
+  {
+    "name": "Latin American Studies (B.A.)",
+    "id": "latin-american-studies-ba",
+    "college": "Latin American Studies"
+  },
+  {
+    "name": "Latin American Studies with a Concentration in Mexico (B.A.)",
+    "id": "latin-american-studies-with-a-concentration-in-mexico-ba",
+    "college": "Latin American Studies"
+  },
+  {
+    "name": "Latin American Studies with a Concentration in Migration and Border Studies (B.A.)",
+    "id": "latin-american-studies-with-a-concentration-in-migration-and-border-studies-ba",
+    "college": "Latin American Studies"
+  },
+  {
+    "name": "Linguistics (B.A.)",
+    "id": "linguistics-ba",
+    "college": "Linguistics"
+  },
+  {
+    "name": "Linguistics (Specialization in Cognition and Language) (B.A.)",
+    "id": "linguistics-specialization-in-cognition-and-language-ba",
+    "college": "Linguistics"
+  },
+  {
+    "name": "Linguistics (Specialization in Language and Society) (B.A.)",
+    "id": "linguistics-specialization-in-language-and-society-ba",
+    "college": "Linguistics"
+  },
+  {
+    "name": "Linguistics: Language Studies (Specialization in Individual Language) (B.A.)",
+    "id": "linguistics-language-studies-specialization-in-individual-language-ba",
+    "college": "Linguistics"
+  },
+  {
+    "name": "Linguistics (Specialization in Speech and Language Sciences) (B.A.)",
+    "id": "linguistics-specialization-in-speech-and-language-sciences-ba",
+    "college": "Linguistics"
+  },
+  {
+    "name": "Literary Arts (B.A.)",
+    "id": "literary-arts-ba",
+    "college": "Literature"
+  },
+  {
+    "name": "Literatures in English (B.A.)",
+    "id": "literatures-in-english-ba",
+    "college": "Literature"
+  },
+  {
+    "name": "Spanish Literature (B.A.)",
+    "id": "spanish-literature-ba",
+    "college": "Literature"
+  },
+  {
+    "name": "World Literature and Culture (B.A.)",
+    "id": "world-literature-and-culture-ba",
+    "college": "Literature"
+  },
+  {
+    "name": "Mathematical Biology (B.S.)",
+    "id": "mathematical-biology-bs",
+    "college": "Mathematics"
+  },
+  {
+    "name": "Mathematics (Applied) (B.S.)",
+    "id": "mathematics-applied-bs",
+    "college": "Mathematics"
+  },
+  {
+    "name": "Mathematics (B.S.)",
+    "id": "mathematics-bs",
+    "college": "Mathematics"
+  },
+  {
+    "name": "Mathematics and Economics - Joint Major (B.S.)",
+    "id": "mathematics-and-economics-joint-major-bs",
+    "college": "Mathematics"
+  },
+  {
+    "name": "Mathematics - Applied Science (B.S.)",
+    "id": "mathematics-applied-science-bs",
+    "college": "Mathematics"
+  },
+  {
+    "name": "Mathematics - Computer Science (B.S.)",
+    "id": "mathematics-computer-science-bs",
+    "college": "Mathematics"
+  },
+  {
+    "name": "Mathematics - Secondary Education (B.A.)",
+    "id": "mathematics-secondary-education-ba",
+    "college": "Mathematics"
+  },
+  {
+    "name": "Probability and Statistics (B.S.)",
+    "id": "probability-and-statistics-bs",
+    "college": "Mathematics"
+  },
+  {
+    "name": "Aerospace Engineering (B.S.)",
+    "id": "aerospace-engineering-bs",
+    "college": "Mechanical and Aerospace Engineering (MAE)"
+  },
+  {
+    "name": "Aerospace Engineering with a Specialization in Aerothermodynamics (B.S.)",
+    "id": "aerospace-engineering-with-a-specialization-in-aerothermodynamics-bs",
+    "college": "Mechanical and Aerospace Engineering (MAE)"
+  },
+  {
+    "name": "Aerospace Engineering with a Specialization in Astrodynamics and Space Applications (B.S.)",
+    "id": "aerospace-engineering-with-a-specialization-in-astrodynamics-and-space-applications-bs",
+    "college": "Mechanical and Aerospace Engineering (MAE)"
+  },
+  {
+    "name": "Aerospace Engineering with a Specialization in Flight Dynamics and Controls (B.S.)",
+    "id": "aerospace-engineering-with-a-specialization-in flight-dynamics-and-controls-bs",
+    "college": "Mechanical and Aerospace Engineering (MAE)"
+  },
+  {
+    "name": "Mechanical Engineering (B.S.)",
+    "id": "mechanical-engineering-bs",
+    "college": "Mechanical and Aerospace Engineering (MAE)"
+  },
+  {
+    "name": "Mechanical Engineering with a Specialization in Controls and Robotics (B.S.)",
+    "id": "mechanical-engineering-with-a-specialization-in-controls-and-robotics-bs",
+    "college": "Mechanical and Aerospace Engineering (MAE)"
+  },
+  {
+    "name": "Mechanical Engineering with a Specialization in Fluid Mechanics and Thermal Systems (B.S.)",
+    "id": "mechanical-engineering-with-a-specialization-in-fluid-mechanics-and-thermal-systems-bs",
+    "college": "Mechanical and Aerospace Engineering (MAE)"
+  },
+  {
+    "name": "Mechanical Engineering with a Specialization in Materials Science and Engineering (B.S.)",
+    "id": "mechanical-engineering-with-a-specialization-in-materials-science-and-engineering-bs",
+    "college": "Mechanical and Aerospace Engineering (MAE)"
+  },
+  {
+    "name": "Mechanical Engineering with a Specialization in Mechanics of Materials (B.S.)",
+    "id": "mechanical-engineering-with-a-specialization-in-mechanics-of-materials-bs",
+    "college": "Mechanical and Aerospace Engineering (MAE)"
+  },
+  {
+    "name": "Mechanical Engineering with a Specialization in Renewable Energy and Environmental Flows (B.S.)",
+    "id": "mechanical-engineering-with-a-specialization-in-renewable-energy-and-environmental-flows-bs",
+    "college": "Mechanical and Aerospace Engineering (MAE)"
+  },
+  {
+    "name": "Music",
+    "id": "music",
+    "college": "Mechanical and Aerospace Engineering (MAE)"
+  },
+  {
+    "name": "Music (B.A.)",
+    "id": "music-ba",
+    "college": "Mechanical and Aerospace Engineering (MAE)"
+  },
+  {
+    "name": "Interdisciplinary Computing and the Arts (B.A.)",
+    "id": "interdisciplinary-computing-and-the-arts-ba",
+    "college": "Mechanical and Aerospace Engineering (MAE)"
+  },
+  {
+    "name": "Music Humanities (B.A.)",
+    "id": "music-humanities-ba",
+    "college": "Mechanical and Aerospace Engineering (MAE)"
+  },
+  {
+    "name": "Chemical Engineering (B.S.)",
+    "id": "chemical-engineering-bs",
+    "college": "NanoEngineering"
+  },
+  {
+    "name": "NanoEngineering (B.S.)",
+    "id": "nanoengineering-bs",
+    "college": "NanoEngineering"
+  },
+  {
+    "name": "Philosophy (B.A.)",
+    "id": "philosophy-ba",
+    "college": "Philosophy"
+  },
+  {
+    "name": "Physics (B.A.)",
+    "id": "physics-ba",
+    "college": "Physics"
+  },
+  {
+    "name": "Physics (B.S.)",
+    "id": "physics-bs",
+    "college": "Physics"
+  },
+  {
+    "name": "Political Science",
+    "id": "political-science",
+    "college": "Physics"
+  },
+  {
+    "name": "Political Science (B.A.)",
+    "id": "political-science-ba",
+    "college": "Physics"
+  },
+  {
+    "name": "Political Science/American Politics (B.A.)",
+    "id": "political-science-american-politics-ba",
+    "college": "Physics"
+  },
+  {
+    "name": "Political Science/Comparative Politics (B.A.)",
+    "id": "political-science-comparative-politics-ba",
+    "college": "Physics"
+  },
+  {
+    "name": "Political Science/Data Analytics (B.S.)",
+    "id": "political-science-data-analytics-bs",
+    "college": "Physics"
+  },
+  {
+    "name": "Political Science/International Affairs (B.A./MIA only)",
+    "id": "political-science-international-affairs-ba-mia-only",
+    "college": "Physics"
+  },
+  {
+    "name": "Political Science/International Relations (B.A.)",
+    "id": "political-science-international-relations-ba",
+    "college": "Physics"
+  },
+  {
+    "name": "Political Science/Political Theory (B.A.)",
+    "id": "political-science-political-theory-ba",
+    "college": "Physics"
+  },
+  {
+    "name": "Political Science/Public Law (B.A.)",
+    "id": "political-science-public-law-ba",
+    "college": "Physics"
+  },
+  {
+    "name": "Political Science/Public Policy (B.A.)",
+    "id": "political-science-public-policy-ba",
+    "college": "Physics"
+  },
+  {
+    "name": "Political Science/Race, Ethnicity, and Politics (B.A.)",
+    "id": "political-science-race,-ethnicity,-and-politics-ba",
+    "college": "Physics"
+  },
+  {
+    "name": "Psychology (B.A.)",
+    "id": "psychology-ba",
+    "college": "Psychology"
+  },
+  {
+    "name": "Psychology (B.S.)",
+    "id": "psychology-bs",
+    "college": "Psychology"
+  },
+  {
+    "name": "Psychology with a Specialization in Clinical Psychology (B.S.)",
+    "id": "psychology-with-a-specialization-in-clinical-psychology-bs",
+    "college": "Psychology"
+  },
+  {
+    "name": "Psychology with a Specialization in Cognitive Psychology (B.S.)",
+    "id": "psychology-with-a-specialization-in-cognitive-psychology-bs",
+    "college": "Psychology"
+  },
+  {
+    "name": "Psychology with a Specialization in Developmental Psychology (B.S.)",
+    "id": "psychology-with-a-specialization-in-developmental-psychology-bs",
+    "college": "Psychology"
+  },
+  {
+    "name": "Psychology with a Specialization in Human Health (B.S.)",
+    "id": "psychology-with-a-specialization-in-human-health-bs",
+    "college": "Psychology"
+  },
+  {
+    "name": "Psychology with a Specialization in Sensation and Perception (B.S.)",
+    "id": "psychology-with-a-specialization-in-sensation-and-perception-bs",
+    "college": "Psychology"
+  },
+  {
+    "name": "Psychology with a Specialization in Social Psychology (B.S.)",
+    "id": "psychology-with-a-specialization-in-social-psychology-bs",
+    "college": "Psychology"
+  },
+  {
+    "name": "Cognitive and Behavioral Neuroscience (B.S.)",
+    "id": "cognitive-and-behavioral-neuroscience-bs",
+    "college": "Psychology"
+  },
+  {
+    "name": "Business Psychology (B.S.)",
+    "id": "business-psychology-bs",
+    "college": "Psychology"
+  },
+  {
+    "name": "Geosciences (B.S.)",
+    "id": "geosciences-bs",
+    "college": "Scripps Institution of Oceanography"
+  },
+  {
+    "name": "Marine Biology (B.S.)",
+    "id": "marine-biology-bs",
+    "college": "Scripps Institution of Oceanography"
+  },
+  {
+    "name": "Oceanic and Atmospheric Sciences (B.S.)",
+    "id": "oceanic-and-atmospheric-sciences-bs",
+    "college": "Scripps Institution of Oceanography"
+  },
+  {
+    "name": "Oceanic and Atmospheric Sciences (B.S./MPP only)",
+    "id": "oceanic-and-atmospheric-sciences-bs-mpp-only",
+    "college": "Scripps Institution of Oceanography"
+  },
+  {
+    "name": "Sociology (B.A.)",
+    "id": "sociology-ba",
+    "college": "Sociology"
+  },
+  {
+    "name": "Sociology - International Studies (B.A.)",
+    "id": "sociology-international-studies-ba",
+    "college": "Sociology"
+  },
+  {
+    "name": "Sociology - American Studies (B.A.)",
+    "id": "sociology-american-studies-ba",
+    "college": "Sociology"
+  },
+  {
+    "name": "Sociology - Science and Medicine (B.A.)",
+    "id": "sociology-science-and-medicine-ba",
+    "college": "Sociology"
+  },
+  {
+    "name": "Sociology - Economy and Society (B.A.)",
+    "id": "sociology-economy-and-society-ba",
+    "college": "Sociology"
+  },
+  {
+    "name": "Sociology - Culture and Communication (B.A.)",
+    "id": "sociology-culture-and-communication-ba",
+    "college": "Sociology"
+  },
+  {
+    "name": "Sociology - Social Inequality (B.A.)",
+    "id": "sociology-social-inequality-ba",
+    "college": "Sociology"
+  },
+  {
+    "name": "Sociology - Law and Society (B.A.)",
+    "id": "sociology-law-and-society-ba",
+    "college": "Sociology"
+  },
+  {
+    "name": "Structural Engineering (B.S.)",
+    "id": "structural-engineering-bs",
+    "college": "Structural Engineering (SE)"
+  },
+  {
+    "name": "Structural Engineering with a Specialization in Aerospace Structures (B.S.)",
+    "id": "structural-engineering-with-a-specialization-in-aerospace-structures-bs",
+    "college": "Structural Engineering (SE)"
+  },
+  {
+    "name": "Structural Engineering with a Specialization in Civil Structures (B.S.)",
+    "id": "structural-engineering-with-a-specialization-in-civil-structures-bs",
+    "college": "Structural Engineering (SE)"
+  },
+  {
+    "name": "Structural Engineering with a Specialization in Geotechnical Engineering (B.S.)",
+    "id": "structural-engineering-with-a-specialization-in-geotechnical-engineering-bs",
+    "college": "Structural Engineering (SE)"
+  },
+  {
+    "name": "Structural Engineering with a Specialization in Structural Health Monitoring/Non-Destructive Evaluation (B.S.)",
+    "id": "structural-engineering-with-a-specialization-in-structural-health-monitoring-non-destructive-evaluation-bs",
+    "college": "Structural Engineering (SE)"
+  },
+  {
+    "name": "Dance (B.A.)",
+    "id": "dance-ba",
+    "college": "Theatre and Dance"
+  },
+  {
+    "name": "Theatre (B.A.)",
+    "id": "theatre-ba",
+    "college": "Theatre and Dance"
+  },
+  {
+    "name": "Urban Studies and Planning (B.A.)",
+    "id": "urban-studies-and-planning-ba",
+    "college": "Urban Studies and Planning"
+  },
+  {
+    "name": "Real Estate and Development (B.S.)",
+    "id": "real-estate-and-development-bs",
+    "college": "Urban Studies and Planning"
+  },
+  {
+    "name": "Art History/ Criticism (B.A.)",
+    "id": "art-history--criticism-ba",
+    "college": "Visual Arts"
+  },
+  {
+    "name": "Interdisciplinary Computing and the Arts (B.A.)",
+    "id": "interdisciplinary-computing-and-the-arts-ba",
+    "college": "Visual Arts"
+  },
+  {
+    "name": "Media (B.A.)",
+    "id": "media-ba",
+    "college": "Visual Arts"
+  },
+  {
+    "name": "Speculative Design (B.A.)",
+    "id": "speculative-design-ba",
+    "college": "Visual Arts"
+  },
+  {
+    "name": "Studio (B.A.)",
+    "id": "studio-ba",
+    "college": "Visual Arts"
+  }
+]

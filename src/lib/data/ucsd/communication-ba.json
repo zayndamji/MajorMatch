@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Communication (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Communication major provides students with a broad understanding of communication theory and research methods, and allows them to specialize in one of the department's emphases. Students completing this major will be prepared for careers in fields related to human communication, including research, public relations, advertising, broadcasting, journalism, and human resources. The major provides broad training in the study of human communication, preparing students for graduate study or for careers in which an understanding of human communication is essential.",
+  "shortProgramDescription": "The Communication B.A. major at UC San Diego provides a comprehensive education in the study of human communication, preparing students for various careers and graduate study.",
+  "classHighlights": [
+    "The department requires students to complete a set of core courses that provide a foundation in communication theory and research methods, including Communication Theory (COMM 10), Research Methods in Communication (COMM 100), and Quantitative Research Methods (COMM 105).",
+    "Students must also complete courses in the areas of interpersonal communication, group communication, organizational communication, and mass communication. These courses include Interpersonal Communication (COMM 110), Group Communication (COMM 120), Organizational Communication (COMM 130), and Mass Communication (COMM 140).",
+    "Upper-division elective courses allow students to explore specialized topics in communication, such as health communication, political communication, and media studies. Examples include Health Communication (COMM 161), Political Communication (COMM 164), and Media and Culture (COMM 174)."
+  ],
+  "learningOutcomes": [
+    "Understand the major theories and research methods in the field of communication.",
+    "Analyze and apply communication theories to various contexts.",
+    "Demonstrate an understanding of the role of communication in personal, social, and professional settings.",
+    "Critically evaluate communication phenomena in different settings.",
+    "Conduct research using quantitative and qualitative methods.",
+    "Communicate effectively in written and oral forms."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Minor in Communication",
+      "link": "https://catalog.ucsd.edu/arts-humanities/departments/communication/minor-communication/"
+    },
+    {
+      "title": "Master of Arts in Communication",
+      "link": "https://communication.ucsd.edu/graduate-programs/ma-communication.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/arts-humanities/departments/communication/communication-ba/",
+    "https://communication.ucsd.edu/undergraduate/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "48 upper-division units, total 180 quarter units",
+  "additionalInformation": "The major is designed to be completed in four years. Students are encouraged to consult with department advisors for guidance on course selection and program planning."
+}

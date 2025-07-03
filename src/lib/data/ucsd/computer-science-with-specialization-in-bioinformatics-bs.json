@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Computer Science with Specialization in Bioinformatics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Computer Science with Specialization in Bioinformatics major is designed for students who wish to have a strong computer science foundation and understanding of bioinformatics. The program includes a comprehensive curriculum in computer science, mathematics, and bioinformatics, as well as a deep understanding of the application of computational techniques to biological problems.",
+  "shortProgramDescription": "The Computer Science with Specialization in Bioinformatics B.S. program provides a strong foundation in computer science and bioinformatics, preparing students for careers or graduate study in areas such as computational biology, genomics, and biomedical informatics.",
+  "classHighlights": [
+    "The lower division coursework includes programming in languages such as Python, Java, and C++, as well as discrete mathematics and probability. Courses such as CSE 11 (Introduction to Programming in Python), CSE 12 (Basic Data Structures and Object-Oriented Programming), and CSE 20 (Discrete Mathematics for Computer Science) provide a solid foundation in computer science fundamentals.",
+    "Upper division coursework includes classes on data structures, algorithms, computer architecture, operating systems, and software engineering. Courses such as CSE 100 (Advanced Data Structures), CSE 101 (Design and Analysis of Algorithms), CSE 120 (Principles of Operating Systems), and CSE 110 (Software Engineering) cover key concepts in computer science.",
+    "The bioinformatics specialization includes coursework in bioinformatics and computational biology. Courses such as CSE 185 (Computational Biology and Bioinformatics), CSE 186 (Computational Biology and Bioinformatics Laboratory), and BENG 182 (Foundations of Computational Biology) provide a deep understanding of the application of computational techniques to biological problems.",
+    "Additional upper division elective courses allow students to explore advanced topics in computer science and bioinformatics, such as machine learning, data mining, and genomics.",
+    "Mathematics and probability coursework, including MATH 20A-B-C-D-E (Calculus) and MATH 18 (Linear Algebra), or MATH 20F (Linear Algebra) provide a strong foundation for computer science and bioinformatics."
+  ],
+  "learningOutcomes": [
+    "Apply computational thinking and programming skills to solve problems in bioinformatics and computational biology.",
+    "Design and analyze algorithms for solving complex problems in computer science and bioinformatics.",
+    "Understand the principles of computer architecture, operating systems, and software engineering.",
+    "Apply mathematical and statistical techniques to solve problems in bioinformatics and computational biology.",
+    "Communicate complex technical concepts effectively in written and oral form.",
+    "Work effectively in teams to design and implement computational solutions to complex problems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Computer Science (B.S.)",
+      "link": "https://catalog.ucsd.edu/programs/CSE/undergraduate/computer-science-bs/"
+    },
+    {
+      "title": "Bioengineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/programs/BENG/undergraduate/bioengineering-bs/"
+    },
+    {
+      "title": "Biology (B.S.)",
+      "link": "https://catalog.ucsd.edu/programs/BIOLOGY/undergraduate/biology-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/programs/CSE/undergraduate/computer-science-bioinformatics-bs/",
+    "https://cse.ucsd.edu/undergraduate-programs/computer-science-bioinformatics-bs"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-190 quarter units (varies depending on course choices and preparation)",
+  "additionalInformation": "The major is managed by the Department of Computer Science and Engineering. Students are advised to work closely with department advisors to ensure they meet all major requirements. Preparation in high school, such as AP Computer Science or programming experience, is beneficial but not required."
+}

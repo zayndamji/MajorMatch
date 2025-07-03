@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Anthropology (Biological Anthropology) (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Anthropology (Biological Anthropology) major provides a broad education in the field of anthropology, with a focus on the biological and biocultural aspects of human evolution, adaptation, and variation. The program emphasizes the integration of biological and cultural perspectives to understand human diversity and the human condition. Students learn about human evolution, genetics, and adaptation, as well as the cultural and social contexts of human biology.",
+  "shortProgramDescription": "The Anthropology (Biological Anthropology) B.A. provides a comprehensive understanding of human biology and evolution within a cultural and social context.",
+  "classHighlights": [
+    "The major requires foundational courses in anthropology, including ANTH101 (Introduction to Biological Anthropology), ANTH102 (Introduction to Cultural Anthropology), and ANTH103 (Introduction to Archaeology).",
+    "Students take core courses in biological anthropology, such as ANTH104 (Human Evolution), ANTH105 (Human Osteology), and ANTH106 (Primate Behavior and Ecology).",
+    "Upper-division courses include ANTH107 (Human Genetics and Evolution), ANTH108 (Biological Anthropology of Living Populations), and ANTH109 (Topics in Biological Anthropology).",
+    "Students also complete upper-division electives in anthropology, such as ANTH111 (Medical Anthropology), ANTH112 (Anthropology of Reproduction), and ANTH113 (Forensic Anthropology).",
+    "The major emphasizes the development of critical thinking, writing, and research skills through coursework and independent study."
+  ],
+  "learningOutcomes": [
+    "Understand the principles of human evolution and the fossil record.",
+    "Apply knowledge of human genetics and adaptation to understand human diversity.",
+    "Analyze the cultural and social contexts of human biology and evolution.",
+    "Develop critical thinking and writing skills through coursework and independent study.",
+    "Evaluate the complex interactions between biology, culture, and environment."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Anthropology (Cultural Anthropology) (B.A.)",
+      "link": "https://catalog.ucsd.edu/degree-programs/Anthropology-Cultural-Anthropology-B-A/"
+    },
+    {
+      "title": "Anthropology (Archaeology) (B.A.)",
+      "link": "https://catalog.ucsd.edu/degree-programs/Anthropology-Archaeology-B-A/"
+    },
+    {
+      "title": "Human Biology Minor",
+      "link": "https://catalog.ucsd.edu/programs/Human-Biology-Minor/"
+    }
+  ],
+  "sources": [
+    "https://anthropology.ucsd.edu/undergrad/major/index.html",
+    "https://catalog.ucsd.edu/degree-programs/Anthropology-Biological-Anthropology-B-A/",
+    "https://anthropology.ucsd.edu/undergrad/advising/index.html"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180-192 quarter units",
+  "additionalInformation": "Students must satisfy the major requirements in effect at the time of their declaration or re-declaration. Upper-division coursework must be taken for a letter grade. The major is administered by the Department of Anthropology."
+}

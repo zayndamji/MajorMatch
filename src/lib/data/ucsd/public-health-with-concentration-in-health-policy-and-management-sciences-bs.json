@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Public Health with Concentration in Health Policy and Management Sciences (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Public Health with a concentration in Health Policy and Management Sciences is designed to prepare students for careers in health policy, health services management, and health care administration. The program focuses on understanding the organization, financing, and delivery of health services, as well as the social, economic, and political factors that influence health outcomes.",
+  "shortProgramDescription": "The Public Health B.S. with a concentration in Health Policy and Management Sciences prepares students for careers in health policy, management, and administration.",
+  "classHighlights": [
+    "The curriculum includes foundational courses in public health, such as Introduction to Public Health (FMPH 40), Biostatistics for Public Health (FMPH 101), and Epidemiology for Public Health (FMPH 102).",
+    "Students take core courses in health policy and management, including Health Policy and Management (FMPH 165), Health Services Organization and Management (FMPH 166), and Program Planning and Management (FMPH 167).",
+    "Additional coursework covers health economics, health law, and health policy analysis, including Health Economics (FMPH 168) and Health Law and Policy (FMPH 169).",
+    "Electives allow students to explore specialized topics, such as health disparities, health care systems, and global health policy."
+  ],
+  "learningOutcomes": [
+    "Understand the principles of health policy and management",
+    "Analyze the organization, financing, and delivery of health services",
+    "Apply management principles to health care administration",
+    "Evaluate the social, economic, and political factors that influence health outcomes",
+    "Communicate effectively about health policy and management issues"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Global Health (B.A./B.S.)",
+      "link": "https://catalog.ucsd.edu/college-and-schools/school-of-global-policy-and-strategy/global-health-ba-bs/"
+    },
+    {
+      "title": "Health Sciences (B.S.)",
+      "link": "https://catalog.ucsd.edu/college-and-schools/college-of-arts-and-humanities/biology/health-sciences-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/college-and-schools/herbert-wertheim-school-of-public-health-and-human-longevity-science/public-health-bs/",
+    "https://healthsciences.ucsd.edu/schools/hwsph/departments/health-policy-and-management/Pages/default.aspx"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete a minimum of 180 units, including major requirements, general education, and electives. The program is designed to be completed in four years, assuming a normal course load each quarter."
+}

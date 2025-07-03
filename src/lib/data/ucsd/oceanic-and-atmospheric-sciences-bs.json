@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Oceanic and Atmospheric Sciences (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Oceanic and Atmospheric Sciences is an interdisciplinary program that provides students with a comprehensive understanding of the Earth's ocean and atmosphere systems. The program is designed to prepare students for careers in research, education, government, and industry. Students in this program gain a strong foundation in the physical sciences, including mathematics, physics, and chemistry, as well as specialized knowledge in oceanic and atmospheric sciences.",
+  "shortProgramDescription": "The Oceanic and Atmospheric Sciences B.S. program at UC San Diego provides a comprehensive education in the Earth's ocean and atmosphere systems, preparing students for careers in research, education, government, and industry.",
+  "classHighlights": [
+    "The program requires a strong foundation in mathematics and physical sciences, including courses such as Calculus (MATH 20A-B-C-D), Physics (PHYS 2A-B-C), and Chemistry (CHEM 6A-B-C).",
+    "Students take core courses in oceanic and atmospheric sciences, including Introduction to Oceanography (SIO 30), Introduction to Climate Dynamics (SIO 140), and Atmospheric Thermodynamics and Dynamics (SIO 141).",
+    "The program includes a range of electives that allow students to explore specialized topics in oceanic and atmospheric sciences, such as oceanography, climate dynamics, and weather forecasting.",
+    "Students also complete upper-division courses in their chosen area of emphasis, which may include courses such as Ocean Circulation (SIO 170), Atmospheric Dynamics (SIO 240), or Climate Change (SIO 250).",
+    "The program includes laboratory and field components, providing students with hands-on experience with data collection and analysis, as well as research opportunities."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of oceanic and atmospheric sciences",
+    "Analyze and interpret data related to oceanic and atmospheric phenomena",
+    "Apply mathematical and physical principles to understand oceanic and atmospheric processes",
+    "Communicate complex scientific information effectively",
+    "Think critically and solve problems in the context of oceanic and atmospheric sciences"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Science",
+      "link": "https://catalog.ucsd.edu/front/courses/ENV.html"
+    },
+    {
+      "title": "Earth Sciences",
+      "link": "https://catalog.ucsd.edu/front/courses/ERTH.html"
+    },
+    {
+      "title": "Environmental Studies",
+      "link": "https://catalog.ucsd.edu/front/courses/ESYS.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/SIO.html",
+    "https://sio.ucsd.edu/undergraduate-programs/oa-sciences-bs/",
+    "https://catalog.ucsd.edu/front/courses/SIO-BS.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The program is administered by the Scripps Institution of Oceanography. Students are advised to consult with their academic advisors to ensure they meet all program requirements."
+}

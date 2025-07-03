@@ -1,0 +1,37 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Media Industries and Communication (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Media Industries and Communication major is designed to provide students with a comprehensive understanding of the media industries, including the production, distribution, and reception of media content. The program focuses on the cultural, economic, and technological factors that shape the media landscape, and prepares students for careers in media and related fields.",
+  "shortProgramDescription": "The Media Industries and Communication major provides students with a critical understanding of the media industries and the skills to analyze and produce media content.",
+  "classHighlights": [
+    "The major requires foundational courses in communication and media studies, including COMM 10: Introduction to Communication and COMM 100: Communication Theory. These courses provide students with a broad understanding of the field and its key concepts.",
+    "Students take upper-division courses in media industries, including COMM 140: Media Industries and COMM 141: Media and Culture. These courses examine the production, distribution, and reception of media content, and the cultural and economic factors that shape the media landscape.",
+    "The major also includes elective courses in specialized areas, such as media production, media criticism, and media policy. Students can choose from a range of courses, including COMM 160: Media Production and COMM 170: Media Criticism, to develop their skills and knowledge in areas of interest."
+  ],
+  "learningOutcomes": [
+    "Understand the key concepts and theories in communication and media studies.",
+    "Analyze the production, distribution, and reception of media content.",
+    "Evaluate the cultural, economic, and technological factors that shape the media landscape.",
+    "Develop skills in media production, criticism, and analysis.",
+    "Apply theoretical knowledge to real-world media industries and issues."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Communication Minor",
+      "link": "https://communication.ucsd.edu/undergraduate/minor.html"
+    },
+    {
+      "title": "Science Studies Program",
+      "link": "https://science-studies.ucsd.edu/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/degree-certificate-programs/college-arts-humanities/department-communication/media-industries-communication-ba/",
+    "https://communication.ucsd.edu/undergraduate/media-industries-communication.html"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the major requirements, including foundational courses, upper-division courses, and elective courses. The major is designed to be completed in four years, with a typical course load of 12-16 units per quarter."
+}

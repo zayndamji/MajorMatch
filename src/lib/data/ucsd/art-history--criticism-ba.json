@@ -1,0 +1,35 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Art History/Criticism (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Art History/Criticism major provides a comprehensive education in the history, theory, and criticism of art from a variety of cultures and time periods. The program emphasizes the development of critical thinking, writing, and visual analysis skills. Students engage with a broad range of artistic practices, from ancient to contemporary, and explore the social, cultural, and historical contexts in which artworks are created and interpreted.",
+  "shortProgramDescription": "The Art History/Criticism B.A. program at UC San Diego offers a rigorous education in the history and criticism of art, preparing students for careers in museums, galleries, and art-related fields.",
+  "classHighlights": [
+    "The department requires students to take a series of core courses that introduce the fundamental principles and methodologies of art history. These include 'Introduction to Art History' (ART 1A or 1B), 'Introduction to Art Historical Methods' (ARTH 30), and 'Senior Seminar' (ARTH 194).",
+    "Students are also required to take a range of period and culture-specific courses, such as 'Ancient Art' (ARTH 101), 'Medieval Art' (ARTH 102), 'Modern Art' (ARTH 151), and 'Contemporary Art' (ARTH 152).",
+    "In addition, students must complete a series of electives that allow them to explore specialized topics, such as 'Art and Architecture of Rome' (ARTH 107), 'Theory of Art Criticism' (ARTH 161), or 'Topics in Contemporary Art' (ARTH 193).",
+    "The major also includes a writing component, which is fulfilled through courses such as 'Writing in Art History' (ARTH 100W).",
+    "Students are encouraged to take advantage of the department's study abroad programs, which offer opportunities to engage with artworks and cultural contexts in a more immersive way."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad knowledge of the history of art from a variety of cultures and time periods.",
+    "Apply critical thinking and visual analysis skills to the interpretation of artworks.",
+    "Develop effective writing and communication skills in the context of art historical discourse.",
+    "Engage with the social, cultural, and historical contexts in which artworks are created and interpreted.",
+    "Analyze and critique artworks using a range of theoretical and methodological approaches."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Visual Arts Minor",
+      "link": "https://catalog.ucsd.edu/FA2022/UGrad/Courses/visual-arts-minor.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/FA2022/UGrad/Programs/visual-arts/arthistory.html",
+    "https://visualarts.ucsd.edu/undergraduate-programs/major-art-history-criticism.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "total of 180 quarter units, including 56 upper-division units in the major",
+  "additionalInformation": "Students must satisfy the UC San Diego writing requirement through completion of 'Writing in Art History' (ARTH 100W) or another approved course. The major is administered by the Visual Arts department."
+}

@@ -1,0 +1,47 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Literatures in English (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Literatures in English major offers students a broad understanding of literary traditions in English, spanning multiple periods, genres, and cultural contexts. The program emphasizes critical analysis, close reading, and effective writing. Students explore a diverse range of texts, including works by authors from various backgrounds and historical periods. The major prepares students for a variety of careers, including education, writing, publishing, and law, as well as graduate study in English literature.",
+  "shortProgramDescription": "The Literatures in English major at UC San Diego provides a comprehensive education in English literature, emphasizing critical thinking, close reading, and effective writing.",
+  "classHighlights": [
+    "Foundational courses introduce students to the department's expectations and core skills, including literary analysis and critical thinking.",
+    "Period-based courses cover major literary periods, such as the Renaissance, the 18th century, and the 20th century, allowing students to contextualize works within their historical and cultural settings.",
+    "Genre and mode courses focus on specific forms, such as poetry, drama, or the novel, providing in-depth exploration of literary devices and techniques.",
+    "Thematic and theoretical courses examine literature through particular lenses, such as postcolonialism, feminism, or psychoanalysis, enabling students to engage with diverse critical perspectives.",
+    "Courses on diverse literatures, including those by authors from different cultural backgrounds, expand students' understanding of the global and multicultural aspects of English literature.",
+    "Upper-division seminars allow students to engage in advanced study and research in specialized topics, honing their critical thinking and writing skills.",
+    "Electives provide flexibility for students to pursue their interests, whether in specific authors, literary movements, or theoretical approaches."
+  ],
+  "learningOutcomes": [
+    "Analyze literary texts closely and critically.",
+    "Contextualize literature within its historical, cultural, and theoretical frameworks.",
+    "Develop effective writing skills for various academic and professional purposes.",
+    "Engage with diverse literary traditions and perspectives.",
+    "Apply critical thinking and theoretical approaches to literary study.",
+    "Demonstrate understanding of the cultural and social contexts of literature.",
+    "Produce well-researched and argued written work."
+  ],
+  "similarPrograms": [
+    {
+      "title": "English Minor",
+      "link": "https://catalog.ucsd.edu/UG/2024/Departments/Literature-Minor.html"
+    },
+    {
+      "title": "Comparative Literature Program",
+      "link": "https://complit.ucsd.edu"
+    },
+    {
+      "title": "Critical Gender Studies Program",
+      "link": "https://genderstudies.ucsd.edu"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/UG/2024/Departments/Literature-MAJOR.html",
+    "https://literature.ucsd.edu/undergrad/major.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units (minimum), including 52–60 units in Literature department courses",
+  "additionalInformation": "Students are advised to consult with department advisors to plan their course sequence and ensure timely progress toward degree completion. The major is designed to accommodate a range of interests and career goals, from teaching and writing to law and other professional pursuits."
+}

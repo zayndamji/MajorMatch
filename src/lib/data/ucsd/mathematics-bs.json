@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Mathematics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mathematics B.S. program provides a rigorous foundation in mathematics, preparing students for graduate study or careers in industry, government, or education. The program includes coursework in calculus, linear algebra, differential equations, and real analysis, as well as elective courses in areas such as algebra, geometry, and topology.",
+  "shortProgramDescription": "The Mathematics B.S. program at UC San Diego offers a comprehensive education in mathematics, covering both theoretical foundations and applied techniques.",
+  "classHighlights": [
+    "The lower-division coursework includes calculus (MATH 20A-B-C-D-E-F), linear algebra (MATH 20F), and differential equations (MATH 20D or MATH 140A-B).",
+    "Upper-division required courses include real analysis (MATH 140A-B-C), abstract algebra (MATH 100 or 103A-B), and complex analysis (MATH 120A-B).",
+    "Elective courses cover a range of topics, including algebra (MATH 100-199), geometry and topology (MATH 140-149), and applied mathematics (MATH 150-159, 170-179).",
+    "Students also take courses in probability and statistics (MATH 180A-B-C or MATH 181A-B).",
+    "The program emphasizes proof-based mathematics and theoretical understanding, with opportunities for advanced study in specialized areas."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a deep understanding of mathematical concepts, including calculus, linear algebra, and differential equations.",
+    "Apply mathematical techniques to solve problems in various fields.",
+    "Communicate mathematical ideas clearly and effectively in written and oral form.",
+    "Understand the theoretical foundations of mathematics, including real analysis and abstract algebra.",
+    "Analyze and solve problems using mathematical models and techniques."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mathematics (B.A.)",
+      "link": "https://catalog.ucsd.edu/curriculum/math-dept-bachelors-degrees/math-ba/"
+    },
+    {
+      "title": "Minor in Mathematics",
+      "link": "https://catalog.ucsd.edu/curriculum/math-dept-minors/math-minor/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/curriculum/math-dept-bachelors-degrees/math-bs/",
+    "https://math.ucsd.edu/undergrad/",
+    "https://math.ucsd.edu/undergrad/upper-division/"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-190 quarter units, including major requirements and general education courses",
+  "additionalInformation": "Students are advised to consult with departmental advisors to plan their course sequence and ensure they meet major requirements. The department offers various advising resources and support services."
+}

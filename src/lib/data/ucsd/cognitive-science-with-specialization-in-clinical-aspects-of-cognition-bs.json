@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Cognitive Science with Specialization in Clinical Aspects of Cognition (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Cognitive Science with Specialization in Clinical Aspects of Cognition major is designed for students who are interested in the scientific study of cognition and its clinical applications. The program covers the cognitive processes underlying human behavior and the methods used to study these processes, with a focus on the clinical aspects of cognition. Students learn about the neural basis of cognition, cognitive development, and the cognitive processes involved in various neurological and psychiatric disorders.",
+  "shortProgramDescription": "The Cognitive Science with Specialization in Clinical Aspects of Cognition major provides students with a comprehensive understanding of cognition and its clinical applications, preparing them for careers in research, healthcare, or further graduate study.",
+  "classHighlights": [
+    "The Cognitive Science core courses, including COGS101A, COGS101B, COGS101C, COGS102A, and COGS108, provide a foundation in the principles of cognition, cognitive neuroscience, and research methods.",
+    "Clinical Aspects of Cognition courses, such as COGS140 and COGS163, focus on the cognitive processes involved in various neurological and psychiatric disorders, and the methods used to study these processes.",
+    "Cognitive Neuroscience courses, including COGS100 and COGS107A, cover the neural basis of cognition and the methods used to study the neural mechanisms underlying cognitive processes.",
+    "Research Methods and Statistics courses, such as COGS108 and COGS109, provide training in the design and analysis of experiments, and the statistical methods used to analyze data.",
+    "Electives in Cognitive Science, such as COGS130 and COGS160, allow students to explore specialized topics in cognition and its clinical applications."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of cognition and cognitive neuroscience",
+    "Apply knowledge of cognitive processes to understand neurological and psychiatric disorders",
+    "Design and analyze experiments to study cognitive processes",
+    "Use statistical methods to analyze data and draw conclusions about cognitive processes",
+    "Communicate complex ideas about cognition and its clinical applications effectively"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Cognitive Science with Specialization in Human-Computer Interaction",
+      "link": "https://catalog.ucsd.edu/degreeprog/curriculum/?maj=cogsci-bs&dept=COGS&spec=hci"
+    },
+    {
+      "title": "Psychology",
+      "link": "https://catalog.ucsd.edu/degreeprog/curriculum/?maj=psych-bA"
+    },
+    {
+      "title": "Neuroscience",
+      "link": "https://catalog.ucsd.edu/degreeprog/curriculum/?maj=neurosci-bs"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/degreeprog/curriculum/?maj=cogsci-bs&dept=COGS&spec=clin",
+    "https://cogs.ucsd.edu/undergraduate-programs/bachelor-science-cogs-clinical-aspects-cognition/index.php"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-200 quarter units",
+  "additionalInformation": "Students must complete the required courses for the major, including the Cognitive Science core courses and the Clinical Aspects of Cognition specialization courses. Students are also encouraged to participate in research projects and internships to gain practical experience."
+}

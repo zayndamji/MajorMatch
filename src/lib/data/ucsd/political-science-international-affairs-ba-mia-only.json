@@ -1,0 +1,37 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Political Science/International Affairs (B.A./MIA)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Political Science/International Affairs major is designed for students who are interested in pursuing a career in international affairs, global politics, or related fields. The major combines coursework in political science, international relations, and other relevant disciplines to provide students with a comprehensive understanding of global issues and the skills needed to address them. Students in this major complete a series of core courses in political science and international relations, as well as electives in areas such as comparative politics, international political economy, and global governance. The major also includes a graduate component, where students can earn a Master's in International Affairs (MIA) in conjunction with their undergraduate degree.",
+  "shortProgramDescription": "The Political Science/International Affairs major at UC San Diego provides students with a comprehensive understanding of global politics and prepares them for careers in international affairs.",
+  "classHighlights": [
+    "The major requires coursework in the Department of Physics is not correct; the major is actually offered through the Department of Political Science. Core courses include Introduction to International Relations (POLI 5), Comparative Politics (POLI 30), and Research Methods in Political Science (POLI 110).",
+    "Students also take electives in areas such as comparative politics, international political economy, and global governance, including courses like International Political Economy (POLI 120), Global Governance (POLI 140), and Comparative Politics of Developing Countries (POLI 130).",
+    "Additional coursework includes classes on political theory, research methods, and statistical analysis, such as Political Theory and Methodology (POLI 100) and Statistical Analysis for Political Science (POLI 108)."
+  ],
+  "learningOutcomes": [
+    "Understand the major concepts and theories in international relations and global politics.",
+    "Analyze global issues from multiple perspectives and develop well-supported arguments.",
+    "Apply research methods and statistical analysis to understand political phenomena.",
+    "Develop effective written and oral communication skills.",
+    "Understand the role of politics and governance in shaping global outcomes."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Political Science (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses-and-programs/undergraduate-programs/political-science-ba/"
+    },
+    {
+      "title": "Global Studies (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses-and-programs/undergraduate-programs/global-studies-ba/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses-and-programs/undergraduate-programs/political-scienceinternational-affairs-ba-mia/",
+    "https://politicalscience.ucsd.edu/"
+  ],
+  "programDuration": "4 years (8 quarters, quarter system)",
+  "creditRequirements": "Typically around 180-200 quarter units for both B.A. and MIA degrees, with specific requirements varying based on the student's course plan and preparation.",
+  "additionalInformation": "The major is designed for students who are interested in pursuing a career in international affairs. Students should consult with the department for specific advising on course selection and graduate program requirements."
+}

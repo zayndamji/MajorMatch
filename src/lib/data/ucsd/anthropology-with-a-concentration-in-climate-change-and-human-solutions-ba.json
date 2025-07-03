@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Concentration",
+  "programName": "Anthropology with a Concentration in Climate Change and Human Solutions (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Anthropology Department at UC San Diego offers a Bachelor of Arts degree with a Concentration in Climate Change and Human Solutions. This program is designed to provide students with a comprehensive understanding of the complex relationships between human societies, cultures, and the environment, particularly in the context of climate change. Students explore the anthropological dimensions of climate change, including its impacts on human communities, cultures, and the environment, as well as the ways in which human societies have responded and adapted to environmental changes throughout history.",
+  "shortProgramDescription": "The Anthropology with a Concentration in Climate Change and Human Solutions (B.A.) program at UC San Diego prepares students to understand and address the complex relationships between human societies and climate change.",
+  "classHighlights": [
+    "The program includes a range of core and elective courses that cover topics such as environmental anthropology, climate change, human ecology, and sustainable development. Students engage with the theoretical and methodological foundations of anthropology, as well as applied and practical approaches to addressing environmental challenges.",
+    "Courses in the program cover a variety of themes, including the anthropology of climate change, environmental justice, and sustainable development, providing students with a nuanced understanding of the complex relationships between human societies, cultures, and the environment.",
+    "Electives allow students to explore specific areas of interest, such as climate change adaptation, environmental policy, and human-environment interactions, preparing them for careers or further study in fields related to environmental anthropology and sustainability."
+  ],
+  "learningOutcomes": [
+    "Understand the complex relationships between human societies, cultures, and the environment, particularly in the context of climate change.",
+    "Analyze the anthropological dimensions of climate change, including its impacts on human communities, cultures, and the environment.",
+    "Apply anthropological theories and methods to understand and address environmental challenges.",
+    "Develop a nuanced understanding of the ways in which human societies have responded and adapted to environmental changes throughout history.",
+    "Prepare for careers or further study in fields related to environmental anthropology, sustainability, and climate change."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Studies Minor",
+      "link": "https://catalog.ucsd.edu/UCSD/undergrad/programs/minor-environmental-studies.html"
+    },
+    {
+      "title": "Sustainable Food Systems Minor",
+      "link": "https://catalog.ucsd.edu/UCSD/undergrad/programs/minor-sustainable-food-systems.html"
+    },
+    {
+      "title": "Ethnic Studies Department",
+      "link": "https://ethnicstudies.ucsd.edu/undergrad/major"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/UCSD/undergrad/programs/anthropology-ba-climate-change.html",
+    "https://anthropology.ucsd.edu/undergrad/major/concentrations/climate-change.html"
+  ],
+  "programDuration": "4 academic years (quarter system), typically 12 quarters",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the requirements for the Anthropology major, including the core courses and electives, as well as the specific requirements for the Concentration in Climate Change and Human Solutions."
+}

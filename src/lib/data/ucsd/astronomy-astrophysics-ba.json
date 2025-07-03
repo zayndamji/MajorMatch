@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Astronomy & Astrophysics (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Astronomy and Astrophysics major is designed to provide a broad and deep understanding of the field, including the underlying physics and mathematics that govern the behavior of celestial objects and the universe as a whole. Students in this major will gain a strong foundation in astronomy, physics, and mathematics, as well as computational skills and data analysis techniques.",
+  "shortProgramDescription": "The Astronomy & Astrophysics B.A. program provides a comprehensive education in the field, preparing students for careers or further study in astronomy, physics, or related fields.",
+  "classHighlights": [
+    "The Astronomy and Astrophysics major requires a series of core courses in physics, mathematics, and astronomy, including Mechanics (PHYSICS2A or2B), Electricity and Magnetism (PHYSICS2B or2D), and Introduction to Astrophysics (ASTR20).",
+    "Students also complete a set of upper-division courses in astronomy and physics, including Stellar Astrophysics (ASTR120), Galaxies and Cosmology (ASTR130), and Observational Astronomy (ASTR140).",
+    "Mathematics courses include Calculus (MATH10A-B-C or20A-B-C) and Differential Equations (MATH20D or21D), as well as Linear Algebra (MATH18 or31A) and Mathematical Methods for Physics (PHYSICS110A-B).",
+    "Additional required courses include Computational Physics (PHYSICS105 or141) and Statistical Mechanics and Thermodynamics (PHYSICS112).",
+    "Students also complete a laboratory course, Observational Astronomy Laboratory (ASTR140L), and a senior-level seminar or capstone course is not required, however a writing course is required (ASTR190W is an option)."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of astronomy and astrophysics, including the behavior of celestial objects and the universe.",
+    "Apply mathematical and computational skills to analyze and interpret astronomical data.",
+    "Demonstrate a strong foundation in physics, including mechanics, electromagnetism, and thermodynamics.",
+    "Communicate complex scientific concepts effectively in written and oral forms.",
+    "Analyze and interpret astronomical data, including observations and simulations."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Physics (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/PHYSICS-BA/"
+    },
+    {
+      "title": "Physics (B.S.)",
+      "link": "https://catalog.ucsd.edu/front/courses/PHYSICS-BS/"
+    }
+  ],
+  "sources": [
+    "https://astro.ucsd.edu/",
+    "https://astronomy.ucsd.edu/undergraduate/major.html"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Astronomy and Astrophysics major is a challenging and rewarding program that prepares students for a wide range of careers in science, technology, and education. Students are encouraged to participate in research projects, internships, and other extracurricular activities to enhance their education and career prospects."
+}

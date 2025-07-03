@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major with Concentration",
+  "programName": "Latin American Studies with a Concentration in Migration and Border Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Latin American Studies major is an interdisciplinary program that focuses on the cultures, societies, and histories of Latin America and the Caribbean. The concentration in Migration and Border Studies examines the complex dynamics of human migration and the impact of borders on communities. Students explore the region through a variety of disciplinary lenses, including anthropology, history, literature, and sociology. The program prepares students for careers in fields related to Latin America and for graduate study.",
+  "shortProgramDescription": "The Latin American Studies major with a concentration in Migration and Border Studies provides students with a deep understanding of the complex issues surrounding migration and borders in Latin America and the Caribbean.",
+  "classHighlights": [
+    "The program includes core courses on Latin American Studies, such as LATN 191: Introduction to Latin American Studies, and LATN 192: Research Methods in Latin American Studies.",
+    "For the concentration in Migration and Border Studies, students take courses such as SOC 134: Migration and Society and HIST 171: History of Mexico.",
+    "Electives may include courses on anthropology, history, literature, and sociology, such as ANTH 140: Anthropology of Migration, HIST 174: Latin American Immigration to the United States, and SPAN 130: Latin American Literature.",
+    "Students also have the opportunity to take special topics courses and participate in research projects related to Latin American Studies and Migration and Border Studies."
+  ],
+  "learningOutcomes": [
+    "Understand the complex dynamics of human migration and the impact of borders on communities.",
+    "Analyze the cultures, societies, and histories of Latin America and the Caribbean through an interdisciplinary lens.",
+    "Apply knowledge of Latin American Studies to real-world problems and issues.",
+    "Develop critical thinking, research, and writing skills.",
+    "Prepare for careers in fields related to Latin America and for graduate study."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Latin American Studies Minor",
+      "link": "https://catalog.ucsd.edu/latam/"
+    },
+    {
+      "title": "Ethnic Studies",
+      "link": "https://ethnicstudies.ucsd.edu/"
+    },
+    {
+      "title": "Sociology Major",
+      "link": "https://sociology.ucsd.edu/undergraduate-program/index.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/latam/",
+    "https://latinamericanstudies.ucsd.edu/undergraduate/major.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "48 upper-division units for the major, with specific requirements for the concentration in Migration and Border Studies",
+  "additionalInformation": "Students must declare the major through the Department of Ethnic Studies. The program is highly interdisciplinary and allows students to tailor their coursework to their interests."
+}

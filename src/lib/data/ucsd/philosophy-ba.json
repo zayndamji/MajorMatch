@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Philosophy (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Philosophy offers a broad range of courses covering the main areas of philosophy, including metaphysics, epistemology, ethics, logic, and the history of philosophy. The undergraduate major in Philosophy is designed to provide students with a solid foundation in the subject, preparing them for a variety of careers or for graduate study in philosophy or related fields.",
+  "shortProgramDescription": "The Philosophy B.A. at UC San Diego provides students with a comprehensive understanding of philosophical theories, concepts, and methods, preparing them for diverse careers or further study.",
+  "classHighlights": [
+    "The department requires students to complete a set of foundational courses, including Introduction to Philosophy (PHIL 27 or PHIL 28), Logic (PHIL 30), and History of Philosophy (PHIL 131A and PHIL 131B).",
+    "Students are also required to take a certain number of upper-division courses, including areas such as metaphysics and epistemology, ethics, and the history of philosophy.",
+    "Electives allow students to explore various philosophical topics and subfields, from philosophical logic and philosophy of language to moral and political philosophy.",
+    "Upper-division seminars and specialized courses provide opportunities for in-depth study and research in specific areas of philosophy.",
+    "Courses in the department emphasize critical thinking, argumentation, and writing skills, preparing students for a range of academic and professional pursuits."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad understanding of the major areas of philosophy, including metaphysics, epistemology, ethics, and logic.",
+    "Apply critical thinking and argumentation skills to philosophical problems and texts.",
+    "Analyze and interpret complex philosophical theories and concepts.",
+    "Develop effective written and oral communication skills in presenting philosophical ideas.",
+    "Evaluate the relevance and implications of philosophical inquiry for various aspects of human life and society."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Minor in Philosophy",
+      "link": "https://catalog.ucsd.edu/philosophy/minor/index.html"
+    },
+    {
+      "title": "Cognitive Science",
+      "link": "https://catalog.ucsd.edu/cogsci/index.html"
+    },
+    {
+      "title": "Linguistics",
+      "link": "https://catalog.ucsd.edu/linguistics/index.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/philosophy/major/ba/index.html",
+    "https://philosophy.ucsd.edu/undergraduate/major-ba.html"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "48 upper-division units in Philosophy, with specific requirements for foundational and upper-division courses; total approximately 180 quarter units or 120 semester units",
+  "additionalInformation": "The major is flexible, allowing students to tailor their course of study to their interests. Students are encouraged to consult with department advisors to plan their program."
+}

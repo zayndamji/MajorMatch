@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Spanish Literature (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Spanish Literature major is designed to provide students with a comprehensive understanding of Spanish literature and culture from the Middle Ages to the present. The program emphasizes the development of critical thinking, writing, and analytical skills, as well as a nuanced understanding of the cultural and historical contexts that have shaped Spanish literature.",
+  "shortProgramDescription": "The Spanish Literature major at UCSD prepares students for careers in fields such as education, publishing, and cultural management, or for graduate study in Spanish literature and culture.",
+  "classHighlights": [
+    "The major requires a total of 52 upper-division units in Spanish, including core courses in Spanish literature and culture, as well as electives in areas such as medieval and early modern Spanish literature, 19th- and 20th-century Spanish literature, and Spanish-American literature.",
+    "Students take courses that cover a range of topics, including literary analysis, cultural studies, and linguistic theory, with a focus on developing critical thinking and writing skills.",
+    "Electives allow students to explore specific areas of interest, such as the works of individual authors, literary movements, or cultural and historical contexts.",
+    "Courses are taught by faculty with expertise in their fields, and often incorporate a range of teaching methods, including lectures, discussions, and workshops."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a comprehensive understanding of Spanish literature and culture from the Middle Ages to the present.",
+    "Analyze and interpret literary texts in their cultural and historical contexts.",
+    "Develop critical thinking and writing skills, with the ability to produce clear and well-supported arguments.",
+    "Demonstrate a nuanced understanding of the cultural and historical contexts that have shaped Spanish literature.",
+    "Communicate effectively in Spanish, both in writing and in speech."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Spanish Language and Culture (Minor)",
+      "link": "https://catalog.ucsd.edu/UndergraduateEducation/Literature/SpanishandPortuguese/Minors/SPANISHLANGUAGECULTUREMINOR.html"
+    },
+    {
+      "title": "Latin American Studies (Minor)",
+      "link": "https://catalog.ucsd.edu/UndergraduateEducation/InterdisciplinaryStudies/LatinAmericanStudies/Minors/LATINAMERICANSTUDIESMINOR.html"
+    },
+    {
+      "title": "Comparative Literature (B.A.)",
+      "link": "https://catalog.ucsd.edu/UndergraduateEducation/Literature/ComparativeLiterature/ComparativeLiteratureMajor.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/UndergraduateEducation/Literature/SpanishandPortuguese/Majors/SPANISHLITERATUREBA.html",
+    "https://spanport.ucsd.edu/undergraduate/majors-minors/spanish-literature-ba/"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-190 quarter units, including 52 upper-division units in Spanish",
+  "additionalInformation": "Students are encouraged to study abroad in a Spanish-speaking country, and to participate in internships or volunteer work that involves Spanish language and culture."
+}

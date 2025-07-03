@@ -49,6 +49,42 @@ async function mit() {
   }
 }
 
+// UC San Diego
+async function ucsd() {
+  const ucsdMajors = JSON.parse(fs.readFileSync('../src/lib/data/ucsd/majors.json'));
+  for (const major of ucsdMajors) {
+    await scrapeProgram('University of California, San Diego', major.name + `(department: ${major.college})`, `use the official catalog: https://catalog.ucsd.edu/`, `../src/lib/data/ucsd/${major.id}.json`);
+  }
+}
+
+async function ucsdCorrectLink() {
+  const ucsdMajors = JSON.parse(fs.readFileSync('../src/lib/data/ucsd/majors.json'));
+  for (const major of ucsdMajors) {
+    const content = await AI(
+      `I have already gathered information on University of California, San Diego's ${major.name} (department: ${major.college}) program (using the official catalog):
+
+      Here is the JSON data I have collected:
+      \`\`\`
+      ${JSON.stringify(JSON.parse(fs.readFileSync(`../src/lib/data/ucsd/${major.id}.json`)))}
+      \`\`\`
+
+      Change the first link in the "sources" array to instead use the department's website, as noted on this page: https://students.ucsd.edu/academics/advising/majors-minors/undergraduate-majors.html.
+      For example, all majors in the "Astronomy & Astrophysics" department should have the first link in the sources array set to "https://astro.ucsd.edu/"
+      
+      Give me new JSON data that only changes the first element in the sources attribute.
+      Only give me the JSON formatted output.
+      Do not write \`\`\` before or after the code.
+      Do not change any other attributes.`
+    );
+
+    console.log(content);
+
+    fs.writeFileSync(`../src/lib/data/ucsd/${major.id}.json`, JSON.stringify(JSON.parse(content.replaceAll('`', '')), undefined, 2));
+  }
+}
+
 // stanford();
 // ucb();
 // mit();
+// ucsd();
+ucsdCorrectLink();

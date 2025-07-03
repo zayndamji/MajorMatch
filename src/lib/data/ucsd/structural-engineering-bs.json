@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Structural Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Structural Engineering program at UC San Diego is designed to provide students with a comprehensive understanding of the principles and practices of structural engineering. The program focuses on the theoretical foundations, analysis, design, and construction of various types of structures, preparing students for careers in the field or for further study. Students learn about the behavior of structures under different loads, the properties of materials, and the application of engineering principles to solve real-world problems.",
+  "shortProgramDescription": "The Structural Engineering B.S. program at UC San Diego provides a strong foundation in the principles of structural analysis and design, preparing students for professional practice or graduate study.",
+  "classHighlights": [
+    "The program begins with foundational courses in mathematics and physics, including Calculus (MATH 20A-B-C-D), Physics (PHYS 2A-B-C), and Differential Equations (MATH 20D, MATH 140A-B). These courses provide the necessary background for more advanced engineering coursework.",
+    "Students then progress to core courses in engineering, including Introduction to Engineering (ENG 10), Mechanics of Solids (SE 101A), Mechanics of Materials (SE 101B), and Structural Analysis (SE 110A-B). These courses cover the fundamental principles of structural engineering, including the behavior of materials and the analysis of structures under various loads.",
+    "In addition to core courses, students take specialized courses in structural engineering, such as Structural Design (SE 121), Earthquake Engineering (SE 151A-B), and Structural Dynamics (SE 131). These courses provide in-depth knowledge of structural design, seismic design, and dynamic analysis.",
+    "Students also complete laboratory courses, such as Structural Engineering Laboratory (SE 122), and participate in design projects that simulate real-world engineering challenges. These experiences help students develop practical skills and apply theoretical knowledge to practical problems.",
+    "Electives and advanced courses allow students to explore areas of interest, such as advanced structural analysis, seismic design, or wind engineering, providing a deeper understanding of specific topics within structural engineering."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical and scientific principles to analyze and design structures.",
+    "Understand the behavior of structures under various loads, including seismic and wind loads.",
+    "Design and analyze structural systems using appropriate materials and methods.",
+    "Communicate effectively with technical and non-technical stakeholders.",
+    "Work collaboratively in teams to solve complex engineering problems.",
+    "Stay current with emerging technologies and practices in structural engineering."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Civil Engineering",
+      "link": "https://catalog.ucsd.edu/programs/CV.html"
+    },
+    {
+      "title": "Environmental Engineering",
+      "link": "https://catalog.ucsd.edu/programs/ENVE.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/programs/SE.html",
+    "https://se.ucsd.edu/undergraduate-program"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "approx. 180-200 quarter units",
+  "additionalInformation": "The program is accredited by the Engineering Accreditation Commission of ABET. Students are encouraged to participate in internships, research projects, and professional societies to gain practical experience and networking opportunities."
+}

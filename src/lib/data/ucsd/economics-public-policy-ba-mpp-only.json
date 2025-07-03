@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Combined Bachelor's/Master's Program",
+  "programName": "Economics-Public Policy (B.A./MPP)",
+  "degreeAwarded": "Bachelor of Arts and Master of Public Policy",
+  "fullProgramDescription": "The Economics-Public Policy B.A./M.P.P. program is an accelerated, combined degree program that allows students to earn both a B.A. in Economics and an M.P.P. in five years. The program is designed for students who are interested in pursuing a career in public policy, economics, or a related field. Students in the program take a rigorous sequence of courses in economics, statistics, and public policy, and have the opportunity to specialize in a particular area of interest.",
+  "shortProgramDescription": "The Economics-Public Policy B.A./M.P.P. program is a five-year, combined degree program that prepares students for careers in public policy, economics, and related fields.",
+  "classHighlights": [
+    "The program requires students to complete a series of core courses in economics, including Microeconomics (ECON 100A), Macroeconomics (ECON 100B), and Econometrics (ECON 120A).",
+    "Students also take courses in public policy, including Introduction to Public Policy (FMPH 101) and Policy Analysis (MPP 201).",
+    "Additional coursework includes Statistics for Public Policy (MPP 202) and Economic Development (ECON 173).",
+    "Students must also complete a series of electives in economics and public policy, allowing them to specialize in a particular area of interest.",
+    "The program also includes a graduate-level coursework component, where students take advanced courses in public policy and economics.",
+    "Students are also required to complete a field study or internship, providing them with practical experience in the field."
+  ],
+  "learningOutcomes": [
+    "Apply economic principles to analyze public policy issues.",
+    "Use statistical methods to analyze data and inform policy decisions.",
+    "Understand the principles of public policy and the policy-making process.",
+    "Analyze the impact of policy interventions on economic outcomes.",
+    "Communicate complex policy issues effectively to diverse audiences.",
+    "Evaluate the effectiveness of policy programs and interventions."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Economics (B.A.)",
+      "link": "https://catalog.ucsd.edu/courses/ECON.html"
+    },
+    {
+      "title": "Public Policy Minor",
+      "link": "https://gps.ucsd.edu/academics/minors/public-policy-minor.html"
+    },
+    {
+      "title": "Master of Public Policy (M.P.P.)",
+      "link": "https://gps.ucsd.edu/academics/degrees/mpp.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/courses/ECON.html",
+    "https://gps.ucsd.edu/academics/degrees/mpp.html",
+    "https://gps.ucsd.edu/academics/combined-degrees/ba-mpp.html"
+  ],
+  "programDuration": "5 years (combined B.A. and M.P.P. program)",
+  "creditRequirements": "The program requires a total of 180-192 units, including 45-48 units for the M.P.P. degree.",
+  "additionalInformation": "Students must apply to the M.P.P. program in the final year of their undergraduate studies. Admission to the M.P.P. program is competitive and requires a separate application."
+}

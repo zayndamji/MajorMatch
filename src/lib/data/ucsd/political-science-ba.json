@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Political Science (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Political Science offers a broad and comprehensive undergraduate curriculum that encompasses the major subfields of the discipline: American politics, comparative politics, international relations, and political theory. The curriculum is designed to provide students with a solid foundation in the discipline, as well as the opportunity to pursue specialized interests. Students are encouraged to explore the various subfields and to develop a deeper understanding of the complex relationships between politics, society, and the economy.",
+  "shortProgramDescription": "The Political Science B.A. program provides a comprehensive education in the major subfields of political science, preparing students for careers in government, law, international relations, and more.",
+  "classHighlights": [
+    "The Department of Political Science requires students to complete a set of core courses that provide a foundation in the major subfields of the discipline. These courses include Introduction to Political Science (POLI 5), American Politics (POLI 27), Comparative Politics (POLI 30), International Relations (POLI 140), and Political Theory (POLI 161).",
+    "Students are also required to take a series of upper-division courses that provide a deeper understanding of the subfields. These courses include American Politics (POLI 127), Comparative Politics (POLI 130), International Relations (POLI 140), and Political Theory (POLI 161).",
+    "In addition to the core and upper-division courses, students are encouraged to explore specialized topics through elective courses, such as POLI 171: Politics and Society, POLI 172: Political Economy, and POLI 190: Special Topics in Political Science."
+  ],
+  "learningOutcomes": [
+    "Understand the major subfields of political science, including American politics, comparative politics, international relations, and political theory.",
+    "Analyze complex political phenomena and evaluate competing explanations.",
+    "Develop critical thinking, writing, and research skills.",
+    "Apply theoretical knowledge to real-world problems and issues.",
+    "Communicate effectively in written and oral form."
+  ],
+  "similarPrograms": [
+    {
+      "title": "International Studies (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/ICPS-Major/"
+    },
+    {
+      "title": "Ethnic Studies (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/ETHS-Major/"
+    },
+    {
+      "title": "Sociology (B.A.)",
+      "link": "https://catalog.ucsd.edu/front/courses/SOCI-Major/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/POLI-Major/",
+    "https://politicalscience.ucsd.edu/undergraduate-program/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Department of Political Science is actually located within the Division of Social Sciences, not the Physics department as specified. Students are advised to consult with department advisors to ensure timely progress toward degree completion."
+}

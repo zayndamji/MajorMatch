@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Global South Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Global South Studies major is an interdisciplinary program that focuses on the cultures, histories, and societies of the Global South. The program provides students with a critical understanding of the complex processes that have shaped the modern world, including colonialism, imperialism, and globalization. Students examine the diverse experiences and perspectives of societies in Africa, Asia, Latin America, and the Middle East, and explore the ways in which these societies have been interconnected and shaped by global forces.",
+  "shortProgramDescription": "The Global South Studies major provides students with a nuanced understanding of the cultures, histories, and societies of the Global South, preparing them for careers in fields such as international relations, development, and cultural analysis.",
+  "classHighlights": [
+    "The core courses for the Global South Studies major, including GLBL 101, GLBL 102, and GLBL 190, provide students with a foundation in the field's key concepts, theories, and methods. These courses introduce students to the diverse cultures, histories, and societies of the Global South and explore the complex processes that have shaped the modern world.",
+    "Upper-division courses in the major, such as GLBL 120, GLBL 130, and GLBL 140, allow students to deepen their knowledge of specific regions and topics, including the histories and cultures of Africa, Asia, Latin America, and the Middle East. These courses also examine the global forces that have shaped these regions, including colonialism, imperialism, and globalization.",
+    "Elective courses in the major, including those offered by departments such as Ethnic Studies, History, and Literature, enable students to explore related fields and topics, such as social justice, human rights, and cultural identity. These courses also provide students with a nuanced understanding of the complex issues and debates that shape the Global South."
+  ],
+  "learningOutcomes": [
+    "Analyze the complex processes that have shaped the modern world, including colonialism, imperialism, and globalization.",
+    "Understand the diverse cultures, histories, and societies of the Global South.",
+    "Examine the ways in which global forces have interconnected and shaped the societies of the Global South.",
+    "Apply critical thinking and problem-solving skills to complex issues and debates in the Global South.",
+    "Communicate effectively about the cultures, histories, and societies of the Global South."
+  ],
+  "similarPrograms": [
+    {
+      "title": "International Studies",
+      "link": "https://catalog.ucsd.edu/front/courses-international-studies-major/"
+    },
+    {
+      "title": "Ethnic Studies",
+      "link": "https://catalog.ucsd.edu/front/courses-ethnic-studies-major/"
+    },
+    {
+      "title": "Latin American Studies",
+      "link": "https://catalog.ucsd.edu/front/courses-latin-american-studies-minor/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses-global-south-studies-major/",
+    "https://globalsouthstudies.ucsd.edu/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "48 upper-division units in the major; total 180 quarter units (or equivalent)",
+  "additionalInformation": "Students are advised to consult with the department advisor to plan their course sequence and ensure they meet the major's requirements. The major is designed to be flexible, allowing students to tailor their coursework to their interests and career goals."
+}

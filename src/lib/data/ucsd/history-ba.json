@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "History (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The History major at UC San Diego is designed to provide students with a broad understanding of the past, from the ancient world to the present day. Students develop critical thinking, research, and writing skills as they explore diverse historical topics and themes. The major emphasizes the importance of historical context, comparative analysis, and the development of historical narratives.",
+  "shortProgramDescription": "The History B.A. at UC San Diego prepares students to analyze the past, understand the present, and engage with diverse historical perspectives.",
+  "classHighlights": [
+    "The History Department at UC San Diego offers a range of courses that cover various geographical regions, time periods, and thematic topics. Lower-division courses introduce students to historical methods and themes, while upper-division courses provide more specialized knowledge and research opportunities.",
+    "Courses in European History cover topics such as the ancient world, medieval Europe, and modern European intellectual and cultural history. Students can explore the development of European societies, the impact of major events like the Renaissance and the Enlightenment, and the role of Europe in global contexts.",
+    "Courses in American History examine the history of the United States, from colonial times to the present, including topics such as the American Revolution, the Civil War, and the Civil Rights Movement. Students can analyze the complex social, political, and economic factors that have shaped American society.",
+    "Courses in Global and Comparative History allow students to explore historical themes and events across multiple regions and cultures. Topics may include comparative imperialisms, global migrations, and transnational cultural exchanges, enabling students to understand the interconnectedness of historical processes.",
+    "The department also offers courses in other geographical areas, such as Asia, Africa, and Latin America, providing a rich and diverse curriculum that allows students to tailor their studies to their interests and career goals."
+  ],
+  "learningOutcomes": [
+    "Analyze historical events, processes, and cultures with a critical and nuanced perspective.",
+    "Develop effective research skills, including the ability to identify and interpret historical sources.",
+    "Communicate complex historical ideas and arguments through clear and persuasive writing.",
+    "Engage in comparative and contextual analysis of historical phenomena.",
+    "Understand the diversity of human experiences and the complexity of historical change over time."
+  ],
+  "similarPrograms": [
+    {
+      "title": "History Minor",
+      "link": "https://catalog.ucsd.edu/front/courses/History/#minor"
+    },
+    {
+      "title": "Ethnic Studies",
+      "link": "https://catalog.ucsd.edu/front/courses/Ethnic-Studies/"
+    },
+    {
+      "title": "History and Culture of Latin America",
+      "link": "https://catalog.ucsd.edu/front/courses/History-and-Culture-of-Latin-America/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/History/",
+    "https://history.ucsd.edu/undergraduate-program/",
+    "https://history.ucsd.edu/undergraduate-program/major-requirements/"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "48 upper-division History units; total 180 quarter units (or 120 semester units)",
+  "additionalInformation": "The History major requires a minimum of 12 upper-division courses, including a senior seminar. Students must also complete the UC San Diego general education requirements and maintain a minimum GPA in their major courses."
+}

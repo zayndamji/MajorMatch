@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Psychology with a Specialization in Human Health (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Psychology with a Specialization in Human Health is designed to provide students with a comprehensive understanding of psychological principles and their application to human health. The program covers various aspects of psychology, including research methods, statistical analysis, and the biological and social factors that influence human behavior and health. Students learn about the psychological, social, and biological processes that underlie human health and illness, and are prepared for careers in healthcare, research, or further study.",
+  "shortProgramDescription": "The Psychology with a Specialization in Human Health B.S. program at UC San Diego provides a comprehensive education in psychological principles and their application to human health, preparing students for careers in healthcare or research.",
+  "classHighlights": [
+    "The program begins with foundational courses in Psychology, including Introduction to Psychology (PSYC 60), Research Methods (PSYC 101), and Statistics (PSYC 60 or MATH 11).",
+    "Students take core courses in biopsychology, including Biopsychology (PSYC 102) and Physiological Psychology (PSYC 161), which provide a comprehensive understanding of the biological basis of behavior.",
+    "Upper-division courses cover various aspects of human health, including Health Psychology (PSYC 162), Social Psychology (PSYC 170), and Abnormal Psychology (PSYC 173), allowing students to explore the psychological, social, and biological factors that influence human health and illness.",
+    "Students also complete a series of elective courses that allow them to tailor their education to their interests and career goals, choosing from a range of courses that cover topics such as developmental psychology, cognitive psychology, and cultural psychology.",
+    "The program emphasizes the development of research skills, with courses in Research Methods and Statistical Analysis, and prepares students to apply psychological principles to real-world problems in human health."
+  ],
+  "learningOutcomes": [
+    "Understand the psychological, social, and biological processes that underlie human health and illness.",
+    "Apply research methods and statistical analysis to understand human behavior and health.",
+    "Analyze the biological basis of behavior and its relationship to human health.",
+    "Evaluate the role of psychological factors in human health and illness.",
+    "Develop critical thinking and problem-solving skills to address real-world problems in human health.",
+    "Communicate effectively about psychological principles and their application to human health."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Psychology (B.A.)",
+      "link": "https://catalog.ucsd.edu/arts-humanities/departments-areas/psychology/undergraduate-programs/psychology-b/"
+    },
+    {
+      "title": "Psychology with a Specialization in Neuroscience (B.S.)",
+      "link": "https://catalog.ucsd.edu/arts-humanities/departments-areas/psychology/undergraduate-programs/psychology-with-a-specialization-in-neuroscience-bs/"
+    },
+    {
+      "title": "Cognitive Science (B.A. or B.S.)",
+      "link": "https://catalog.ucsd.edu/arts-humanities/departments-areas/cognitive-science/undergraduate-programs/cognitive-science-ba-or-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/arts-humanities/departments-areas/psychology/undergraduate-programs/psychology-with-a-specialization-in-human-health-bs/",
+    "https://psychology.ucsd.edu/undergraduate-program/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "total of 180 quarter units, with at least 72 upper-division units",
+  "additionalInformation": "Students must complete the required courses for the major, including foundational courses in psychology, core courses in biopsychology, and upper-division courses in human health. The program is designed to be completed in four years, with students taking an average of 15-16 units per quarter."
+}

@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Mathematics and Economics - Joint Major (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mathematics and Economics - Joint Major (B.S.) program is an interdisciplinary program offered by the Department of Mathematics. This program combines the study of mathematical theories and methods with the study of economic principles and practices. Students in this program develop a strong foundation in mathematical techniques, statistical analysis, and economic theory, preparing them for careers in fields such as finance, data analysis, and research.",
+  "shortProgramDescription": "The Mathematics and Economics - Joint Major (B.S.) program provides students with a comprehensive education in both mathematics and economics, preparing them for a wide range of career opportunities.",
+  "classHighlights": [
+    "The program requires students to complete a series of core courses in mathematics, including calculus (MATH 20A-B-C-D), linear algebra (MATH 18 or 20F), and differential equations (MATH 20D or 21D).",
+    "Students also complete a set of core courses in economics, including microeconomics (ECON 100A-B), macroeconomics (ECON 101A-B), and econometrics (ECON 120A-B-C).",
+    "In addition to these core courses, students choose from a range of electives in both mathematics and economics, allowing them to tailor their education to their interests and career goals.",
+    "Some of the elective courses in mathematics include probability and statistics (MATH 180A-B-C), mathematical finance (MATH 183), and mathematical modeling (MATH 171A-B).",
+    "Elective courses in economics include advanced microeconomics (ECON 110A-B-C), advanced macroeconomics (ECON 111A-B-C), and specialized courses in areas such as international trade and economic development.",
+    "The program also requires students to complete a capstone course or other culminating experience, which helps them integrate their knowledge and skills and prepare for their future careers."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical techniques and methods to economic problems and theories.",
+    "Analyze and interpret economic data using statistical and econometric techniques.",
+    "Understand and apply microeconomic and macroeconomic theories.",
+    "Develop strong problem-solving and critical thinking skills.",
+    "Communicate complex ideas and results effectively.",
+    "Integrate knowledge from both mathematics and economics to tackle real-world problems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mathematics (B.S.)",
+      "link": "https://catalog.ucsd.edu/courses/MATH.html"
+    },
+    {
+      "title": "Economics (B.A.)",
+      "link": "https://catalog.ucsd.edu/courses/ECON.html"
+    },
+    {
+      "title": "Economics (B.S.)",
+      "link": "https://catalog.ucsd.edu/courses/ECON.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses-release-2023.html",
+    "https://catalog.ucsd.edu/courses/MATH.html",
+    "https://math.ucsd.edu/undergraduate/major/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "approx. 180-200 quarter units",
+  "additionalInformation": "The Mathematics and Economics - Joint Major (B.S.) program is administered by the Department of Mathematics. Students are advised to consult with department advisors to plan their course of study and ensure they meet all program requirements."
+}

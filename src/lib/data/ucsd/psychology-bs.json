@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Psychology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Psychology provides a comprehensive education in the scientific study of behavior and mental processes. The program covers a broad range of topics, including research methods, statistics, cognitive psychology, social psychology, developmental psychology, and biological psychology. Students gain a deep understanding of the principles and methods of psychology, preparing them for careers in research, clinical psychology, education, and other fields.",
+  "shortProgramDescription": "The Psychology B.S. program at UC San Diego provides a rigorous foundation in psychological theory, research methods, and statistical analysis, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The lower-division courses provide a foundation in psychology, including introductory psychology, research methods, and statistics. Students learn about the principles of psychology, research design, and statistical analysis.",
+    "Upper-division required courses cover cognitive psychology, social psychology, developmental psychology, and biological psychology. Students gain a deep understanding of the major areas of psychology and the research methods used to study them.",
+    "Electives allow students to explore specialized topics in psychology, such as abnormal psychology, personality, and psychological assessment. Students can choose from a range of courses to tailor their education to their interests and career goals.",
+    "The program also emphasizes the development of critical thinking, writing, and research skills. Students learn to design and conduct research studies, analyze data, and present their findings in a clear and concise manner."
+  ],
+  "learningOutcomes": [
+    "Understand the major areas of psychology, including cognitive, social, developmental, and biological psychology.",
+    "Apply research methods and statistical analysis to study behavior and mental processes.",
+    "Demonstrate critical thinking and problem-solving skills in the context of psychological theory and research.",
+    "Communicate complex psychological concepts in a clear and concise manner.",
+    "Evaluate the ethical implications of psychological research and practice."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Cognitive Science",
+      "link": "https://catalog.ucsd.edu/front/courses-and-programs/undergraduate-degrees/cognitive-science-b-a/"
+    },
+    {
+      "title": "Neuroscience",
+      "link": "https://catalog.ucsd.edu/front/courses-and-programs/undergraduate-degrees/neuroscience-b-s/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses-and-programs/undergraduate-degrees/psychology-b-s/",
+    "https://psychology.ucsd.edu/undergraduate-program/index.html"
+  ],
+  "programDuration": "4 years (quarter system, typically 12 quarters)",
+  "creditRequirements": "180 quarter units (includes major, general education, and elective courses)",
+  "additionalInformation": "Students must complete the major requirements, including lower-division and upper-division courses, as well as elective courses. The program is designed to be completed in four years, with most students graduating within this timeframe."
+}

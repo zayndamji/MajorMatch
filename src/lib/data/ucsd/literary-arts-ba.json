@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Literary Arts (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Literary Arts major is designed for students who are passionate about literature and want to explore the many facets of literary study. The program allows students to examine literary works from a variety of historical periods, cultures, and genres, and to develop their critical thinking, writing, and analytical skills.",
+  "shortProgramDescription": "The Literary Arts major at UC San Diego provides students with a comprehensive education in literature, preparing them for careers in writing, editing, teaching, and more.",
+  "classHighlights": [
+    "The Literary Arts major requires students to take a range of core courses in literature, including courses on literary theory, criticism, and analysis. These courses provide students with a solid foundation in the study of literature and help them develop their critical thinking and writing skills.",
+    "Students in the Literary Arts major also have the opportunity to explore their interests in specific areas of literature, such as genre studies, period studies, or author-specific courses. These courses allow students to delve deeper into their areas of interest and develop their knowledge and analytical skills.",
+    "In addition to core and elective courses, the Literary Arts major also requires students to take courses in writing and literary production. These courses help students develop their creative writing skills and provide them with a practical understanding of the literary publishing industry."
+  ],
+  "learningOutcomes": [
+    "Analyze and interpret literary texts from a variety of historical periods, cultures, and genres",
+    "Develop critical thinking and writing skills through the study of literary theory and criticism",
+    "Demonstrate an understanding of literary history and the cultural contexts of literary production",
+    "Produce clear and effective writing in a variety of styles and genres",
+    "Apply literary knowledge and critical thinking skills to real-world problems and contexts"
+  ],
+  "similarPrograms": [
+    {
+      "title": "English Minor",
+      "link": "https://catalog.ucsd.edu/front/courses/english-minor/index.html"
+    },
+    {
+      "title": "Writing Minor",
+      "link": "https://catalog.ucsd.edu/front/courses/writing-minor/index.html"
+    },
+    {
+      "title": "Comparative Literature Major",
+      "link": "https://catalog.ucsd.edu/front/courses/comparative-literature-major/index.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/literary-arts-ba/index.html",
+    "https://literature.ucsd.edu/undergraduate-programs/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-192 quarter units",
+  "additionalInformation": "Students must complete the required courses for the major, including core courses and electives, and maintain a minimum GPA of 2.0. The major is administered by the Department of Literature."
+}

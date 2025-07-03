@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Chemical Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Department of NanoEngineering offers a Bachelor of Science degree in Chemical Engineering. The program provides a comprehensive education in chemical engineering principles, including thermodynamics, transport phenomena, and reaction kinetics. Students learn to apply these principles to design and optimize chemical processes and systems. The curriculum includes coursework in mathematics, physics, chemistry, and biology, as well as core courses in chemical engineering.",
+  "shortProgramDescription": "The Chemical Engineering B.S. program at UC San Diego provides a rigorous foundation in chemical engineering principles and prepares students for diverse careers or further study.",
+  "classHighlights": [
+    "Mathematics and Physics: Students complete a series of mathematics courses including Calculus (MATH 20A-B-C-D), Differential Equations (MATH 20D), and Linear Algebra (MATH 20F), as well as physics courses including Mechanics and Electricity & Magnetism (PHYS 2A-B-C-D).",
+    "Chemistry and Biology: Students take General Chemistry (CHEM 6A-B-C) and Organic Chemistry (CHEM 41A-B-C), as well as Biochemistry (BILD 62) or other biology courses.",
+    "Chemical Engineering Core: Students complete core chemical engineering courses including Introduction to Chemical Engineering (CENG 101A), Thermodynamics (CENG 101B), Transport Phenomena (CENG 102), and Reaction Kinetics (CENG 120A-B).",
+    "Process Control and Design: Students take courses in process control (CENG 106) and design (CENG 108, CENG 109).",
+    "Technical Electives: Students choose from a range of technical electives, including specialized courses in chemical engineering and related fields."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of chemical engineering to design and optimize processes and systems.",
+    "Analyze complex problems using mathematical and scientific principles.",
+    "Understand and apply concepts of thermodynamics, transport phenomena, and reaction kinetics.",
+    "Design and conduct experiments, and interpret data.",
+    "Communicate effectively in written and oral forms.",
+    "Work effectively in teams and demonstrate an understanding of professional ethics."
+  ],
+  "similarPrograms": [
+    {
+      "title": "NanoEngineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/departments/nanoengineering-bs/"
+    },
+    {
+      "title": "Environmental Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/departments/environmental-engineering-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/departments/nanoengineering-bs/chemical-engineering-bs/",
+    "https://nanoengineering.ucsd.edu/undergrad/programs/chemical-engineering-bs"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "approx. 208-212 units (quarter system)",
+  "additionalInformation": "The program is accredited by the Engineering Accreditation Commission of ABET. Students must maintain a minimum GPA and complete specific coursework requirements."
+}

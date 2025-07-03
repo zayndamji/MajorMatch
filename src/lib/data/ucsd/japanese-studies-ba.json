@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Japanese Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The major in Japanese Studies is designed to provide students with a broad knowledge of Japanese language, culture, history, and society. The program includes a range of courses in the humanities and social sciences, as well as language training. Students develop a deep understanding of Japan's cultural heritage, its contemporary society, and its place in the world.",
+  "shortProgramDescription": "The Japanese Studies major at UC San Diego offers a comprehensive education in Japanese language and culture, preparing students for careers in fields such as education, business, government, and international relations.",
+  "classHighlights": [
+    "The Japanese Studies major requires students to complete a series of language courses, including JAPN 101-104, which provide a foundation in Japanese language skills. Students also take courses in Japanese literature, culture, and history, such as JAPN 130, JAPN 140, and JAPN 150, which explore Japan's cultural heritage and its contemporary society.",
+    "Students choose from a range of upper-division courses, including JAPN 160, JAPN 170, and JAPN 180, which focus on advanced language skills, Japanese culture, and society. These courses help students develop a nuanced understanding of Japan's complex cultural and social dynamics.",
+    "The major also includes elective courses that allow students to explore related topics, such as Japanese history, politics, and economics. Students can choose from a range of courses offered by the Department of Japanese Studies, as well as other departments across the university, to create a personalized course of study that aligns with their interests and career goals."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a high level of proficiency in Japanese language skills, including reading, writing, and speaking.",
+    "Analyze and interpret Japanese cultural texts, including literature, film, and other media.",
+    "Understand the historical and cultural contexts that have shaped Japan's society and culture.",
+    "Apply knowledge of Japanese culture and society to real-world contexts, including business, education, and government.",
+    "Communicate effectively in Japanese, both in writing and in speech."
+  ],
+  "similarPrograms": [
+    {
+      "title": "East Asian Studies Minor",
+      "link": "https://catalog.ucsd.edu/front/courses/EASTMIN/index.html"
+    },
+    {
+      "title": "Korean Studies Program",
+      "link": "https://koreanstudies.ucsd.edu/"
+    },
+    {
+      "title": "Chinese Language and Culture Program",
+      "link": "https://chinese.ucsd.edu/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/JAPN-BA/index.html",
+    "https://japanesestudies.ucsd.edu/",
+    "https://japanese.ucsd.edu/undergraduate/major/index.html"
+  ],
+  "programDuration": "4 years (8 quarters, quarter system)",
+  "creditRequirements": "180-200 quarter units (includes general education, major, and elective courses)",
+  "additionalInformation": "Students are encouraged to study abroad in Japan to enhance their language skills and cultural knowledge. The major is designed to be flexible, allowing students to pursue a range of interests and career goals."
+}

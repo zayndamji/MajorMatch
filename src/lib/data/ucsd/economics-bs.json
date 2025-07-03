@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Economics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Economics provides students with a comprehensive understanding of economic theory, econometrics, and applied economics. The program emphasizes both theoretical foundations and empirical analysis, preparing students for careers in government, private sector, and graduate study.",
+  "shortProgramDescription": "The Economics B.S. at UC San Diego provides a rigorous education in economic theory and empirical methods, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The lower-division courses provide a foundation in microeconomics, macroeconomics, and mathematical tools. Students take ECON 1, 2, 3, and MATH 2, 3, 10A, 10B, or 20A, 20B.",
+    "The upper-division core courses cover microeconomic theory (ECON 100A, 100B), macroeconomic theory (ECON 101A, 101B), and econometrics (ECON 120A, 120B, 120C).",
+    "Students choose from a range of electives, including courses in economic history, international trade, public finance, labor economics, and industrial organization.",
+    "The major also allows for flexibility in choosing electives to tailor the program to individual interests and career goals.",
+    "Students are encouraged to take courses that provide a strong foundation for graduate study or professional careers."
+  ],
+  "learningOutcomes": [
+    "Understand and apply microeconomic and macroeconomic theories.",
+    "Analyze economic data using econometric techniques.",
+    "Evaluate economic policies and their impacts.",
+    "Communicate complex economic ideas effectively.",
+    "Apply economic principles to real-world problems.",
+    "Demonstrate an understanding of the global economy and its interdependencies."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Economics (B.A.)",
+      "link": "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/departments/economics/undergraduate-programs/economics-ba/"
+    },
+    {
+      "title": "Management Science (B.S.)",
+      "link": "https://catalog.ucsd.edu/college-and-schools/radiology-school/departments/management-science/undergraduate-programs/management-science-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/departments/economics/undergraduate-programs/economics-bs/",
+    "https://economics.ucsd.edu/undergraduate-program/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-182 quarter units",
+  "additionalInformation": "Students must complete all lower-division and upper-division core courses with a grade of C- or higher. The major GPA is calculated based on upper-division economics courses."
+}

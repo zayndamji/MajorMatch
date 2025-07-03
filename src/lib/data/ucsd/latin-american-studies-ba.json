@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Latin American Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Latin American Studies major is an interdisciplinary program that focuses on the cultures, histories, and societies of Latin America. The program provides students with a comprehensive understanding of the region, its languages, and its peoples. Students can choose from a variety of courses in departments such as Literature, History, Anthropology, and Political Science, among others.",
+  "shortProgramDescription": "The Latin American Studies B.A. provides an interdisciplinary understanding of Latin America, its cultures, and its societies.",
+  "classHighlights": [
+    "The major requires coursework in Language and Literature, including Spanish or Portuguese language proficiency.",
+    "Students take foundational courses in Latin American History, Culture, and Society, covering topics such as the colonial period, independence movements, and contemporary issues.",
+    "Electives allow students to explore specific areas of interest, such as Politics and Economy, Social Movements, or Cultural Studies, through courses in various departments.",
+    "The major also includes coursework in Research Methods and Senior Seminars, preparing students for advanced research and analysis."
+  ],
+  "learningOutcomes": [
+    "Demonstrate an understanding of the historical, cultural, and social contexts of Latin America.",
+    "Analyze the complexities of Latin American societies and cultures.",
+    "Apply disciplinary approaches from fields like History, Literature, and Anthropology to the study of Latin America.",
+    "Communicate effectively in Spanish or Portuguese, both written and spoken.",
+    "Conduct independent research on Latin American topics."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Ethnic Studies",
+      "link": "https://ethnicstudies.ucsd.edu"
+    },
+    {
+      "title": "Spanish and Portuguese Languages and Literatures",
+      "link": "https://spanport.ucsd.edu"
+    },
+    {
+      "title": "History",
+      "link": "https://history.ucsd.edu"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/FA20UCSDPROG/undergrad/INTERDISCIPLINARSTUDIESPROG/Latin_American_Studies_B_A_.html",
+    "https://latinamericstudies.ucsd.edu"
+  ],
+  "programDuration": "4 years (quarter system, typically 12 quarters)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The major is administered by the Latin American Studies department. Students are encouraged to study abroad in Latin America and participate in internships or research projects related to the region."
+}

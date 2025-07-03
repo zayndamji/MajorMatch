@@ -1,0 +1,34 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Sociology - Social Inequality (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Sociology - Social Inequality major at UC San Diego focuses on the study of social inequality, examining the ways in which social structures, institutions, and interactions shape individual and group outcomes. Students explore topics such as race, class, gender, and sexuality, and develop a critical understanding of the complex relationships between social inequality and social change.",
+  "shortProgramDescription": "The Sociology - Social Inequality major provides students with a deep understanding of the social structures and institutions that shape inequality, preparing them for careers in fields such as research, policy, and social justice.",
+  "classHighlights": [
+    "The major requires foundational courses in sociological theory and methods, including SOC1 (Introduction to Sociology), SOC30 (Sociological Theory), and SOC80 (Sociological Research Methods).",
+    "Students take upper-division courses in social inequality, including SOC105 (Sociology of Race and Ethnicity), SOC110 (Sociology of Gender), and SOC120 (Social Stratification).",
+    "Electives allow students to explore specialized topics, such as SOC115 (Sociology of Immigration), SOC125 (Sociology of Education), and SOC130 (Sociology of Health and Illness).",
+    "The major also requires a sequence of upper-division courses that provide a deeper understanding of sociological concepts and methods, including SOC131 (Sociological Analysis), SOC132 (Sociological Research Design), and SOC133 (Sociological Data Analysis)."
+  ],
+  "learningOutcomes": [
+    "Understand the major concepts and theories in sociological study of social inequality.",
+    "Analyze the complex relationships between social structures, institutions, and individual outcomes.",
+    "Apply sociological research methods to the study of social inequality.",
+    "Critically evaluate the ways in which social inequality is shaped by and shapes social change.",
+    "Communicate complex sociological ideas in written and oral form."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Sociology (B.A.)",
+      "link": "https://catalog.ucsd.edu/college/sciences/sociology/sociology-undergraduate-major-ba/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/college/sciences/sociology/sociology-social-inequality-undergraduate-major-ba/",
+    "https://sociology.ucsd.edu/undergraduate-programs/majors/social-inequality/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "52 upper-division Sociology credits and 4 lower-division Sociology credits; total 180 quarter units",
+  "additionalInformation": "The Sociology - Social Inequality major is designed for students who wish to pursue a deep understanding of the social structures and institutions that shape inequality. Students are encouraged to work closely with advisors to develop a course plan that meets their academic and career goals."
+}

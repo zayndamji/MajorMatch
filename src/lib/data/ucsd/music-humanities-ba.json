@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Music Humanities (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Music Humanities major at UC San Diego is an interdisciplinary program offered through the Department of Mechanical and Aerospace Engineering is not correct, as Music Humanities is not a MAE department major; however, according to the official catalog, the Music Humanities major is housed under the Department of Music. The major explores the historical and cultural contexts of music, integrating analysis of musical structures, cultural history, and critical theory. Coursework spans various historical periods, genres, and theoretical approaches, preparing students for diverse careers in music-related fields or graduate study.",
+  "shortProgramDescription": "The Music Humanities B.A. provides a comprehensive understanding of music within its cultural and historical contexts, preparing students for careers or further study in music and related fields.",
+  "classHighlights": [
+    "Historical and Cultural Contexts: Courses like MUS 4, MUS 5, and MUS 6 introduce students to the historical development of Western art music, non-Western musical traditions, and popular music, respectively, laying the groundwork for more advanced study.",
+    "Musical Analysis and Theory: Students engage with music theory and analysis through courses that examine the structure and style of various musical genres, such as MUS 120A-B-C (Music Theory) and specialized seminars.",
+    "Critical Theory and Research Methods: Advanced courses and seminars in Music Humanities, such as MUS 163 (Topics in Music Humanities) and MUS 164 (Research in Music), train students in critical theory and research methodologies, enabling them to analyze and contextualize musical practices.",
+    "Electives and Specializations: Students can choose from a range of electives that allow them to explore specific interests, whether in historical performance practices, ethnomusicology, or the intersections between music and other arts or media.",
+    "Capstone and Senior Projects: While not explicitly required, students are encouraged to undertake independent projects or research under the guidance of faculty, synthesizing their knowledge and skills in Music Humanities."
+  ],
+  "learningOutcomes": [
+    "Analyze musical works within their historical and cultural contexts.",
+    "Apply critical theory and research methodologies to understand musical practices.",
+    "Demonstrate a broad knowledge of musical traditions and historical periods.",
+    "Communicate complex musical ideas in written and oral forms.",
+    "Synthesize insights from music theory, history, and cultural studies to interpret musical phenomena."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Music (B.A.)",
+      "link": "https://catalog.ucsd.edu/curriculum-music-arts-humanities/music/"
+    },
+    {
+      "title": "Music Performance (B.A.)",
+      "link": "https://catalog.ucsd.edu/curriculum-music-arts-humanities/music-performance/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/curriculum-music-arts-humanities/music-humanities-ba/",
+    "https://music.ucsd.edu/"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-200 quarter units (varies based on course choices and transfer credits)",
+  "additionalInformation": "The Music Humanities major is housed within the Department of Music, not MAE. Students are advised to consult with departmental advisors to plan their course of study and ensure timely progress toward degree completion."
+}

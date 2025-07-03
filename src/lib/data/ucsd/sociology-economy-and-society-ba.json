@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Sociology - Economy and Society (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Sociology - Economy and Society major focuses on the sociological study of the economy, examining how economic processes are shaped by social structures, institutions, and relationships. Students analyze the social and cultural contexts of economic activity, exploring topics such as globalization, inequality, and the role of the state in economic affairs.",
+  "shortProgramDescription": "The Sociology - Economy and Society major at UC San Diego provides a comprehensive understanding of the social dimensions of economic life, preparing students for careers in fields such as business, policy, and research.",
+  "classHighlights": [
+    "The major requires foundational courses in sociological theory (SOC1 or SOC105) and research methods (SOC102 or SOC103), providing a grounding in sociological inquiry and analysis.",
+    "Students take a series of core courses in economic sociology, including the Sociology of Economy and Society (SOC135), which introduces key concepts and theories in the field.",
+    "Electives allow students to explore specialized topics such as globalization (SOC136), economic inequality (SOC137), and the sociology of work (SOC138).",
+    "Additional electives in sociological theory, research methods, and substantive areas such as culture, identity, and power provide further depth and breadth."
+  ],
+  "learningOutcomes": [
+    "Understand the social and cultural contexts of economic activity",
+    "Analyze the impact of globalization on social and economic structures",
+    "Apply sociological theories and concepts to the study of economic phenomena",
+    "Develop research skills to investigate economic sociology topics",
+    "Critically evaluate the role of power and inequality in shaping economic outcomes"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Sociology (B.A.)",
+      "link": "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/sociology/undergraduate-sociology-ba/"
+    },
+    {
+      "title": "Global Studies (B.A.)",
+      "link": "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/global-studies/undergraduate-global-studies-ba/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/sociology/undergraduate-sociology-economy-and-society-ba/",
+    "https://sociology.ucsd.edu/undergraduate-programs/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "Total of 180 quarter units, including major requirements and elective courses",
+  "additionalInformation": "Students must complete the major requirements as outlined in the departmental guidelines, including prerequisites, core courses, and electives. The major is administered by the Department of Sociology."
+}

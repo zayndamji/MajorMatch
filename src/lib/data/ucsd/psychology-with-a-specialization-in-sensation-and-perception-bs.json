@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Psychology with a Specialization in Sensation and Perception (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Psychology with a Specialization in Sensation and Perception major is designed to provide students with a comprehensive understanding of the psychological principles underlying human perception and sensation. The program includes coursework in research methods, statistics, and core areas of psychology, as well as specialized courses in sensation and perception. Students are trained in the scientific study of behavior and mental processes, with an emphasis on empirical research and critical thinking.",
+  "shortProgramDescription": "The Psychology with a Specialization in Sensation and Perception major provides students with a strong foundation in psychological theory, research methods, and statistical analysis, with a focus on the processes underlying human perception and sensation.",
+  "classHighlights": [
+    "The lower-division coursework includes introductory psychology (PSYC60), research methods (PSYC80), and statistics (PSYC7 or COGS14B).",
+    "Upper-division requirements include core courses in abnormal psychology (PSYC111 or PSYC112), biopsychology (PSYC102 or PSYC160), cognition (PSYC120 or COGS101B), social psychology (PSYC130 or PSYC132), and developmental psychology (PSYC140 or PSYC142).",
+    "Specialization courses in sensation and perception include perception (PSYC173), sensory systems (PSYC176), and related electives.",
+    "Additional upper-division electives in psychology and related fields allow students to explore their interests and tailor their education to their career goals.",
+    "The major also requires a laboratory or field research course (PSYC193 or PSYC194), providing hands-on experience with research design, data collection, and analysis."
+  ],
+  "learningOutcomes": [
+    "Understand the principles of human sensation and perception.",
+    "Apply research methods and statistical analysis to psychological research questions.",
+    "Demonstrate knowledge of core areas in psychology, including biopsychology, cognition, social psychology, and developmental psychology.",
+    "Critically evaluate empirical research in psychology.",
+    "Communicate complex psychological concepts effectively in written and oral form."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Psychology (B.A.)",
+      "link": "https://catalog.ucsd.edu/college-ucsd/undergraduate-college/division-arts-humanities/department-psychology/psychology-ba"
+    },
+    {
+      "title": "Cognitive Science (B.A.)",
+      "link": "https://catalog.ucsd.edu/college-ucsd/undergraduate-college/division-arts-humanities/department-cognitive-science/cognitive-science-ba"
+    },
+    {
+      "title": "Cognitive Science with a Specialization in Cognitive Neuroscience (B.S.)",
+      "link": "https://catalog.ucsd.edu/college-ucsd/undergraduate-college/division-arts-humanities/department-cognitive-science/cognitive-science-bs"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/college-ucsd/undergraduate-college/division-social-sciences/department-psychology/psychology-bs-sensation-perception",
+    "https://psychology.ucsd.edu/undergraduate-programs/psychology-bs-programs/sensation-perception-specialization"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system, assuming normal course load)",
+  "creditRequirements": "Total of 48 upper-division units in Psychology, with specific required courses; total approximately 180-200 quarter units for the degree",
+  "additionalInformation": "Students are advised to consult with department advisors to plan their course sequence and ensure they meet all major requirements. The major is designed to prepare students for graduate study or a career in psychology or related fields."
+}

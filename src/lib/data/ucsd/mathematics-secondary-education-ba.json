@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Mathematics - Secondary Education (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Mathematics - Secondary Education major is designed for students who wish to teach secondary mathematics. The program provides a comprehensive education in mathematics and prepares students for a teaching career. Students learn about mathematical concepts, problem-solving, and communication. The major includes coursework in mathematics, education, and preparation for the California teaching credential.",
+  "shortProgramDescription": "The Mathematics - Secondary Education B.A. prepares students to teach secondary mathematics, providing a comprehensive education in mathematics and teaching methods.",
+  "classHighlights": [
+    "The major requires a series of mathematics core courses, including calculus (MATH 20A-B-C-D), linear algebra (MATH 20F), and differential equations (MATH 20D or MATH 140A-B).",
+    "Students take additional mathematics courses, such as abstract algebra (MATH 100 or MATH 103A-B), real analysis (MATH 104A-B-C or MATH 105A-B), and geometry (MATH 102 or MATH 107A-B).",
+    "Students also complete education coursework, including introduction to secondary education (MAE 301A-B), teaching methods (MAE 303A-B), and student teaching (MAE 401).",
+    "The major includes preparation for the California Single Subject Teaching Credential in Mathematics, with courses covering teaching methods, classroom management, and educational psychology."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a deep understanding of mathematical concepts and principles.",
+    "Communicate mathematical ideas effectively to students.",
+    "Apply teaching methods and strategies to engage students in learning mathematics.",
+    "Understand the principles of learning and teaching mathematics in a secondary education setting.",
+    "Prepare for the California Single Subject Teaching Credential in Mathematics."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mathematics B.A.",
+      "link": "https://catalog.ucsd.edu/front/courses/Mathematics"
+    },
+    {
+      "title": "Mathematics B.S.",
+      "link": "https://catalog.ucsd.edu/front/courses/Mathematics"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/front/courses/Mathematics-Secondary-Education-B.A.",
+    "https://math.ucsd.edu/undergraduate/major/index.html",
+    "https://catalog.ucsd.edu/front/courses/Mathematics"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-190 quarter units",
+  "additionalInformation": "Students must apply for the Mathematics - Secondary Education major and complete the required coursework. Preparation for the California Single Subject Teaching Credential in Mathematics is included in the major."
+}

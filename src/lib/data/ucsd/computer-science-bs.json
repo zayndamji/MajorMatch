@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Computer Science (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bachelor of Science in Computer Science is designed to provide students with a comprehensive education in the field of computer science, including the theory, design, and implementation of computer systems. The program prepares students for careers in industry, government, and academia, as well as for graduate study.",
+  "shortProgramDescription": "The Computer Science B.S. program at UC San Diego provides a rigorous foundation in computer science theory, algorithms, and systems, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The program begins with foundational courses in programming, data structures, and computer organization, including CSE 11 or CSE 8A/B, CSE 12, CSE 15L, and CSE 20 or MATH 15A. These courses provide a solid grounding in programming principles, data structures, and computer systems.",
+    "Students then take core courses in algorithms, computer architecture, operating systems, and software engineering, including CSE 101, CSE 30, CSE 120, and CSE 110. These courses cover the design, analysis, and implementation of algorithms, as well as the principles of computer architecture, operating systems, and software engineering.",
+    "Additional required courses include CSE 21, CSE 140, and CSE 140L, which cover discrete mathematics, digital design, and digital design laboratory, respectively. Students also take upper-division courses in areas such as artificial intelligence, computer networks, and database systems.",
+    "Electives allow students to explore specialized areas, such as machine learning, computer vision, and cybersecurity. The program also includes a breadth requirement, ensuring students have a well-rounded education in computer science.",
+    "Students are also required to take mathematics and science courses, including calculus, discrete mathematics, and probability, to provide a foundation for their computer science coursework."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical concepts and programming principles to solve computational problems.",
+    "Design, analyze, and implement algorithms and data structures.",
+    "Understand computer systems, including architecture, operating systems, and software engineering.",
+    "Apply computer science concepts to real-world problems and domains.",
+    "Communicate technical information effectively in written and oral form.",
+    "Work effectively in teams to design and implement complex software systems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Computer Science Minor",
+      "link": "https://catalog.ucsd.edu/degreeinfo/CSE/#minor"
+    },
+    {
+      "title": "Data Science Major",
+      "link": "https://catalog.ucsd.edu/degreeinfo/DATA/"
+    },
+    {
+      "title": "Mathematics-Computer Science Major",
+      "link": "https://catalog.ucsd.edu/degreeinfo/MATH/#math-cs"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/degreeinfo/CSE/",
+    "https://cse.ucsd.edu/undergraduate",
+    "https://cse.ucsd.edu/undergraduate/curriculum"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-190 quarter units",
+  "additionalInformation": "The program is accredited by the Computing Accreditation Commission of ABET. Students are encouraged to participate in research, internships, and other experiential learning opportunities to complement their coursework."
+}

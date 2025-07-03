@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Geosciences (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Geosciences program at UC San Diego, administered by the Scripps Institution of Oceanography, provides a comprehensive education in the Earth sciences. Students gain a broad understanding of the Earth's physical systems, including the atmosphere, oceans, and solid Earth, as well as the interactions between these systems. The program emphasizes the application of scientific principles to understand and address complex Earth science problems.",
+  "shortProgramDescription": "The Geosciences B.S. program at UC San Diego provides a foundational understanding of Earth systems and prepares students for careers in research, environmental management, and education.",
+  "classHighlights": [
+    "Foundational courses in Earth sciences, including Introduction to Earth Sciences (GEOS1), Physical Geology (GEOS10), and Earth System Science (SIO20). These courses provide a broad introduction to the Earth's physical systems and the interactions between the atmosphere, oceans, and solid Earth.",
+    "Core courses in geophysics, geology, and oceanography, such as Geophysics (GEOS115), Structural Geology (GEOS121), and Oceanography (SIO210). These courses develop students' understanding of the Earth's internal and external processes, including tectonics, earthquakes, and ocean circulation.",
+    "Electives in specialized areas, including climate science, paleoclimatology, and environmental geosciences. These courses allow students to explore specific topics in depth, such as climate change, sea-level rise, and natural hazards.",
+    "Courses in research methods and data analysis, such as Research Methods in Geosciences (GEOS195) and Data Analysis in Earth Sciences (SIO203). These courses provide students with hands-on experience in designing and conducting research projects, as well as analyzing and interpreting data.",
+    "Upper-division courses that integrate concepts from multiple disciplines, such as Earth System Evolution (SIO223) and Geobiology (SIO224). These courses help students develop a comprehensive understanding of complex Earth science problems and the interactions between different components of the Earth system."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of Earth sciences, including the interactions between the atmosphere, oceans, and solid Earth.",
+    "Apply scientific principles to analyze and address complex Earth science problems.",
+    "Conduct research and analyze data using a range of techniques and methods.",
+    "Communicate complex scientific information effectively to diverse audiences.",
+    "Think critically and creatively to address complex Earth science problems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Sciences (B.S.)",
+      "link": "https://catalog.ucsd.edu/main/programs/ENVIRONMENTAL-SCIENCES-BS"
+    },
+    {
+      "title": "Earth Sciences Minor",
+      "link": "https://catalog.ucsd.edu/main/programs/EARTH-SCIENCES-MINOR"
+    },
+    {
+      "title": "Environmental Studies Minor",
+      "link": "https://catalog.ucsd.edu/main/programs/ENVIRONMENTAL-STUDIES-MINOR"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/main/programs/GEOSCIENCES-BS",
+    "https://sio.ucsd.edu/education/undergraduate-programs/geosciences-bs"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Geosciences B.S. program is administered by the Scripps Institution of Oceanography. Students are advised to consult with departmental advisors to ensure they meet all program requirements."
+}

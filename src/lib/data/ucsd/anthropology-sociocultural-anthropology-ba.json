@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Anthropology (Sociocultural Anthropology) (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Anthropology major with a focus on Sociocultural Anthropology provides students with a comprehensive understanding of human cultures and societies, past and present. Students explore the diversity of human experiences through ethnographic research, theoretical analysis, and critical thinking. The program emphasizes the development of skills in cultural analysis, research methods, and theoretical perspectives, preparing students for a wide range of careers or further study.",
+  "shortProgramDescription": "The Sociocultural Anthropology B.A. at UC San Diego offers a deep dive into human cultural diversity through ethnography, theory, and research methods, preparing students for diverse careers or graduate study.",
+  "classHighlights": [
+    "Core Courses: Students begin with foundational courses such as Anthropology1 or2 (Introduction to Anthropology) and Anthropology101 (Anthropological Theory), which introduce key concepts and theoretical frameworks. Additional core courses include Anthropology102 (Ethnographic Methods) and Anthropology103 (Cultural Analysis), providing a grounding in research techniques and critical analysis.",
+    "Electives and Depth Courses: The major offers a range of electives that allow students to explore specialized topics in sociocultural anthropology, including courses on specific cultures, regions, or themes. These electives enable students to tailor their education to their interests and career goals, delving into areas such as globalization, identity, or environmental anthropology.",
+    "Upper Division Courses: Upper division courses build on the foundational knowledge, with classes such as Anthropology105 (Topics in Sociocultural Anthropology) and Anthropology107 (Senior Seminar), which emphasize advanced research, critical thinking, and the application of anthropological knowledge to contemporary issues. These courses prepare students for the capstone experience and future academic or professional endeavors."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a comprehensive understanding of sociocultural anthropology theories and concepts.",
+    "Apply ethnographic research methods to analyze cultural phenomena.",
+    "Critically evaluate cultural practices and representations.",
+    "Communicate complex anthropological ideas effectively in written and oral forms.",
+    "Analyze the intersections of culture, power, and identity.",
+    "Apply anthropological perspectives to contemporary social issues and global challenges."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Anthropology (Archaeology) (B.A.)",
+      "link": "https://catalog.ucsd.edu/ANTHRO/BA-ARCH"
+    },
+    {
+      "title": "Anthropology (Biological Anthropology) (B.A.)",
+      "link": "https://catalog.ucsd.edu/ANTHRO/BA-BIO"
+    },
+    {
+      "title": "Sociology (B.A.)",
+      "link": "https://catalog.ucsd.edu/SOCIO/BA"
+    }
+  ],
+  "sources": [
+    "https://anthro.ucsd.edu/",
+    "https://catalog.ucsd.edu/ANTHRO/BA-SOC",
+    "https://anthro.ucsd.edu/undergrad/advising/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the UC San Diego general education requirements, the Anthropology core courses, and a minimum of56 upper division units in Anthropology. The major is administered by the Department of Anthropology."
+}

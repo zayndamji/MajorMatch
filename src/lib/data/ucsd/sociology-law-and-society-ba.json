@@ -1,0 +1,34 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Sociology - Law and Society (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Sociology - Law and Society major provides students with a systematic understanding of the relationship between law and society. It examines the social context and impact of law, exploring how law shapes and is shaped by social structures, institutions, and relationships. The program draws on sociological theories and methods to analyze the role of law in society, covering topics such as legal institutions, legal professions, and the social implications of legal decisions.",
+  "shortProgramDescription": "The Sociology - Law and Society B.A. major at UC San Diego examines the complex interactions between law and society, preparing students for careers in law, government, or related fields.",
+  "classHighlights": [
+    "Core Courses: The major begins with foundational courses in sociological theory (SOC1 or SOC101) and research methods (SOC3 or SOC102), providing a grounding in sociological perspectives and empirical analysis. Students also take an introductory course in Law and Society (SOC106 or LAW103).",
+    "Theoretical and Empirical Analysis: Upper-division courses include Sociological Theory (SOC105 or SOC151A), Law and Society (SOC106 or LAW103), and Research Methods (SOC102 or SOC3). These courses build on the foundational knowledge, introducing more advanced theoretical and methodological tools.",
+    "Law and Society Courses: The program includes a range of electives focused on Law and Society, such as Criminology (SOC108 or SOC111), Sociology of Law (SOC112), and related courses that explore the intersections between law, social structures, and individual experiences.",
+    "Sociological Electives: Students choose additional electives from across the sociology department, allowing them to explore topics such as social inequality, institutions, and social change, which complement the Law and Society focus."
+  ],
+  "learningOutcomes": [
+    "Understand the sociological perspectives on law and its role in society",
+    "Analyze the social context and impact of legal institutions and decisions",
+    "Apply sociological theories and methods to the study of law and society",
+    "Evaluate the relationships between law, social structures, and individual experiences",
+    "Develop critical thinking and research skills relevant to careers in law, government, or related fields"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Sociology B.A.",
+      "link": "https://catalog.ucsd.edu/courses/SOC.html"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/courses/SOC.html",
+    "https://sociology.ucsd.edu/undergraduate-programs/index.html"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "48 upper-division Sociology units; total 180 quarter units",
+  "additionalInformation": "The Sociology - Law and Society major is administered by the Sociology Department. Students must meet the department's GPA and course requirements. Preparation for the major includes introductory sociology courses and lower-division electives."
+}

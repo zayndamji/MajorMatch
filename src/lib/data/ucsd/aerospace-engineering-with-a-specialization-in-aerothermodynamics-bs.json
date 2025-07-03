@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Aerospace Engineering with a Specialization in Aerothermodynamics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Aerospace Engineering with a Specialization in Aerothermodynamics program at UC San Diego is designed to provide students with a comprehensive understanding of the principles and practices of aerospace engineering, with a focus on aerothermodynamics. The program covers the application of fundamental principles to the design and analysis of aerospace systems, including the behavior of gases at high temperatures and the interactions between aerospace vehicles and their surroundings.",
+  "shortProgramDescription": "The Aerospace Engineering with a Specialization in Aerothermodynamics B.S. program at UC San Diego provides a strong foundation in aerospace engineering principles, with a focus on aerothermodynamics, preparing students for careers or graduate study in the field.",
+  "classHighlights": [
+    "The program begins with foundational courses in mathematics and physics, including Calculus (MATH 20A-B-C-D), Physics (PHYS 2A-B-C), and Differential Equations (MATH 20D, MATH 20E).",
+    "Students take core courses in Aerospace Engineering, including Introduction to Aerospace Engineering (MAE 3), Aerospace Engineering Fundamentals (MAE 101A-B-C), Aerodynamics (MAE 131A), and Aerothermodynamics (MAE 132A).",
+    "The curriculum includes coursework in materials science, mechanical systems, and propulsion systems, with courses such as Mechanics of Materials (MAE 3, MAE 101C), Mechanical Systems (MAE 156A-B), and Aerospace Propulsion (MAE 157A-B).",
+    "Students also complete courses in computational methods, including Computational Methods for Engineers (MAE 105) and Numerical Methods for Engineers (MAE 207).",
+    "Electives allow students to explore specialized topics in aerospace engineering, such as aerospace structures, flight mechanics, and systems engineering.",
+    "Laboratory courses, such as Aerospace Engineering Laboratory (MAE 106L), provide hands-on experience with aerospace systems and components."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mathematics, physics, and engineering to solve aerospace engineering problems.",
+    "Analyze and design aerospace systems, including aerodynamics, propulsion, and structures.",
+    "Understand the behavior of gases at high temperatures and the interactions between aerospace vehicles and their surroundings.",
+    "Use computational methods to analyze and simulate aerospace systems.",
+    "Communicate technical concepts and results effectively in written and oral form.",
+    "Work effectively in teams to design and develop aerospace systems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mechanical Engineering",
+      "link": "https://catalog.ucsd.edu/programs/MAE-BS"
+    },
+    {
+      "title": "Aerospace Engineering",
+      "link": "https://catalog.ucsd.edu/programs/MAE-AERO-BS"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/programs/MAE-AERO-AEROTHERM-BS",
+    "https://mae.ucsd.edu/undergraduate-programs/aerospace-engineering-bs"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system, assuming enrollment in required courses each quarter)",
+  "creditRequirements": "approx. 200-210 units (quarter system)",
+  "additionalInformation": "Students must complete a set of required courses in mathematics, physics, and engineering, as well as departmental electives and laboratory courses. The program is designed to be completed in four years, assuming enrollment in required courses each quarter."
+}

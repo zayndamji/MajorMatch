@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Bioengineering (Bioinformatics) (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bioengineering: Bioinformatics Program at UC San Diego is an interdisciplinary program that combines engineering, biology, and computer science to analyze and interpret biological data. The program is designed to provide students with a strong foundation in bioengineering, bioinformatics, and computational biology, as well as a broad-based education in the biological sciences, mathematics, and computer science.",
+  "shortProgramDescription": "The Bioengineering: Bioinformatics B.S. program at UCSD combines engineering, biology, and computer science to prepare students for careers in bioinformatics and computational biology.",
+  "classHighlights": [
+    "The program requires a set of core courses that include Introduction to Bioengineering (BENG 100), Bioengineering Fundamentals (BENG 101), and Bioinformatics (BENG 187A). These courses provide a foundation in the principles of bioengineering and bioinformatics.",
+    "Students also take a series of mathematics and computer science courses, including Calculus (MATH 20A-B-C), Linear Algebra (MATH 18 or 20F), and Programming (CSE 8A or 11). These courses provide a strong foundation in mathematical and computational methods.",
+    "The program also requires a set of bioengineering and bioinformatics electives, including courses such as Computational Molecular Biology (BENG 187B), Genomics and Proteomics (BENG 187C), and Systems Biology (BENG 187D). These courses provide advanced training in bioinformatics and computational biology.",
+    "In addition, students take a series of laboratory courses, including Bioengineering Laboratory (BENG 121) and Bioinformatics Laboratory (BENG 187L). These courses provide hands-on experience with experimental and computational techniques.",
+    "The program also includes a set of upper-division biology courses, including Biochemistry (BICD 100 or CHEM 114A-B) and Molecular Biology (BICD 110 or BIMM 100). These courses provide a strong foundation in the biological sciences."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical and computational methods to analyze and interpret biological data",
+    "Understand the principles of bioengineering and bioinformatics",
+    "Design and implement bioinformatics algorithms and tools",
+    "Analyze and interpret genomic and proteomic data",
+    "Communicate complex biological and bioengineering concepts to a variety of audiences"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Bioengineering (Biomedical Engineering) (B.S.)",
+      "link": "https://catalog.ucsd.edu/curric/BE-prospective-undergrad-majors-bioengineering-bs-biomed"
+    },
+    {
+      "title": "Computer Science (B.S.)",
+      "link": "https://catalog.ucsd.edu/curric/CSE-prospective-undergrad-majors-cs-bs"
+    },
+    {
+      "title": "Biological Sciences (B.S.)",
+      "link": "https://catalog.ucsd.edu/curric/SMC-prospective-undergrad-majors-biology-bs"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/curric/BE-prospective-undergrad-majors-bioengineering-bs-bioinformatics",
+    "https://bioeng.ucsd.edu/undergraduate/majors/bioengineering-bs-bioinformatics",
+    "https://catalog.ucsd.edu/curric/BE-prospective-undergrad-majors-bioengineering-bs"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "Total: 180 quarter units; Major: 63 units",
+  "additionalInformation": "The program is designed for students who are interested in pursuing a career in bioinformatics and computational biology. Students are encouraged to participate in research projects and internships to gain practical experience."
+}

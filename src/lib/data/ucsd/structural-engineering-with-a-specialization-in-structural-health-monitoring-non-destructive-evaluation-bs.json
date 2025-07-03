@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, San Diego",
+  "programType": "Major",
+  "programName": "Structural Engineering with a Specialization in Structural Health Monitoring/Non-Destructive Evaluation (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Structural Engineering with a Specialization in Structural Health Monitoring/Non-Destructive Evaluation program is designed to provide students with a comprehensive understanding of structural engineering principles and practices, with a focus on the application of structural health monitoring and non-destructive evaluation techniques. The program includes coursework in mathematics, physics, materials science, and structural analysis, as well as specialized courses in structural health monitoring and non-destructive evaluation.",
+  "shortProgramDescription": "The Structural Engineering with a Specialization in Structural Health Monitoring/Non-Destructive Evaluation B.S. program provides students with a solid foundation in structural engineering and specialized knowledge in structural health monitoring and non-destructive evaluation.",
+  "classHighlights": [
+    "The program includes foundational coursework in mathematics and physics, including Calculus (MATH 20A-B-C-D), Physics (PHYS 2A-B-C), and Differential Equations (MATH 20D, MATH 140A-B).",
+    "Students take core courses in structural engineering, including Structural Analysis (SE 101A-B), Mechanics of Materials (SE 104), and Structural Design (SE 151A-B).",
+    "Specialized coursework in structural health monitoring and non-destructive evaluation includes Sensors and Sensing Systems (SE 125), Structural Health Monitoring (SE 165), and Non-Destructive Evaluation (SE 166).",
+    "Students also complete additional coursework in materials science, including Materials Science and Engineering (NANO 15 or MAE 3), and engineering electives.",
+    "The program includes laboratory coursework, including Structural Engineering Laboratory (SE 110A-B) and Experimental Methods in Structural Engineering (SE 162)."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical and scientific principles to solve structural engineering problems",
+    "Analyze and design structural systems",
+    "Understand the principles of structural health monitoring and non-destructive evaluation",
+    "Apply sensors and sensing systems to structural health monitoring",
+    "Evaluate the effectiveness of non-destructive evaluation techniques",
+    "Communicate technical information effectively"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Structural Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/engineering/structural-engineering/undergraduate-programs/structural-engineering-bs/"
+    },
+    {
+      "title": "Civil Engineering (B.S.)",
+      "link": "https://catalog.ucsd.edu/engineering/civil-engineering/undergraduate-programs/civil-engineering-bs/"
+    }
+  ],
+  "sources": [
+    "https://catalog.ucsd.edu/engineering/structural-engineering/undergraduate-programs/structural-engineering-with-a-specialization-in-structural-health-monitoringnon-destructive-evaluation-bs/",
+    "https://se.ucsd.edu"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180-200 quarter units",
+  "additionalInformation": "The program is designed to be completed in four years. Students are advised to consult with the department advisor to ensure they are meeting the program requirements."
+}
