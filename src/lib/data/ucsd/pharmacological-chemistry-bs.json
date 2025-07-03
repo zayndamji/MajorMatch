@@ -6,11 +6,11 @@
   "fullProgramDescription": "The Pharmacological Chemistry major is designed for students who wish to pursue a career in the pharmaceutical industry or a related field. The program provides a strong foundation in chemistry, biochemistry, and pharmacology, as well as a comprehensive understanding of the principles and practices of pharmacological chemistry.",
   "shortProgramDescription": "The Pharmacological Chemistry B.S. program provides students with a comprehensive education in chemistry, biochemistry, and pharmacology, preparing them for careers in the pharmaceutical industry or related fields.",
   "classHighlights": [
-    "The program requires a series of core chemistry courses, including CHEM 131, CHEM 132, CHEM 143, and CHEM 152, which provide a foundation in general, organic, and biological chemistry.",
-    "Biochemistry courses, including BICD 100 and BICD 110, provide a comprehensive understanding of the principles of biochemistry and its application to pharmacological chemistry.",
-    "Pharmacology courses, including PHAR 100 and PHAR 110, provide a detailed understanding of the principles of pharmacology and its application to the development of new therapeutic agents.",
-    "Additional required courses include MATH 10A, MATH 10B, and MATH 20A, which provide a foundation in mathematical principles, as well as PHYS 1A and PHYS 1B, which provide a foundation in physical principles.",
-    "Electives in pharmacological chemistry, including PHAR 121 and PHAR 122, allow students to explore advanced topics in the field and gain a deeper understanding of the principles and practices of pharmacological chemistry."
+    "The program requires a series of core chemistry courses, including CHEM131, CHEM132, CHEM143, and CHEM152, which provide a foundation in general, organic, and biological chemistry.",
+    "Biochemistry courses, including BICD100 and BICD110, provide a comprehensive understanding of the principles of biochemistry and its application to pharmacological chemistry.",
+    "Pharmacology courses, including PHAR100 and PHAR110, provide a detailed understanding of the principles of pharmacology and its application to the development of new therapeutic agents.",
+    "Additional required courses include MATH10A, MATH10B, and MATH20A, which provide a foundation in mathematical principles, as well as PHYS1A and PHYS1B, which provide a foundation in physical principles.",
+    "Electives in pharmacological chemistry, including PHAR121 and PHAR122, allow students to explore advanced topics in the field and gain a deeper understanding of the principles and practices of pharmacological chemistry."
   ],
   "learningOutcomes": [
     "Apply the principles of chemistry, biochemistry, and pharmacology to the development of new therapeutic agents.",
@@ -34,6 +34,7 @@
     }
   ],
   "sources": [
+    "https://catalog.ucsd.edu/curric/CHEM-ug.html",
     "https://catalog.ucsd.edu/front/courses/pharmacological-chemistry-bs/",
     "https://chemistry.ucsd.edu/undergraduate-program/majors/pharmacological-chemistry.html"
   ],

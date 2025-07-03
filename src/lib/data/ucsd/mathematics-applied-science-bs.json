@@ -6,11 +6,11 @@
   "fullProgramDescription": "The Bachelor of Science in Mathematics - Applied Science is designed to provide a strong foundation in mathematical techniques and scientific computing. Students learn to apply mathematical methods to solve problems in science, engineering, and other fields. The program emphasizes the development of problem-solving skills, mathematical modeling, and computational techniques.",
   "shortProgramDescription": "The Mathematics - Applied Science B.S. program provides students with a strong foundation in mathematical techniques and scientific computing to tackle problems in various fields.",
   "classHighlights": [
-    "The program requires a set of core mathematics courses, including calculus (MATH 20A-B-C-D), linear algebra (MATH 20F), and differential equations (MATH 20D or MATH 140A-B).",
-    "Students take additional mathematics courses, such as probability and statistics (MATH 181A-B), numerical analysis (MATH 174), and mathematical methods for physicists and engineers (MATH 140A-B).",
-    "The program includes a set of required upper-division mathematics courses, such as mathematical modeling (MATH 171A or MATH 171B) and optimization techniques (MATH 171A).",
+    "The program requires a set of core mathematics courses, including calculus (MATH20A-B-C-D), linear algebra (MATH20F), and differential equations (MATH20D or MATH140A-B).",
+    "Students take additional mathematics courses, such as probability and statistics (MATH181A-B), numerical analysis (MATH174), and mathematical methods for physicists and engineers (MATH140A-B).",
+    "The program includes a set of required upper-division mathematics courses, such as mathematical modeling (MATH171A or MATH171B) and optimization techniques (MATH171A).",
     "Students are also required to take a set of upper-division elective courses, such as advanced numerical analysis, computational mathematics, or topics in applied mathematics.",
-    "The program emphasizes the development of computational skills, with courses in programming (CSE 11 or equivalent) and scientific computing (MATH 160 or equivalent).",
+    "The program emphasizes the development of computational skills, with courses in programming (CSE11 or equivalent) and scientific computing (MATH160 or equivalent).",
     "Students learn to apply mathematical techniques to solve problems in various fields, including physics, engineering, and computer science."
   ],
   "learningOutcomes": [
@@ -31,7 +31,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/math/bs-math-applied-science/",
+    "https://catalog.ucsd.edu/curric/MATH-ug.html",
     "https://math.ucsd.edu/undergrad/majors/mathematics-applied-science.html"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",

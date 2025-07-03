@@ -6,11 +6,11 @@
   "fullProgramDescription": "The Political Science major at UC San Diego is designed to provide students with a comprehensive understanding of politics, government, and political processes. The major encompasses various fields, including American politics, comparative politics, international relations, and political theory. Students are required to complete a set of core courses and choose from a range of electives to fulfill the major requirements.",
   "shortProgramDescription": "The Political Science major at UC San Diego prepares students for a wide range of careers in government, politics, and related fields by providing a solid foundation in political theory, institutions, and processes.",
   "classHighlights": [
-    "The department offers a variety of lower-division courses that introduce students to the field of political science, including POLI 27: Introduction to Comparative Politics, POLI 28: Introduction to International Relations, and POLI 30: Introduction to Political Theory.",
-    "Upper-division courses are organized around several fields, including American Politics, Comparative Politics, International Relations, and Political Theory. Students can choose from a range of courses, such as POLI 100: American Politics, POLI 101: State and Local Politics, POLI 120: Introduction to Comparative Politics, and POLI 130: Introduction to Political Theory.",
-    "The department also offers specialized courses that allow students to explore specific topics in greater depth, such as POLI 140: Politics and Culture, POLI 150: International Conflict, and POLI 160: Political Economy.",
+    "The department offers a variety of lower-division courses that introduce students to the field of political science, including POLI27: Introduction to Comparative Politics, POLI28: Introduction to International Relations, and POLI30: Introduction to Political Theory.",
+    "Upper-division courses are organized around several fields, including American Politics, Comparative Politics, International Relations, and Political Theory. Students can choose from a range of courses, such as POLI100: American Politics, POLI101: State and Local Politics, POLI120: Introduction to Comparative Politics, and POLI130: Introduction to Political Theory.",
+    "The department also offers specialized courses that allow students to explore specific topics in greater depth, such as POLI140: Politics and Culture, POLI150: International Conflict, and POLI160: Political Economy.",
     "In addition to departmental courses, students can also take related courses in other departments, such as Economics, Sociology, and History, to fulfill major requirements.",
-    "The major requires students to complete a set of core courses, including POLI 100 or POLI 101, POLI 120 or POLI 130, and POLI 193: Research Methods in Political Science.",
+    "The major requires students to complete a set of core courses, including POLI100 or POLI101, POLI120 or POLI130, and POLI193: Research Methods in Political Science.",
     "Students are also required to complete a set of upper-division courses, including at least four courses in one field and two courses in a second field."
   ],
   "learningOutcomes": [
@@ -35,7 +35,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses?c=POLI",
+    "https://catalog.ucsd.edu/curric/POLI-ug.html",
     "https://politicalscience.ucsd.edu/undergraduate/major.html"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system, as per department guidelines, though officially it is a semester system)",

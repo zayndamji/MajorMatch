@@ -6,8 +6,8 @@
   "fullProgramDescription": "The Italian Studies major at UC San Diego is designed to provide students with a comprehensive understanding of the Italian language, literature, and culture. The program includes coursework in Italian language, literature, history, and culture, as well as electives that allow students to explore specific areas of interest. Students develop language proficiency, critical thinking, and analytical skills through a combination of language courses, literary and cultural studies, and historical context.",
   "shortProgramDescription": "The Italian Studies B.A. program at UC San Diego fosters a deep understanding of Italian language, literature, and culture, preparing students for diverse careers or further study.",
   "classHighlights": [
-    "Language Courses: Students complete a sequence of Italian language courses (ITAL 1-6) that develop reading, writing, speaking, and comprehension skills. Advanced language courses focus on nuanced expression, cultural context, and literary analysis.",
-    "Literary and Cultural Studies: Courses in Italian literature (e.g., ITAL 130, 131) and culture (e.g., ITAL 140, 150) introduce students to major literary movements, authors, and cultural themes, analyzing works within their historical and cultural contexts.",
+    "Language Courses: Students complete a sequence of Italian language courses (ITAL1-6) that develop reading, writing, speaking, and comprehension skills. Advanced language courses focus on nuanced expression, cultural context, and literary analysis.",
+    "Literary and Cultural Studies: Courses in Italian literature (e.g., ITAL130,131) and culture (e.g., ITAL140,150) introduce students to major literary movements, authors, and cultural themes, analyzing works within their historical and cultural contexts.",
     "Historical and Cultural Context: Students explore the historical and cultural development of Italy through courses that may cover the Renaissance, modern Italian history, and the intersection of Italian culture with broader European and global trends.",
     "Electives and Specialized Courses: Electives allow students to pursue interests in areas such as Dante, Renaissance studies, modern Italian literature, cinema, and contemporary Italian culture, providing depth and flexibility in the major."
   ],
@@ -34,10 +34,10 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses/italian-studies-major-b-a/",
+    "https://catalog.ucsd.edu/curric/ITAL-ug.html",
     "https://italian.ucsd.edu/undergraduate/index.html"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",
-  "creditRequirements": "typically 180-200 quarter units, including major requirements and electives",
+  "creditRequirements": "typically180-200 quarter units, including major requirements and electives",
   "additionalInformation": "Students are encouraged to study abroad in Italy to enhance language proficiency and cultural understanding. The major prepares students for careers in education, international business, diplomacy, and cultural management, as well as for graduate study in Italian or related fields."
 }

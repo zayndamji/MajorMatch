@@ -6,12 +6,12 @@
   "fullProgramDescription": "The Mechanical Engineering with a Specialization in Mechanics of Materials program provides students with a foundation in the fundamental principles of mechanical engineering, with a focus on the behavior of materials under various types of loading. The program covers topics such as mechanics, thermodynamics, materials science, and mechanical design, with an emphasis on the mechanics of materials.",
   "shortProgramDescription": "The Mechanical Engineering with a Specialization in Mechanics of Materials B.S. program provides students with a strong foundation in mechanical engineering principles, with a focus on the behavior of materials.",
   "classHighlights": [
-    "The program begins with foundational courses in mathematics and physics, including Calculus I-III (MATH 20A-B-C), Physics I-II (PHYS 2A-B).",
-    "Core mechanical engineering courses include Statics (MAE 101A), Dynamics (MAE 101B), Mechanics of Materials (MAE 107), and Thermodynamics (MAE 105).",
-    "Students take additional courses in materials science and mechanical design, including Materials Science (MAE 171A) and Mechanical Design (MAE 156A).",
+    "The program begins with foundational courses in mathematics and physics, including Calculus I-III (MATH20A-B-C), Physics I-II (PHYS2A-B).",
+    "Core mechanical engineering courses include Statics (MAE101A), Dynamics (MAE101B), Mechanics of Materials (MAE107), and Thermodynamics (MAE105).",
+    "Students take additional courses in materials science and mechanical design, including Materials Science (MAE171A) and Mechanical Design (MAE156A).",
     "The program includes a range of technical electives, allowing students to explore specialized topics in mechanical engineering and mechanics of materials.",
-    "Laboratory courses provide hands-on experience with mechanical systems and materials, including Mechanical Engineering Laboratory (MAE 107L).",
-    "Students also complete courses in mathematics and science, including Differential Equations (MATH 20D) and Chemistry (CHEM 6A-B)."
+    "Laboratory courses provide hands-on experience with mechanical systems and materials, including Mechanical Engineering Laboratory (MAE107L).",
+    "Students also complete courses in mathematics and science, including Differential Equations (MATH20D) and Chemistry (CHEM6A-B)."
   ],
   "learningOutcomes": [
     "Apply fundamental principles of mechanical engineering to analyze and design mechanical systems.",
@@ -36,11 +36,11 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/engineering/mae/undergraduate/mae-bachelors-degree-program/",
+    "https://catalog.ucsd.edu/curric/MAE-ug.html",
     "https://mae.ucsd.edu/",
     "https://advising.ucsd.edu/catalog/programs/MAE.html"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system, assuming continuous enrollment)",
-  "creditRequirements": "total of 180 units required, including major courses, general education requirements, and electives (quarter system)",
-  "additionalInformation": "Students are advised to consult with the Mechanical and Aerospace Engineering department for specific requirements and advising.  The program prepares students for a range of career opportunities in mechanical engineering and related fields."
+  "creditRequirements": "total of180 units required, including major courses, general education requirements, and electives (quarter system)",
+  "additionalInformation": "Students are advised to consult with the Mechanical and Aerospace Engineering department for specific requirements and advising. The program prepares students for a range of career opportunities in mechanical engineering and related fields."
 }

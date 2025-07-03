@@ -57,19 +57,20 @@ async function ucsd() {
   }
 }
 
-async function ucsdCorrectLink() {
+async function ucsdFilterLinksFirstPass() {
   const ucsdMajors = JSON.parse(fs.readFileSync('../src/lib/data/ucsd/majors.json'));
   for (const major of ucsdMajors) {
     const content = await AI(
-      `I have already gathered information on University of California, San Diego's ${major.name} (department: ${major.college}) program (using the official catalog):
+      `I have already gathered information on University of California, San Diego's ${major.name} (department: ${major.college}) program (using https://catalog.ucsd.edu/front/courses.html):
 
       Here is the JSON data I have collected:
       \`\`\`
-      ${JSON.stringify(JSON.parse(fs.readFileSync(`../src/lib/data/ucsd/${major.id}.json`)))}
+      ${JSON.stringify(JSON.parse(fs.readFileSync(`../src/lib/data/ucsd/${major.id}.json`)), undefined, 2)}
       \`\`\`
 
-      Change the first link in the "sources" array to instead use the department's website, as noted on this page: https://students.ucsd.edu/academics/advising/majors-minors/undergraduate-majors.html.
-      For example, all majors in the "Astronomy & Astrophysics" department should have the first link in the sources array set to "https://astro.ucsd.edu/"
+      Change the first link in the "sources" array to instead use the link for the "undergraduate program", as noted on this page: https://catalog.ucsd.edu/front/courses.html
+      For example, all majors in the "Astronomy & Astrophysics" department should have the first link in the sources array set to "https://catalog.ucsd.edu/curric/ASTR-ug.html".
+      The first link in the sources attribute should be a currently valid URL in the UCSD catalog (https://catalog.ucsd.edu/). Check the catalog page manually to verify it exists.
       
       Give me new JSON data that only changes the first element in the sources attribute.
       Only give me the JSON formatted output.
@@ -87,4 +88,4 @@ async function ucsdCorrectLink() {
 // ucb();
 // mit();
 // ucsd();
-ucsdCorrectLink();
+// ucsdFilterLinksFirstPass();

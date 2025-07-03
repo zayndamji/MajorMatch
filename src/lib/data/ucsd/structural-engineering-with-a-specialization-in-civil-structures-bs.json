@@ -6,10 +6,10 @@
   "fullProgramDescription": "The Structural Engineering with a Specialization in Civil Structures program at UC San Diego is designed to provide students with a comprehensive education in the principles and practices of structural engineering, with a focus on civil structures. The program covers the analysis, design, and construction of structures, including the application of engineering mechanics, materials science, and mathematics. Students learn about the behavior of structures under various loads, including seismic, wind, and gravity loads, and develop skills in the use of computer-aided design tools and software.",
   "shortProgramDescription": "The Structural Engineering with a Specialization in Civil Structures B.S. program at UC San Diego prepares students for careers in structural engineering, focusing on the analysis, design, and construction of civil structures.",
   "classHighlights": [
-    "The program includes coursework in mathematics and physics, including calculus, differential equations, and mechanics. Students take courses such as SE 1: Introduction to Structures, SE 101A: Structural Analysis, and SE 110A: Mechanics of Solids.",
-    "Students learn about structural analysis and design, including the use of computer-aided design tools and software. Courses include SE 121: Structural Engineering Laboratory, SE 150: Structural Engineering Design, and SE 151A: Structural Engineering Project.",
-    "The program also covers the behavior of structures under various loads, including seismic, wind, and gravity loads. Students take courses such as SE 102: Dynamics of Structures, SE 131: Structural Mechanics, and SE 141: Structural Reliability.",
-    "Students are also required to take courses in materials science, including the properties and behavior of construction materials. Courses include SE 181: Materials Science for Structural Engineers.",
+    "The program includes coursework in mathematics and physics, including calculus, differential equations, and mechanics. Students take courses such as SE1: Introduction to Structures, SE101A: Structural Analysis, and SE110A: Mechanics of Solids.",
+    "Students learn about structural analysis and design, including the use of computer-aided design tools and software. Courses include SE121: Structural Engineering Laboratory, SE150: Structural Engineering Design, and SE151A: Structural Engineering Project.",
+    "The program also covers the behavior of structures under various loads, including seismic, wind, and gravity loads. Students take courses such as SE102: Dynamics of Structures, SE131: Structural Mechanics, and SE141: Structural Reliability.",
+    "Students are also required to take courses in materials science, including the properties and behavior of construction materials. Courses include SE181: Materials Science for Structural Engineers.",
     "Electives allow students to explore specialized topics in structural engineering, such as earthquake engineering, wind engineering, and structural health monitoring."
   ],
   "learningOutcomes": [
@@ -31,10 +31,10 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/programs/SE-BS-civil-structures.html",
+    "https://catalog.ucsd.edu/curric/SE-ug.html",
     "https://se.ucsd.edu/undergraduate-programs/structural-engineing-b-s"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",
-  "creditRequirements": "approx. 180-200 quarter units",
+  "creditRequirements": "approx.180-200 quarter units",
   "additionalInformation": "The program is accredited by the Engineering Accreditation Commission of ABET. Students are encouraged to participate in internships and research opportunities to gain practical experience."
 }

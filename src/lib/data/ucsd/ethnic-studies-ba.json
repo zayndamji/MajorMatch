@@ -7,8 +7,8 @@
   "shortProgramDescription": "The Ethnic Studies major at UC San Diego provides students with a nuanced understanding of the experiences of communities of color and prepares them for careers and graduate study.",
   "classHighlights": [
     "Core courses introduce students to the foundational concepts and theories of Ethnic Studies, including the histories and cultures of African American, Asian American, Chicana/o/x, and Native American communities.",
-    "Elective courses allow students to explore specific topics, such as identity, social justice, and cultural production, in greater depth, with courses like ETHN 100: Introduction to Ethnic Studies, ETHN 151: African American History, and ETHN 162: Asian American Communities.",
-    "Upper-division courses, such as ETHN 163: Chicana/o/x History and ETHN 170: Native American Studies, provide advanced training in research and analysis, preparing students for senior-level work.",
+    "Elective courses allow students to explore specific topics, such as identity, social justice, and cultural production, in greater depth, with courses like ETHN100: Introduction to Ethnic Studies, ETHN151: African American History, and ETHN162: Asian American Communities.",
+    "Upper-division courses, such as ETHN163: Chicana/o/x History and ETHN170: Native American Studies, provide advanced training in research and analysis, preparing students for senior-level work.",
     "Courses in the major emphasize critical thinking, writing, and research skills, with a focus on community engagement and social justice.",
     "The major includes a range of courses that explore the intersections of Ethnic Studies with other fields, such as history, sociology, literature, and cultural studies."
   ],
@@ -34,10 +34,10 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu//front/courses-and-programs/undergraduate-programs/ethnic-studies-ba/",
+    "https://catalog.ucsd.edu/curric/ETHN-ug.html",
     "https://ethnicstudies.ucsd.edu/"
   ],
-  "programDuration": "4 years (quarter system, typically 12 quarters)",
-  "creditRequirements": "180 quarter units (total), with at least 60 upper-division units, including major requirements",
+  "programDuration": "4 years (quarter system, typically12 quarters)",
+  "creditRequirements": "180 quarter units (total), with at least60 upper-division units, including major requirements",
   "additionalInformation": "Students must satisfy the UC San Diego major preparation requirements and complete the required courses for the major. The major is flexible, allowing students to pursue their interests through elective courses."
 }

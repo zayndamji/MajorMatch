@@ -6,7 +6,7 @@
   "fullProgramDescription": "The Department of Economics offers a comprehensive undergraduate major leading to a Bachelor of Arts degree in Economics. The program is designed to provide students with a thorough understanding of economic theory, econometrics, and applied economics, as well as the opportunity to explore a range of specialized fields within the discipline. The major prepares students for a variety of careers in fields such as finance, government, and research, as well as for graduate study in economics and related fields.",
   "shortProgramDescription": "The Economics B.A. at UC San Diego provides a rigorous foundation in economic theory and applied economics, preparing students for diverse careers or further study.",
   "classHighlights": [
-    "The Economics Department requires students to complete a series of core courses, including Principles of Microeconomics (ECON 1), Principles of Macroeconomics (ECON 2), Intermediate Microeconomics (ECON 100A), Intermediate Macroeconomics (ECON 100B), and Econometrics (ECON 120A-B or ECON 120C). These courses provide a foundation in microeconomic and macroeconomic theory, as well as econometric methods.",
+    "The Economics Department requires students to complete a series of core courses, including Principles of Microeconomics (ECON1), Principles of Macroeconomics (ECON2), Intermediate Microeconomics (ECON100A), Intermediate Macroeconomics (ECON100B), and Econometrics (ECON120A-B or ECON120C). These courses provide a foundation in microeconomic and macroeconomic theory, as well as econometric methods.",
     "Students must also complete a series of upper-division electives, including at least four upper-division economics courses. These electives allow students to explore a range of specialized fields, such as international trade, monetary economics, and economic development.",
     "The department offers a range of courses that provide students with the opportunity to explore applied economics, including courses in economic history, economic development, and the economics of particular industries or regions."
   ],
@@ -28,10 +28,10 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses/Economics.html",
+    "https://catalog.ucsd.edu/curric/ECON-ug.html",
     "https://economics.ucsd.edu/undergraduate-program/index.html"
   ],
-  "programDuration": "4 years (quarter system, typically 12 quarters)",
+  "programDuration": "4 years (quarter system, typically12 quarters)",
   "creditRequirements": "180 total quarter units, including major requirements and general education",
   "additionalInformation": "The Economics Department requires students to complete a set of core courses, as well as a series of upper-division electives. Students are encouraged to consult with department advisors to plan their course of study."
 }

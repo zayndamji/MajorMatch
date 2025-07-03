@@ -6,9 +6,9 @@
   "fullProgramDescription": "The Bachelor of Arts degree in Physics is designed to provide students with a broad background in physics and related fields. The program allows for more flexibility in course selection compared to the B.S. program, enabling students to pursue a double major or to satisfy pre-med or other pre-professional requirements. Students gain a solid foundation in the principles of physics and are prepared for a variety of career paths or further study.",
   "shortProgramDescription": "The Physics B.A. at UC San Diego offers a comprehensive education in physics with flexibility for double majors or pre-professional tracks.",
   "classHighlights": [
-    "The lower-division courses provide a foundational understanding of physics, including mechanics, electricity and magnetism, and thermodynamics. Courses such as PHYS 2A, 2B, 2C, and 2D introduce key concepts.",
-    "Upper-division courses cover more advanced topics, including classical mechanics (PHYS 110A, 110B), electromagnetism (PHYS 130A, 130B), and quantum mechanics (PHYS 140A, 140B).",
-    "Students also complete mathematics requirements, including calculus (MATH 20A, 20B, 20C, 20D) and differential equations (MATH 20E or MATH 21).",
+    "The lower-division courses provide a foundational understanding of physics, including mechanics, electricity and magnetism, and thermodynamics. Courses such as PHYS2A,2B,2C, and2D introduce key concepts.",
+    "Upper-division courses cover more advanced topics, including classical mechanics (PHYS110A,110B), electromagnetism (PHYS130A,130B), and quantum mechanics (PHYS140A,140B).",
+    "Students also complete mathematics requirements, including calculus (MATH20A,20B,20C,20D) and differential equations (MATH20E or MATH21).",
     "Electives allow students to explore specialized areas, such as computational physics, statistical mechanics, or advanced laboratory techniques.",
     "The program emphasizes the development of problem-solving skills, experimental techniques, and analytical thinking."
   ],
@@ -30,7 +30,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/physics-ba",
+    "https://catalog.ucsd.edu/curric/PHYS-ug.html",
     "https://physics.ucsd.edu/undergrad"
   ],
   "programDuration": "4 years (quarter system)",

@@ -6,10 +6,10 @@
   "fullProgramDescription": "The Probability and Statistics major provides a foundation in mathematical and statistical theory, with training in data analysis, statistical modeling, and computational methods. Students develop skills in probability, statistical inference, and data science, preparing for careers in research, industry, government, or academia. The program is designed to provide a strong foundation for graduate study or a career in statistics and data science.",
   "shortProgramDescription": "The Probability and Statistics B.S. program provides a strong foundation in statistical theory, data analysis, and computational methods, preparing students for diverse careers or further study.",
   "classHighlights": [
-    "Probability Theory: Students study probability theory, including probability spaces, random variables, expectation, and limit theorems, through courses like Probability and Statistics (MATH 181A) and Advanced Probability (MATH 280C).",
-    "Statistical Inference: The program covers statistical inference, including hypothesis testing, confidence intervals, and regression analysis, through courses like Mathematical Statistics (MATH 181B) and Statistical Inference (MATH 283).",
-    "Data Analysis and Computational Methods: Students learn data analysis and computational methods, including data visualization, machine learning, and statistical computing, through courses like Statistical Computing (MATH 284) and Data Analysis (MATH 286).",
-    "Mathematical Foundations: The major requires a strong foundation in mathematics, including calculus, linear algebra, and differential equations, through courses like Calculus (MATH 20A-B-C-D) and Linear Algebra (MATH 20F).",
+    "Probability Theory: Students study probability theory, including probability spaces, random variables, expectation, and limit theorems, through courses like Probability and Statistics (MATH181A) and Advanced Probability (MATH280C).",
+    "Statistical Inference: The program covers statistical inference, including hypothesis testing, confidence intervals, and regression analysis, through courses like Mathematical Statistics (MATH181B) and Statistical Inference (MATH283).",
+    "Data Analysis and Computational Methods: Students learn data analysis and computational methods, including data visualization, machine learning, and statistical computing, through courses like Statistical Computing (MATH284) and Data Analysis (MATH286).",
+    "Mathematical Foundations: The major requires a strong foundation in mathematics, including calculus, linear algebra, and differential equations, through courses like Calculus (MATH20A-B-C-D) and Linear Algebra (MATH20F).",
     "Electives and Specializations: Students can choose from a range of electives, including courses in stochastic processes, time series analysis, and statistical machine learning, to tailor their degree to their interests and career goals."
   ],
   "learningOutcomes": [
@@ -34,7 +34,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/programs/Probability_and_Statistics_BS/",
+    "https://catalog.ucsd.edu/curric/MATH-ug.html",
     "https://math.ucsd.edu/undergraduate/majors/Probability_and_Statistics/index.html",
     "https://math.ucsd.edu/undergraduate/advising/index.html"
   ],

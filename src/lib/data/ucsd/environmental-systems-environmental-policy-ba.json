@@ -33,9 +33,9 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses/ENVS",
-    "https://envs.ucsd.edu/undergraduate/majors/index.html",
-    "https://envs.ucsd.edu/undergraduate/majors/envs-policy.html"
+    "https://catalog.ucsd.edu/curric/ENVS-ug.html",
+    "https://envs.ucsd.edu/undergraduate/majors/envs-policy.html",
+    "https://envs.ucsd.edu/undergraduate/majors/index.html"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",
   "creditRequirements": "180 quarter units",

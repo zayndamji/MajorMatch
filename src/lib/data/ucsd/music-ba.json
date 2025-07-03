@@ -6,11 +6,11 @@
   "fullProgramDescription": "The Bachelor of Arts in Music at UC San Diego is designed to provide students with a comprehensive education in music theory, history, and performance practices, as well as the opportunity to explore various musical traditions and styles. The program emphasizes the development of critical thinking, creativity, and technical skills, preparing students for a wide range of careers in music and related fields.",
   "shortProgramDescription": "The Music B.A. at UC San Diego provides a broad-based education in music, encompassing theory, history, and performance, and prepares students for diverse careers or graduate study.",
   "classHighlights": [
-    "The music theory sequence (MUS 4, MUS 5, MUS 6) provides a foundation in music theory, covering topics such as chord progressions, voice leading, and formal analysis.",
-    "Music history courses (MUS 7, MUS 8, MUS 9) introduce students to the historical and cultural contexts of various musical styles and traditions.",
-    "Performance ensembles and private instruction (MUS 80-89, MUS 90-99) allow students to develop their skills as performers and explore different musical genres.",
-    "Electives in music (MUS 100-199) offer advanced study in specialized areas such as composition, musicology, and ethnomusicology.",
-    "Courses in musicianship and technology (MUS 20, MUS 120) explore the intersection of music and technology, including recording and production techniques.",
+    "The music theory sequence (MUS4, MUS5, MUS6) provides a foundation in music theory, covering topics such as chord progressions, voice leading, and formal analysis.",
+    "Music history courses (MUS7, MUS8, MUS9) introduce students to the historical and cultural contexts of various musical styles and traditions.",
+    "Performance ensembles and private instruction (MUS80-89, MUS90-99) allow students to develop their skills as performers and explore different musical genres.",
+    "Electives in music (MUS100-199) offer advanced study in specialized areas such as composition, musicology, and ethnomusicology.",
+    "Courses in musicianship and technology (MUS20, MUS120) explore the intersection of music and technology, including recording and production techniques.",
     "Students also complete a series of upper-division music courses, which provide a deeper understanding of music history, theory, and analysis."
   ],
   "learningOutcomes": [
@@ -31,11 +31,11 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses-index/index.html#music-ba",
+    "https://catalog.ucsd.edu/curric/MUS-ug.html",
     "https://music.ucsd.edu/undergraduate-programs/ba-music/",
     "https://music.ucsd.edu"
   ],
-  "programDuration": "4 years (quarter system, typically 12 quarters)",
-  "creditRequirements": "180 quarter units (minimum 48 upper-division units)",
+  "programDuration": "4 years (quarter system, typically12 quarters)",
+  "creditRequirements": "180 quarter units (minimum48 upper-division units)",
   "additionalInformation": "The Department of Music is housed within the Department of Mechanical and Aerospace Engineering (MAE) administratively, but is a distinct academic department. Students are advised to consult with departmental advisors to plan their course of study and ensure timely progress toward degree completion."
 }

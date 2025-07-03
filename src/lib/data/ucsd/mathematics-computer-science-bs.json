@@ -6,10 +6,10 @@
   "fullProgramDescription": "The Mathematics-Computer Science program is designed for students who are interested in the overlap between mathematics and computer science, including algorithm design, computational complexity, and scientific computing. The program provides a strong foundation in both mathematics and computer science, preparing students for a variety of careers in industry, government, and academia, as well as for graduate study in either field.",
   "shortProgramDescription": "The Mathematics-Computer Science B.S. program at UC San Diego combines mathematical rigor with computational theory and practice, preparing students for technical careers or graduate study.",
   "classHighlights": [
-    "The Mathematics-Computer Science program requires a foundation in calculus (MATH 20A-B-C-D), linear algebra (MATH 20F or MATH 18), and differential equations (MATH 20D or MATH 21D).",
-    "Computer Science core courses include programming (CSE 11 or CSE 8A and CSE 8B), data structures (CSE 12), algorithms (CSE 101), and computer architecture (CSE 30 or CSE 140).",
-    "Mathematics courses cover a range of topics, including real analysis (MATH 140A-B-C), abstract algebra (MATH 100 or 103A-B-C), and probability and statistics (MATH 180A-B-C).",
-    "Students also take advanced computer science electives, such as artificial intelligence (CSE 151 or 250A), computer networks (CSE 123), or database systems (CSE 132A-B).",
+    "The Mathematics-Computer Science program requires a foundation in calculus (MATH20A-B-C-D), linear algebra (MATH20F or MATH18), and differential equations (MATH20D or MATH21D).",
+    "Computer Science core courses include programming (CSE11 or CSE8A and CSE8B), data structures (CSE12), algorithms (CSE101), and computer architecture (CSE30 or CSE140).",
+    "Mathematics courses cover a range of topics, including real analysis (MATH140A-B-C), abstract algebra (MATH100 or103A-B-C), and probability and statistics (MATH180A-B-C).",
+    "Students also take advanced computer science electives, such as artificial intelligence (CSE151 or250A), computer networks (CSE123), or database systems (CSE132A-B).",
     "Electives allow students to explore specialized areas, including machine learning, data science, computational complexity, or computational geometry."
   ],
   "learningOutcomes": [
@@ -30,7 +30,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/curric/math.html",
+    "https://catalog.ucsd.edu/curric/MATH-ug.html",
     "https://math.ucsd.edu/undergrad/major.html"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",

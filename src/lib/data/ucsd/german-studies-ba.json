@@ -6,10 +6,10 @@
   "fullProgramDescription": "The German Studies major at UC San Diego is designed to provide students with a comprehensive understanding of the German language, literature, culture, and history. The program aims to develop students' language proficiency, analytical skills, and cultural competence, preparing them for careers in fields such as education, government, business, and international relations.",
   "shortProgramDescription": "The German Studies B.A. program at UC San Diego focuses on language, literature, and cultural studies, preparing students for diverse careers or further study.",
   "classHighlights": [
-    "The major requires students to complete a series of language courses (GERM 101-104) to develop their language skills.",
-    "Students take core courses in German literature and culture, including GERM 130 (Introduction to German Literature), GERM 140 (German Culture and Civilization), and GERM 150 (German Language and Culture).",
-    "Upper-division courses cover a range of topics, including literary periods and movements, cultural history, and contemporary issues, such as GERM 161-162 (Survey of German Literature) and GERM 170 (Topics in German Culture).",
-    "Electives allow students to explore specialized areas, including linguistics, film studies, and cultural studies, through courses like GERM 180 (German Linguistics) and GERM 190 (German Film).",
+    "The major requires students to complete a series of language courses (GERM101-104) to develop their language skills.",
+    "Students take core courses in German literature and culture, including GERM130 (Introduction to German Literature), GERM140 (German Culture and Civilization), and GERM150 (German Language and Culture).",
+    "Upper-division courses cover a range of topics, including literary periods and movements, cultural history, and contemporary issues, such as GERM161-162 (Survey of German Literature) and GERM170 (Topics in German Culture).",
+    "Electives allow students to explore specialized areas, including linguistics, film studies, and cultural studies, through courses like GERM180 (German Linguistics) and GERM190 (German Film).",
     "Students are also encouraged to take courses in related fields, such as history, philosophy, and comparative literature, to broaden their understanding of the German-speaking world."
   ],
   "learningOutcomes": [
@@ -34,10 +34,10 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/linguistics-literature-culture/german-studies/major/",
+    "https://catalog.ucsd.edu/curric/LIT-g.html",
     "https://german.ucsd.edu/undergraduate/major.html"
   ],
-  "programDuration": "8 quarters (4 academic years, quarter system, 4 years)",
-  "creditRequirements": "48 upper-division units in German Studies, with a total of approximately 180-200 quarter units required for graduation",
+  "programDuration": "8 quarters (4 academic years, quarter system,4 years)",
+  "creditRequirements": "48 upper-division units in German Studies, with a total of approximately180-200 quarter units required for graduation",
   "additionalInformation": "Students are encouraged to study abroad in a German-speaking country and participate in internships or research projects to enhance their language skills and cultural understanding."
 }

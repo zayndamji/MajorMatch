@@ -6,12 +6,12 @@
   "fullProgramDescription": "The NanoEngineering major provides a foundation in nanoscale science and engineering, preparing students for careers or graduate study in fields related to nanotechnology, materials science, and related engineering disciplines. The curriculum includes coursework in mathematics, physics, chemistry, and engineering, as well as specialized courses in nanoengineering.",
   "shortProgramDescription": "The NanoEngineering B.S. program at UC San Diego provides a comprehensive education in nanoscale science and engineering, preparing students for diverse careers or further study.",
   "classHighlights": [
-    "Mathematics and Physics Foundation: Students take a sequence of calculus (MATH 20A-B-C-D) and physics (PHYS 2A-B-C) to build a strong foundation for understanding nanoscale phenomena.",
-    "Chemistry and Materials Science: Coursework includes General Chemistry (CHEM 6A-B-C), Materials Science (NANO 15), and Thermodynamics and Kinetics (NANO 106), providing a basis in chemical principles and materials properties.",
-    "NanoEngineering Core: Required courses include Introduction to NanoEngineering (NANO 1), NanoEngineering Materials (NANO 15), and Nanoscale Characterization (NANO 134), among others, focusing on nanoscale science, engineering principles, and characterization techniques.",
-    "Engineering and Design: Students learn engineering and design principles through courses such as Engineering Design Graphics (MAE 3), Mechanics of Solids (MAE 101), and NanoEngineering Design (NANO 151), emphasizing hands-on skills and project-based learning.",
-    "Specialized and Advanced Courses: The curriculum includes a range of specialized nanoengineering courses, such as Nanoscale Transport Phenomena (NANO 144), Nano and Bio Interfaces (NANO 164), and Nanofabrication (NANO 172), allowing students to explore advanced topics and develop depth in specific areas.",
-    "Laboratory and Research Experience: Students gain practical laboratory experience through courses like NanoEngineering Laboratory I and II (NANO 106L and NANO 134L), preparing them for research or industry roles.",
+    "Mathematics and Physics Foundation: Students take a sequence of calculus (MATH20A-B-C-D) and physics (PHYS2A-B-C) to build a strong foundation for understanding nanoscale phenomena.",
+    "Chemistry and Materials Science: Coursework includes General Chemistry (CHEM6A-B-C), Materials Science (NANO15), and Thermodynamics and Kinetics (NANO106), providing a basis in chemical principles and materials properties.",
+    "NanoEngineering Core: Required courses include Introduction to NanoEngineering (NANO1), NanoEngineering Materials (NANO15), and Nanoscale Characterization (NANO134), among others, focusing on nanoscale science, engineering principles, and characterization techniques.",
+    "Engineering and Design: Students learn engineering and design principles through courses such as Engineering Design Graphics (MAE3), Mechanics of Solids (MAE101), and NanoEngineering Design (NANO151), emphasizing hands-on skills and project-based learning.",
+    "Specialized and Advanced Courses: The curriculum includes a range of specialized nanoengineering courses, such as Nanoscale Transport Phenomena (NANO144), Nano and Bio Interfaces (NANO164), and Nanofabrication (NANO172), allowing students to explore advanced topics and develop depth in specific areas.",
+    "Laboratory and Research Experience: Students gain practical laboratory experience through courses like NanoEngineering Laboratory I and II (NANO106L and NANO134L), preparing them for research or industry roles.",
     "Electives and Breadth: Students choose from a variety of technical electives to broaden their knowledge and tailor their education to their interests, including courses in related departments such as mechanical engineering, electrical engineering, or chemistry and biochemistry."
   ],
   "learningOutcomes": [
@@ -37,7 +37,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/departments/nano/",
+    "https://catalog.ucsd.edu/curric/NANO-ug.html",
     "https://nano.ucsd.edu/undergraduate/",
     "https://catalog.ucsd.edu/front/courses.html?prefix=NANO"
   ],

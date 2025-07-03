@@ -6,7 +6,7 @@
   "fullProgramDescription": "The Bachelor of Science in Public Health with a concentration in Medicine Sciences is designed to prepare students for careers in the healthcare industry, research, or graduate study. The program focuses on the application of public health principles to medical sciences, including the study of disease prevention, health promotion, and healthcare systems. Students gain a strong foundation in the biological and physical sciences, as well as coursework in public health, including epidemiology, health policy, and environmental health.",
   "shortProgramDescription": "The Public Health with Concentration in Medicine Sciences B.S. program prepares students for careers in healthcare, research, or graduate study by applying public health principles to medical sciences.",
   "classHighlights": [
-    "The program includes foundational courses in public health such as Introduction to Public Health (FMPH 40), Biostatistics for Public Health (FMPH 101), and Principles of Epidemiology (FMPH 102).",
+    "The program includes foundational courses in public health such as Introduction to Public Health (FMPH40), Biostatistics for Public Health (FMPH101), and Principles of Epidemiology (FMPH102).",
     "Students take a series of core courses that cover the fundamental aspects of public health, including health policy, environmental health, and health behavior.",
     "The Medicine Sciences concentration requires coursework in areas such as human physiology, pathology, and pharmacology, as well as upper-division electives in medicine sciences.",
     "Additional coursework includes classes on global health, health disparities, and healthcare systems, providing students with a comprehensive understanding of public health issues.",
@@ -30,7 +30,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/curriculum/public-health-b-s/",
+    "https://catalog.ucsd.edu/curric/PH-ug.html",
     "https://healthsciences.ucsd.edu/academics/departments/hwshhs/Pages/default.aspx"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",

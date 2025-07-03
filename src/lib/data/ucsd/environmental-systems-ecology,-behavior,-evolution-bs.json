@@ -6,10 +6,10 @@
   "fullProgramDescription": "The Environmental Systems Program is an interdisciplinary major that focuses on the interactions between human and natural systems. The Ecology, Behavior, and Evolution track emphasizes the study of ecological principles, evolutionary processes, and the behavior of organisms. Students in this major gain a comprehensive understanding of environmental systems and develop skills in data analysis, critical thinking, and problem-solving.",
   "shortProgramDescription": "The Environmental Systems (Ecology, Behavior, & Evolution) B.S. provides a comprehensive education in ecological principles, evolutionary processes, and organismal behavior, preparing students for careers in research, conservation, and environmental management.",
   "classHighlights": [
-    "Core courses in environmental systems, including ESPM 101, ESPM 102, and ESPM 103, provide a foundation in ecological principles, environmental policy, and conservation biology.",
-    "Upper-division courses in ecology, evolution, and behavior, such as BILD 62, BILD 65, and ESPM 120, cover topics including population dynamics, community ecology, and evolutionary processes.",
-    "Electives in specialized areas, such as ESPM 123, ESPM 134, and ESPM 161, allow students to explore topics like conservation biology, ecological modeling, and environmental policy.",
-    "Methodology and quantitative skills are developed through courses like ESPM 104, ESPM 108, and ESPM 120, which cover data analysis, statistical modeling, and research design.",
+    "Core courses in environmental systems, including ESPM101, ESPM102, and ESPM103, provide a foundation in ecological principles, environmental policy, and conservation biology.",
+    "Upper-division courses in ecology, evolution, and behavior, such as BILD62, BILD65, and ESPM120, cover topics including population dynamics, community ecology, and evolutionary processes.",
+    "Electives in specialized areas, such as ESPM123, ESPM134, and ESPM161, allow students to explore topics like conservation biology, ecological modeling, and environmental policy.",
+    "Methodology and quantitative skills are developed through courses like ESPM104, ESPM108, and ESPM120, which cover data analysis, statistical modeling, and research design.",
     "The major also includes coursework in related fields, such as biology, chemistry, and earth sciences, to provide a broad understanding of environmental systems."
   ],
   "learningOutcomes": [
@@ -35,7 +35,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/ENV.html",
+    "https://catalog.ucsd.edu/curric/ENV-ug.html",
     "https://envprog.ucsd.edu/"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",

@@ -6,10 +6,10 @@
   "fullProgramDescription": "The Cinematic Arts major provides students with a comprehensive understanding of the history, theory, and aesthetics of film and digital media. Students explore the creative, cultural, and industrial contexts of cinematic production, and develop critical thinking, writing, and research skills. The program emphasizes the analysis and interpretation of cinematic texts, as well as the social, cultural, and historical contexts in which they are produced and consumed.",
   "shortProgramDescription": "The Cinematic Arts B.A. program provides students with a deep understanding of film and digital media, preparing them for careers in the arts, media, and cultural industries.",
   "classHighlights": [
-    "Foundational Courses: Students begin with introductory courses such as Cinematic Arts I: Introduction to Cinematic Arts (VIS 1) and Cinematic Arts II: Film and Digital Media (VIS 20), which provide a broad introduction to the field and its methodologies.",
-    "Historical and Theoretical Courses: Students explore the history and theory of film and digital media through courses such as History of Film (VIS 101A-B-C) and Film Theory (VIS 120), which examine the development of cinematic forms and the critical discourses surrounding them.",
-    "Critical and Analytical Courses: Students develop critical thinking and analytical skills through courses such as Film Criticism (VIS 121) and Media and Culture (VIS 130), which focus on the interpretation of cinematic texts and the cultural contexts in which they are produced and consumed.",
-    "Production and Practice Courses: While the major is focused on the study of cinematic arts, students may also engage with production and practice courses, such as Introduction to Media Production (VIS 40) and Digital Media Production (VIS 140), which provide hands-on experience with media production techniques and technologies."
+    "Foundational Courses: Students begin with introductory courses such as Cinematic Arts I: Introduction to Cinematic Arts (VIS1) and Cinematic Arts II: Film and Digital Media (VIS20), which provide a broad introduction to the field and its methodologies.",
+    "Historical and Theoretical Courses: Students explore the history and theory of film and digital media through courses such as History of Film (VIS101A-B-C) and Film Theory (VIS120), which examine the development of cinematic forms and the critical discourses surrounding them.",
+    "Critical and Analytical Courses: Students develop critical thinking and analytical skills through courses such as Film Criticism (VIS121) and Media and Culture (VIS130), which focus on the interpretation of cinematic texts and the cultural contexts in which they are produced and consumed.",
+    "Production and Practice Courses: While the major is focused on the study of cinematic arts, students may also engage with production and practice courses, such as Introduction to Media Production (VIS40) and Digital Media Production (VIS140), which provide hands-on experience with media production techniques and technologies."
   ],
   "learningOutcomes": [
     "Analyze and interpret cinematic texts within their historical, cultural, and social contexts.",
@@ -33,6 +33,7 @@
     }
   ],
   "sources": [
+    "https://catalog.ucsd.edu/curric/DMC-ug.html",
     "https://catalog.ucsd.edu/arts-humanities/cinematic-arts/",
     "https://cinema.ucsd.edu/undergraduate/cinematic-arts-ba.html"
   ],

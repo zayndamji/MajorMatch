@@ -6,10 +6,10 @@
   "fullProgramDescription": "The Bachelor of Science in Chemistry is designed to provide a comprehensive understanding of the fundamental principles of chemistry. The program includes coursework in inorganic, organic, physical, and analytical chemistry, as well as laboratory research experiences. Students develop skills in data analysis, problem-solving, and scientific communication. The program prepares students for careers in research, industry, and education, as well as for graduate study in chemistry or related fields.",
   "shortProgramDescription": "The Chemistry B.S. program at UC San Diego provides a rigorous foundation in chemistry and prepares students for careers or further study.",
   "classHighlights": [
-    "The chemistry core curriculum includes courses in General Chemistry (CHEM 6A-B-C), Organic Chemistry (CHEM 41A-B-C), Physical Chemistry (CHEM 130A-B), and Analytical Chemistry (CHEM 171).",
-    "Students also complete laboratory courses, including General Chemistry Laboratory (CHEM 7L), Organic Chemistry Laboratory (CHEM 43A-B), and Physical Chemistry Laboratory (CHEM 131L).",
-    "Additional required courses include Inorganic Chemistry (CHEM 141), Biochemistry (CHEM 163), and Chemistry Laboratory Safety (CHEM 195).",
-    "Electives in advanced chemistry topics, such as Advanced Organic Chemistry (CHEM 144), Advanced Physical Chemistry (CHEM 132), and Special Topics in Chemistry (CHEM 199), allow students to explore specialized areas.",
+    "The chemistry core curriculum includes courses in General Chemistry (CHEM6A-B-C), Organic Chemistry (CHEM41A-B-C), Physical Chemistry (CHEM130A-B), and Analytical Chemistry (CHEM171).",
+    "Students also complete laboratory courses, including General Chemistry Laboratory (CHEM7L), Organic Chemistry Laboratory (CHEM43A-B), and Physical Chemistry Laboratory (CHEM131L).",
+    "Additional required courses include Inorganic Chemistry (CHEM141), Biochemistry (CHEM163), and Chemistry Laboratory Safety (CHEM195).",
+    "Electives in advanced chemistry topics, such as Advanced Organic Chemistry (CHEM144), Advanced Physical Chemistry (CHEM132), and Special Topics in Chemistry (CHEM199), allow students to explore specialized areas.",
     "The program also includes a capstone experience through laboratory research or a senior thesis."
   ],
   "learningOutcomes": [
@@ -35,11 +35,11 @@
     }
   ],
   "sources": [
+    "https://catalog.ucsd.edu/curric/CHEMBI-ug.html",
     "https://catalog.ucsd.edu/front/courses/chembiochem.html#bs-chem",
-    "https://chemistry.ucsd.edu/undergraduate-program/index.html",
     "https://chemistry.ucsd.edu/undergraduate-program/chemistry-bs/index.html"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",
-  "creditRequirements": "approx. 180-200 quarter units",
-  "additionalInformation": "Students must complete a minimum of 180 units, including major requirements and upper-division coursework. GPA requirements and grading policies apply. Research opportunities and internships are available."
+  "creditRequirements": "approx.180-200 quarter units",
+  "additionalInformation": "Students must complete a minimum of180 units, including major requirements and upper-division coursework. GPA requirements and grading policies apply. Research opportunities and internships are available."
 }

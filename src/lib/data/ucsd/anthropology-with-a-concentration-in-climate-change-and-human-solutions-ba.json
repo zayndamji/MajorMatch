@@ -32,10 +32,10 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/UCSD/undergrad/programs/anthropology-ba-climate-change.html",
-    "https://anthropology.ucsd.edu/undergrad/major/concentrations/climate-change.html"
+    "https://catalog.ucsd.edu/curric/ANTH-ug.html",
+    "https://catalog.ucsd.edu/UCSD/undergrad/programs/anthropology-ba-climate-change.html"
   ],
-  "programDuration": "4 academic years (quarter system), typically 12 quarters",
+  "programDuration": "4 academic years (quarter system), typically12 quarters",
   "creditRequirements": "180 quarter units",
   "additionalInformation": "Students must complete the requirements for the Anthropology major, including the core courses and electives, as well as the specific requirements for the Concentration in Climate Change and Human Solutions."
 }

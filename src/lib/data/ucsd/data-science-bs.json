@@ -6,9 +6,9 @@
   "fullProgramDescription": "The Data Science major provides a rigorous curriculum that prepares students for a career in data science. The program emphasizes the development of skills in data analysis, machine learning, and statistical modeling, as well as the ability to communicate complex data insights effectively. Students learn to work with large datasets, develop predictive models, and apply data science techniques to real-world problems.",
   "shortProgramDescription": "The Data Science B.S. program at UC San Diego equips students with a strong foundation in data analysis, statistical modeling, and machine learning, preparing them for careers in data-driven fields.",
   "classHighlights": [
-    "The program begins with foundational courses in Data Science: DSC 10 - Principles of Data Science and DSC 20 - Programming for Data Science. These courses introduce students to the principles of data science, programming languages such as Python and R, and data manipulation techniques.",
-    "Students then progress to core courses in data analysis and statistical modeling: DSC 30 - Data Structures and Algorithms for Data Science, DSC 40 - Theoretical Foundations of Data Science, and DSC 80 - Practice and Application of Data Science. These courses cover data structures, algorithms, probability, statistics, and the application of data science techniques to real-world problems.",
-    "Additional required courses include MATH 18 - Linear Algebra, MATH 20 - Calculus, and CSE 11 - Introduction to Computer Science and Object-Oriented Programming. These courses provide a strong mathematical foundation and introduce students to computer science concepts.",
+    "The program begins with foundational courses in Data Science: DSC10 - Principles of Data Science and DSC20 - Programming for Data Science. These courses introduce students to the principles of data science, programming languages such as Python and R, and data manipulation techniques.",
+    "Students then progress to core courses in data analysis and statistical modeling: DSC30 - Data Structures and Algorithms for Data Science, DSC40 - Theoretical Foundations of Data Science, and DSC80 - Practice and Application of Data Science. These courses cover data structures, algorithms, probability, statistics, and the application of data science techniques to real-world problems.",
+    "Additional required courses include MATH18 - Linear Algebra, MATH20 - Calculus, and CSE11 - Introduction to Computer Science and Object-Oriented Programming. These courses provide a strong mathematical foundation and introduce students to computer science concepts.",
     "Electives in the program allow students to explore specialized areas such as machine learning, data visualization, and data ethics. Students can choose from a range of upper-division courses that align with their interests and career goals.",
     "The program emphasizes hands-on learning, with opportunities for students to work on projects and collaborate with peers. Students gain practical experience in data science through coursework and project-based learning."
   ],
@@ -35,7 +35,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/programs/DSC.html",
+    "https://catalog.ucsd.edu/curric/DSC-ug.html",
     "https://datascience.ucsd.edu"
   ],
   "programDuration": "4 years (quarter system)",

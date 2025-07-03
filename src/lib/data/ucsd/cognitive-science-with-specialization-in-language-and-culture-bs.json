@@ -6,10 +6,10 @@
   "fullProgramDescription": "The Cognitive Science with Specialization in Language and Culture major is designed to provide students with a comprehensive understanding of the cognitive processes underlying human language and culture. The program is grounded in the cognitive science department's interdisciplinary approach, drawing from psychology, linguistics, anthropology, philosophy, and computer science. Students explore the complex interactions between language, culture, and cognition, and develop a nuanced understanding of the ways in which humans process and generate meaning.",
   "shortProgramDescription": "The Cognitive Science with Specialization in Language and Culture major examines the cognitive processes underlying human language and culture, preparing students for careers in research, education, and industry.",
   "classHighlights": [
-    "The major requires a set of core courses in cognitive science, including COGS 101A, COGS 101B, COGS 102A, and COGS 118A, which provide a foundation in the principles of cognitive science and the methods used to study cognition.",
-    "Students take additional coursework in linguistics, including LIGN 110, LIGN 120, and LIGN 170, which provide a comprehensive understanding of the structure and processing of language.",
-    "The specialization in Language and Culture also includes coursework in anthropology, such as ANTH 100 and ANTH 150, which provide a nuanced understanding of the cultural contexts in which language is used.",
-    "Students choose from a range of electives, including COGS 131, COGS 150, and LIGN 180, which allow them to explore specific topics in cognitive science and language in greater depth.",
+    "The major requires a set of core courses in cognitive science, including COGS101A, COGS101B, COGS102A, and COGS118A, which provide a foundation in the principles of cognitive science and the methods used to study cognition.",
+    "Students take additional coursework in linguistics, including LIGN110, LIGN120, and LIGN170, which provide a comprehensive understanding of the structure and processing of language.",
+    "The specialization in Language and Culture also includes coursework in anthropology, such as ANTH100 and ANTH150, which provide a nuanced understanding of the cultural contexts in which language is used.",
+    "Students choose from a range of electives, including COGS131, COGS150, and LIGN180, which allow them to explore specific topics in cognitive science and language in greater depth.",
     "The major also includes a set of upper-division writing courses, which help students develop their writing skills and apply them to the analysis and interpretation of complex cognitive science concepts.",
     "Students are encouraged to participate in research projects and internships, which provide hands-on experience with the methods and theories of cognitive science."
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/departments/cognitive-science/cognitive-science-bs-language-culture/",
+    "https://catalog.ucsd.edu/curric/COGS-ug.html",
     "https://cogsci.ucsd.edu/undergraduate-programs/index.html",
     "https://cogsci.ucsd.edu/undergraduate-programs/cognitive-science-bs/index.html"
   ],

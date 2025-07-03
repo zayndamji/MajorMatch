@@ -6,8 +6,8 @@
   "fullProgramDescription": "The Environmental Systems Program is an interdisciplinary major that focuses on the interactions between human societies and the natural environment. Students in this major gain a broad understanding of environmental systems, including the Earth's physical and biological processes, and the impact of human activities on these systems. The program emphasizes the development of skills in data analysis, critical thinking, and problem-solving, preparing students for careers in fields such as environmental conservation, sustainability, and research.",
   "shortProgramDescription": "The Environmental Systems major at UC San Diego provides a comprehensive education in the Earth's physical and biological systems, emphasizing the impact of human activities and preparing students for careers in environmental fields.",
   "classHighlights": [
-    "The major requires a foundation in natural sciences, including courses such as Introduction to Environmental Systems (ESP 1), Earth's Systems (ESP 30), and Environmental Chemistry (CHEM 11/111).",
-    "Students also complete coursework in Earth sciences, including Physical Geology (ESC 1), Earth's Climate System (ESP 104), and Geobiology (ESP 108).",
+    "The major requires a foundation in natural sciences, including courses such as Introduction to Environmental Systems (ESP1), Earth's Systems (ESP30), and Environmental Chemistry (CHEM11/111).",
+    "Students also complete coursework in Earth sciences, including Physical Geology (ESC1), Earth's Climate System (ESP104), and Geobiology (ESP108).",
     "Additional required courses cover topics such as ecology, conservation biology, and environmental policy, ensuring a well-rounded understanding of environmental systems and their management.",
     "Electives allow students to explore specialized topics, including climate change, sustainability, and environmental policy, enabling them to tailor their education to their interests and career goals.",
     "The major also includes a focus on quantitative skills, with courses in statistics, data analysis, and mathematical modeling, preparing students to analyze and address environmental issues.",
@@ -37,7 +37,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/main/programs/ENVIRONMENTAL-SYSTEMS-PROGRAM/",
+    "https://catalog.ucsd.edu/curric/ESP-ug.html",
     "https://envstudies.ucsd.edu/undergraduate/index.html"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",

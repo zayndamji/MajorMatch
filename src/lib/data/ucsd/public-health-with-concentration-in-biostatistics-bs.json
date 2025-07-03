@@ -6,9 +6,9 @@
   "fullProgramDescription": "The B.S. in Public Health with a concentration in Biostatistics is an interdisciplinary program that provides students with a foundation in public health principles and biostatistical methods. The program prepares students for careers in health research, policy, and practice, with a strong emphasis on data analysis and statistical reasoning.",
   "shortProgramDescription": "The Public Health B.S. with Biostatistics concentration trains students in public health principles and statistical analysis, preparing them for careers in health research and data-driven decision-making.",
   "classHighlights": [
-    "The program begins with foundational courses in Public Health: Introduction to Public Health (FMPH 40), Principles of Health and Disease (FMPH 101), and Health Care Systems and Policy (FMPH 102).",
-    "Biostatistics core courses include Probability and Statistics (MATH 180A), Introduction to Biostatistics (FMPH 102A) or equivalent, and Biostatistical Methods (FMPH 171).",
-    "Additional required biostatistics courses cover regression analysis, statistical computing, and advanced biostatistical methods, including FMPH 172, FMPH 173, and FMPH 174.",
+    "The program begins with foundational courses in Public Health: Introduction to Public Health (FMPH40), Principles of Health and Disease (FMPH101), and Health Care Systems and Policy (FMPH102).",
+    "Biostatistics core courses include Probability and Statistics (MATH180A), Introduction to Biostatistics (FMPH102A) or equivalent, and Biostatistical Methods (FMPH171).",
+    "Additional required biostatistics courses cover regression analysis, statistical computing, and advanced biostatistical methods, including FMPH172, FMPH173, and FMPH174.",
     "Students also complete coursework in epidemiology, environmental health, health policy, and social and behavioral factors, ensuring a comprehensive understanding of public health.",
     "Electives allow students to explore specialized topics in biostatistics and public health, such as data science, health data analysis, and public health policy.",
     "The program emphasizes hands-on experience with data analysis and statistical software, preparing students for data-driven careers in public health."
@@ -32,10 +32,10 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/college-and-schools/school-of-public-health/public-health-bs/biostatistics-concentration/",
+    "https://catalog.ucsd.edu/curric/FMPH-ug.html",
     "https://healthsciences.ucsd.edu/schools/hws/Pages/default.aspx"
   ],
-  "programDuration": "4 years (quarter system, typically 12 quarters)",
+  "programDuration": "4 years (quarter system, typically12 quarters)",
   "creditRequirements": "180 quarter units",
   "additionalInformation": "The Herbert Wertheim School of Public Health and Human Longevity Science offers a comprehensive education in public health, with state-of-the-art facilities and research opportunities. Students are encouraged to engage in internships and research projects to gain practical experience."
 }

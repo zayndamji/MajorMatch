@@ -6,9 +6,9 @@
   "fullProgramDescription": "The Classical Studies major at UC San Diego is an interdisciplinary program that focuses on the study of ancient Greek and Roman civilizations. The program encompasses a broad range of subjects, including language, literature, history, art, and archaeology. Students develop a deep understanding of the cultures of ancient Greece and Rome, exploring their contributions to modern Western society. The major is designed to cultivate critical thinking, analytical skills, and a nuanced understanding of the classical world.",
   "shortProgramDescription": "The Classical Studies B.A. program at UC San Diego offers students a comprehensive education in the languages, cultures, and histories of ancient Greece and Rome.",
   "classHighlights": [
-    "The Classical Studies major begins with foundational courses in ancient Greek and Latin (CLAS 20A-B-C, CLAS 30A-B-C), providing students with the linguistic skills necessary for advanced study. Students also take CLAS 45A and CLAS 45B, which introduce them to the cultures and histories of ancient Greece and Rome.",
-    "Students engage with a variety of courses that explore classical literature, history, and culture, including CLAS 100A-B, CLAS 110, and CLAS 120. These courses foster a deep understanding of classical texts and their contexts, as well as the broader cultural and historical landscapes of the ancient Mediterranean.",
-    "Upper-division electives allow students to specialize in areas such as Greek and Roman literature, ancient history, classical archaeology, and the reception of classical culture. Courses may include CLAS 130, CLAS 140, CLAS 150, and CLAS 160, among others. Students can explore topics ranging from mythology and epic poetry to the archaeology of ancient cities and the influence of classical culture on later European societies.",
+    "The Classical Studies major begins with foundational courses in ancient Greek and Latin (CLAS20A-B-C, CLAS30A-B-C), providing students with the linguistic skills necessary for advanced study. Students also take CLAS45A and CLAS45B, which introduce them to the cultures and histories of ancient Greece and Rome.",
+    "Students engage with a variety of courses that explore classical literature, history, and culture, including CLAS100A-B, CLAS110, and CLAS120. These courses foster a deep understanding of classical texts and their contexts, as well as the broader cultural and historical landscapes of the ancient Mediterranean.",
+    "Upper-division electives allow students to specialize in areas such as Greek and Roman literature, ancient history, classical archaeology, and the reception of classical culture. Courses may include CLAS130, CLAS140, CLAS150, and CLAS160, among others. Students can explore topics ranging from mythology and epic poetry to the archaeology of ancient cities and the influence of classical culture on later European societies.",
     "Throughout the major, students develop critical thinking and analytical skills, learning to interpret complex texts and artifacts within their historical and cultural contexts. The program emphasizes the development of written and oral communication skills, preparing students for a range of careers or further academic study."
   ],
   "learningOutcomes": [
@@ -33,8 +33,8 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/courses/CLAS.html",
-    "https://classics.ucsd.edu/undergraduate-programs/major.php"
+    "https://catalog.ucsd.edu/curric/CLAS-ug.html",
+    "https://catalog.ucsd.edu/courses/CLAS.html"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",
   "creditRequirements": "180-200 quarter units",

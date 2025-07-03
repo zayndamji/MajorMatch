@@ -6,11 +6,11 @@
   "fullProgramDescription": "The Theatre major at UC San Diego is designed to provide students with a comprehensive education in the art and craft of theatre. The program emphasizes the development of skills in acting, directing, playwriting, design, and technical theatre, as well as the study of theatre history and criticism. Students work closely with faculty and guest artists to create innovative productions that showcase their talents.",
   "shortProgramDescription": "The Theatre B.A. program at UC San Diego fosters students' artistic and intellectual growth through a rigorous curriculum in theatre practice and theory.",
   "classHighlights": [
-    "Theatre Core Courses: Students take foundational courses in theatre, including Introduction to Theatre (THDN 10), Acting I (THDN 30), and Theatre History (THDN 120A-B). These courses provide a comprehensive understanding of theatre practices and history.",
-    "Acting and Directing: Advanced courses in acting (THDN 130-131) and directing (THDN 140-141) allow students to refine their skills in performance and production.",
-    "Playwriting and Dramaturgy: Courses in playwriting (THDN 150-151) and dramaturgy (THDN 160) enable students to explore the creation of new works and the analysis of existing ones.",
-    "Design and Technical Theatre: Students can choose from a range of courses in design (THDN 170-171, THDN 172-173) and technical theatre (THDN 180), learning about the technical aspects of production.",
-    "Theatre History and Criticism: Upper-division courses (THDN 120A-B, THDN 122) deepen students' understanding of theatre history, theory, and criticism."
+    "Theatre Core Courses: Students take foundational courses in theatre, including Introduction to Theatre (THDN10), Acting I (THDN30), and Theatre History (THDN120A-B). These courses provide a comprehensive understanding of theatre practices and history.",
+    "Acting and Directing: Advanced courses in acting (THDN130-131) and directing (THDN140-141) allow students to refine their skills in performance and production.",
+    "Playwriting and Dramaturgy: Courses in playwriting (THDN150-151) and dramaturgy (THDN160) enable students to explore the creation of new works and the analysis of existing ones.",
+    "Design and Technical Theatre: Students can choose from a range of courses in design (THDN170-171, THDN172-173) and technical theatre (THDN180), learning about the technical aspects of production.",
+    "Theatre History and Criticism: Upper-division courses (THDN120A-B, THDN122) deepen students' understanding of theatre history, theory, and criticism."
   ],
   "learningOutcomes": [
     "Develop skills in acting, directing, playwriting, design, and technical theatre.",
@@ -30,10 +30,10 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses/theatre-and-dance-major/",
+    "https://catalog.ucsd.edu/curric/THTR-ug.html",
     "https://theatredance.ucsd.edu/undergraduate-programs/theatre-ba/index.html"
   ],
-  "programDuration": "8 quarters (4 academic years, quarter system, though some students finish in 3 years)",
-  "creditRequirements": "Total of 180 quarter units, with at least 65 upper-division units; major requirements comprise around 64-68 units",
+  "programDuration": "8 quarters (4 academic years, quarter system, though some students finish in3 years)",
+  "creditRequirements": "Total of180 quarter units, with at least65 upper-division units; major requirements comprise around64-68 units",
   "additionalInformation": "The Theatre B.A. program is housed within the Department of Theatre and Dance. Students are encouraged to explore various aspects of theatre and to engage with the vibrant cultural scene at UC San Diego."
 }

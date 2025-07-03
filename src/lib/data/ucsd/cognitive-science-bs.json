@@ -6,10 +6,10 @@
   "fullProgramDescription": "The Cognitive Science Department at UC San Diego offers an interdisciplinary program that focuses on the study of mind and intelligence. The undergraduate major provides a comprehensive education in the core areas of cognitive science, including perception, attention, memory, language, problem-solving, and reasoning. Students can choose from various elective courses to explore their interests in cognitive science.",
   "shortProgramDescription": "The Cognitive Science B.S. program provides a comprehensive education in the study of mind and intelligence, focusing on the core areas of cognitive science.",
   "classHighlights": [
-    "The core courses for the Cognitive Science major include Introduction to Cognitive Science (COGS 101A), Cognitive Science Methods (COGS 101B), Cognitive Neuroscience (COGS 107A), Cognition (COGS 108A), and Statistics for Cognitive Science (COGS 14A). These courses provide a foundation in the principles and methods of cognitive science.",
-    "Students are also required to take additional courses in cognitive science, including Perception (COGS 107B), Language and Thought (COGS 108B), and Cognitive Development (COGS 108C). These courses allow students to explore specific topics in cognitive science in more depth.",
+    "The core courses for the Cognitive Science major include Introduction to Cognitive Science (COGS101A), Cognitive Science Methods (COGS101B), Cognitive Neuroscience (COGS107A), Cognition (COGS108A), and Statistics for Cognitive Science (COGS14A). These courses provide a foundation in the principles and methods of cognitive science.",
+    "Students are also required to take additional courses in cognitive science, including Perception (COGS107B), Language and Thought (COGS108B), and Cognitive Development (COGS108C). These courses allow students to explore specific topics in cognitive science in more depth.",
     "The major also includes a range of elective courses that allow students to explore their interests in cognitive science. These electives include courses on topics such as artificial intelligence, human-computer interaction, and cognitive development.",
-    "Students can choose from a variety of upper-division courses, including COGS 120, COGS 130, COGS 140, COGS 150, COGS 160, and COGS 170, which cover topics such as cognitive modeling, cognitive neuroscience, and human factors.",
+    "Students can choose from a variety of upper-division courses, including COGS120, COGS130, COGS140, COGS150, COGS160, and COGS170, which cover topics such as cognitive modeling, cognitive neuroscience, and human factors.",
     "The department also offers special topics and seminar courses that allow students to engage with current research and issues in cognitive science."
   ],
   "learningOutcomes": [
@@ -34,8 +34,8 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses/cogs-bachelors-degree/index.html",
-    "https://cogsci.ucsd.edu/undergraduate/index.html"
+    "https://catalog.ucsd.edu/curric/COGS-ug.html",
+    "https://catalog.ucsd.edu/front/courses/cogs-bachelors-degree/index.html"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",
   "creditRequirements": "180-200 quarter units",

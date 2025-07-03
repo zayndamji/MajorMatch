@@ -7,7 +7,7 @@
   "shortProgramDescription": "The Cognitive Science with Specialization in Design and Interaction B.S. program prepares students to design and evaluate interactive systems, applying human-centered design principles and understanding the cognitive science underlying human-technology interaction.",
   "classHighlights": [
     "Students in this major take core cognitive science courses that cover the foundations of cognitive science, including perception, attention, memory, language, and decision-making.",
-    "The Design and Interaction specialization includes coursework in human-computer interaction, user experience design, and design principles, as well as courses that focus on the cognitive and social factors that influence the design and use of interactive systems, such as COGS 120, COGS 121, and COGS 131.",
+    "The Design and Interaction specialization includes coursework in human-computer interaction, user experience design, and design principles, as well as courses that focus on the cognitive and social factors that influence the design and use of interactive systems, such as COGS120, COGS121, and COGS131.",
     "Additional courses cover research methods, statistics, and programming, providing students with a comprehensive understanding of the design and evaluation of complex interactive systems.",
     "Electives allow students to explore related areas, such as human-centered design, usability engineering, and the social and cultural factors that shape the design and use of technology.",
     "The major culminates in advanced courses that integrate theoretical foundations with practical design and evaluation skills."
@@ -35,7 +35,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/COURSESEXTRA/Catalog/curriculum-cogsci-bs.html",
+    "https://catalog.ucsd.edu/curric/COGS-ug.html",
     "https://cogsci.ucsd.edu/undergraduate-programs/index.html"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",

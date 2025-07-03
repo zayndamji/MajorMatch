@@ -6,10 +6,10 @@
   "fullProgramDescription": "The Bioengineering program at UC San Diego is an interdisciplinary major that combines engineering principles with biological sciences to develop innovative solutions for health and medicine. The program provides a foundation in engineering, mathematics, and physical sciences, as well as a deep understanding of biological systems. Students learn to apply engineering principles to medical and biological problems, preparing them for careers in industry, research, or graduate study.",
   "shortProgramDescription": "The Bioengineering B.S. program at UC San Diego integrates engineering and biological sciences to prepare students for careers in health and medicine.",
   "classHighlights": [
-    "Mathematics and Physics: Students complete a series of mathematics and physics courses, including Calculus (MATH 20A-B-C-D), Physics (PHYS 2A-B-C), and Differential Equations (MATH 20D or MATH 31).",
-    "Engineering Foundations: The program includes foundational engineering courses such as Introduction to Bioengineering (BE 1 or BE 100), Biomechanics (BE 120 or BE 220), and Biomaterials (BE 130 or BE 230).",
-    "Biological Sciences: Students take a range of biological sciences courses, including Introduction to Biology (BILD 1 or BILD 3), Biochemistry (BICD 100 or CHEM 114A-B), and Molecular Biology (BICD 110 or BICD 120).",
-    "Bioengineering Core: The major includes core bioengineering courses such as Biomechanics (BE 120 or BE 220), Biomaterials (BE 130 or BE 230), and Systems Physiology (BE 140 or BE 240).",
+    "Mathematics and Physics: Students complete a series of mathematics and physics courses, including Calculus (MATH20A-B-C-D), Physics (PHYS2A-B-C), and Differential Equations (MATH20D or MATH31).",
+    "Engineering Foundations: The program includes foundational engineering courses such as Introduction to Bioengineering (BE1 or BE100), Biomechanics (BE120 or BE220), and Biomaterials (BE130 or BE230).",
+    "Biological Sciences: Students take a range of biological sciences courses, including Introduction to Biology (BILD1 or BILD3), Biochemistry (BICD100 or CHEM114A-B), and Molecular Biology (BICD110 or BICD120).",
+    "Bioengineering Core: The major includes core bioengineering courses such as Biomechanics (BE120 or BE220), Biomaterials (BE130 or BE230), and Systems Physiology (BE140 or BE240).",
     "Technical Electives: Students choose from a range of technical electives, including courses in bioinformatics, biomedical devices, and tissue engineering."
   ],
   "learningOutcomes": [
@@ -35,11 +35,11 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses/degree/be-bs/",
+    "https://catalog.ucsd.edu/curric/BE-ug.html",
     "https://be.ucsd.edu/undergrad/",
     "https://jacobsschool.ucsd.edu/academics/majors/bioengineering"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",
-  "creditRequirements": "approx. 180-200 quarter units",
+  "creditRequirements": "approx.180-200 quarter units",
   "additionalInformation": "Students must complete a set of required courses, including mathematics, physics, and biology. The major also includes a set of core bioengineering courses and technical electives. Students are encouraged to participate in research and internship opportunities."
 }

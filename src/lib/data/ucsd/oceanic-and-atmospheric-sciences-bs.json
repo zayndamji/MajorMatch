@@ -6,10 +6,10 @@
   "fullProgramDescription": "The Bachelor of Science in Oceanic and Atmospheric Sciences is an interdisciplinary program that provides students with a comprehensive understanding of the Earth's ocean and atmosphere systems. The program is designed to prepare students for careers in research, education, government, and industry. Students in this program gain a strong foundation in the physical sciences, including mathematics, physics, and chemistry, as well as specialized knowledge in oceanic and atmospheric sciences.",
   "shortProgramDescription": "The Oceanic and Atmospheric Sciences B.S. program at UC San Diego provides a comprehensive education in the Earth's ocean and atmosphere systems, preparing students for careers in research, education, government, and industry.",
   "classHighlights": [
-    "The program requires a strong foundation in mathematics and physical sciences, including courses such as Calculus (MATH 20A-B-C-D), Physics (PHYS 2A-B-C), and Chemistry (CHEM 6A-B-C).",
-    "Students take core courses in oceanic and atmospheric sciences, including Introduction to Oceanography (SIO 30), Introduction to Climate Dynamics (SIO 140), and Atmospheric Thermodynamics and Dynamics (SIO 141).",
+    "The program requires a strong foundation in mathematics and physical sciences, including courses such as Calculus (MATH20A-B-C-D), Physics (PHYS2A-B-C), and Chemistry (CHEM6A-B-C).",
+    "Students take core courses in oceanic and atmospheric sciences, including Introduction to Oceanography (SIO30), Introduction to Climate Dynamics (SIO140), and Atmospheric Thermodynamics and Dynamics (SIO141).",
     "The program includes a range of electives that allow students to explore specialized topics in oceanic and atmospheric sciences, such as oceanography, climate dynamics, and weather forecasting.",
-    "Students also complete upper-division courses in their chosen area of emphasis, which may include courses such as Ocean Circulation (SIO 170), Atmospheric Dynamics (SIO 240), or Climate Change (SIO 250).",
+    "Students also complete upper-division courses in their chosen area of emphasis, which may include courses such as Ocean Circulation (SIO170), Atmospheric Dynamics (SIO240), or Climate Change (SIO250).",
     "The program includes laboratory and field components, providing students with hands-on experience with data collection and analysis, as well as research opportunities."
   ],
   "learningOutcomes": [
@@ -34,7 +34,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses/SIO.html",
+    "https://catalog.ucsd.edu/curric/SIO-ug.html",
     "https://sio.ucsd.edu/undergraduate-programs/oa-sciences-bs/",
     "https://catalog.ucsd.edu/front/courses/SIO-BS.html"
   ],

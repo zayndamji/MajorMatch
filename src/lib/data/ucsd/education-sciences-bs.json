@@ -6,10 +6,10 @@
   "fullProgramDescription": "The Education Sciences major provides students with a broad understanding of the complex issues in education, including the social, cognitive, and cultural factors that influence teaching and learning. Students explore the interdisciplinary foundations of education, including the psychological, sociological, and historical contexts of educational institutions and practices. The major prepares students for a range of careers in education, research, policy, and related fields.",
   "shortProgramDescription": "The Education Sciences major at UC San Diego provides a comprehensive understanding of educational issues, preparing students for careers in education, research, and policy.",
   "classHighlights": [
-    "The Education Sciences major requires foundational courses in education, including EDUC 101: Introduction to Education Sciences, EDUC 102: Research Methods in Education, and EDUC 103: Statistical Analysis in Education. These courses provide a grounding in the theories, methods, and practices of education research.",
-    "Students also complete a series of core courses that explore the social, cultural, and cognitive factors that influence teaching and learning, including EDUC 104: Learning and Development, EDUC 105: The Social Context of Education, and EDUC 106: Education Policy.",
+    "The Education Sciences major requires foundational courses in education, including EDUC101: Introduction to Education Sciences, EDUC102: Research Methods in Education, and EDUC103: Statistical Analysis in Education. These courses provide a grounding in the theories, methods, and practices of education research.",
+    "Students also complete a series of core courses that explore the social, cultural, and cognitive factors that influence teaching and learning, including EDUC104: Learning and Development, EDUC105: The Social Context of Education, and EDUC106: Education Policy.",
     "In addition to the core courses, students choose from a range of electives that allow them to explore specialized topics in education, such as special education, language acquisition, and educational technology.",
-    "The major also includes a range of upper-division courses that provide advanced training in education research, theory, and practice, including EDUC 110: Educational Research Design, EDUC 120: Seminar in Education Sciences, and EDUC 130: Capstone in Education Sciences is not included as per the prompt."
+    "The major also includes a range of upper-division courses that provide advanced training in education research, theory, and practice, including EDUC110: Educational Research Design, EDUC120: Seminar in Education Sciences, and EDUC130: Capstone in Education Sciences is not included as per the prompt."
   ],
   "learningOutcomes": [
     "Understand the complex issues in education, including the social, cognitive, and cultural factors that influence teaching and learning.",
@@ -33,7 +33,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses-index/education-studies/",
+    "https://catalog.ucsd.edu/curric/EDS-ug.html",
     "https://educationstudies.ucsd.edu/undergraduate-programs/education-sciences-bs.html"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",

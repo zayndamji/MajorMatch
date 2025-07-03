@@ -6,9 +6,9 @@
   "fullProgramDescription": "The Bachelor of Science in Public Health program at UC San Diego is designed to provide students with a comprehensive understanding of the factors that influence health outcomes and the skills to develop effective solutions to public health problems. The program is interdisciplinary, drawing on coursework from the Herbert Wertheim School of Public Health and Human Longevity Science, as well as other departments across the campus.",
   "shortProgramDescription": "The Public Health B.S. program at UC San Diego prepares students to understand and address public health issues through a rigorous curriculum that includes coursework in health policy, epidemiology, and health behavior.",
   "classHighlights": [
-    "Foundational Courses: Students complete introductory courses in public health (FMPH 40), epidemiology (FMPH 101), and health policy (FMPH 102), establishing a broad understanding of public health principles and practices.",
-    "Core Competencies: Required courses in biostatistics (FMPH 110), health behavior (FMPH 120), and environmental health (FMPH 130) ensure students grasp key concepts and methods in public health.",
-    "Specialized Coursework: Students choose from a range of electives, including global health (FMPH 150), health disparities (FMPH 155), and health promotion (FMPH 160), allowing them to tailor their education to specific interests and career goals.",
+    "Foundational Courses: Students complete introductory courses in public health (FMPH40), epidemiology (FMPH101), and health policy (FMPH102), establishing a broad understanding of public health principles and practices.",
+    "Core Competencies: Required courses in biostatistics (FMPH110), health behavior (FMPH120), and environmental health (FMPH130) ensure students grasp key concepts and methods in public health.",
+    "Specialized Coursework: Students choose from a range of electives, including global health (FMPH150), health disparities (FMPH155), and health promotion (FMPH160), allowing them to tailor their education to specific interests and career goals.",
     "Interdisciplinary Approaches: The program incorporates coursework from across the university, including sociology, psychology, and biology, to provide a comprehensive understanding of the social, behavioral, and biological determinants of health."
   ],
   "learningOutcomes": [
@@ -30,7 +30,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/courses/FMPH.html",
+    "https://catalog.ucsd.edu/curric/FMPH-ug.html",
     "https://herbertwertheimschool.ucsd.edu",
     "https://catalog.ucsd.edu/undergraduate-education/index.html"
   ],

@@ -6,9 +6,9 @@
   "fullProgramDescription": "The Interdisciplinary Computing and the Arts major is designed for students who are interested in the intersection of computing and the arts. The program is interdisciplinary, drawing on courses from the Departments of Computer Science and Engineering, Music, Visual Arts, and others. Students in this major gain a strong foundation in computing, as well as a deep understanding of the arts and humanities.",
   "shortProgramDescription": "The Interdisciplinary Computing and the Arts major prepares students for careers at the intersection of technology and the arts.",
   "classHighlights": [
-    "The major requires foundational courses in computer science, including Introduction to Computer Science and Programming (CSE 11 or CSE 8A/B), Introduction to Data Structures and Algorithms (CSE 12), and Computer Science and Engineering (CSE 15L).",
-    "Students also complete a series of arts and humanities courses, including Introduction to Media Arts (VIS 106A) and Music and Digital Media (MUS 17).",
-    "Additional required courses include Mathematics for Computation (MATH 15A) and Interdisciplinary Computing and the Arts (ICSA 180).",
+    "The major requires foundational courses in computer science, including Introduction to Computer Science and Programming (CSE11 or CSE8A/B), Introduction to Data Structures and Algorithms (CSE12), and Computer Science and Engineering (CSE15L).",
+    "Students also complete a series of arts and humanities courses, including Introduction to Media Arts (VIS106A) and Music and Digital Media (MUS17).",
+    "Additional required courses include Mathematics for Computation (MATH15A) and Interdisciplinary Computing and the Arts (ICSA180).",
     "Students choose from a range of electives in computer science, arts, and humanities, allowing them to tailor their degree to their interests.",
     "Departmental courses are offered by the Mechanical and Aerospace Engineering department, however the major is not housed in this department."
   ],
@@ -34,11 +34,11 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/main/programs/interdisciplinary-computing-and-the-arts-ba/",
+    "https://catalog.ucsd.edu/curric/VIS-ug.html",
     "https://ic.ucsd.edu/",
     "https://jacobsen.ucsd.edu/"
   ],
-  "programDuration": "4 years (quarter system), 12 quarters",
+  "programDuration": "4 years (quarter system),12 quarters",
   "creditRequirements": "180 quarter units",
   "additionalInformation": "The major is limited in the number of students it can accept. Students must apply to the major and be accepted. The major is housed in the Jacobs School of Engineering, but draws on courses from across the campus."
 }

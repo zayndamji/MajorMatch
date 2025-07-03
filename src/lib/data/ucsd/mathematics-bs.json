@@ -6,10 +6,10 @@
   "fullProgramDescription": "The Mathematics B.S. program provides a rigorous foundation in mathematics, preparing students for graduate study or careers in industry, government, or education. The program includes coursework in calculus, linear algebra, differential equations, and real analysis, as well as elective courses in areas such as algebra, geometry, and topology.",
   "shortProgramDescription": "The Mathematics B.S. program at UC San Diego offers a comprehensive education in mathematics, covering both theoretical foundations and applied techniques.",
   "classHighlights": [
-    "The lower-division coursework includes calculus (MATH 20A-B-C-D-E-F), linear algebra (MATH 20F), and differential equations (MATH 20D or MATH 140A-B).",
-    "Upper-division required courses include real analysis (MATH 140A-B-C), abstract algebra (MATH 100 or 103A-B), and complex analysis (MATH 120A-B).",
-    "Elective courses cover a range of topics, including algebra (MATH 100-199), geometry and topology (MATH 140-149), and applied mathematics (MATH 150-159, 170-179).",
-    "Students also take courses in probability and statistics (MATH 180A-B-C or MATH 181A-B).",
+    "The lower-division coursework includes calculus (MATH20A-B-C-D-E-F), linear algebra (MATH20F), and differential equations (MATH20D or MATH140A-B).",
+    "Upper-division required courses include real analysis (MATH140A-B-C), abstract algebra (MATH100 or103A-B), and complex analysis (MATH120A-B).",
+    "Elective courses cover a range of topics, including algebra (MATH100-199), geometry and topology (MATH140-149), and applied mathematics (MATH150-159,170-179).",
+    "Students also take courses in probability and statistics (MATH180A-B-C or MATH181A-B).",
     "The program emphasizes proof-based mathematics and theoretical understanding, with opportunities for advanced study in specialized areas."
   ],
   "learningOutcomes": [
@@ -30,7 +30,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/curriculum/math-dept-bachelors-degrees/math-bs/",
+    "https://catalog.ucsd.edu/curric/MATH-ug.html",
     "https://math.ucsd.edu/undergrad/",
     "https://math.ucsd.edu/undergrad/upper-division/"
   ],

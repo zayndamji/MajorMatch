@@ -6,11 +6,11 @@
   "fullProgramDescription": "The Structural Engineering with a Specialization in Structural Health Monitoring/Non-Destructive Evaluation program is designed to provide students with a comprehensive understanding of structural engineering principles and practices, with a focus on the application of structural health monitoring and non-destructive evaluation techniques. The program includes coursework in mathematics, physics, materials science, and structural analysis, as well as specialized courses in structural health monitoring and non-destructive evaluation.",
   "shortProgramDescription": "The Structural Engineering with a Specialization in Structural Health Monitoring/Non-Destructive Evaluation B.S. program provides students with a solid foundation in structural engineering and specialized knowledge in structural health monitoring and non-destructive evaluation.",
   "classHighlights": [
-    "The program includes foundational coursework in mathematics and physics, including Calculus (MATH 20A-B-C-D), Physics (PHYS 2A-B-C), and Differential Equations (MATH 20D, MATH 140A-B).",
-    "Students take core courses in structural engineering, including Structural Analysis (SE 101A-B), Mechanics of Materials (SE 104), and Structural Design (SE 151A-B).",
-    "Specialized coursework in structural health monitoring and non-destructive evaluation includes Sensors and Sensing Systems (SE 125), Structural Health Monitoring (SE 165), and Non-Destructive Evaluation (SE 166).",
-    "Students also complete additional coursework in materials science, including Materials Science and Engineering (NANO 15 or MAE 3), and engineering electives.",
-    "The program includes laboratory coursework, including Structural Engineering Laboratory (SE 110A-B) and Experimental Methods in Structural Engineering (SE 162)."
+    "The program includes foundational coursework in mathematics and physics, including Calculus (MATH20A-B-C-D), Physics (PHYS2A-B-C), and Differential Equations (MATH20D, MATH140A-B).",
+    "Students take core courses in structural engineering, including Structural Analysis (SE101A-B), Mechanics of Materials (SE104), and Structural Design (SE151A-B).",
+    "Specialized coursework in structural health monitoring and non-destructive evaluation includes Sensors and Sensing Systems (SE125), Structural Health Monitoring (SE165), and Non-Destructive Evaluation (SE166).",
+    "Students also complete additional coursework in materials science, including Materials Science and Engineering (NANO15 or MAE3), and engineering electives.",
+    "The program includes laboratory coursework, including Structural Engineering Laboratory (SE110A-B) and Experimental Methods in Structural Engineering (SE162)."
   ],
   "learningOutcomes": [
     "Apply mathematical and scientific principles to solve structural engineering problems",
@@ -31,7 +31,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/engineering/structural-engineering/undergraduate-programs/structural-engineering-with-a-specialization-in-structural-health-monitoringnon-destructive-evaluation-bs/",
+    "https://catalog.ucsd.edu/curric/SE-ug.html",
     "https://se.ucsd.edu"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",

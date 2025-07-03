@@ -6,9 +6,9 @@
   "fullProgramDescription": "The Cognitive and Behavioral Neuroscience major is designed to provide students with a comprehensive understanding of the biological basis of behavior and cognition. The program combines coursework in cognitive science, neuroscience, and psychology to provide a strong foundation in the principles of cognition, perception, and behavioral neuroscience.",
   "shortProgramDescription": "The Cognitive and Behavioral Neuroscience major provides students with a comprehensive understanding of the biological basis of behavior and cognition, preparing them for careers in research, healthcare, or graduate study.",
   "classHighlights": [
-    "The major requires foundational courses in Cognitive Science (COGS 101A, COGS 101B), Introduction to Cognitive Science (COGS 1), and Statistics (PSYC 60 or COGS 14B).",
-    "Students also complete a series of core courses in cognitive neuroscience, including Cognitive Neuroscience (COGS 107A), Cognitive Neuroscience Laboratory (COGS 107B), and Perception (COGS 115).",
-    "Additional required courses cover topics such as Neurobiology (COGS 101C), Behavioral Neuroscience (COGS 108), and Research Methods (COGS 14A or PSYC 100A).",
+    "The major requires foundational courses in Cognitive Science (COGS101A, COGS101B), Introduction to Cognitive Science (COGS1), and Statistics (PSYC60 or COGS14B).",
+    "Students also complete a series of core courses in cognitive neuroscience, including Cognitive Neuroscience (COGS107A), Cognitive Neuroscience Laboratory (COGS107B), and Perception (COGS115).",
+    "Additional required courses cover topics such as Neurobiology (COGS101C), Behavioral Neuroscience (COGS108), and Research Methods (COGS14A or PSYC100A).",
     "Students choose from a range of upper-division electives, including courses in cognitive psychology, neuroscience, and computer science, allowing them to tailor their degree to their interests."
   ],
   "learningOutcomes": [
@@ -33,10 +33,10 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses-and-programs/undergraduate-programs/cognitive-and-behavioral-neuroscience-bs/",
+    "https://catalog.ucsd.edu/curric/PSYC-ug.html",
     "https://cogs.ucsd.edu/undergraduate-programs/cbn-major/"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",
-  "creditRequirements": "around 180-200 quarter units, including major requirements and electives",
+  "creditRequirements": "around180-200 quarter units, including major requirements and electives",
   "additionalInformation": "Students are encouraged to participate in research and internships to gain practical experience in the field. The major prepares students for careers in research, healthcare, or graduate study in fields such as neuroscience, psychology, or cognitive science."
 }

@@ -6,11 +6,11 @@
   "fullProgramDescription": "The Linguistics major with a Specialization in Cognition and Language is designed for students interested in the study of language as it relates to the mind. The program covers the core areas of linguistics, including phonetics, phonology, morphology, syntax, semantics, and pragmatics, as well as the cognitive aspects of language processing and acquisition.",
   "shortProgramDescription": "The Linguistics major with a Specialization in Cognition and Language prepares students for careers or further study in areas related to the cognitive aspects of language.",
   "classHighlights": [
-    "Core linguistics courses, including Introduction to Linguistics (LING 100), Phonetics and Phonology (LING 101A), Morphology (LING 102), Syntax (LING 103), and Semantics (LING 104), provide a foundation in the study of language structure.",
-    "Courses in cognition and language, such as Language Acquisition (LING 120), Psycholinguistics (LING 121), and Neurolinguistics (LING 122), focus on the mental processes involved in language processing and acquisition.",
+    "Core linguistics courses, including Introduction to Linguistics (LING100), Phonetics and Phonology (LING101A), Morphology (LING102), Syntax (LING103), and Semantics (LING104), provide a foundation in the study of language structure.",
+    "Courses in cognition and language, such as Language Acquisition (LING120), Psycholinguistics (LING121), and Neurolinguistics (LING122), focus on the mental processes involved in language processing and acquisition.",
     "Electives in areas such as phonetics, phonology, morphology, syntax, semantics, and pragmatics allow students to explore specific topics in linguistics and cognition.",
     "Additional courses in computer science, psychology, or philosophy may be recommended or required to support the student's understanding of cognitive aspects of language.",
-    "Upper-division courses, such as Linguistic Theory (LING 201A-B) and Research Methods in Linguistics (LING 210), provide advanced training in linguistic theory and research methods."
+    "Upper-division courses, such as Linguistic Theory (LING201A-B) and Research Methods in Linguistics (LING210), provide advanced training in linguistic theory and research methods."
   ],
   "learningOutcomes": [
     "Understand the core areas of linguistics, including phonetics, phonology, morphology, syntax, semantics, and pragmatics.",
@@ -34,11 +34,11 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/linguistics/linguistics-specialization-cognition-language-ba/",
+    "https://catalog.ucsd.edu/curric/LING-ug.html",
     "https://linguistics.ucsd.edu/undergraduate/linguistics-major.html",
     "https://catalog.ucsd.edu/linguistics/linguistics-ba/"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",
-  "creditRequirements": "Total of 180 quarter units required for graduation; major requires specific courses and electives",
+  "creditRequirements": "Total of180 quarter units required for graduation; major requires specific courses and electives",
   "additionalInformation": "Students must satisfy the upper-division writing requirement; some courses may have prerequisites or require departmental approval."
 }

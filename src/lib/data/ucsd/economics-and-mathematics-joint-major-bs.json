@@ -6,9 +6,9 @@
   "fullProgramDescription": "The Economics and Mathematics Joint Major program is designed for students who want to combine the analytical and problem-solving skills of mathematics with the economic theory and applications. The program provides a strong foundation in both fields, preparing students for careers in research, finance, government, and academia.",
   "shortProgramDescription": "The Economics and Mathematics Joint Major program provides a rigorous education in both economics and mathematics, preparing students for careers that require strong analytical and problem-solving skills.",
   "classHighlights": [
-    "Students are required to take core courses in economics, including Microeconomic Theory (ECON 100A), Macroeconomic Theory (ECON 100B), and Econometrics (ECON 120A).",
-    "Mathematics requirements include Calculus (MATH 20A-B-C-D), Linear Algebra (MATH 18 or 20F), and Differential Equations (MATH 20D or 21D).",
-    "Students also complete upper-division mathematics courses, such as Real Analysis (MATH 140A-B) and Probability and Statistics (MATH 180A-B).",
+    "Students are required to take core courses in economics, including Microeconomic Theory (ECON100A), Macroeconomic Theory (ECON100B), and Econometrics (ECON120A).",
+    "Mathematics requirements include Calculus (MATH20A-B-C-D), Linear Algebra (MATH18 or20F), and Differential Equations (MATH20D or21D).",
+    "Students also complete upper-division mathematics courses, such as Real Analysis (MATH140A-B) and Probability and Statistics (MATH180A-B).",
     "Electives in economics include courses in microeconomics, macroeconomics, international trade, and econometrics.",
     "The program emphasizes the development of mathematical and statistical skills, as well as the application of economic theory to real-world problems."
   ],
@@ -30,9 +30,10 @@
     }
   ],
   "sources": [
+    "https://catalog.ucsd.edu/curric/ECON-ug.html",
     "https://catalog.ucsd.edu/college-and-schools/arts-and-humanities/division-social-sciences/department-economics/undergraduate-programs/economics-and-mathematics-joint-major-b-s/"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",
-  "creditRequirements": " approx. 180-200 quarter units",
+  "creditRequirements": " approx.180-200 quarter units",
   "additionalInformation": "Students must complete the required courses for both the Economics and Mathematics majors. The program is designed for students who want to pursue a career in economics, finance, or a related field, or who plan to pursue a graduate degree in economics or a related field."
 }

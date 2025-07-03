@@ -6,9 +6,9 @@
   "fullProgramDescription": "The Linguistics major at UC San Diego is designed to provide students with a comprehensive understanding of the fundamental principles of language structure, language use, and language acquisition. The program covers various subfields of linguistics, including phonetics, phonology, morphology, syntax, semantics, and pragmatics, as well as the social and psychological aspects of language. Students are trained in the scientific study of language, including data collection, analysis, and theoretical modeling.",
   "shortProgramDescription": "The Linguistics B.A. program at UC San Diego provides a rigorous foundation in the scientific study of language, preparing students for careers in language teaching, speech pathology, or further study in linguistics or related fields.",
   "classHighlights": [
-    "The introductory course, LIGN 100, provides an overview of the field of linguistics, covering the core subfields and introducing students to the scientific study of language. Subsequent courses in phonetics (LIGN 120), phonology (LIGN 121), morphology (LIGN 122), and syntax (LIGN 130) provide a comprehensive understanding of the sound and structure of language.",
-    "Courses in semantics (LIGN 140) and pragmatics (LIGN 150) examine the meaning and use of language, while sociolinguistics (LIGN 160) and psycholinguistics (LIGN 170) explore the social and psychological aspects of language. Students also have the opportunity to take courses in specialized areas, such as language acquisition (LIGN 180) and linguistic theory (LIGN 200).",
-    "Upper-division courses, such as LIGN 165 (Language and Culture) and LIGN 173 (Language Development), allow students to explore specific topics in linguistics in greater depth. Students are also required to take LIGN 199 (Research Methods in Linguistics), which provides training in research design, data collection, and analysis."
+    "The introductory course, LIGN100, provides an overview of the field of linguistics, covering the core subfields and introducing students to the scientific study of language. Subsequent courses in phonetics (LIGN120), phonology (LIGN121), morphology (LIGN122), and syntax (LIGN130) provide a comprehensive understanding of the sound and structure of language.",
+    "Courses in semantics (LIGN140) and pragmatics (LIGN150) examine the meaning and use of language, while sociolinguistics (LIGN160) and psycholinguistics (LIGN170) explore the social and psychological aspects of language. Students also have the opportunity to take courses in specialized areas, such as language acquisition (LIGN180) and linguistic theory (LIGN200).",
+    "Upper-division courses, such as LIGN165 (Language and Culture) and LIGN173 (Language Development), allow students to explore specific topics in linguistics in greater depth. Students are also required to take LIGN199 (Research Methods in Linguistics), which provides training in research design, data collection, and analysis."
   ],
   "learningOutcomes": [
     "Understand the fundamental principles of language structure, including phonetics, phonology, morphology, syntax, and semantics.",
@@ -32,10 +32,10 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses/linguistics-ba/",
+    "https://catalog.ucsd.edu/curric/LING-ug.html",
     "https://linguistics.ucsd.edu/undergraduate/lign-ba.html"
   ],
-  "programDuration": "4 years (quarter system), typically 12 quarters",
-  "creditRequirements": "180 quarter units, including 52 upper-division units in Linguistics",
+  "programDuration": "4 years (quarter system), typically12 quarters",
+  "creditRequirements": "180 quarter units, including52 upper-division units in Linguistics",
   "additionalInformation": "Students are advised to consult with the Linguistics department advisor to plan their course schedule and ensure they meet the major requirements. The Linguistics major is designed to be flexible, allowing students to pursue a range of interests and career goals."
 }

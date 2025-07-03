@@ -6,11 +6,11 @@
   "fullProgramDescription": "The B.S. in Psychology with a Specialization in Cognitive Psychology provides students with a foundation in the principles of psychology and a deeper understanding of cognitive processes, including perception, attention, memory, language, and decision-making. The program includes coursework in research methods, statistics, and experimental design, as well as elective courses in cognitive psychology and related areas.",
   "shortProgramDescription": "The B.S. in Psychology with a Specialization in Cognitive Psychology prepares students for careers in research, academia, or industry, or for graduate study in psychology or related fields.",
   "classHighlights": [
-    "Foundational courses in psychology, including Introduction to Psychology (PSYC 60) and Research Methods in Psychology (PSYC 101), provide a broad understanding of the field and research principles.",
-    "Cognitive psychology courses, such as Cognition (PSYC 154) and Cognitive Neuroscience (PSYC 155), focus on the mental processes that underlie human behavior and cognition.",
-    "Statistics and research methods courses, including Statistics for Psychological Research (PSYC 102) and Experimental Design (PSYC 104), equip students with the skills to design, conduct, and analyze research studies.",
+    "Foundational courses in psychology, including Introduction to Psychology (PSYC60) and Research Methods in Psychology (PSYC101), provide a broad understanding of the field and research principles.",
+    "Cognitive psychology courses, such as Cognition (PSYC154) and Cognitive Neuroscience (PSYC155), focus on the mental processes that underlie human behavior and cognition.",
+    "Statistics and research methods courses, including Statistics for Psychological Research (PSYC102) and Experimental Design (PSYC104), equip students with the skills to design, conduct, and analyze research studies.",
     "Elective courses in areas such as cognitive neuroscience, human factors, and developmental psychology allow students to explore related topics and deepen their understanding of cognitive psychology.",
-    "Upper-division courses, such as Seminar in Cognitive Psychology (PSYC 194), provide opportunities for students to engage with current research and issues in the field."
+    "Upper-division courses, such as Seminar in Cognitive Psychology (PSYC194), provide opportunities for students to engage with current research and issues in the field."
   ],
   "learningOutcomes": [
     "Understand the fundamental principles of psychology and cognitive psychology.",
@@ -34,10 +34,10 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses/psychology-with-a-specialization-in-cognitive-psychology-bs/",
+    "https://catalog.ucsd.edu/curric/PSYC-ug.html",
     "https://psychology.ucsd.edu/undergraduate-program/psychology-bs/"
   ],
   "programDuration": "4 years (8 quarters, quarter system)",
-  "creditRequirements": "total of 180 quarter units, with at least 72 upper-division units",
+  "creditRequirements": "total of180 quarter units, with at least72 upper-division units",
   "additionalInformation": "Students must complete the major requirements, including foundational courses, cognitive psychology courses, and research methods and statistics courses. Elective courses and upper-division coursework provide opportunities for students to explore related areas and deepen their understanding of cognitive psychology."
 }

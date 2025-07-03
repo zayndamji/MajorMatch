@@ -6,9 +6,9 @@
   "fullProgramDescription": "The Bachelor of Science in Public Health with a concentration in Health Policy and Management Sciences is designed to prepare students for careers in health policy, health services management, and health care administration. The program focuses on understanding the organization, financing, and delivery of health services, as well as the social, economic, and political factors that influence health outcomes.",
   "shortProgramDescription": "The Public Health B.S. with a concentration in Health Policy and Management Sciences prepares students for careers in health policy, management, and administration.",
   "classHighlights": [
-    "The curriculum includes foundational courses in public health, such as Introduction to Public Health (FMPH 40), Biostatistics for Public Health (FMPH 101), and Epidemiology for Public Health (FMPH 102).",
-    "Students take core courses in health policy and management, including Health Policy and Management (FMPH 165), Health Services Organization and Management (FMPH 166), and Program Planning and Management (FMPH 167).",
-    "Additional coursework covers health economics, health law, and health policy analysis, including Health Economics (FMPH 168) and Health Law and Policy (FMPH 169).",
+    "The curriculum includes foundational courses in public health, such as Introduction to Public Health (FMPH40), Biostatistics for Public Health (FMPH101), and Epidemiology for Public Health (FMPH102).",
+    "Students take core courses in health policy and management, including Health Policy and Management (FMPH165), Health Services Organization and Management (FMPH166), and Program Planning and Management (FMPH167).",
+    "Additional coursework covers health economics, health law, and health policy analysis, including Health Economics (FMPH168) and Health Law and Policy (FMPH169).",
     "Electives allow students to explore specialized topics, such as health disparities, health care systems, and global health policy."
   ],
   "learningOutcomes": [
@@ -29,10 +29,10 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/college-and-schools/herbert-wertheim-school-of-public-health-and-human-longevity-science/public-health-bs/",
+    "https://catalog.ucsd.edu/curric/FMPH-ug.html",
     "https://healthsciences.ucsd.edu/schools/hwsph/departments/health-policy-and-management/Pages/default.aspx"
   ],
   "programDuration": "4 years (quarter system)",
   "creditRequirements": "180 quarter units",
-  "additionalInformation": "Students must complete a minimum of 180 units, including major requirements, general education, and electives. The program is designed to be completed in four years, assuming a normal course load each quarter."
+  "additionalInformation": "Students must complete a minimum of180 units, including major requirements, general education, and electives. The program is designed to be completed in four years, assuming a normal course load each quarter."
 }

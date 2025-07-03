@@ -6,9 +6,9 @@
   "fullProgramDescription": "The Aerospace Engineering program at UC San Diego is designed to provide students with a comprehensive education in the principles and practices of aerospace engineering. The curriculum encompasses a broad range of topics including aerodynamics, structural analysis, propulsion systems, and systems engineering. Students gain a strong foundation in mathematics, physics, and engineering sciences, as well as hands-on experience with design and testing. The program prepares graduates for careers in the aerospace industry, government agencies, and research institutions, as well as for further study at the graduate level.",
   "shortProgramDescription": "The Aerospace Engineering B.S. at UC San Diego provides a rigorous foundation in aerospace principles, preparing students for careers or graduate study in the field.",
   "classHighlights": [
-    "The program begins with foundational courses in mathematics and physics, including Calculus and Differential Equations (MATH 20A-B-C-D, 20E), Physics (PHYS 2A-B-C), and introduction to programming (CSE 8A or other programming experience).",
-    "Core engineering courses include Statics and Dynamics (MAE 101A-B), Mechanics of Materials (MAE 101C), Thermodynamics (MAE 105A), Fluid Mechanics (MAE 101D), and Aerospace-specific courses like Aerodynamics (MAE 132A), Aerospace Structures (MAE 156A), and Propulsion Systems (MAE 132C-D).",
-    "Students also take a series of laboratory and design courses, including Aerospace Engineering Laboratory (MAE 104A-B-C), Aerospace Design (MAE 157), and Systems Engineering (MAE 155A).",
+    "The program begins with foundational courses in mathematics and physics, including Calculus and Differential Equations (MATH20A-B-C-D,20E), Physics (PHYS2A-B-C), and introduction to programming (CSE8A or other programming experience).",
+    "Core engineering courses include Statics and Dynamics (MAE101A-B), Mechanics of Materials (MAE101C), Thermodynamics (MAE105A), Fluid Mechanics (MAE101D), and Aerospace-specific courses like Aerodynamics (MAE132A), Aerospace Structures (MAE156A), and Propulsion Systems (MAE132C-D).",
+    "Students also take a series of laboratory and design courses, including Aerospace Engineering Laboratory (MAE104A-B-C), Aerospace Design (MAE157), and Systems Engineering (MAE155A).",
     "Electives allow students to explore specialized topics within aerospace engineering, such as advanced aerodynamics, computational fluid dynamics, and aerospace materials."
   ],
   "learningOutcomes": [
@@ -30,10 +30,10 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/engineering/mae/undergraduate-programs/aerospace-engineering-bs/",
+    "https://catalog.ucsd.edu/curric/MAE-ug.html",
     "https://mae.ucsd.edu/undergraduate-programs/aerospace-engineering"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",
-  "creditRequirements": "approx. 200 quarter units",
+  "creditRequirements": "approx.200 quarter units",
   "additionalInformation": "The program requires a strong foundation in mathematics and sciences. Students are encouraged to participate in research and internships to gain practical experience."
 }

@@ -6,11 +6,11 @@
   "fullProgramDescription": "The Mathematics and Economics - Joint Major (B.S.) program is an interdisciplinary program offered by the Department of Mathematics. This program combines the study of mathematical theories and methods with the study of economic principles and practices. Students in this program develop a strong foundation in mathematical techniques, statistical analysis, and economic theory, preparing them for careers in fields such as finance, data analysis, and research.",
   "shortProgramDescription": "The Mathematics and Economics - Joint Major (B.S.) program provides students with a comprehensive education in both mathematics and economics, preparing them for a wide range of career opportunities.",
   "classHighlights": [
-    "The program requires students to complete a series of core courses in mathematics, including calculus (MATH 20A-B-C-D), linear algebra (MATH 18 or 20F), and differential equations (MATH 20D or 21D).",
-    "Students also complete a set of core courses in economics, including microeconomics (ECON 100A-B), macroeconomics (ECON 101A-B), and econometrics (ECON 120A-B-C).",
+    "The program requires students to complete a series of core courses in mathematics, including calculus (MATH20A-B-C-D), linear algebra (MATH18 or20F), and differential equations (MATH20D or21D).",
+    "Students also complete a set of core courses in economics, including microeconomics (ECON100A-B), macroeconomics (ECON101A-B), and econometrics (ECON120A-B-C).",
     "In addition to these core courses, students choose from a range of electives in both mathematics and economics, allowing them to tailor their education to their interests and career goals.",
-    "Some of the elective courses in mathematics include probability and statistics (MATH 180A-B-C), mathematical finance (MATH 183), and mathematical modeling (MATH 171A-B).",
-    "Elective courses in economics include advanced microeconomics (ECON 110A-B-C), advanced macroeconomics (ECON 111A-B-C), and specialized courses in areas such as international trade and economic development.",
+    "Some of the elective courses in mathematics include probability and statistics (MATH180A-B-C), mathematical finance (MATH183), and mathematical modeling (MATH171A-B).",
+    "Elective courses in economics include advanced microeconomics (ECON110A-B-C), advanced macroeconomics (ECON111A-B-C), and specialized courses in areas such as international trade and economic development.",
     "The program also requires students to complete a capstone course or other culminating experience, which helps them integrate their knowledge and skills and prepare for their future careers."
   ],
   "learningOutcomes": [
@@ -36,11 +36,11 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses-release-2023.html",
+    "https://catalog.ucsd.edu/curric/MATH-ug.html",
     "https://catalog.ucsd.edu/courses/MATH.html",
     "https://math.ucsd.edu/undergraduate/major/index.html"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",
-  "creditRequirements": "approx. 180-200 quarter units",
+  "creditRequirements": "approx.180-200 quarter units",
   "additionalInformation": "The Mathematics and Economics - Joint Major (B.S.) program is administered by the Department of Mathematics. Students are advised to consult with department advisors to plan their course of study and ensure they meet all program requirements."
 }

@@ -6,10 +6,10 @@
   "fullProgramDescription": "The Environmental Systems major is an interdisciplinary program that focuses on the natural sciences, social sciences, and humanities to understand the complex interactions within the environment and between human societies and the environment. The Environmental Chemistry subplan emphasizes the chemical aspects of environmental systems, including the impact of human activities on the environment and the application of chemical principles to understand and mitigate environmental problems.",
   "shortProgramDescription": "The Environmental Systems (Environmental Chemistry) B.S. program provides a comprehensive education in the chemical aspects of environmental systems, preparing students for careers in research, industry, government, or further study.",
   "classHighlights": [
-    "The lower-division courses provide a foundation in chemistry, mathematics, and physics, including General Chemistry (CHEM 6A-B-C), Calculus (MATH 10A-B-C or MATH 20A-B-C), and Physics (PHYS 2A-B-C or PHYS 1A-B-C).",
-    "Upper-division courses cover environmental chemistry, including Environmental Chemistry (CHEM 151), Environmental Analysis (CHEM 154), and additional electives in areas such as atmospheric chemistry and environmental engineering.",
-    "The program also includes coursework in Earth systems, ecology, and environmental policy, such as Introduction to Environmental Systems (ES 1), Environmental Data Analysis (ES 112), and Environmental Policy (ES 155).",
-    "Students gain laboratory and field experience through courses like Environmental Chemistry Lab (CHEM 154L) and Environmental Field Studies (ES 193).",
+    "The lower-division courses provide a foundation in chemistry, mathematics, and physics, including General Chemistry (CHEM6A-B-C), Calculus (MATH10A-B-C or MATH20A-B-C), and Physics (PHYS2A-B-C or PHYS1A-B-C).",
+    "Upper-division courses cover environmental chemistry, including Environmental Chemistry (CHEM151), Environmental Analysis (CHEM154), and additional electives in areas such as atmospheric chemistry and environmental engineering.",
+    "The program also includes coursework in Earth systems, ecology, and environmental policy, such as Introduction to Environmental Systems (ES1), Environmental Data Analysis (ES112), and Environmental Policy (ES155).",
+    "Students gain laboratory and field experience through courses like Environmental Chemistry Lab (CHEM154L) and Environmental Field Studies (ES193).",
     "Additional electives allow students to explore specialized topics, such as climate change, sustainability, and environmental toxicology."
   ],
   "learningOutcomes": [
@@ -34,10 +34,10 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/degree-programs/environmental-systems-bs/",
+    "https://catalog.ucsd.edu/curric/ES-ug.html",
     "https://envstudies.ucsd.edu/undergraduate/index.html"
   ],
-  "programDuration": "4 years (quarter system, typically 12 quarters)",
+  "programDuration": "4 years (quarter system, typically12 quarters)",
   "creditRequirements": "180 quarter units",
   "additionalInformation": "The program is administered by the Environmental Systems Program. Students are advised to consult with program advisors to plan their course sequence and ensure they meet all major requirements."
 }

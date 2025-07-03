@@ -6,10 +6,10 @@
   "fullProgramDescription": "The Bioengineering: BioSystems program is designed to provide students with a comprehensive education in the principles of bioengineering, with a focus on the application of engineering principles to understand and manipulate complex biological systems. Students learn about the design, development, and implementation of biomedical devices, systems, and technologies, as well as the underlying biology and physiology. The program prepares students for careers in industry, academia, and research, as well as for graduate study in bioengineering or related fields.",
   "shortProgramDescription": "The Bioengineering: BioSystems B.S. program provides students with a strong foundation in bioengineering principles, with a focus on the application of engineering to complex biological systems.",
   "classHighlights": [
-    "The program requires students to complete a series of core courses, including Introduction to Bioengineering (BENG 100), Biomedical Signals and Systems (BENG 101), and Biomechanics (BENG 102).",
-    "Students also complete a set of required upper-division courses, including Bioengineering Systems Analysis (BENG 112), Biomedical Instrumentation (BENG 122), and Biomaterials (BENG 130).",
+    "The program requires students to complete a series of core courses, including Introduction to Bioengineering (BENG100), Biomedical Signals and Systems (BENG101), and Biomechanics (BENG102).",
+    "Students also complete a set of required upper-division courses, including Bioengineering Systems Analysis (BENG112), Biomedical Instrumentation (BENG122), and Biomaterials (BENG130).",
     "In addition to the required courses, students choose from a range of technical electives, including courses in bioinformatics, biomedical imaging, and tissue engineering.",
-    "The program also includes a laboratory component, with courses such as Bioengineering Laboratory I (BENG 121) and Bioengineering Laboratory II (BENG 122L).",
+    "The program also includes a laboratory component, with courses such as Bioengineering Laboratory I (BENG121) and Bioengineering Laboratory II (BENG122L).",
     "Students learn about the mathematical and computational principles underlying bioengineering, including differential equations, statistics, and programming.",
     "The program also covers the biological and physiological principles underlying bioengineering, including molecular and cellular biology, physiology, and anatomy."
   ],
@@ -36,7 +36,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/engineering/mae/bioengineering/undergraduate-programs/bioengineering-biosystems-bs/",
+    "https://catalog.ucsd.edu/curric/BENG-ug.html",
     "https://be.ucsd.edu/undergraduate-programs/bioengineering-biosystems-bs/"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",

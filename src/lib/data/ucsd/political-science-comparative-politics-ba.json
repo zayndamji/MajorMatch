@@ -6,9 +6,9 @@
   "fullProgramDescription": "The Political Science/Comparative Politics major focuses on the comparative study of political systems, institutions, and processes. Students examine the similarities and differences between various countries and political systems, preparing them for careers in fields such as government, international relations, law, and academia. The major is offered through the Department of Political Science.",
   "shortProgramDescription": "The Political Science/Comparative Politics B.A. provides a comprehensive understanding of political systems and comparative analysis, preparing students for diverse careers or further study.",
   "classHighlights": [
-    "The major requires foundational courses in political science, including Introduction to Comparative Politics (POLI 30), Introduction to Political Science Research Methods (POLI 110), and Comparative Politics: Advanced Seminar (POLI 130D).",
-    "Students take additional comparative politics courses, such as Politics of Developing Countries (POLI 132), Politics of Advanced Industrial Societies (POLI 133), and Comparative Political Economy (POLI 135).",
-    "Electives allow students to explore specialized topics, including democratization, authoritarianism, and political institutions, with courses such as Politics of Authoritarian Regimes (POLI 134) and Comparative Political Institutions (POLI 136)."
+    "The major requires foundational courses in political science, including Introduction to Comparative Politics (POLI30), Introduction to Political Science Research Methods (POLI110), and Comparative Politics: Advanced Seminar (POLI130D).",
+    "Students take additional comparative politics courses, such as Politics of Developing Countries (POLI132), Politics of Advanced Industrial Societies (POLI133), and Comparative Political Economy (POLI135).",
+    "Electives allow students to explore specialized topics, including democratization, authoritarianism, and political institutions, with courses such as Politics of Authoritarian Regimes (POLI134) and Comparative Political Institutions (POLI136)."
   ],
   "learningOutcomes": [
     "Understand the core concepts and theories of comparative politics.",
@@ -32,10 +32,10 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses/PO/",
+    "https://catalog.ucsd.edu/curric/PO-ug.html",
     "https://politicalscience.ucsd.edu/undergraduate/majors/index.html"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",
-  "creditRequirements": "Total of 180 quarter units, with at least 52 upper-division units in the major",
+  "creditRequirements": "Total of180 quarter units, with at least52 upper-division units in the major",
   "additionalInformation": "The major is offered through the Department of Political Science, not Physics. Students must satisfy major prerequisites, complete required courses, and fulfill upper-division unit requirements."
 }

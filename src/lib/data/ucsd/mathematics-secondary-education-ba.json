@@ -6,9 +6,9 @@
   "fullProgramDescription": "The Mathematics - Secondary Education major is designed for students who wish to teach secondary mathematics. The program provides a comprehensive education in mathematics and prepares students for a teaching career. Students learn about mathematical concepts, problem-solving, and communication. The major includes coursework in mathematics, education, and preparation for the California teaching credential.",
   "shortProgramDescription": "The Mathematics - Secondary Education B.A. prepares students to teach secondary mathematics, providing a comprehensive education in mathematics and teaching methods.",
   "classHighlights": [
-    "The major requires a series of mathematics core courses, including calculus (MATH 20A-B-C-D), linear algebra (MATH 20F), and differential equations (MATH 20D or MATH 140A-B).",
-    "Students take additional mathematics courses, such as abstract algebra (MATH 100 or MATH 103A-B), real analysis (MATH 104A-B-C or MATH 105A-B), and geometry (MATH 102 or MATH 107A-B).",
-    "Students also complete education coursework, including introduction to secondary education (MAE 301A-B), teaching methods (MAE 303A-B), and student teaching (MAE 401).",
+    "The major requires a series of mathematics core courses, including calculus (MATH20A-B-C-D), linear algebra (MATH20F), and differential equations (MATH20D or MATH140A-B).",
+    "Students take additional mathematics courses, such as abstract algebra (MATH100 or MATH103A-B), real analysis (MATH104A-B-C or MATH105A-B), and geometry (MATH102 or MATH107A-B).",
+    "Students also complete education coursework, including introduction to secondary education (MAE301A-B), teaching methods (MAE303A-B), and student teaching (MAE401).",
     "The major includes preparation for the California Single Subject Teaching Credential in Mathematics, with courses covering teaching methods, classroom management, and educational psychology."
   ],
   "learningOutcomes": [
@@ -29,7 +29,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/front/courses/Mathematics-Secondary-Education-B.A.",
+    "https://catalog.ucsd.edu/curric/MATH-ug.html",
     "https://math.ucsd.edu/undergraduate/major/index.html",
     "https://catalog.ucsd.edu/front/courses/Mathematics"
   ],

@@ -6,9 +6,9 @@
   "fullProgramDescription": "The Bachelor of Science in Engineering Physics is offered by the Department of Electrical and Computer Engineering. The program is designed to provide a broad foundation in physics and engineering principles, as well as a strong background in mathematics and computational methods. The curriculum includes coursework in mechanics, electromagnetism, thermodynamics, and quantum mechanics, as well as courses in electrical and computer engineering.",
   "shortProgramDescription": "The Engineering Physics B.S. program provides a strong foundation in physics and engineering principles, preparing students for careers in research, development, and industry.",
   "classHighlights": [
-    "The program begins with foundational courses in physics, including Mechanics (PHYS 2A or 2B), Electricity and Magnetism (PHYS 2C or 2D), and Thermodynamics (PHYS 105A).",
-    "Students also complete a series of mathematics courses, including Calculus (MATH 20A, 20B, 20C, and 20D) and Differential Equations (MATH 20E or 21C).",
-    "Electrical and Computer Engineering coursework includes Introduction to ECE (ECE 1), Circuit Analysis (ECE 101), and Electronics (ECE 65).",
+    "The program begins with foundational courses in physics, including Mechanics (PHYS2A or2B), Electricity and Magnetism (PHYS2C or2D), and Thermodynamics (PHYS105A).",
+    "Students also complete a series of mathematics courses, including Calculus (MATH20A,20B,20C, and20D) and Differential Equations (MATH20E or21C).",
+    "Electrical and Computer Engineering coursework includes Introduction to ECE (ECE1), Circuit Analysis (ECE101), and Electronics (ECE65).",
     "Additional required courses cover topics such as computational methods, programming, and engineering design.",
     "Upper-division physics courses provide in-depth coverage of topics like quantum mechanics, statistical mechanics, and electromagnetic theory.",
     "Students also complete a series of technical electives in ECE or other approved departments."
@@ -36,7 +36,7 @@
     }
   ],
   "sources": [
-    "https://catalog.ucsd.edu/PROGRAMS/MAJORS/ENGINEERING-PHYSICS-BS/",
+    "https://catalog.ucsd.edu/curric/ECE-ug.html",
     "https://ece.ucsd.edu/undergraduate-programs/engineering-physics-bs"
   ],
   "programDuration": "8 quarters (4 academic years, quarter system)",
