@@ -235,25 +235,16 @@
     </div>
 
     <!-- Program Header and Details -->
-
     <div class="columns">
       <div class="column is-half">
         {#if leftMajorDetails}
           <h2 class="title is-4 has-text-white mt-5">{leftMajorDetails.programName}</h2>
-          <h3 class="subtitle has-text-grey-light mb-4">{leftUniversity?.name} &middot; {leftMajorDetails.degreeAwarded}</h3>
-        {/if}
-      </div>
-      <div class="column is-half">
-        {#if rightMajorDetails}
-          <h2 class="title is-4 has-text-white mt-5">{rightMajorDetails.programName}</h2>
-          <h3 class="subtitle has-text-grey-light mb-4">{rightUniversity?.name} &middot; {rightMajorDetails.degreeAwarded}</h3>
-        {/if}
-      </div>
-    </div>
+          <h3 class="subtitle has-text-grey-light mb-4">
+            {leftUniversity?.name} &middot; {leftMajorDetails.degreeAwarded}
+          </h3>
 
-    <div class="columns">
-      <div class="column is-half is-flex is-flex-direction-column">
-        {#if leftMajorDetails}
+          <br />
+
           <div class="box major-box mb-5 stretch">
             <div class="content has-text-white">
               <p>{leftMajorDetails.fullProgramDescription}</p>
@@ -261,8 +252,16 @@
           </div>
         {/if}
       </div>
-      <div class="column is-half is-flex is-flex-direction-column">
+
+      <div class="column is-half">
         {#if rightMajorDetails}
+          <h2 class="title is-4 has-text-white mt-5">{rightMajorDetails.programName}</h2>
+          <h3 class="subtitle has-text-grey-light mb-4">
+            {rightUniversity?.name} &middot; {rightMajorDetails.degreeAwarded}
+          </h3>
+
+          <br />
+
           <div class="box major-box mb-5 stretch">
             <div class="content has-text-white">
               <p>{rightMajorDetails.fullProgramDescription}</p>
@@ -272,9 +271,14 @@
       </div>
     </div>
 
+    <!-- Program Details -->
     <div class="columns">
       <div class="column is-half is-flex is-flex-direction-column">
         {#if leftMajorDetails}
+          <p class="is-size-7 has-text-grey-light is-hidden-on-large-width mb-3">
+            {leftMajorDetails.programName} &middot; {leftUniversity?.shortName}
+          </p>
+
           <div class="box major-box mb-5 stretch">
             <h3 class="title is-5 has-text-white">Program Details</h3>
             <ul class="has-text-white">
@@ -286,8 +290,13 @@
           </div>
         {/if}
       </div>
+
       <div class="column is-half is-flex is-flex-direction-column">
         {#if rightMajorDetails}
+          <p class="is-size-7 has-text-grey-light is-hidden-on-large-width mb-3">
+            {rightMajorDetails.programName} &middot; {rightUniversity?.shortName}
+          </p>
+
           <div class="box major-box mb-5 stretch">
             <h3 class="title is-5 has-text-white">Program Details</h3>
             <ul class="has-text-white">
@@ -305,6 +314,10 @@
     <div class="columns">
       <div class="column is-half is-flex is-flex-direction-column">
         {#if leftMajorDetails}
+          <p class="is-size-7 has-text-grey-light is-hidden-on-large-width mb-3">
+            {leftMajorDetails.programName} &middot; {leftUniversity?.shortName}
+          </p>
+
           <div class="box major-box mb-5 stretch">
             <h3 class="title is-5 has-text-white">Major Highlights</h3>
             <ul class="has-text-white">
@@ -315,8 +328,13 @@
           </div>
         {/if}
       </div>
+
       <div class="column is-half is-flex is-flex-direction-column">
         {#if rightMajorDetails}
+          <p class="is-size-7 has-text-grey-light is-hidden-on-large-width mb-3">
+            {rightMajorDetails.programName} &middot; {rightUniversity?.shortName}
+          </p>
+
           <div class="box major-box mb-5 stretch">
             <h3 class="title is-5 has-text-white">Major Highlights</h3>
             <ul class="has-text-white">
@@ -333,6 +351,10 @@
     <div class="columns">
       <div class="column is-half is-flex is-flex-direction-column">
         {#if leftMajorDetails}
+          <p class="is-size-7 has-text-grey-light is-hidden-on-large-width mb-3">
+            {leftMajorDetails.programName} &middot; {leftUniversity?.shortName}
+          </p>
+
           <div class="box major-box mb-5 stretch">
             <h3 class="title is-5 has-text-white">Learning Outcomes</h3>
             <ul class="has-text-white">
@@ -343,8 +365,13 @@
           </div>
         {/if}
       </div>
+
       <div class="column is-half is-flex is-flex-direction-column">
         {#if rightMajorDetails}
+          <p class="is-size-7 has-text-grey-light is-hidden-on-large-width mb-3">
+            {rightMajorDetails.programName} &middot; {rightUniversity?.shortName}
+          </p>
+
           <div class="box major-box mb-5 stretch">
             <h3 class="title is-5 has-text-white">Learning Outcomes</h3>
             <ul class="has-text-white">
@@ -361,6 +388,10 @@
     <div class="columns">
       <div class="column is-half">
         {#if leftMajorDetails?.sources[0]}
+          <p class="is-size-7 has-text-grey-light is-hidden-on-large-width mb-3">
+            {leftMajorDetails.programName} &middot; {leftUniversity?.shortName}
+          </p>
+
           <a
             href={leftMajorDetails.sources[0]}
             target="_blank"
@@ -373,6 +404,10 @@
       </div>
       <div class="column is-half">
         {#if rightMajorDetails?.sources[0]}
+          <p class="is-size-7 has-text-grey-light is-hidden-on-large-width mb-3">
+            {rightMajorDetails.programName} &middot; {rightUniversity?.shortName}
+          </p>
+
           <a
             href={rightMajorDetails.sources[0]}
             target="_blank"
@@ -432,17 +467,20 @@
   }
 
   .columns {
-    display: flex !important;
-    flex-wrap: nowrap !important;
-    flex-direction: row !important; /* force horizontal row on all screen sizes */
-    overflow-x: hidden; /* optional: prevent horizontal scroll */
+    overflow-x: hidden;
   }
 
-  .column.is-half {
-    flex: 0 0 50% !important;
-    max-width: 50% !important;
-    display: flex;
-    flex-direction: column;
-    height: 100%;
+  @media (min-width: 769px) {
+    .column.is-half {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+  }
+
+  @media (min-width: 769px) {
+    .is-hidden-on-large-width {
+      display: none;
+    }
   }
 </style>
