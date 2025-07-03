@@ -13,4 +13,8 @@ function fill(universityId) {
   fs.writeFileSync(`./test/${universityId}-new-data.json`, JSON.stringify(majors, undefined, 2));
 }
 
+fill('mit');
+fill('stanford');
 fill('ucla');
+fill('ucsd');
+fill('ucb');

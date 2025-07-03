@@ -1,403 +1,403 @@
 [
   {
-    "description": "Ready for your breathtaking career designing today and tomorrow's air and space solutions? This program immerses you in the principles and techniques to advance piloted and autonomous aerial vehicles, robotics, space-based telecommunication solutions, and related technology-intensive fields.",
+    "description": "The Bachelor of Science in Aeronautics and Astronautics is designed to provide students with a foundation in the fundamental disciplines of aerospace engineering, as well as the opportunity to pursue advanced coursework and research in areas such as aerodynamics, structures, dynamics and control, and propulsion. The program prepares students for careers in the aerospace industry, government, and research institutions, as well as for graduate study.",
     "id": "AA-BS",
     "name": "Aeronautics and Astronautics (B.S.)",
     "college": "School of Engineering"
   },
   {
-    "description": "Experience the captivating study and understanding of people of African descent as a central component of American culture. Your coursework promotes study and research across disciplinary and departmental boundaries — anthropology, art, art history, economics, education, drama, history, languages, linguistics, literature, music, philosophy, political science, psychology, religion, and sociology, among others — and provides you with an intellectual foundation for graduate school or professional careers.",
+    "description": "The Department of African and African American Studies offers an undergraduate major in Africana/Afro-American Studies (AFRAM) leading to the Bachelor of Arts degree. The program is designed to allow students to develop a broad understanding of the experiences, cultures, and histories of black peoples throughout Africa and its Diaspora. Students acquire a historical and contemporary understanding of the diverse experiences of black peoples and the contributions of black peoples to world civilization. Students engage with a variety of materials including history, literature, culture, and social science.",
     "id": "AFRAM-BA",
     "name": "African and African American Studies (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "With coursework across various topic areas — history and institutions, literature, culture and the arts, and comparative race and ethnicity — you’ll discover how different disciplines approach the study and interpretation of American life. You’ll also define and pursue your own thematic concentration in areas including feminism, gender and sexuality, anthropology, religion, sociology, education, music, film, African American, Chicana/o-Latina/o, or Native American studies.",
+    "description": "The Department of American Studies offers an undergraduate major in American Studies leading to a Bachelor of Arts degree. The program is designed to introduce students to the interdisciplinary study of the United States, drawing on a range of methodologies and fields in the humanities and social sciences. Students explore topics such as culture, history, literature, politics, and identity.",
     "id": "AMSTU-BA",
     "name": "American Studies (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Study human beings and human societies as they exist across time and space in a way distinct from other social sciences. You’ll give central attention to the entire span of human history and the full range of societies and cultures using methods especially attuned to questions of social, cultural, and biological diversity, issues of power, identity, and inequality, and the dynamic processes of social, historical, ecological, and biological change over time. Your coursework and experience deliver excellent preparation for living and working in a multicultural and globally-interconnected world.",
+    "description": "The Department of Anthropology offers a program of study leading to the Bachelor of Arts degree. The major is designed to introduce students to the broad and diverse field of anthropology, provide training in the basic methods and theory of the discipline, and allow students to pursue particular interests in human societies, cultures, and biological variation. Courses for the major are divided into three main categories: Archaeology and biological anthropology; Sociocultural anthropology; and Anthropological theory and methods. Students work with their advisers to design a coherent program of study that meets their individual interests and needs.",
     "id": "ANTHR-BA",
     "name": "Anthropology (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Learn to analyze human heritage and bridge former and present societies by examining the past through its material remains. You’ll get direct access to the experiences of a wide range of people in numerous cultures across the globe through an interdisciplinary approach that draws in equal parts on the humanities, social sciences, and natural sciences.",
+    "description": "The Department of Anthropology offers a program of study leading to the Bachelor of Arts degree in Archaeology. The Archaeology track within the Anthropology major provides students with a broad education in the methods and theories of archaeology, as well as a foundation in anthropological and archaeological concepts, methods, and theories. Students take courses that cover a wide range of topics, from the earliest human history to complex societies, and gain hands-on experience through field and laboratory research.",
     "id": "ARCHA-BA",
     "name": "Archaeology (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Your undergraduate degree coursework in Art History prepares you to understand works of art, architecture, and design from various perspectives, including the original context of their making and reception and their subsequent circulation, collection, conservation, and display.",
+    "description": "The Department of Art and Art History offers undergraduate and graduate degrees in the study of the history of art. The undergraduate major in Art History is designed to provide students with a broad understanding of the history of art from a variety of cultures and historical periods. Students develop critical thinking, research, and writing skills through the study of art historical methods, theories, and practices.",
     "id": "ARTHS-BA",
     "name": "Art History (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Prepare for a career in the visual arts and hone your creative capabilities. This flexible program delivers diverse courses, a production-based curriculum, and cross-disciplinary interaction with faculty and fellow students that exposes you to a broad range of art forms, their cultural and historical uses, impact, production, and circulation. You’ll also become familiar with various studio facilities and gain experience with group critiques and exhibition practices. ",
+    "description": "The Art Practice major is designed to give students a broad foundation in the studio arts. Students explore a range of media and deepen their understanding of contemporary art practices. They are introduced to diverse approaches to making, thinking, and writing about art, as well as to critical issues in contemporary culture. Students are encouraged to take risks and experiment with different media and techniques. The major provides a rich and varied curriculum that prepares students for a range of careers in the arts, from studio practice to art history, criticism, and arts administration.",
     "id": "ARTP-BA",
     "name": "Art Practice (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "In this interdisciplinary program, you’ll have the opportunity to learn about and understand the historical and current experiences of Asian Americans, a rapidly developing, complex, and heterogeneous population for which there is neither a single identity nor community. You’ll develop skills to rigorously analyze race and ethnicity in all aspects of human life — including diversity and social justice — as you better prepare yourself to live and work in a multicultural world.",
+    "description": "The Department of Asian American Studies offers an undergraduate major and minor in Asian American Studies. The program provides students a comprehensive education in Asian American Studies, with coursework on the history, culture, and experiences of Asian Americans. Students develop an understanding of the complex and diverse experiences of Asian Americans, as well as the ability to think critically about the intersections of race, ethnicity, gender, class, and sexuality.",
     "id": "ASAM-BA",
     "name": "Asian American Studies (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Learn to combine engineering and the life sciences to advance scientific discovery, healthcare and medicine, manufacturing, environmental quality, culture, and education. Your degree opens doors for careers in research, medicine, business, law, and policy.",
+    "description": "The Bioengineering undergraduate major provides a broad foundation in the engineering and biological sciences, preparing students for a wide range of career opportunities in medicine, research, industry, and government. The program emphasizes the development of skills in problem-solving, critical thinking, and communication, as well as the ability to work effectively in interdisciplinary teams.",
     "id": "BIOE-BS",
     "name": "Bioengineering (B.S.)",
     "college": "School of Engineering"
   },
   {
-    "description": "Biology is a diverse and exciting field. Both as preparation for specific professional careers and as the focus of a general liberal arts curriculum, a major in Biology is an excellent choice for many Stanford students. The Biology major can serve as a stepping-stone for various career opportunities, such as medical, dental, veterinary school, or a graduate program in the biological and applied sciences. It can also serve as a valuable and satisfying focus of a liberal arts education for those not planning careers in science-related fields.",
+    "description": "The Department of Biology offers a Bachelor of Science degree in Biology, which provides a foundation in the principles of biology and prepares students for a wide range of careers in the life sciences. The program includes coursework in genetics, biochemistry, molecular biology, ecology, evolution, and more.",
     "id": "BIO-BS",
     "name": "Biology (B.S.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Develop your understanding of the core scientific, mathematical, and engineering principles that prepare you to conceive and design processes for producing, transforming, and transporting chemical materials. Your coursework will cover applied mathematics, material and energy balances, thermodynamics, fluid mechanics, energy and mass transfer, separations technologies, and chemical reaction kinetics and reactor design.",
+    "description": "The undergraduate program in Chemical Engineering provides a foundation in the principles of chemical engineering, including transport processes, thermodynamics, and reaction kinetics. Students learn to apply mathematical and scientific principles to analyze and design chemical processes and systems. The program includes coursework in mathematics, physics, chemistry, and biology, as well as core chemical engineering courses and electives.",
     "id": "CHEME-BS",
     "name": "Chemical Engineering (B.S.)",
     "college": "School of Engineering"
   },
   {
-    "description": "Chemistry is about the nature of matter, how to make it, measure it, and model it. In that sense, chemistry really matters, holding, for example, the key to driving new drugs, creating new materials, and understanding and controlling all sorts of material properties. Your undergraduate program builds foundational knowledge in the subdisciplines of chemistry that is beneficial in various careers.",
+    "description": "The Chemistry B.S. program is designed to provide a deep understanding of the principles of chemistry, including the ability to apply chemical principles to solve problems. The program includes coursework in inorganic, organic, physical, and analytical chemistry, as well as laboratory research experience. Students are prepared for careers in research, industry, and education, as well as for graduate study in chemistry or related fields.",
     "id": "CHEM-BS",
     "name": "Chemistry (B.S.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "This interdisciplinary program affords you a unique opportunity to explore the culture, society, economy, and politics of America’s vital and growing Chicanxs and Latinxs segment. Coursework focuses on the U.S. population with origins in Mexico, Latin America, and/or South America.",
+    "description": "The Department of Chicana/o - Latina/o Studies offers an undergraduate major that provides students with a deep understanding of the histories, cultures, and experiences of Chicanas/os and Latinas/os in the United States. The program is interdisciplinary, drawing on fields such as history, sociology, literature, and cultural studies. Students explore the complex social, economic, and political contexts that have shaped the lives of Chicanas/os and Latinas/os, and they develop critical thinking, research, and analytical skills.",
     "id": "CHILT-BA",
     "name": "Chicana/o - Latina/o Studies (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Learn the principles and methodologies you’ll need to start your professional or academic career in civil engineering. Your coursework results in a solid foundation in the fundamentals common to many related specialties and includes experiments that teach you to solve engineering problems creatively.",
+    "description": "The Department of Civil and Environmental Engineering offers a Bachelor of Science degree in Civil Engineering. The program's mission is to educate students to be leaders in the design, construction, operation, and maintenance of infrastructure systems. The curriculum provides a broad foundation in the fundamental principles of civil engineering, including structural analysis and design, transportation systems, water resources engineering, geotechnical engineering, and environmental engineering. Students can choose from a range of technical electives to develop depth in a particular area. The program aims to produce graduates with a strong foundation in engineering principles, problem-solving skills, and the ability to communicate complex ideas effectively.",
     "id": "CE-BS",
     "name": "Civil Engineering (B.S.)",
     "college": "School of Engineering"
   },
   {
-    "description": "Cultivate a broad, interdisciplinary background in ancient Greece and Rome's literature and material culture. Explore connections between ancient cultures and the modern world.",
+    "description": "The Department of Classics at Stanford offers a comprehensive program in Classics, leading to a Bachelor of Arts degree. The program is designed to provide students with a strong foundation in the languages, literature, and cultures of ancient Greece and Rome, as well as to introduce them to the methods and approaches of classical scholarship. Students have the opportunity to explore a wide range of topics, from the textual analysis of ancient authors to the study of ancient history, archaeology, and art history.",
     "id": "CLASS-BA",
     "name": "Classics (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Expose yourself to a broad-based understanding of communication theory and research as you become familiar with the fundamental concerns, theoretical approaches, and methods of the field, and acquire advanced knowledge in one or more sub-areas of the discipline. ",
+    "description": "The Department of Communication at Stanford University offers an undergraduate major in Communication that provides students with a broad understanding of the field and its connections to other disciplines. The major is designed for students who wish to explore the ways in which communication shapes and is shaped by social, cultural, and political contexts. Students in the major choose from a range of courses that cover topics such as media studies, interpersonal communication, persuasion, and public discourse. The major prepares students for a variety of careers in fields such as media, public relations, advertising, and education, as well as for graduate study in Communication and related fields.",
     "id": "COMMU-BA",
     "name": "Communication (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Expand your understanding of literature beyond that of a single national tradition while learning how it functions in our imaginations, our languages, and our social, political, and economic lives.",
+    "description": "The Department of Comparative Literature offers an undergraduate major that introduces students to the study of literature across linguistic and cultural boundaries. The curriculum includes a range of courses that explore literary traditions in a global context, examining the historical, cultural, and theoretical contexts of literary production. Students develop critical thinking, close reading, and analytical writing skills through the study of diverse literary texts and traditions.",
     "id": "CPLIT-BA",
     "name": "Comparative Literature (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Through this interdisciplinary program, devote yourself to the rigorous analysis and deep understanding of the multiple meanings of racial and ethnic diversity worldwide. Learn to become a leader and contributor to producing knowledge for race and justice.",
+    "description": "The Comparative Studies in Race and Ethnicity major is an interdisciplinary program that examines the complex ways in which race and ethnicity shape individual and group experiences within historical and contemporary contexts. The program draws on a range of disciplines, including sociology, history, literature, and cultural studies, to provide students with a nuanced understanding of the ways in which race and ethnicity are constructed and deployed. Students develop critical thinking, research, and analytical skills through coursework and a senior research seminar.",
     "id": "CSRE-BA",
     "name": "Comparative Studies in Race and Ethnicity (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Develop your breadth of knowledge across computer science, including your ability to apply the defining processes of computer science theory, abstraction, design, and implementation to solve problems in the discipline.",
+    "description": "The undergraduate program in Computer Science aims to develop students' breadth of knowledge across the subject areas of computer science, including their ability to apply the defining processes of computer science theory, abstraction, design, and implementation to solve problems in the discipline. Students take core courses in programming techniques, mathematical foundations, systems programming, computer architecture, analysis of algorithms, artificial intelligence, and applications. The program prepares students for careers in government, law, corporate sector, and for graduate study.",
     "id": "CS-BS",
     "name": "Computer Science (B.S.)",
     "college": "School of Engineering"
   },
   {
-    "description": "Build the analytical and quantitative foundation for tackling data-driven problems in science, industry, and society. ",
+    "description": "The Data Science major is designed to provide students with a comprehensive understanding of the methods and systems for acquiring, processing, and analyzing data. The program emphasizes the development of skills in data analysis, machine learning, and data visualization, as well as an understanding of the social and ethical implications of data science. Students in the program take courses in data science, computer science, statistics, and mathematics, and have the opportunity to pursue a range of electives and specializations.",
     "id": "DATSC-BA",
     "name": "Data Science (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "",
+    "description": "The Bachelor of Science in Data Science program at Stanford University is designed to provide students with a comprehensive understanding of the data science process, from data acquisition and cleaning to machine learning and statistical modeling. The program focuses on developing skills in programming, data analysis, and visualization, as well as understanding the ethical and societal implications of data science. Students learn through a combination of coursework, hands-on projects, and electives that allow them to tailor their education to their interests.",
     "id": "DATSC-BS",
     "name": "Data Science (B.S.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Draw on the behavioral and social sciences to develop a strong foundation in human-centered design and the mathematics, science, and engineering concepts needed to support it. This degree prepares you for postgraduate study in design or careers as a designer in public and private sector institutions, entrepreneurial endeavors, and perhaps, most importantly, careers that do not yet exist. ",
+    "description": "The undergraduate major in Design is offered by the Department of Mechanical Engineering. The program provides a broad foundation in the principles, theory, and practice of design, as well as a strong background in engineering fundamentals, mathematics, and science. Students develop skills in design thinking, creative problem-solving, and communication, preparing them for careers in product design, service design, and design research, as well as for graduate study.",
     "id": "DESIGN-BS",
     "name": "Design (B.S.)",
     "college": "School of Engineering"
   },
   {
-    "description": "Develop a broad background in the fundamentals of the Earth and planetary sciences, and the quantitative, analytical, and communications skills necessary to conduct research and think critically about questions involving the Earth and other planets.",
+    "description": "The Earth and Planetary Sciences major provides a comprehensive understanding of the Earth and planetary systems, encompassing the study of the Earth's physical structure, processes, and history, as well as the interactions between the Earth's lithosphere, hydrosphere, atmosphere, and biosphere. Students explore a range of topics, from the Earth's internal dynamics and surface processes to the Earth's climate system and the impact of human activities on the environment.",
     "id": "EPS-BS",
     "name": "Earth and Planetary Sciences (B.S.)",
     "college": "School of Earth, Energy & Environmental Sciences"
   },
   {
-    "description": "Immerse yourself in the complex environmental problems caused by human activities in conjunction with natural changes in the Earth system, and tackle the world’s most pressing social-environmental issues, as you become part of a generation of scientists, professionals, and citizens who solve problems using systematic, interdisciplinary approaches.",
+    "description": "The Earth Systems Program is an interdisciplinary major that examines the Earth as a complex, interconnected system. Students explore the Earth's physical, biological, and social processes and how they interact and influence one another. The program provides a broad foundation in Earth sciences, including coursework in geological sciences, ecology, biology, and environmental studies. Students also develop skills in data analysis, modeling, and problem-solving.",
     "id": "EASYS-BS",
     "name": "Earth Systems (B.S.)",
     "college": "School of Earth, Energy & Environmental Sciences"
   },
   {
-    "description": "Engage with the cultures of China, Japan, Korea, and the greater East Asia region through language, linguistics, literature, film, cultural studies, visual arts, and more.",
+    "description": "The Department of East Asian Languages and Cultures offers an undergraduate major in East Asian Studies leading to the Bachelor of Arts degree. The major is designed for students who wish to develop an understanding of East Asia from an interdisciplinary perspective. Students are expected to acquire a broad knowledge of East Asia, including its history, cultures, and languages, as well as to develop a deeper understanding of a particular discipline or area of concentration.",
     "id": "EASST-BA",
     "name": "East Asian Studies (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Develop a foundational understanding of the economic aspects of modern society, introduce yourself to macro- and microeconomic theory, familiarize yourself with techniques for analyzing and communicating contemporary economic problems, and develop your ability to exercise judgment in evaluating public economic policy.",
+    "description": "The Department of Economics offers an undergraduate major in Economics leading to a Bachelor of Arts degree. The major provides students with a broad understanding of economic theory, econometrics, and applied economics, and prepares students for careers in a variety of fields, including government, finance, and research.",
     "id": "ECON-BA",
     "name": "Economics (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Develop a foundational understanding of the economic aspects of modern society, introduce yourself to macro- and microeconomic theory, familiarize yourself with techniques for analyzing and communicating contemporary economic problems, and develop your ability to exercise judgment in evaluating public economic policy.",
+    "description": "The undergraduate major in Economics is designed to provide students with a fundamental understanding of economic theory, its application, and its empirical underpinnings. The program includes coursework in microeconomics, macroeconomics, econometrics, and various elective fields. Students develop skills in critical thinking, data analysis, and written and oral communication.",
     "id": "ECON-BS",
     "name": "Economics (B.S.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Gain a basic understanding of electrical engineering built on a foundation of physical science, mathematics, computing, and technology as you prepare for a related career or future study in a graduate or professional school.",
+    "description": "The Electrical Engineering program is designed to provide students with a broad foundation in the principles and practices of electrical engineering, including the analysis and design of electrical systems, electronics, and electromagnetism. The curriculum includes core courses in circuits, electronics, digital systems, and electromagnetic fields, as well as electives in areas such as computer engineering, control systems, and power electronics. Students are also required to complete a senior project and meet the university's general education requirements.",
     "id": "EE-BS",
     "name": "Electrical Engineering (B.S.)",
     "college": "School of Engineering"
   },
   {
-    "description": "Prepare for a career in the energy industry through coursework that provides sufficient depth in the energy, engineering, and environmental fields.",
+    "description": "The undergraduate major in Energy Science and Engineering (ENERGY) is an interdisciplinary program that focuses on the scientific and engineering principles underlying energy production, conversion, transmission, and use. Students explore energy-related topics across multiple disciplines and acquire a foundation to develop effective solutions to contemporary energy challenges.",
     "id": "ENERGY-BS",
     "name": "Energy Science and Engineering (B.S.)",
     "college": "School of Earth, Energy & Environmental Sciences"
   },
   {
-    "description": "Students pursuing a Bachelor of Science degree in Engineering can specialize in one of six major areas: Biomedical Computation; Architectural Design; Engineering Physics; Atmosphere & Energy; Sustainable Architecture &Engineering; Biomechanical Engineering",
+    "description": "The Bachelor of Science in Engineering degree is offered by the School of Engineering. Students select one of the following engineering disciplines: bioengineering, chemical engineering, civil engineering, electrical engineering, or mechanical engineering. The program requires a minimum of 180 units, with at least 96 units in engineering and related subjects. Students must also complete a set of required courses, including mathematics, physics, and chemistry.",
     "id": "ENGR-BS",
     "name": "Engineering (B.S.)",
     "college": "School of Engineering"
   },
   {
-    "description": "Explore the rich legacy of British and American literature through a curriculum that traces its development from the Middle Ages to the present, teaches the critical tools for analyzing literature through three broad genres — poetry, narrative, and methodology — and creates a contextual framework that opens to you the department’s wide range of electives.",
+    "description": "The Department of English offers a program of study leading to a Bachelor of Arts degree in English. The undergraduate major is designed to give students a broad understanding of English literature, including the historical development of the language, literary genres, and major authors. Students develop skills in close reading, critical thinking, and written and oral communication.",
     "id": "ENGL-BA",
     "name": "English (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Prepare to face 21st-century environmental challenges as you prepare to incorporate environmentally sustainable design, strategies, and practices into natural and built systems. You can focus on coastal regions, freshwater systems, or urban energy and infrastructure.",
+    "description": "The Environmental Systems Engineering (ENVSE) undergraduate major provides a foundation in the engineering sciences and earth systems to understand and manage complex environmental systems. The program focuses on developing skills in problem-solving, data analysis, and technology applications, preparing students for careers in engineering, research, policy, and management related to environmental challenges.",
     "id": "ENVSE-BS",
     "name": "Environmental Systems Engineering (B.S.)",
     "college": "School of Engineering"
   },
   {
-    "description": "The interdepartmental program provides the knowledge and skills to investigate the significance of gender and sexuality in all areas of human life. You’ll examine how societies structure gender roles, relations, and identities and how these intersect with other power hierarchies, such as class, race, nationality, ethnicity, sexuality, ability, and age.",
+    "description": "The Feminist, Gender, and Sexuality Studies (FGSS) major at Stanford University is an interdisciplinary program that examines the intersections of gender, sexuality, race, class, and nation. The major provides a rigorous foundation in feminist and queer theories, and prepares students to analyze and critique the complex relationships between power, identity, and culture. Students explore the ways in which gender and sexuality shape and are shaped by social, cultural, and political contexts, and develop a nuanced understanding of the intersections and divergences between different forms of inequality.",
     "id": "FGSS-BA",
     "name": "Feminist, Gender, and Sexuality Studies (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "",
+    "description": "The Film and Media Studies program provides students with a broad understanding of the historical, theoretical, and cultural significance of film and media. Students explore the development of cinema and media in relation to social, cultural, and technological contexts, analyzing the ways in which media shape our understanding of the world. Through a range of courses, students develop critical thinking, writing, and analytical skills, preparing them for a variety of careers or further study.",
     "id": "FILM-BA",
     "name": "Film and Media Studies (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Embark on a transcontinental journey, traveling through both time and space from the medieval world through the early modern period to immerse yourself in French culture through language, ancient texts, literary masterpieces, art, history, food and more.",
+    "description": "The French major is designed to develop the student's language proficiency and cultural awareness. Students take courses that cover French literature, culture, history, and language. The major is designed to be flexible, allowing students to pursue their interests and career goals.",
     "id": "FRENC-BA",
     "name": "French (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Expose yourself to a broad spectrum of geophysics, including resource exploration, environmental geophysics, seismology, and tectonics, while obtaining a solid foundation in the essentials of mathematics, physics, and geology that can lead to graduate study or professional careers in government or the private sector.",
+    "description": "The Geophysics major is designed to provide a comprehensive understanding of the Earth's internal and external processes. Students learn about the Earth's structure, composition, and evolution, as well as the physical processes that shape our planet. The program combines coursework in geophysics, geology, physics, mathematics, and computer science to prepare students for careers in research, industry, and academia.",
     "id": "GEOPH-BS",
     "name": "Geophysics (B.S.)",
     "college": "School of Earth, Energy & Environmental Sciences"
   },
   {
-    "description": "Launch your exploration into the linguistic and analytic significance of the cultural traditions and political histories of the German-speaking countries of Central Europe. Your interdisciplinary study will include art, economics, history, literature, media theory, philosophy, political science, and other fields.",
+    "description": "The Department of German Studies at Stanford University offers a program leading to the Bachelor of Arts in German Studies. Students may pursue a major in German Studies by completing a program of study that includes coursework in German language, literature, and culture, as well as courses that focus on the historical and cultural contexts of the German-speaking world. The major is designed to provide students with a deep understanding of the German language and culture, as well as the skills to analyze and interpret complex texts and cultural artifacts.",
     "id": "GERST-BA",
     "name": "German Studies (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Because we live in a world shaped by the past, we better understand the present by studying prior events and people. Learn to see yesterday’s world through analytical, interpretive, and expressive skills that take you well beyond a collection of names, dates, and events to a deeper understanding of social change over time. Learn to penetrate different modes of thought and human behavior that allow you to make better sense of the contemporary world while cultivating a crucial set of skills that help you guide its future.",
+    "description": "The Department of History offers an undergraduate major in History leading to a Bachelor of Arts degree. The History major is designed to give students a broad understanding of the world's past and to develop critical skills in reading, writing, and research. Students work closely with advisors to select a program of study that fits their interests and goals, choosing from a wide range of courses that cover different periods, regions, and themes.",
     "id": "HSTRY-BA",
     "name": "History (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Many problems facing humans today involve both biological and social aspects. Scientific approaches to these problems are essential but must be broadly conceived and placed within their proper social and cultural setting. The BA degree is designed for you if you prefer a traditional liberal arts degree with coursework predominantly in the social sciences and humanities.",
+    "description": "The Human Biology major is an undergraduate program that provides a broad and integrative view of human health, incorporating perspectives from biology, psychology, anthropology, and sociology. The major is designed for students who wish to understand the complex factors influencing human health and well-being. It covers a range of topics, from molecular and cellular biology to social and cultural contexts of health.",
     "id": "HUMBI-BA",
     "name": "Human Biology (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Many problems facing humans today involve both biological and social aspects. Scientific approaches to these problems are essential but benefit when broadly conceived and placed within their proper social and cultural setting. The BS degree is designed for you if you prefer a scientific and technical focus with coursework predominantly in the natural sciences, mathematics, computer science, or engineering.",
+    "description": "The Human Biology Major is an interdisciplinary program that focuses on the study of human health, the factors that influence health, and the ways that health can be improved. It allows students to explore the biology of human health and disease, the impact of social and environmental factors on health, and the development of interventions to promote health.",
     "id": "HUMBI-BS",
     "name": "Human Biology (B.S.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Studying Iberian and Latin American cultures means engaging in a deep and compelling exploration of the languages, literature, and cultures of the Iberian Peninsula, Latin America (including Brazil), and Latinx communities in the United States. You’ll focus on critical thinking, open discussion, and close textual analysis through your coursework.",
+    "description": "The Department of Iberian and Latin American Cultures (ILAC) offers an undergraduate major that explores the cultures of the Iberian Peninsula and Latin America from the Middle Ages to the present, focusing on the historical, social, and cultural contexts that have shaped these regions. Students engage with a diverse range of materials, including literature, film, and visual arts, and have the opportunity to develop proficiency in Spanish, Portuguese, or other relevant languages. The major is designed to foster critical thinking, cultural competence, and a nuanced understanding of the complex historical and contemporary dynamics at play in these regions.",
     "id": "ILAC-BA",
     "name": "Iberian and Latin American Cultures (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "",
+    "description": "The Individually Designed Major in Engineering is a flexible program that enables undergraduates to propose, design, and complete an interdisciplinary engineering curriculum tailored to their individual interests and career goals. Students work with a faculty adviser to define a coherent program that combines courses from multiple engineering disciplines and related fields, such as the natural sciences, mathematics, and computer science. The program is ideal for students whose interests span traditional departmental boundaries or who wish to integrate engineering with other disciplines.",
     "id": "IDMEN-BS",
     "name": "Individually Designed Major in Engineering (B.S.)",
     "programType": "(IDM) Indiv Designed Major",
     "college": "School of Engineering"
   },
   {
-    "description": "Explore how global, regional, and domestic factors influence relations between actors on the world stage through a focus on political, economic, and cultural relations among peoples and states in the modern world. ",
+    "description": "The undergraduate major in International Relations is an interdisciplinary program that provides students with a comprehensive understanding of global issues, international politics, and the complex interactions between states, international organizations, and non-state actors. The program draws on coursework from several departments, including Political Science, Economics, History, and Languages, to equip students with the analytical tools and knowledge necessary to navigate the complexities of global affairs.",
     "id": "INTLR-BA",
     "name": "International Relations (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Expose yourself to a variety of perspectives on Italian culture through training in writing and communication as well as cultural, textual, and historical analysis.  Become a critical and global thinker prepared for a career in business, social service, government, or academia.",
+    "description": "The Department of Italian offers a program leading to the Bachelor of Arts in Italian. The program is designed to develop students' linguistic and cultural proficiency through the study of Italian language, literature, and culture. Students acquire a deep understanding of Italian literary and cultural traditions, as well as the skills to analyze and interpret literary and cultural texts.",
     "id": "ITAL-BA",
     "name": "Italian (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "This program provides you with an understanding of Jewish history, language, literature, religion, thought, and politics to help you understand Jewish identity, thought, and self-expression within larger historical and social contexts and to develop your ability to analyze human experience from different disciplinary perspectives.",
+    "description": "The Jewish Studies program is an interdisciplinary field that explores the diverse cultural, historical, religious, and literary traditions associated with Jewish identity and communities. Students engage with a range of topics, from biblical and rabbinic texts to modern Jewish history, literature, and culture. Through coursework and research, students develop a nuanced understanding of Jewish experiences, analyzing the complexities and richness of Jewish heritage within various global contexts.",
     "id": "JEWSH-BA",
     "name": "Jewish Studies (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Study the nature of human language as a fundamental human faculty and a changing social institution. Draw on courses offered by other departments and programs that round out the topic.",
+    "description": "The Department of Linguistics at Stanford University offers an undergraduate major in Linguistics leading to the Bachelor of Arts degree. The major is designed to provide students with a broad understanding of the fundamental principles and methods of linguistic analysis, as well as the opportunity to explore the diversity of linguistic structures and the ways in which they are acquired, processed, and used in human communication. Students learn about the sound systems, grammatical structures, and meaning of languages, as well as the social and cognitive contexts in which language is used.",
     "id": "LING-BA",
     "name": "Linguistics (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Building on your foundation in calculus and linear algebra, you’ll learn the fundamentals of engineering systems analysis so that you are able to plan, design, and implement complex economic and technical management systems. ",
+    "description": "The undergraduate major in Management Science and Engineering (MS&E) provides students with an understanding of how individuals, organizations, and societies make decisions, and the means to analyze and improve the decision-making process. The program is designed to give students a broad understanding of the field, as well as the ability to apply analytical and computational techniques to real-world problems.",
     "id": "MGTSC-BS",
     "name": "Management Science and Engineering (B.S.)",
     "college": "School of Engineering"
   },
   {
-    "description": "Develop a strong foundation in materials science and engineering with emphasis on the fundamental scientific and engineering principles that underlie the knowledge and implementation of material structure, processing, properties, and performance of all materials used in engineering systems. ",
+    "description": "The undergraduate major in Materials Science and Engineering (MSE) at Stanford provides a broad foundation in the properties and applications of materials, with a strong emphasis on the underlying science and engineering principles. The program is designed to be flexible, allowing students to balance depth in their chosen field with exploration of related areas. Students engage with core coursework in materials properties, processing, and characterization, as well as advanced electives and laboratory experiences, culminating in a comprehensive understanding of materials science and its applications.",
     "id": "MATSC-BS",
     "name": "Materials Science and Engineering (B.S.)",
     "college": "School of Engineering"
   },
   {
-    "description": "Mathematics is fun, challenging, and rewarding. You’ll learn to create, analyze, and interpret mathematical models and to communicate sound arguments based on mathematical reasoning and careful data analysis.",
+    "description": "The Mathematics major is designed to provide a broad foundation in the major areas of mathematics and to develop students' ability to critically analyze and solve problems using mathematical reasoning. The program includes a range of courses in pure and applied mathematics, as well as the opportunity to explore advanced topics through electives.",
     "id": "MATH-BS",
     "name": "Mathematics (B.S.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Survey the discipline broadly — covering elements including energy science and technology, propulsion, nano- and micro-mechanics, design mechatronics, solid and fluid dynamics, biomechanical engineering, and more — for a  fundamental and diverse foundation to excel in your academic pursuits and career.",
+    "description": "The Bachelor of Science in Mechanical Engineering program at Stanford University aims to develop a broad foundation in mechanical engineering principles, as well as the skills to apply these principles to real-world problems. The program covers topics such as mechanics, thermodynamics, materials science, and mechanical design, providing a strong grounding for a variety of careers or further study.",
     "id": "ME-BS",
     "name": "Mechanical Engineering (B.S.)",
     "college": "School of Engineering"
   },
   {
-    "description": "Develop an array of tools as part of your aesthetic and musical formation through a course of study that combines breadth of musical experiences across multiple dimensions with depth in a chosen area.",
+    "description": "The Department of Music offers an undergraduate major leading to a Bachelor of Arts degree in Music. The program provides a comprehensive education in music theory, history, and performance, and is designed to be flexible enough to accommodate students with diverse musical backgrounds and interests. Students are encouraged to explore the full range of musical styles and genres, from classical to jazz and beyond.",
     "id": "MUSIC-BA",
     "name": "Music (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "This intensive approach to the history and culture of Native American people goes beyond the relationship between tribes and the federal government to issues across national boundaries.",
+    "description": "The Department of Native American Studies offers an undergraduate major in Native American Studies leading to the Bachelor of Arts degree. The program is designed to provide students the opportunity to explore the histories, cultures, and contemporary experiences of Native peoples throughout the Western Hemisphere, with a particular emphasis on Native North America. Students explore the history of Native American cultural and political interactions with non-Native peoples from the time of first contact to the present. The major is interdisciplinary, drawing on the fields of history, anthropology, literature, religious studies, law, politics, sociology, and cultural studies. Students are trained in the methodologies and epistemologies of multiple disciplines to examine the experiences of Native peoples. The major is designed for students who wish to understand the complex and diverse histories and cultures of Native communities, as well as for those who plan to pursue careers in areas such as education, law, healthcare, and public policy.",
     "id": "NATAM-BA",
     "name": "Native American Studies (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Train to think clearly and critically about the deepest and broadest questions concerning being, knowledge, and value, as well as your connection to the full range of human activities and interests.",
+    "description": "The Department of Philosophy offers a program leading to the Bachelor of Arts degree. Students undertaking the Philosophy major develop skills in understanding and interpreting philosophical texts, constructing and evaluating philosophical arguments, and writing clear and effective prose. Majors are encouraged to explore a wide variety of philosophical subfields and traditions.",
     "id": "PHILO-BA",
     "name": "Philosophy (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Find balance and depth in both philosophy and religious studies, learning to think clearly and critically about the deepest and broadest questions concerning being, knowledge, and value while engaging existentially in intellectual, ethical, and sociopolitical issues in the world’s religions. ",
+    "description": "The Philosophy and Religious Studies major is designed for students who want to explore fundamental questions about existence, values, and meaning, and understand the diverse ways that cultures and individuals have addressed these questions. Students have the opportunity to study a wide range of philosophical and religious traditions, texts, and topics, and to develop their skills in critical thinking, argumentation, and expression.",
     "id": "PHREL-BA",
     "name": "Philosophy and Religious Studies (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Build a strong foundation in classical and modern physics through a rigorous, mathematical understanding of the fundamental laws governing our universe and everything in it. ",
+    "description": "The Bachelor of Science in Physics is designed to provide students with a comprehensive understanding of the fundamental principles and laws that govern the behavior of the physical universe. The program includes coursework in classical mechanics, electromagnetism, quantum mechanics, statistical mechanics, and thermodynamics, as well as laboratory and computational physics. Students are encouraged to engage in research and explore topics of interest through electives and advanced coursework.",
     "id": "PHYS-BS",
     "name": "Physics (B.S.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Build a foundational understanding of the American political system and other political systems within the context of global forces, international conflicts, social movements, ideological systems, and diversity. ",
+    "description": "The Department of Political Science offers an undergraduate major in Political Science designed to introduce students to the broad subfields that comprise the discipline: American Politics, Comparative Politics, International Relations, and Political Theory. The major is structured to allow students to explore these subfields while developing a deep understanding of the methods and theories that underpin the study of politics. Students are encouraged to pursue their interests through coursework and research opportunities.",
     "id": "POLSC-BA",
     "name": "Political Science (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Begin your journey into the theories and empirical studies of human behavior, including the study of aging, child development, decision-making, morality, motivation, psychopathology, social perception, and so much more. ",
+    "description": "The Department of Psychology offers a Bachelor of Arts degree in Psychology. The undergraduate major in Psychology provides students with a broad background in the field, including exposure to the subfields of developmental, social, personality, cognitive, and clinical psychology. Coursework includes study of the biological bases of behavior, research methods, and statistical analysis. The major is designed to provide a general foundation in Psychology while also allowing students to explore areas of interest in depth.",
     "id": "PSYCH-BA",
     "name": "Psychology (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Learn the concepts and tools used in evaluating policy options and outcomes, and prepare for entry-level positions in organizations concerned with such analysis. You’ll focus on issues such as health, education, environment, regulation, and science and technology policy, applicable anywhere in the world.",
+    "description": "The Public Policy Program is an interdisciplinary major that introduces students to the methods and substance of public policy. It draws on insights and approaches from economics, political science, history, sociology, law, and philosophy to study policy issues and processes, providing students with a comprehensive understanding of the policy-making process and the impact of policy on society.",
     "id": "PUBPO-BA",
     "name": "Public Policy (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Understand the complex encounters among religious ideas, practices, and communities, and the past and present cultures that have shaped and been shaped by religion as you engage existentially in the intellectual, ethical, and sociopolitical issues in the world’s religions.",
+    "description": "The Religious Studies major is an interdisciplinary exploration of religion and its role in human history. Majors examine the cultural, social, philosophical, and artistic dimensions of religious traditions, with a focus on primary texts, historical contexts, and comparative methods. The program is designed to foster critical thinking, cultural understanding, and nuanced analysis of complex religious phenomena. Students may choose from a variety of courses that span multiple religious traditions and historical periods.",
     "id": "RELST-BA",
     "name": "Religious Studies (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Through a common core of courses drawn from the social sciences, the humanities, the natural and physical sciences, and engineering, you’ll build an interdisciplinary framework to understand the complex interactions of science, technology, and the social world.",
+    "description": "The Science, Technology, and Society (STS) major is an interdisciplinary program that studies the social, political, and cultural dimensions of science and technology. STS students examine the historical, philosophical, and sociological contexts of scientific and technological developments and their impacts on society. The major prepares students for a wide range of careers and graduate study in fields such as science, technology, engineering, and mathematics (STEM), social sciences, humanities, and law.",
     "id": "STS-BA",
     "name": "Science, Technology, and Society (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Through a common core of courses drawn from the social sciences, the humanities, the natural and physical sciences, and engineering, you’ll build an interdisciplinary framework through which to understand the complex interactions of science, technology, and the social world. ",
+    "description": "The Science, Technology, and Society (STS) major provides students with a foundation for understanding the complex interactions between science, technology, and society. STS approaches these interactions from a variety of disciplinary perspectives, integrating insights from the humanities, social sciences, and natural sciences. The STS major is designed for students who seek to understand the roles and responsibilities of scientists, engineers, and other technical professionals in society, and to explore the social and cultural contexts in which science and technology are developed and used.",
     "id": "STS-BS",
     "name": "Science, Technology, and Society (B.S.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Through your choice of three tracks, you’ll expose yourself to a variety of perspectives on Slavic — especially Russian — language, history, culture, literature, and philosophical thought. ",
+    "description": "The Department of Slavic Languages and Literatures offers a major in Slavic Languages and Literatures leading to a Bachelor of Arts degree. The major is designed to provide students with a broad understanding of the cultures of the Slavic world, including literature, history, and culture. Students develop proficiency in a Slavic language and explore the rich literary and cultural heritage of the region.",
     "id": "SLAV-BA",
     "name": "Slavic Languages and Literatures (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Develop a broad understanding of core sociological theories and the methodological skills necessary to understand and address social problems and inequalities in global, institutional, and interpersonal social relations. ",
+    "description": "The Sociology major provides a framework for analyzing social structures, institutions, and relationships. Students examine how social forces shape individual and group outcomes, and how individuals and groups, in turn, influence social structures. The major prepares students for careers in fields such as research, policy, education, law, business, and non-profit organizations, as well as for graduate study in sociology and related fields.",
     "id": "SOCIO-BA",
     "name": "Sociology (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Achieve fluency in reading, listening, speaking, and writing Spanish while developing a contextualized understanding of the language through linguistic and cultural study.",
+    "description": "The Department of Spanish and Portuguese offers a program leading to the Bachelor of Arts in Spanish. The major is designed to develop students' proficiency in the Spanish language and to introduce them to the literatures and cultures of Spain and Spanish America through the study of cultural and literary texts and of other cultural artifacts.",
     "id": "SPAN-BA",
     "name": "Spanish (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Discover the relationships between natural and artificial systems that use symbols to communicate and represent information. You’ll develop the vocabulary, theoretical background, and technical skills necessary to research questions about language, information, and intelligence, both human and machine. ",
+    "description": "The Symbolic Systems major is an interdisciplinary program that integrates aspects of philosophy, psychology, linguistics, computer science, and cognitive science to study the nature of intelligence, representation, and meaning. The program provides a broad foundation in the core disciplines, combined with advanced coursework in areas like artificial intelligence, cognitive science, and computational linguistics.",
     "id": "SYMBO-BS",
     "name": "Symbolic Systems (B.S.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Join our robust, non-conservatory program that combines the study and practice of performance within the context of a liberal arts curriculum. You’ll build a strong understanding of historical, cultural, and practical contexts in which live performance develops.",
+    "description": "The Department of Theater and Performance Studies offers an undergraduate major in Theater and Performance Studies leading to a Bachelor of Arts degree. The program combines a liberal arts education with an intensive, practical, performance-based curriculum. Students participate in a range of performance activities, including acting, directing, playwriting, and design. The curriculum also includes coursework in theater history, dramatic theory, and performance studies.",
     "id": "THPST-BA",
     "name": "Theater and Performance Studies (B.A.)",
     "college": "School of Humanities and Sciences"
   },
   {
-    "description": "Develop your understanding of the nature of cities and their impact on the world through this interdisciplinary drawing from social sciences, the humanities, engineering, and education fields.",
+    "description": "The Department of Urban Studies offers an undergraduate major in Urban Studies that provides students with a comprehensive understanding of the complex issues surrounding urban development, social inequality, and environmental sustainability. The program draws on a range of disciplines, including sociology, economics, politics, and environmental studies, to provide students with a nuanced understanding of the urban condition. Students have the opportunity to engage in research, internships, and community-based projects, preparing them for careers in fields such as urban planning, policy, and advocacy.",
     "id": "URBST-BA",
     "name": "Urban Studies (B.A.)",
     "college": "School of Humanities and Sciences"

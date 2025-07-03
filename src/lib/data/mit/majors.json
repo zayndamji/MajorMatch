@@ -3,259 +3,268 @@
     "name": "Architecture (B.S.)",
     "id": "architecture-course-4",
     "college": "School of Architecture and Planning",
-    "description": "Study the design, theory, and technology of the built environment in this interdisciplinary architecture program. You'll develop creative and analytical skills through studio work, history and theory courses, and hands-on design projects."
+    "description": "The Bachelor of Science in Architecture at MIT provides a comprehensive education in the field, focusing on the intersection of design, technology, and culture. The program emphasizes the development of skills in design, visualization, and communication, as well as an understanding of the social, cultural, and environmental contexts of architecture. Students engage with a range of subjects, including design studios, building technology, history and theory, and visual studies."
   },
   {
     "name": "Art and Design (B.S.)",
     "id": "architecture-course-4-b",
     "college": "School of Architecture and Planning",
-    "description": "Combine artistic vision with technical skill in this studio-based program focused on contemporary art and design. You'll explore visual media, spatial design, and creative technologies while developing a personal artistic practice."
+    "description": "The Department of Architecture offers an undergraduate program in Art and Design leading to a Bachelor of Science degree. The program is designed to provide students with a rigorous foundation in the principles of art and design, as well as the technical skills and knowledge necessary to pursue a career in the field. Students in the program take a range of courses in art and design, including studio classes, art history, and theory, as well as courses in other departments across MIT."
   },
   {
     "name": "Planning (B.S.)",
     "id": "planning-course-11",
     "college": "School of Architecture and Planning",
-    "description": "Engage with the social, environmental, and technical aspects of urban and regional planning. This program equips students to design equitable, sustainable communities through policy analysis, spatial planning, and data-driven strategies."
+    "description": "The Department of Urban Studies and Planning offers an undergraduate major in Planning. This program provides a broad education in the theory, methods, and practice of urban planning, preparing students for careers in urban and regional planning, public policy, and related fields."
   },
   {
     "name": "Aerospace Engineering (B.S.)",
     "id": "aerospace-engineering-course-16",
     "college": "School of Engineering",
-    "description": "Explore the principles of aerospace engineering, focusing on the design, development, and testing of aircraft and spacecraft. This program emphasizes a strong foundation in aerodynamics, propulsion, structural analysis, and systems integration."
+    "description": "The Department of Aeronautics and Astronautics offers a Bachelor of Science degree in Aerospace Engineering. The program provides a strong foundation in the aerodynamic and astronautic fundamentals of aerospace engineering, as well as the underlying mathematics, physics, and engineering principles. Students gain a broad understanding of aerospace engineering disciplines, with hands-on experience in design, testing, and project management."
   },
   {
     "name": "Archaeology and Materials (B.S.)",
     "id": "archaeology-materials-course-3-c",
     "college": "School of Engineering",
-    "description": "Investigate the intersection of archaeology and materials science through the study of ancient technologies and artifacts. This program blends analytical techniques with cultural understanding to uncover the material history of civilizations."
+    "description": "The Department of Materials Science and Engineering's undergraduate program in Archaeology and Materials explores the application of materials science and engineering principles to the study of archaeological materials and cultural heritage. Students learn about the properties, processing, and performance of materials in ancient contexts, and develop skills in materials characterization, analysis, and conservation."
   },
   {
     "name": "Biological Engineering (B.S.)",
     "id": "biological-engineering-course-20",
     "college": "School of Engineering",
-    "description": "Explore how engineering principles can be applied to biological systems to solve challenges in health, sustainability, and biotechnology. Students engage with molecular biology, biomechanics, and systems biology through labs and design projects."
+    "description": "The Biological Engineering major is an interdisciplinary program that combines engineering principles with biological systems to develop innovative solutions to real-world problems. Students learn to apply engineering principles to understand and manipulate biological systems, from molecules to organisms. The program is designed to provide a strong foundation in mathematics, physics, and biology, as well as engineering principles and practices."
   },
   {
     "name": "Chemical Biological Engineering (B.S.)",
     "id": "chemical-biological-engineering-course-10-b",
     "college": "School of Engineering",
-    "description": "Bridge the fields of chemical engineering and molecular biology in this interdisciplinary major. The curriculum focuses on chemical processes in living systems and prepares students for careers in biotechnology, pharmaceuticals, and healthcare."
+    "description": "The Department of Chemical Engineering offers a program leading to the degree of Bachelor of Science in Chemical Engineering. The program is designed to provide a broad foundation in the principles of chemical engineering, including the application of these principles to solve problems in the field. Students learn about transport phenomena, thermodynamics, kinetics, and process control, as well as the application of these concepts to the design and operation of chemical processes. The program also includes coursework in biology, mathematics, and physics, and provides opportunities for hands-on learning through laboratory and design projects."
   },
   {
     "name": "Chemical Engineering (B.S.)",
     "id": "chemical-engineering-course-10",
     "college": "School of Engineering",
-    "description": "Gain a rigorous foundation in thermodynamics, transport phenomena, and chemical kinetics while designing systems for manufacturing, energy, and environmental solutions. Students develop strong analytical and problem-solving skills for industry and research."
+    "description": "The undergraduate program in Chemical Engineering provides a foundation in the fundamental principles of chemical engineering, including thermodynamics, transport phenomena, and reaction kinetics. Students learn to apply these principles to solve problems in a variety of areas, including energy, materials, and biotechnology. The program emphasizes the development of skills in problem-solving, communication, and teamwork."
   },
   {
     "name": "Materials Science and Engineering (B.S.)",
     "id": "materials-science-engineering-course-3",
     "college": "School of Engineering",
-    "description": "Explore the structure, properties, and performance of materials across scales. This program prepares students to design new materials for applications in electronics, energy, medicine, and beyond."
+    "description": "The undergraduate program in Materials Science and Engineering provides a foundation in the science and engineering of materials, including their structure, properties, and performance. Students develop an understanding of the relationships between materials' properties and their underlying structure, as well as the processing techniques used to produce materials with specific properties. The program prepares students for careers in a wide range of industries, including aerospace, energy, electronics, and biomedical, as well as for graduate study."
   },
   {
     "name": "Mechanical and Ocean Engineering (B.S.)",
     "id": "mechanical-ocean-engineering-course-2-oe",
     "college": "School of Engineering",
-    "description": "Combine mechanical engineering with the study of ocean systems in this unique program. Students learn about fluid dynamics, marine robotics, and offshore structures while applying engineering skills to ocean exploration and sustainability."
+    "description": "The Mechanical and Ocean Engineering program at MIT is an interdisciplinary major that combines the fundamentals of mechanical engineering with the study of ocean engineering. Students in this program gain a broad foundation in mechanical engineering, including mechanics, thermodynamics, and materials science, while also exploring the specific challenges and opportunities of ocean engineering, such as offshore structures, ocean energy, and marine robotics."
   },
   {
     "name": "Mechanical Engineering (B.S.)",
     "id": "mechanical-engineering-course-2",
     "college": "School of Engineering",
-    "description": "Explore the principles of mechanics, thermodynamics, and materials to design and build innovative systems. This program emphasizes hands-on problem solving and prepares students for diverse engineering challenges."
+    "description": "The Department of Mechanical Engineering offers a challenging and comprehensive program that provides students with a foundation in the principles of mechanical engineering, including mechanics, thermodynamics, materials science, and mechanical design. The program includes a broad range of courses in mathematics, physics, and engineering, as well as a strong laboratory component. Students are prepared for careers in industry, research, and academia, as well as for graduate study."
   },
   {
     "name": "Nuclear Science and Engineering (B.S.)",
     "id": "nuclear-science-engineering-course-22",
     "college": "School of Engineering",
-    "description": "Study nuclear processes and technologies to address global challenges in energy, medicine, and security. Students gain a strong foundation in physics, materials, and reactor systems through research and design projects."
+    "description": "The Nuclear Science and Engineering Department at MIT offers a Bachelor of Science degree that provides a comprehensive education in the fundamental principles of nuclear science and engineering. The program includes coursework in nuclear physics, reactor physics, radiation protection, nuclear systems, and energy policy, as well as laboratory and research experiences. Students develop skills in problem-solving, analysis, and communication, preparing them for careers in industry, government, or further study."
   },
   {
     "name": "Anthropology (B.S.)",
     "id": "anthropology-course-21a",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Examine human cultures, societies, and biological diversity across time and place. This major combines theory and fieldwork to explore how people live, think, and interact with their environments."
+    "description": "The Anthropology program at MIT is an interdisciplinary field that explores human diversity through culture, history, and biology. Students examine human societies, behaviors, and the impact of global processes. The major prepares students for diverse careers or further study by developing critical thinking, research, and analytical skills."
   },
   {
     "name": "Comparative Media Studies (B.S.)",
     "id": "comparative-media-studies-cms",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Analyze media systems across cultures and technologies, from print to digital. Students study storytelling, design, and policy to understand media’s impact on society and develop new creative practices."
+    "description": "The Comparative Media Studies/ Writing major is an interdisciplinary program that combines theoretical and practical approaches to understanding media and culture. Students explore the history, theory, and aesthetics of various media forms, and engage in hands-on creative work. The program emphasizes the development of critical thinking, writing, and production skills."
   },
   {
     "name": "Economics (B.S.)",
     "id": "economics-course-14",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Explore how individuals, markets, and governments allocate resources and respond to incentives. This program offers analytical tools for studying growth, inequality, policy, and global markets."
+    "description": "The Department of Economics offers a major in Economics, which provides a rigorous education in economic theory, econometrics, and applied economics. Students develop a strong foundation in microeconomics, macroeconomics, and econometrics, as well as a range of elective courses in specialized areas. The program prepares students for a variety of careers in government, business, finance, and academia, as well as for graduate study in economics and related fields."
   },
   {
     "name": "Global Studies and Languages (B.S.)",
     "id": "global-studies-languages-course-21g",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Engage with world cultures through language, literature, and media. This interdisciplinary major fosters global awareness and cross-cultural understanding through immersive study and research."
+    "description": "The Global Studies and Languages (GSL) major is an interdisciplinary program that allows students to explore global issues from multiple disciplinary perspectives and focuses on gaining skills in a foreign language. GSL majors take courses in the humanities, social sciences, and languages and investigate global phenomena through a range of lenses, producing a nuanced understanding of cultural and societal processes."
   },
   {
     "name": "History (B.S.)",
     "id": "history-course-21h",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Study the past to understand the forces that shape the present and future. This major emphasizes critical thinking and research across regions, periods, and themes from politics to culture."
+    "description": "The History Section at MIT offers a rigorous program that enables students to understand the past in all its complexity. Majors acquire skills in critical reading, argumentation, and historical interpretation, and develop a nuanced understanding of the ways in which historical narratives shape our understanding of the present and future."
   },
   {
     "name": "Humanities (B.S.)",
     "id": "humanities-course-21",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Design an individualized program across literature, philosophy, languages, and other humanities fields. This flexible major encourages interdisciplinary exploration and creative expression."
+    "description": "The Department of Humanities provides a rigorous education in the humanities with an emphasis on literature, history, philosophy, and cultural studies. Students explore a range of subjects, developing their critical thinking, writing, and analytical skills. The program allows students to pursue their interests while providing a solid foundation for various careers or further study."
   },
   {
     "name": "Humanities and Engineering (B.S.)",
     "id": "humanities-engineering-course-21e",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Bridge the technical and humanistic with a joint program in engineering and the humanities. Students pursue in-depth study in both areas to address complex societal and technological issues."
+    "description": "The program in Humanities and Engineering is designed for students who wish to combine the study of engineering with study in the humanities. The program leads to a Bachelor of Science degree. Students in this program develop a strong foundation in engineering, as well as a deep understanding of the humanities. The program is designed to be completed in four years."
   },
   {
     "name": "Humanities and Science (B.S.)",
     "id": "humanities-science-course-21s",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Combine a scientific discipline with the study of the humanities in a flexible, interdisciplinary curriculum. Students explore how science and culture intersect in shaping knowledge and innovation."
+    "description": "The Humanities and Science major is designed for students who wish to combine a serious interest in a Humanities or Social Science field with a concentration in a Science field. Students in the major integrate knowledge and methods from both fields."
   },
   {
     "name": "Linguistics and Philosophy (B.S.)",
     "id": "linguistics-philosophy-course-24-2",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Examine language and thought through a joint study of linguistics and philosophy. Students investigate meaning, logic, and cognition in human communication and reasoning."
+    "description": "The Linguistics and Philosophy program is an interdisciplinary major that combines the study of language and the study of fundamental philosophical questions. Students in this program explore the structure and semantics of language, as well as the principles of reasoning and inference. The program prepares students for graduate study in linguistics, philosophy, or related fields, and for careers in areas such as law, education, and research."
   },
   {
     "name": "Literature (B.S.)",
     "id": "literature-course-21l",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Explore literature across cultures, genres, and historical periods. This major emphasizes close reading, critical theory, and the power of narrative to shape human experience."
+    "description": "The Literature major at MIT is designed for students who wish to pursue a deep understanding of literature in English, with a focus on critical thinking, close reading, and effective writing. The program encompasses a broad range of literary periods, genres, and theoretical approaches, preparing students for a variety of careers or further academic study."
   },
   {
     "name": "Mathematical Economics (B.S.)",
     "id": "mathematical-economics-course-14-2",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Combine rigorous economic theory with mathematical modeling and data analysis. This major is ideal for students interested in advanced research, policy, or quantitative finance."
+    "description": "The Mathematical Economics major is designed for students who wish to combine the study of economics and mathematics. It provides a strong foundation in both fields, preparing students for graduate study or careers in government, finance, or research. The program includes coursework in microeconomics, macroeconomics, econometrics, and mathematical economics, as well as advanced mathematics courses."
   },
   {
     "name": "Music (B.S.)",
     "id": "music-course-21m",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Study music through performance, theory, history, and technology. This program encourages creativity and interdisciplinary exploration of music’s cultural and scientific dimensions."
+    "description": "The Music program at MIT is designed for students who wish to pursue a deep understanding of music within the context of a science and engineering education. The curriculum covers a broad range of musical topics, from the physics of sound and music theory to the cultural and historical contexts of music. Students engage in performance, composition, and analysis, developing their skills as musicians and music scholars."
   },
   {
     "name": "Philosophy (B.S.)",
     "id": "philosophy-course-24-1",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Explore fundamental questions about knowledge, ethics, and existence. Students develop skills in critical analysis, argumentation, and conceptual clarity through a study of philosophical texts and problems."
+    "description": "The Department of Linguistics and Philosophy offers a major in Philosophy that exposes students to the major subfields of philosophy, including metaphysics and epistemology, ethics, logic, and the history of philosophy. Students develop critical thinking, writing, and analytical skills, preparing them for a range of careers or graduate study."
   },
   {
     "name": "Political Science (B.S.)",
     "id": "political-science-course-17",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Analyze political systems, behavior, and institutions around the world. This major offers tools for understanding governance, policy, and global affairs through empirical and theoretical perspectives."
+    "description": "The Political Science major at MIT is designed to provide students with a comprehensive understanding of the discipline, covering topics such as political theory, international relations, comparative politics, and American politics. The program emphasizes theoretical and empirical approaches, preparing students for a range of careers in government, law, academia, and other fields."
   },
   {
     "name": "Science, Technology, and Society (Second Major) (B.S.)",
     "id": "science-technology-society-sts",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Study how science and technology shape—and are shaped by—culture, politics, and society. This interdisciplinary major is designed to complement a technical or scientific field solely as a second major."
+    "description": "The STS major is an interdisciplinary program designed for students who wish to understand the social, political, and cultural dimensions of science and technology. The STS curriculum includes a foundation in the social sciences and humanities, as well as a range of electives that allow students to explore specific topics in depth."
   },
   {
     "name": "Theater Arts (B.S.)",
     "id": "theater-arts-course-21m-2",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Explore performance, design, and production through coursework and hands-on theater making. This major fosters creative expression and critical engagement with the performing arts."
+    "description": "The Theater Arts program at MIT is an interdisciplinary course of study that combines the study of theater and performance with the rigorous analysis and critical thinking of the liberal arts. Students explore the history, theory, and practice of theater, developing skills in performance, directing, playwriting, and design. The program emphasizes the connections between theater and other disciplines, including literature, history, and culture."
   },
   {
     "name": "Writing (B.S.)",
     "id": "writing-course-21w",
     "college": "School of Humanities, Arts, and Social Sciences",
-    "description": "Develop your voice across genres from fiction to technical communication. This major emphasizes writing as a creative, analytical, and professional practice for diverse audiences."
+    "description": "The Writing major at MIT is an undergraduate program that focuses on the art and craft of writing. Students develop their skills in creative writing, technical writing, and other forms of writing. The program emphasizes the importance of language, literature, and culture in understanding the world."
   },
   {
     "name": "Business Analytics (B.S.)",
     "id": "business-analytics-course-15-2",
     "college": "Sloan School of Management",
-    "description": "Apply data science and analytical methods to solve business problems. Students gain skills in modeling, optimization, and machine learning to drive strategic decision-making."
+    "description": "The Business Analytics program at MIT is an interdisciplinary major that combines coursework in economics, data analytics, management, and finance to equip students with skills to analyze complex business problems and develop data-driven solutions. The program focuses on understanding business operations, identifying opportunities for improvement, and applying analytical methods to drive decision-making."
   },
   {
     "name": "Finance (B.S.)",
     "id": "finance-course-15-3",
     "college": "Sloan School of Management",
-    "description": "Study financial markets, corporate finance, and investment strategies. This program prepares students to analyze risk, allocate capital, and understand the dynamics of the global economy."
+    "description": "The Finance major is designed to provide students with a comprehensive understanding of the financial system, financial markets, and financial instruments. The program covers the theoretical foundations of finance, as well as practical applications in areas such as investments, corporate finance, and financial institutions. Students learn to analyze financial data, manage risk, and make informed investment decisions."
   },
   {
     "name": "Management (B.S.)",
     "id": "management-course-15-1",
     "college": "Sloan School of Management",
-    "description": "Study the fundamentals of business leadership, strategy, and organizational behavior. This program equips students with analytical and managerial skills to lead in diverse industries."
+    "description": "The undergraduate major in Management at MIT is designed to equip students with a deep understanding of how organizations function, the principles of management, and the dynamics of global economies. The program emphasizes analytical and quantitative approaches to management, including the study of organizational behavior, economic principles, and decision-making processes. Through a combination of core courses and electives, students gain the knowledge and skills necessary to navigate complex business environments and lead effectively in a rapidly changing world."
   },
   {
     "name": "Biology (B.S.)",
     "id": "biology-course-7",
     "college": "School of Science",
-    "description": "Explore the molecular, cellular, and systems-level mechanisms of life. This major prepares students for careers in research, biotechnology, and medicine through hands-on discovery."
+    "description": "The Department of Biology offers a Bachelor of Science degree in Biology, providing a foundation in the biological sciences. The program includes core subjects in genetics, biochemistry, molecular biology, and cell biology, as well as laboratory and research experiences. Students can choose from a variety of electives to explore different areas of biology in depth."
   },
   {
     "name": "Brain and Cognitive Sciences (B.S.)",
     "id": "brain-cognitive-sciences-course-9",
     "college": "School of Science",
-    "description": "Investigate how the brain enables thought, perception, and behavior. Students explore neuroscience, psychology, and computation to understand the mind and brain at multiple scales."
+    "description": "The Department of Brain and Cognitive Sciences is devoted to understanding the mind and brain through a multidisciplinary approach, incorporating perspectives from psychology, neuroscience, computer science, and other related fields. The undergraduate major in Brain and Cognitive Sciences provides a foundation for a range of careers or graduate study by providing a comprehensive education in the cognitive sciences and neurosciences. Coursework includes molecular and cellular neuroscience, neuroanatomy, systems neuroscience, and cognitive science. Students develop laboratory, computational, and quantitative skills necessary for understanding the brain and cognitive processes."
   },
   {
     "name": "Chemistry (B.S.)",
     "id": "chemistry-course-5",
     "college": "School of Science",
-    "description": "Study the structure, properties, and transformations of matter. This program emphasizes experimental techniques and theoretical frameworks for solving problems in science and engineering."
+    "description": "The Department of Chemistry offers a program leading to the degree of Bachelor of Science in Chemistry. The program is designed to give students a thorough understanding of the principles of chemistry and to provide a foundation for further study or for professional work in chemistry or related fields. The program includes a core of required courses in chemistry, physics, and mathematics, as well as a selection of advanced courses in chemistry and related fields."
   },
   {
     "name": "Earth, Atmospheric, and Planetary Sciences (B.S.)",
     "id": "earth-atmospheric-planetary-sciences-course-12",
     "college": "School of Science",
-    "description": "Examine the processes that shape the Earth and other planets. This interdisciplinary major combines geology, climate science, oceanography, and planetary science to address environmental and planetary questions."
+    "description": "The Department of Earth, Atmospheric, and Planetary Sciences offers a program leading to a Bachelor of Science degree. The program provides a broad foundation in the fundamental principles of earth sciences, including the study of the Earth's lithosphere, hydrosphere, atmosphere, and biosphere, as well as the planets. Students develop an understanding of the complex interactions between these components and the processes that shape our planet."
   },
   {
     "name": "Mathematics (B.S.)",
     "id": "mathematics-course-18",
     "college": "School of Science",
-    "description": "Engage with the abstract structures and practical tools of modern mathematics. Students gain deep analytical skills and explore applications in science, engineering, and beyond."
+    "description": "The Department of Mathematics offers a program of study leading to the Bachelor of Science degree. The curriculum provides a foundation in the main areas of mathematics and is designed for students who want a thorough grounding in the field."
   },
   {
     "name": "Mathematics with Computer Science (B.S.)",
     "id": "mathematics-computer-science-course-18-c",
     "college": "School of Science",
-    "description": "Combine mathematical rigor with computational thinking and programming. This interdisciplinary major prepares students for theoretical and applied work at the intersection of math and computer science."
+    "description": "The Mathematics with Computer Science program is an interdisciplinary major that provides a foundation in mathematical theory and computational principles. Students explore the intersection of mathematics and computer science through coursework in mathematical analysis, algorithms, and computational theory. The program prepares students for careers that require a deep understanding of both mathematical and computational concepts."
   },
   {
     "name": "Physics (B.S.)",
     "id": "physics-course-8",
     "college": "School of Science",
-    "description": "Study the fundamental laws governing the universe, from quantum mechanics to cosmology. This major emphasizes mathematical modeling, experimentation, and critical reasoning."
+    "description": "The Physics Department offers a program leading to a Bachelor of Science degree in Physics. The program includes a core curriculum in classical mechanics, electromagnetism, quantum mechanics, and statistical mechanics, as well as advanced courses in specialized areas. Students are encouraged to participate in research projects and engage with the department's faculty."
   },
   {
     "name": "Computer Science and Engineering (B.S.)",
     "id": "computer-science-engineering-course-6-3",
-    "college": ["MIT Schwarzman College of Computing", "School of Engineering"],
-    "description": "Develop a strong foundation in algorithms, systems, and software engineering. Students learn to design and implement technologies that drive innovation across industries."
+    "college": [
+      "MIT Schwarzman College of Computing",
+      "School of Engineering"
+    ],
+    "description": "This program provides a foundation in the fundamental concepts of computer science and engineering, including the design, development, and testing of computer systems and algorithms. Students take a range of courses in computer science, mathematics, and engineering, and have the opportunity to pursue advanced topics and electives in areas such as artificial intelligence, data science, and computer networks."
   },
   {
     "name": "Artificial Intelligence and Decision Making (B.S.)",
     "id": "artifical-intelligence-decision-making-course-6-4",
-    "college": ["MIT Schwarzman College of Computing", "School of Engineering"],
-    "description": "Explore machine learning, robotics, and human-centered AI. This program equips students to build intelligent systems and understand how decisions are made under uncertainty."
+    "college": [
+      "MIT Schwarzman College of Computing",
+      "School of Engineering"
+    ],
+    "description": "The Artificial Intelligence and Decision-Making major at MIT focuses on developing computational models, algorithms, and systems that enable machines to perceive, reason, and act intelligently. The program integrates coursework in artificial intelligence, decision theory, machine learning, and data science, preparing students to tackle complex problems and make informed decisions. Students explore the foundational principles and methodologies in AI, learn to apply AI techniques to real-world challenges, and develop a nuanced understanding of the societal implications of AI and decision-making systems."
   },
   {
     "name": "Electrical Engineering with Computing (B.S.)",
     "id": "electrical-engineering-computing-6-5",
-    "college": ["MIT Schwarzman College of Computing", "School of Engineering"],
-    "description": "Study circuits, signals, and systems alongside computer science fundamentals. This major bridges hardware and software, preparing students to build integrated computing technologies."
+    "college": [
+      "MIT Schwarzman College of Computing",
+      "School of Engineering"
+    ],
+    "description": "The Electrical Engineering with Computing major at MIT is designed to provide a broad foundation in electrical engineering and computer science. The program includes core courses in circuits, electronics, signals and systems, and computing, as well as a range of electives and advanced courses. Students develop problem-solving skills, both theoretical and practical, and are prepared for a wide range of careers in industry, research, and academia."
   },
   {
     "name": "Chemistry and Biology (B.S.)",
     "id": "chemistry-biology-course-5-7",
     "college": "School of Science",
-    "description": "Integrate chemical and biological sciences to explore life at the molecular level. This interdisciplinary program is ideal for students interested in biomedical research and biotechnology."
+    "description": "The Chemistry and Biology major is designed for students who are interested in the overlap between the disciplines of Chemistry and Biology. This major provides a foundation in the core principles of both fields, with an emphasis on the chemical aspects of biological systems. Students take courses in inorganic and organic chemistry, biochemistry, and biology, as well as physics and mathematics."
   },
   {
     "name": "Climate System Science and Engineering (B.S.)",
@@ -264,7 +273,7 @@
       "School of Engineering",
       "School of Science"
     ],
-    "description": "Study the Earth’s climate system through science and engineering approaches. This major prepares students to tackle challenges in sustainability, climate modeling, and environmental design."
+    "description": "The Climate System Science and Engineering major is an interdisciplinary program that focuses on the complex interactions within the Earth's climate system. It combines coursework from the departments of Earth, Atmospheric and Planetary Sciences and Civil and Environmental Engineering to provide a comprehensive understanding of climate dynamics, impacts, and potential solutions. Students in this major explore the science behind climate change, its effects on the environment and society, and the engineering approaches to mitigate and adapt to these changes."
   },
   {
     "name": "Computation and Cognition (B.S.)",
@@ -273,7 +282,7 @@
       "School of Engineering",
       "School of Science"
     ],
-    "description": "Combine insights from computer science and neuroscience to understand intelligence. Students explore the computational foundations of learning, perception, and cognition."
+    "description": "The Computation and Cognition program is an interdisciplinary major that combines computer science, cognitive science, and neuroscience to understand the computational principles underlying human cognition and to develop new computational models and systems inspired by the human brain. The program covers the fundamentals of computer science, cognitive science, and neuroscience, as well as the intersections between them."
   },
   {
     "name": "Computer Science and Molecular Biology (B.S.)",
@@ -282,7 +291,7 @@
       "School of Engineering",
       "School of Science"
     ],
-    "description": "Apply computational methods to the study of genes, proteins, and cells. This program merges biology with programming and data analysis to advance modern bioscience."
+    "description": "This major combines the study of computer science and molecular biology, providing a foundation in the principles of computer science and the study of molecular biology. The program includes coursework in algorithms, data structures, computer architecture, and software engineering, as well as molecular biology, biochemistry, and genetics."
   },
   {
     "name": "Computer Science, Economics, and Data Science (B.S.)",
@@ -291,7 +300,7 @@
       "School of Engineering",
       "School of Humanities, Arts, and Social Sciences"
     ],
-    "description": "Analyze data-driven economic systems using tools from computer science and statistics. This interdisciplinary major prepares students to understand and influence modern markets and platforms."
+    "description": "This program combines the fundamentals of computer science, economics, and data science to provide a comprehensive understanding of the field. Students learn to analyze complex systems, develop algorithms, and apply data-driven insights to real-world problems. The curriculum includes coursework in programming, data structures, algorithms, microeconomics, macroeconomics, and statistical modeling."
   },
   {
     "name": "Urban Science and Planning with Computer Science (B.S.)",
@@ -300,6 +309,6 @@
       "School of Engineering",
       "School of Architecture and Planning"
     ],
-    "description": "Integrate urban planning with computing to design smarter cities. Students use data, modeling, and design tools to address challenges in housing, mobility, and sustainability."
+    "description": "The Urban Science and Planning with Computer Science major combines the fields of urban planning and computer science. Students learn to apply computational methods to analyze and address urban challenges. The program focuses on developing skills in data analysis, software development, and urban planning principles."
   }
 ]

@@ -2,812 +2,839 @@
   {
     "shortName": "AE-BS",
     "name": "Aerospace Engineering (B.S.)",
-    "description": "Explore the principles of aerospace engineering, focusing on the design, development, and testing of aircraft and spacecraft. This program emphasizes a strong foundation in aerodynamics, propulsion, structural analysis, and systems integration, preparing you for innovation and leadership in aerospace industries and research.",
+    "description": "The Aerospace Engineering program at UC Berkeley provides a comprehensive education in the fundamental principles of aerospace engineering, including the design, development, and operation of aircraft, spacecraft, and missiles. The program emphasizes the application of mathematical and scientific principles to solve complex engineering problems. Students learn about aerodynamics, propulsion systems, structural analysis, and systems engineering, as well as the social and environmental contexts in which aerospace systems operate.",
     "id": "aerospace-engineering",
     "college": "College of Engineering"
   },
   {
     "shortName": "AEB-MET",
     "name": "Aerospace Engineering and Business Administration (B.S. MET)",
-    "description": "Combine rigorous aerospace engineering study with core business principles to develop skills in technology management, entrepreneurship, and strategic decision-making. This interdisciplinary program equips you to lead technical teams and navigate complex challenges at the intersection of engineering and business.",
+    "description": "The Aerospace Engineering and Business Administration program is an interdisciplinary major that combines the technical aspects of aerospace engineering with the foundational principles of business administration. Students in this program gain a comprehensive understanding of both the engineering and business aspects of the aerospace industry, preparing them for careers that require a blend of technical and managerial skills.",
     "id": "aerospace-engineering-business-administration",
-    "college": ["College of Engineering", "Haas School of Business"]
+    "college": [
+      "College of Engineering",
+      "Haas School of Business"
+    ]
   },
   {
     "shortName": "AFAM-BA",
     "name": "African American Studies (B.A.)",
-    "description": "Engage deeply with African American history, culture, politics, and social movements through an interdisciplinary lens. This major explores identity, systemic inequalities, resistance, and contributions that shape American society, fostering critical analysis and a commitment to social justice.",
+    "description": "The Department of African American Studies at the University of California, Berkeley offers an undergraduate major that provides students with a comprehensive understanding of the history, culture, and experiences of African Americans and the African diaspora. The program combines coursework from various disciplines to examine the complex and multifaceted nature of black life and culture.",
     "id": "african-american-studies",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "AMST-BA",
     "name": "American Studies (B.A.)",
-    "description": "Examine the diverse cultural, political, and social dynamics of the United States through interdisciplinary approaches. This major emphasizes critical perspectives on race, class, gender, and power, providing tools to understand America's past and present complexities.",
+    "description": "The American Studies major is an interdisciplinary program that examines the history, culture, and society of the United States from a variety of perspectives. Students explore the complexities of American identity, culture, and politics through coursework in departments such as English, History, Ethnic Studies, and others. The major emphasizes critical thinking, research, and analytical writing skills.",
     "id": "american-studies",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "ANALY-BA",
     "name": "Analytics (B.A.)",
-    "description": "Develop expertise in data analysis, statistical modeling, and decision science. This program integrates quantitative methods with real-world applications, preparing you to translate complex data into actionable insights across industries such as business, healthcare, and technology.",
+    "description": "The Division of Computing, Data Science, and Society offers an undergraduate major in Analytics that combines coursework in computer science, statistics, and domain-specific knowledge. The program focuses on training students to derive insights from data, develop predictive models, and communicate findings effectively to inform decision-making across various sectors.",
     "id": "analytics",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "AGRS-BA",
     "name": "Ancient Greek and Roman Studies (B.A.)",
-    "description": "Investigate the languages, literature, history, and philosophy of ancient Greece and Rome. This major nurtures an understanding of classical civilizations and their enduring influence on modern thought, culture, and institutions through critical interpretation and contextual study.",
+    "description": "The Ancient Greek and Roman Studies major provides students with a rigorous foundation in the languages, literature, history, and culture of ancient Greece and Rome. The program allows students to explore a broad range of topics, including classical languages, ancient history, classical literature, and the reception of classical antiquity. Coursework covers the social, cultural, and intellectual contexts of the ancient Mediterranean world, as well as its ongoing influence on contemporary society.",
     "id": "ancient-greek-roman-studies",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "ANTH-BA",
     "name": "Anthropology (B.A.)",
-    "description": "Explore human societies past and present, focusing on cultural diversity, social structures, and biological evolution. This interdisciplinary major combines fieldwork, ethnography, and theoretical frameworks to examine identity, power, and human experience globally.",
+    "description": "The Department of Anthropology offers an undergraduate major leading to a Bachelor of Arts degree in Anthropology. The major is designed to provide a broad understanding of the anthropological field, including its four subfields: sociocultural anthropology, biological anthropology, archaeology, and linguistic anthropology. Students are introduced to the theoretical foundations, methodological approaches, and the practical applications of anthropology. The program prepares students for a wide range of careers, including academia, research, government, non-profit organizations, and private sector enterprises, as well as for graduate study.",
     "id": "anthropology",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "APPM-BS",
     "name": "Applied Mathematics (B.S.)",
-    "description": "Gain mastery of mathematical techniques and computational methods used to solve real-world problems in science, engineering, and industry. This program emphasizes modeling, analysis, and algorithm development to address challenges in diverse fields.",
+    "description": "The Applied Mathematics major at UC Berkeley is designed to provide students with a broad foundation in mathematical techniques and their applications in various fields. The program includes a core sequence of lower-division mathematics courses, upper-division mathematics courses that emphasize applications, and electives in mathematics and related fields. The major prepares students for careers in fields that rely heavily on mathematical modeling and problem-solving.",
     "id": "applied-mathematics",
     "college": "College of Engineering"
   },
   {
     "shortName": "ARCH-BA",
     "name": "Architecture (B.A.)",
-    "description": "Study the theory, history, and practice of architecture with a focus on design, sustainability, and urban planning. This major fosters creative problem-solving and technical skills necessary to shape built environments that respond to social and environmental needs.",
+    "description": "The Bachelor of Arts in Architecture is an undergraduate degree that provides a comprehensive education in the field of architecture, preparing students for a variety of careers in the field or for further study at the graduate level. The program emphasizes the development of critical thinking, creativity, and technical skills, with a curriculum that includes coursework in architectural history, theory, and design, as well as electives in related fields such as art, engineering, and environmental studies.",
     "id": "architecture",
     "college": "College of Environmental Design"
   },
   {
     "shortName": "ARTH-BA",
     "name": "Art History (B.A.)",
-    "description": "Delve into visual culture across time and geography, analyzing art movements, artists, and societal contexts. This program cultivates critical thinking and research skills to understand artistic expression and its role in shaping human history.",
+    "description": "The Art History major is designed to provide students with a comprehensive understanding of the visual arts in their historical and cultural contexts. The program covers a broad range of topics, including the development of artistic styles, the role of art in different cultures, and the critical and theoretical frameworks used to interpret art. Students take courses that span various historical periods and geographical regions, and they develop their critical thinking, research, and writing skills through the study of art historical texts, images, and other visual materials.",
     "id": "art-history",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "ARTP-BA",
     "name": "Art Practice (B.A.)",
-    "description": "Engage in hands-on creation and conceptual exploration across media including painting, sculpture, digital art, and performance. This major encourages experimentation, technical proficiency, and personal artistic development within contemporary and historical contexts.",
+    "description": "The Art Practice major at UC Berkeley provides a comprehensive studio art education within a rigorous liberal arts context. Students explore a range of media, including drawing, painting, sculpture, photography, video, and digital art. The program emphasizes technical skill, creative experimentation, and critical thinking, preparing students for careers in the arts or further study.",
     "id": "art-practice",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "ASADA-BA",
     "name": "Asian American and Asian Diaspora Studies (B.A.)",
-    "description": "Investigate the histories, cultures, and experiences of Asian American and Asian diasporic communities. This interdisciplinary major addresses issues of identity, migration, representation, and social justice within local and global contexts.",
+    "description": "The Asian American and Asian Diaspora Studies (BA) program provides students with a comprehensive understanding of the histories, cultures, and experiences of Asian Americans and the Asian diaspora. The program examines the complex and dynamic relationships between Asia, the United States, and other global contexts, and explores the ways in which Asian Americans and diasporic communities have shaped and been shaped by these contexts. Students engage with a range of disciplines, including history, literature, cultural studies, and social sciences, to develop a nuanced understanding of the complex issues and themes that define the field.",
     "id": "asian-american-diaspora-studies",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "ASTRO-BA",
     "name": "Astrophysics (B.A.)",
-    "description": "Study the physical properties and dynamics of celestial bodies and the universe as a whole. This program integrates observational and theoretical approaches, preparing you for research and careers in astronomy, space science, and related fields.",
+    "description": "The Astrophysics major is designed to provide a broad and deep understanding of the physical principles underlying the study of the universe. The program includes a foundation in physics and astronomy, as well as coursework in mathematics and computational methods. Students learn about the structure and evolution of stars, galaxies, and the universe as a whole, and develop skills in data analysis and scientific computing.",
     "id": "astrophysics",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "ATMSC-BS",
     "name": "Atmospheric Science (B.S.)",
-    "description": "Explore the science behind weather, climate, and atmospheric processes. This major combines physics, chemistry, and environmental science to understand atmospheric phenomena and address challenges related to climate change and environmental policy.",
+    "description": "The Atmospheric Science major provides a foundation in the science of the atmosphere, including its dynamics, thermodynamics, and physics. The program focuses on understanding the Earth's climate system, weather patterns, and the impact of human activities on the atmosphere. Students gain a broad understanding of atmospheric science and its applications, preparing them for careers in research, education, government, and private industry.",
     "id": "atmospheric-science",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "BIOE-BS",
     "name": "Bioengineering (B.S.)",
-    "description": "Integrate principles of engineering with biological sciences to develop technologies for healthcare, biotechnology, and medical devices. This program emphasizes innovation, problem-solving, and interdisciplinary collaboration in improving human health.",
+    "description": "The Bioengineering Major provides a broad foundation in the principles and practices of bioengineering, preparing students for a wide range of careers in industry, academia, government, and healthcare. The curriculum encompasses core engineering principles, life sciences, and mathematics, as well as specialized courses in bioengineering topics. Students gain hands-on experience through laboratory courses and have opportunities to engage in research and design projects.",
     "id": "bioengineering",
     "college": "College of Engineering"
   },
   {
     "shortName": "BIOB-MET",
     "name": "Bioengineering and Business Administration (B.S. MET)",
-    "description": "Combine bioengineering expertise with business acumen to lead innovation in biotechnology and healthcare industries. This interdisciplinary program prepares you for roles in technology development, entrepreneurship, and management within science-driven enterprises.",
+    "description": "The Bioengineering and Business Administration program is an undergraduate major that combines the technical foundations of bioengineering with the principles of business administration. Students in this program gain a comprehensive understanding of both fields, preparing them for careers at the intersection of technology, healthcare, and business. The program includes coursework in bioengineering, biology, chemistry, physics, and business administration, as well as opportunities for hands-on learning and research.",
     "id": "bioengineering-business-administration",
-    "college": ["College of Engineering", "Haas School of Business"]
+    "college": [
+      "College of Engineering",
+      "Haas School of Business"
+    ]
   },
   {
     "shortName": "BMSE-BS",
     "name": "Bioengineering/Materials Science and Engineering Joint Major (B.S.)",
-    "description": "Study the intersection of biological systems and materials science to design novel biomaterials and medical technologies. This joint major emphasizes research, engineering principles, and collaborative innovation in emerging bio-materials applications.",
+    "description": "The Bioengineering/Materials Science and Engineering Joint Major is an undergraduate program that combines the fields of bioengineering and materials science and engineering. Students in this program gain a strong foundation in the principles of both fields and develop the ability to apply this knowledge to solve complex problems at the interface of biology, medicine, and materials science.",
     "id": "bioengineering-materials-science-engineering-joint-major",
     "college": "College of Engineering"
   },
   {
     "shortName": "BUS-BA",
     "name": "Business Administration (B.A.)",
-    "description": "Develop strategic, analytical, and leadership skills essential for managing organizations in a global economy. This program covers finance, marketing, operations, and organizational behavior, empowering you to drive innovation and effective decision-making.",
+    "description": "The Bachelor of Arts in Business Administration program at UC Berkeley is designed to provide students with a comprehensive understanding of business practices, leadership, and the global economy. The program emphasizes analytical skills, ethical decision-making, and strategic thinking, preparing students for diverse careers in the business sector and beyond. The curriculum includes foundational courses in business, economics, and quantitative methods, as well as advanced electives in areas such as finance, marketing, and organizational behavior.",
     "id": "business-administration",
     "college": "Haas School of Business"
   },
   {
     "shortName": "CELT-BA",
     "name": "Celtic Studies (B.A.)",
-    "description": "Explore the languages, literature, history, and cultures of the Celtic peoples. This major fosters critical understanding of Celtic heritage and its influence through linguistic analysis, literary interpretation, and cultural studies.",
+    "description": "The Department of Celtic Studies at UC Berkeley offers an undergraduate major in Celtic Studies. The program focuses on the languages, literatures, and cultures of the Celtic-speaking peoples from the earliest times to the present. Students gain a broad understanding of Celtic cultures, as well as skills in Celtic languages.",
     "id": "celtic-studies",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "CHBIO-BS",
     "name": "Chemical Biology (B.S.)",
-    "description": "Investigate the chemical processes within biological systems to understand molecular mechanisms of life. This interdisciplinary program combines chemistry and biology to advance research in drug development, biotechnology, and molecular medicine.",
+    "description": "The Chemical Biology major is an interdisciplinary program that combines the study of chemistry and biology to understand the chemical processes that occur in living organisms. The major provides a foundation in the principles of chemistry, biology, and biochemistry, and allows students to explore the applications of chemical biology in fields such as medicine, agriculture, and biotechnology.",
     "id": "chemical-biology",
     "college": "College of Chemistry"
   },
   {
     "shortName": "CHENG-BS",
     "name": "Chemical Engineering (B.S.)",
-    "description": "Apply chemistry, physics, and engineering principles to design processes for manufacturing chemicals, materials, and energy. This major emphasizes problem-solving, process optimization, and sustainability in industrial applications.",
+    "description": "The Chemical Engineering major at UC Berkeley emphasizes the development of skills in process analysis, design, and operation. The program includes a core curriculum in mathematics, physics, chemistry, and engineering, as well as specialized courses in chemical engineering principles, such as thermodynamics, transport phenomena, and chemical reaction engineering. Students also complete laboratory courses and a capstone design project. The program prepares students for a wide range of career opportunities in industries such as energy, biotechnology, and materials processing.",
     "id": "chemical-engineering",
     "college": "College of Chemistry"
   },
   {
     "shortName": "CEMS-BS",
     "name": "Chemical Engineering / Materials Science & Engineering Joint Major (B.S.)",
-    "description": "Integrate chemical engineering fundamentals with materials science to innovate in the development and processing of advanced materials. This joint major combines theoretical knowledge with practical skills for tackling engineering challenges.",
+    "description": "The Chemical Engineering / Materials Science & Engineering Joint Major is an interdisciplinary program that combines the fundamentals of chemical engineering with the principles of materials science and engineering. Students in this major gain a deep understanding of the properties and behavior of materials, as well as the processes used to design, synthesize, and characterize them. The program prepares students for careers in a wide range of industries, including energy, biotechnology, and advanced materials.",
     "id": "chemical-engineering-materials-science-joint-major",
-    "college": ["College of Engineering", "College of Chemistry"]
+    "college": [
+      "College of Engineering",
+      "College of Chemistry"
+    ]
   },
   {
     "shortName": "CHNE-BS",
     "name": "Chemical Engineering / Nuclear Engineering Joint Major (B.S.)",
-    "description": "Combine chemical and nuclear engineering principles to address energy production, safety, and environmental concerns. This interdisciplinary major prepares you for advanced research and professional work in energy systems and nuclear technologies.",
+    "description": "The Chemical Engineering / Nuclear Engineering Joint Major is a comprehensive undergraduate program that combines the fundamental principles of chemical engineering and nuclear engineering to prepare students for careers at the intersection of energy, environment, and technology. The program covers the core concepts of chemical engineering, including thermodynamics, transport phenomena, and reaction engineering, alongside the principles of nuclear engineering, such as nuclear reactions, radiation protection, and nuclear systems.",
     "id": "chemical-engineering-nuclear-joint-major",
-    "college": ["College of Engineering", "College of Chemistry"]
+    "college": [
+      "College of Engineering",
+      "College of Chemistry"
+    ]
   },
   {
     "shortName": "CHEM-BA",
     "name": "Chemistry (B.A.)",
-    "description": "Study the fundamental principles and applications of chemistry with a broad liberal arts perspective. This major encourages analytical thinking, laboratory skills, and scientific communication applicable to diverse careers and advanced study.",
+    "description": "The Chemistry B.A. program provides a comprehensive foundation in chemistry, with flexibility for pursuing other interests. The curriculum includes core courses in general chemistry, organic chemistry, physical chemistry, and inorganic chemistry, as well as laboratory work and electives. Students develop skills in problem-solving, critical thinking, and communication.",
     "id": "chemistry-ba",
     "college": "College of Chemistry"
   },
   {
     "shortName": "CHEM-BS",
     "name": "Chemistry (B.S.)",
-    "description": "Engage in rigorous study of chemical theory, experimentation, and analysis. This program prepares you for research, industry, or graduate school by emphasizing quantitative skills and advanced laboratory techniques.",
+    "description": "The Bachelor of Science degree in Chemistry is designed to provide a thorough foundation in the various fields of chemistry, as well as a thorough grounding in the related sciences, mathematics, and English. The Department of Chemistry provides an education that instills in students the ability to think critically, ask probing questions, and apply chemical concepts to the solution of problems. Students are also encouraged to participate in research projects.",
     "id": "chemistry-bs",
     "college": "College of Chemistry"
   },
   {
     "shortName": "CHLC-BA",
     "name": "Chicanx Latinx Studies (B.A.)",
-    "description": "Explore the histories, cultures, and social issues affecting Chicanx and Latinx communities through interdisciplinary study. This major addresses identity, activism, and cultural expression with a focus on social justice and equity.",
+    "description": "The Chicanx Latinx Studies major is an interdisciplinary program that focuses on the experiences, histories, cultures, and social justice movements of Chicanx and Latinx communities. The program examines the complexities of identity, culture, and power, and prepares students for a wide range of careers and graduate study. Students engage with coursework across multiple departments, fostering critical thinking, research, and community engagement.",
     "id": "chicanx-latinx-studies",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "CHIN-BA",
     "name": "Chinese Language (B.A.)",
-    "description": "Develop proficiency in Chinese language and explore its literary, cultural, and historical contexts. This major cultivates linguistic skills alongside critical engagement with China’s diverse cultural traditions and contemporary issues.",
+    "description": "The Department of East Asian Languages and Cultures offers a major in Chinese Language, which includes coursework in Chinese language, literature, and culture. Students gain a deep understanding of Chinese culture and develop advanced language skills.",
     "id": "chinese-language",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "CIVL-BS",
     "name": "Civil Engineering (B.S.)",
-    "description": "Study the design, construction, and maintenance of infrastructure including buildings, bridges, and transportation systems. This major focuses on sustainable engineering practices and solutions to complex societal challenges.",
+    "description": "The Department of Civil and Environmental Engineering offers a program leading to the Bachelor of Science degree in Civil Engineering. The program provides a broad background in the basic engineering sciences, an in-depth knowledge in the student's selected area within civil engineering, and the skills needed to apply this knowledge to the solution of practical problems. The program is accredited by the Engineering Accreditation Commission of ABET.",
     "id": "civil-engineering",
     "college": "College of Engineering"
   },
   {
     "shortName": "CIVB-MET",
     "name": "Civil Engineering and Business Administration (B.S. MET)",
-    "description": "Integrate civil engineering expertise with business knowledge to manage projects, resources, and innovation in the built environment. This program prepares you for leadership roles at the intersection of engineering and business strategy.",
+    "description": "The Civil Engineering and Business Administration program is an interdisciplinary major that combines the technical aspects of civil engineering with the foundational elements of business administration. It is designed for students who wish to pursue careers at the intersection of infrastructure development, environmental sustainability, and business management. The program covers fundamental principles of civil engineering, including structures, transportation, water resources, and environmental engineering, along with core business disciplines such as accounting, finance, marketing, and management.",
     "id": "civil-engineering-business-administration",
-    "college": ["College of Engineering", "Haas School of Business"]
+    "college": [
+      "College of Engineering",
+      "Haas School of Business"
+    ]
   },
   {
     "shortName": "COGS-BA",
     "name": "Cognitive Science (B.A.)",
-    "description": "Explore the interdisciplinary study of the mind, combining psychology, neuroscience, linguistics, and computer science. This major investigates perception, learning, and decision-making through theoretical and experimental approaches.",
+    "description": "The Cognitive Science major is designed to provide students with a broad understanding of the mind and brain, drawing on work from psychology, philosophy, computer science, linguistics, and neuroscience. The major emphasizes the development of skills in critical thinking, problem-solving, and research methods, as well as the ability to integrate knowledge from multiple disciplines.",
     "id": "cognitive-science",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "CMLT-BA",
     "name": "Comparative Literature (B.A.)",
-    "description": "Analyze literature across languages, cultures, and historical periods, emphasizing critical theory and cultural context. This major develops interpretive skills and an understanding of global literary traditions and their social impact.",
+    "description": "The Comparative Literature major is an interdisciplinary program that focuses on the study of literature across different cultures, languages, and historical periods. Students examine literary works in their cultural and historical contexts, developing critical thinking, writing, and analytical skills. The program emphasizes the comparative study of literary traditions, genres, and themes, and encourages students to explore the intersections between literature and other disciplines such as philosophy, history, and cultural studies.",
     "id": "comparative-literature",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "CS-BS",
     "name": "Computer Science (B.S.)",
-    "description": "Master the fundamentals and advanced topics of computer science including algorithms, software development, and systems design. This program prepares you for innovation in technology, research, and software engineering careers.",
+    "description": "The Computer Science major at UC Berkeley is designed to provide students with a broad foundation in the fundamental concepts and techniques of computer science, as well as the opportunity to specialize in one or more areas. The program includes coursework in algorithms, computer architecture, operating systems, programming languages, and software engineering, among other topics. Students also complete a set of core requirements in mathematics and science.",
     "id": "computer-science-bs",
     "college": "College of Engineering"
   },
   {
     "shortName": "CS-BA",
     "name": "Computer Science (B.A.)",
-    "description": "Combine computational theory with a broader liberal arts education, focusing on programming, data structures, and computational thinking. This major prepares you for diverse careers involving technology and problem-solving.",
+    "description": "The Computer Science major at UC Berkeley is designed to provide a broad and deep understanding of the principles and practices of computer science. The program emphasizes the development of problem-solving skills, algorithmic thinking, and the ability to design, implement, and test software systems. Students learn about the theoretical foundations of computer science, as well as the practical aspects of software development, including programming languages, data structures, algorithms, computer architecture, and software engineering.",
     "id": "computer-science-ba",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "CRSR-BA",
     "name": "Conservation and Resource Studies (B.A.)",
-    "description": "Examine the interaction between humans and the environment, addressing sustainability, biodiversity, and natural resource management. This interdisciplinary major integrates science, policy, and ethics to foster environmental stewardship.",
+    "description": "The Conservation and Resource Studies major is an interdisciplinary program that focuses on the social, political, and ecological dimensions of environmental issues. Students examine the interactions between human societies and the natural environment, exploring the causes and consequences of environmental degradation and the ways to conserve and manage natural resources sustainably.",
     "id": "conservation-resource-studies",
     "college": "College of Natural Resources"
   },
   {
     "shortName": "DAPS-BA",
     "name": "Dance and Performance Studies (B.A.)",
-    "description": "Explore dance and performance as artistic, cultural, and social practices through practical training and critical analysis. This major cultivates creativity, expression, and scholarly understanding of performance arts.",
+    "description": "The Department of Theater, Dance, and Performance Studies offers an undergraduate major in Dance and Performance Studies that provides students with a comprehensive understanding of dance and performance practices. The program combines technique classes, historical and theoretical studies, and practical experiences to prepare students for a variety of careers in the field.",
     "id": "dance-performance-studies",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "DS-BS",
     "name": "Data Science (B.S.)",
-    "description": "Develop expertise in data collection, analysis, and interpretation using statistical and computational tools. This program prepares you to tackle complex problems through data-driven decision-making in diverse sectors.",
+    "description": "The Data Science major provides a rigorous and comprehensive foundation in the core areas of data science, including data manipulation, machine learning, statistical inference, data ethics, and data visualization. The program is designed to prepare students for a wide range of careers in industry, government, and academia, as well as for graduate study in data science and related fields.",
     "id": "data-science",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "DUTC-BA",
     "name": "Dutch Studies (B.A.)",
-    "description": "Study the language, literature, history, and culture of the Dutch-speaking world. This major promotes linguistic proficiency and critical understanding of the Netherlands and its global influence.",
+    "description": "The Department of Scandinavian Studies offers a major in Dutch Studies, which focuses on the language, literature, and culture of the Netherlands. The program is designed to provide students with a deep understanding of the Dutch language and its cultural context, as well as the historical and contemporary significance of the Netherlands in Europe and the world.",
     "id": "dutch-studies",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "EEBA-MET",
     "name": "EECS & Business Administration (B.S. MET)",
-    "description": "Integrate electrical engineering and computer sciences with business strategy and management. This interdisciplinary program prepares you for leadership roles in technology innovation and entrepreneurship.",
+    "description": "The EECS & Business Administration program is an undergraduate major that combines the technical rigor of the Electrical Engineering and Computer Sciences (EECS) major with a comprehensive business education. The program is designed for students who seek a strong foundation in engineering and technology, along with the skills and knowledge to succeed in today's business environment. The program includes coursework in EECS, business administration, and economics, as well as a range of electives that allow students to tailor their education to their interests and career goals.",
     "id": "electrical-engineering-computer-sciences-business-administration",
-    "college": ["College of Engineering", "Haas School of Business"]
+    "college": [
+      "College of Engineering",
+      "Haas School of Business"
+    ]
   },
   {
     "shortName": "EEMS-BS",
     "name": "EECS / Materials Science & Engineering Joint Major (B.S.)",
-    "description": "Combine electrical engineering and computer sciences with materials science to innovate in hardware development, nanotechnology, and emerging materials. This joint major emphasizes research and applied engineering.",
+    "description": "The Joint Major in Electrical Engineering and Computer Sciences (EECS) and Materials Science & Engineering is designed for students who wish to be trained in both the EECS and MSE departments. The program combines the core requirements of both majors, providing a comprehensive education in the principles of electrical engineering, computer science, and materials science.",
     "id": "electrical-engineering-computer-sciences-materials",
     "college": "College of Engineering"
   },
   {
     "shortName": "EENU-BS",
     "name": "EECS / Nuclear Engineering Joint Major (B.S.)",
-    "description": "Study the integration of electrical engineering, computer science, and nuclear engineering to address challenges in energy, safety, and technology development. This interdisciplinary major prepares you for cutting-edge research and industry roles.",
+    "description": "The EECS / Nuclear Engineering Joint Major is an interdisciplinary program that combines the foundations of electrical engineering and computer science with the principles of nuclear engineering. Students in this program gain a deep understanding of both fields, preparing them for careers at the intersection of technology and nuclear energy.",
     "id": "electrical-engineering-computer-sciences-nuclear-joint-major",
     "college": "College of Engineering"
   },
   {
     "shortName": "EAHC-BA",
     "name": "East Asian Humanities (B.A.)",
-    "description": "Explore the literature, history, philosophy, and cultures of East Asia through interdisciplinary study. This major fosters critical understanding of the region's rich traditions and contemporary transformations.",
+    "description": "The Department of East Asian Languages and Cultures offers an undergraduate major in East Asian Humanities leading to the Bachelor of Arts degree. The major is designed to provide students with a broad understanding of the cultures of East Asia, with a focus on the humanities. Students may concentrate on a particular country or period, or explore the region as a whole. The major requires a total of 12 courses, including 4 lower division language courses, 4 upper division language courses, and 4 upper division elective courses.",
     "id": "east-asian-humanities",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "EART-BA",
     "name": "East Asian Religion, Thought and Culture (B.A.)",
-    "description": "Examine East Asian religion, thought, and culture through critical analysis and creative inquiry. This major offers deep insight into diverse human experiences and historical traditions across time and place.",
+    "description": "The East Asian Religion, Thought and Culture major is an interdisciplinary program that provides students with a comprehensive understanding of the religious, philosophical, and cultural traditions of East Asia. The major covers the historical and cultural contexts of East Asian societies, including China, Japan, and Korea, and explores the complex interactions between different religious and cultural traditions.",
     "id": "east-asian-religion-thought-culture",
     "college": "College of Letters & Science"
   },
   {
     "shortName": "ECON-BA",
     "name": "Economics (B.A.)",
-    "description": "Study economic systems, behaviors, and policies that shape societies. Engage with key themes of identity, power, and justice through interdisciplinary perspectives.",
+    "description": "The Department of Economics at UC Berkeley offers a comprehensive undergraduate program that provides a rigorous foundation in economic theory, empirical analysis, and applied fields. The program is designed to equip students with the analytical tools and critical thinking skills necessary to understand complex economic issues, evaluate data, and make informed decisions. Students can choose from a variety of elective courses to explore different areas of economics, such as macroeconomics, microeconomics, international trade, and econometrics.",
     "id": "economics",
     "college": "College of Letters & Science"
   },
   {
     "name": "Education (B.A.)",
     "shortName": "EDUC-BA",
-    "description": "Explore educational theories and practices within social and cultural contexts. This major encourages critical engagement with issues of policy, equity, and identity.",
+    "description": "The Education B.A. program provides foundational knowledge in education, including the social, cultural, and political contexts of schooling. Coursework covers educational theory, policy, and practice, preparing students for diverse careers in education and related fields. The program emphasizes critical thinking, research skills, and practical application.",
     "id": "education",
     "college": "College of Letters & Science"
   },
   {
     "name": "Electrical Engineering & Computer Sciences (B.S.)",
     "shortName": "EECS-BS",
-    "description": "Advance your understanding of electrical engineering and computer sciences through rigorous study and innovation. Prepare to solve real-world challenges with analytical and technical expertise.",
+    "description": "The Electrical Engineering and Computer Sciences (EECS) department offers a Bachelor of Science degree that provides a foundation in the fundamental principles of electrical engineering and computer science. The program emphasizes the development of skills in problem-solving, design, and analysis, as well as the ability to work effectively in teams. The curriculum includes a broad range of courses in electrical engineering and computer science, as well as a strong foundation in mathematics and physics.",
     "id": "electrical-engineering-computer-sciences",
     "college": "College of Engineering"
   },
   {
     "name": "Energy Engineering (B.S.)",
     "shortName": "ENENG-BS",
-    "description": "Develop expertise in energy engineering by exploring theory, application, and innovation. This major equips you to address pressing energy challenges through interdisciplinary collaboration.",
+    "description": "The Energy Engineering program at UC Berkeley is an interdisciplinary major that focuses on the scientific, mathematical, and engineering principles underlying energy conversion and use. The program is designed to provide a broad foundation in the engineering and physical sciences, with a particular emphasis on energy-related topics. Students in the program take a range of courses in subjects such as thermodynamics, fluid mechanics, heat transfer, and energy systems, as well as mathematics and physics.",
     "id": "energy-engineering",
     "college": "College of Engineering"
   },
   {
     "name": "Engineering Mathematics and Statistics (B.S.)",
     "shortName": "EMST-BS",
-    "description": "Engage deeply with engineering mathematics and statistics, applying theory to practical problems. Prepare for complex technical challenges through analytical and collaborative approaches.",
+    "description": "The Bachelor of Science in Engineering Mathematics and Statistics program at UC Berkeley combines mathematical, statistical, and computational techniques to solve complex engineering and scientific problems. The program provides a foundation in mathematical modeling, statistical analysis, and computational methods, preparing students for careers in industry, government, or academia.",
     "id": "engineering-math-statistics",
     "college": "College of Engineering"
   },
   {
     "name": "Engineering Physics (B.S.)",
     "shortName": "ENGPH-BS",
-    "description": "Explore the principles of physics within engineering contexts. This program fosters innovation and problem-solving skills to tackle real-world technical issues.",
+    "description": "The Bachelor of Science in Engineering Physics is an interdisciplinary program that combines the study of physics with the principles of engineering. It provides a foundation in the fundamental laws of physics, mathematical techniques, and computational methods, as well as the application of these principles to real-world engineering problems. The program is designed for students who want to pursue a career in research, development, or academia, or who wish to pursue a graduate degree in physics, engineering, or a related field.",
     "id": "engineering-physics",
     "college": "College of Engineering"
   },
   {
     "name": "English (B.A.)",
     "shortName": "ENGL-BA",
-    "description": "Discover the study of literature, writing, and critical analysis. This major prepares you for diverse careers through exploration of human expression and culture.",
+    "description": "The Department of English at UC Berkeley offers a comprehensive undergraduate major that engages students in the study of literature from diverse periods, cultures, and genres. Students explore a broad range of texts and develop critical skills in reading, analysis, and interpretation. The program emphasizes the historical and cultural contexts of literary works, as well as theoretical approaches to understanding them. Through a variety of course offerings, students gain a deeper understanding of the English literary tradition and its relevance to contemporary issues and global perspectives.",
     "id": "english",
     "college": "College of Letters & Science"
   },
   {
     "name": "Environmental Earth Science (B.S.)",
     "shortName": "ENES-BS",
-    "description": "Study earth systems and environmental processes through theoretical and applied approaches. Prepare to address environmental challenges with scientific rigor and innovation.",
+    "description": "The Environmental Earth Science major provides a foundation in the natural sciences, preparing students to understand and help manage the Earth's resources and environment. The program integrates coursework in earth sciences, ecology, biology, chemistry, and physics to address environmental issues. Students can pursue a range of topics, from the earth's physical systems to the impact of human activities on the environment.",
     "id": "environmental-earth-science",
     "college": "College of Letters & Science"
   },
   {
     "name": "Environmental Economics and Policy (B.S.)",
     "shortName": "EEP-BS",
-    "description": "Examine economic and policy issues related to the environment. Engage with interdisciplinary frameworks to understand and influence sustainable solutions.",
+    "description": "The Environmental Economics and Policy major is designed to provide students with a comprehensive understanding of the economic and policy aspects of environmental issues. The program combines coursework in economics, environmental science, and policy to equip students with the analytical tools and knowledge necessary to address complex environmental problems. Students learn about the economic principles that underlie environmental decision-making, the policy frameworks that shape environmental outcomes, and the scientific principles that inform environmental management.",
     "id": "environmental-economics-policy",
     "college": "College of Natural Resources"
   },
   {
     "name": "Environmental Engineering Science (B.S.)",
     "shortName": "EES-BS",
-    "description": "Advance knowledge in environmental engineering science through applied and theoretical study. This major prepares you to develop innovative solutions to environmental problems.",
+    "description": "The Environmental Engineering Science (EES) major is an interdisciplinary program that provides a foundation in the fundamental sciences and mathematics, combined with laboratory and field experience, and with courses in the social sciences and humanities. EES integrates engineering principles with the natural and social sciences to understand and address environmental challenges. The program is designed to equip students with the knowledge, skills, and perspectives needed to analyze and solve complex environmental problems.",
     "id": "environmental-engineering-science",
     "college": "College of Engineering"
   },
   {
     "name": "Environmental Sciences (B.A.)",
     "shortName": "ENVSC-BA",
-    "description": "Explore environmental science with an emphasis on interdisciplinary inquiry and applied research. Prepare to address global environmental issues through critical thinking and collaboration.",
+    "description": "The Environmental Sciences major is a multidisciplinary program that combines the natural and social sciences to study the causes and consequences of environmental problems. The program is designed to provide students with a broad understanding of the complex interactions between human and natural systems, and to equip them with the skills and knowledge necessary to address environmental challenges. Students in the major choose a subplan in either Conservation and Resource Management or Environmental Policy and Culture.",
     "id": "environmental-sciences",
     "college": "College of Natural Resources"
   },
   {
     "name": "Ethnic Studies (B.A.)",
     "shortName": "ETHN-BA",
-    "description": "Investigate the experiences and histories of diverse ethnic groups through interdisciplinary approaches. This major critically examines identity, power, and social justice in contemporary and historical contexts.",
+    "description": "The Department of Ethnic Studies at the University of California, Berkeley offers an undergraduate major in Ethnic Studies leading to the Bachelor of Arts degree. The major is designed to provide students with a comprehensive understanding of the experiences, cultures, and histories of the diverse ethnic groups that make up the United States. The program includes coursework in four core areas: Comparative Ethnic Studies, Community and Identity, Culture and Representation, and Social Movements and Politics. Students are encouraged to explore the intersections and connections between different ethnic groups, as well as the ways in which these groups have been shaped by historical and contemporary forces.",
     "id": "ethnic-studies",
     "college": "College of Letters & Science"
   },
   {
     "name": "Film & Media (B.A.)",
     "shortName": "FILM-BA",
-    "description": "Explore film and media through both critical analysis and creative practice. This major provides insight into cultural expression and historical developments across diverse media forms.",
+    "description": "The Film and Media department's undergraduate program provides a comprehensive education in the study of film and media, encompassing historical, theoretical, and critical approaches. Students explore the development of cinema and media within social, cultural, and political contexts, gaining a nuanced understanding of the ways in which media shape our perceptions and experiences. The program emphasizes critical thinking, research, and analytical writing skills.",
     "id": "film",
     "college": "College of Letters & Science"
   },
   {
     "name": "French (B.A.)",
     "shortName": "FREN-BA",
-    "description": "Study French language, literature, and culture with immersive and analytical methods. Gain a broad understanding of the Francophone world’s rich traditions and contemporary relevance.",
+    "description": "The French major at UC Berkeley is designed to give students a thorough grounding in the language, literature, and culture of France. The program includes a range of courses in French language, literature, and culture, as well as electives in related fields. Students develop their language skills through coursework and conversation sections, and explore the rich cultural heritage of France through literary and cultural studies. The major prepares students for careers in fields such as education, government, and international business, as well as for graduate study in French or related fields.",
     "id": "french",
     "college": "College of Letters & Science"
   },
   {
     "name": "Gender and Women's Studies (B.A.)",
     "shortName": "GWS-BA",
-    "description": "Explore gender, sexuality, and feminist theory within social and cultural frameworks. Engage critically with issues of power, identity, and social justice across diverse communities.",
+    "description": "The Department of Gender and Women's Studies at UC Berkeley offers an undergraduate major that provides students with a rigorous and interdisciplinary understanding of the social, cultural, and political constructions of gender. The major is designed to equip students with a critical understanding of the ways in which gender intersects with other categories of identity and power, such as race, class, and sexuality. Students explore a range of topics, including the history of feminism, the representation of women in culture, and the impact of gender on social and political institutions.",
     "id": "gender-womens-studies",
     "college": "College of Letters & Science"
   },
   {
     "name": "Genetics and Plant Biology (B.S.)",
     "shortName": "GPBIO-BS",
-    "description": "Advance your knowledge of genetics and plant biology through rigorous research and coursework. Prepare to address biological challenges using innovative experimental approaches.",
+    "description": "The Genetics and Plant Biology major is an interdisciplinary program that integrates genetics, plant biology, and related fields to understand the fundamental principles governing the biology of plants. The program prepares students for careers in research, industry, and education, as well as for graduate study in fields such as genetics, plant biology, and biotechnology.",
     "id": "genetics-plant-biology",
     "college": "College of Natural Resources"
   },
   {
     "name": "Geography (B.A.)",
     "shortName": "GEOG-BA",
-    "description": "Examine spatial relationships and human-environment interactions through interdisciplinary inquiry. This major develops critical thinking about place, power, and society.",
+    "description": "The Department of Geography at UC Berkeley offers an undergraduate major in Geography leading to a Bachelor of Arts degree. The Geography major is designed to provide students with an understanding of the complex relationships between human societies and the environments they inhabit. It encompasses a broad range of topics, including the spatial analysis of social and environmental phenomena, the study of global change, and the exploration of the cultural, economic, and political factors that shape our world. The major is structured around a set of core courses that introduce students to the fundamental concepts and methods of geography, as well as a range of electives that allow students to pursue their interests in greater depth.",
     "id": "geography",
     "college": "College of Letters & Science"
   },
   {
     "name": "Geology (B.A.)",
     "shortName": "GEOL-BA",
-    "description": "Study Earth’s materials, processes, and history through coursework and research. This major prepares students for diverse careers and graduate study in the geosciences.",
+    "description": "The Bachelor of Arts degree in Geology is designed to provide a broad understanding of the Earth sciences, including the study of the Earth's physical structure, composition, and processes. The program includes coursework in geology, Earth systems, and the natural sciences, as well as opportunities for fieldwork and research.",
     "id": "geology",
     "college": "College of Letters & Science"
   },
   {
     "name": "Geophysics (B.S.)",
     "shortName": "GEOPH-BS",
-    "description": "Explore the physical properties and dynamic processes of the Earth with applied and theoretical study. Prepare for careers addressing environmental and resource challenges through scientific analysis.",
+    "description": "The Geophysics major is an interdisciplinary program that provides a strong foundation in the fundamental sciences of physics, mathematics, and geology, with a focus on the application of these disciplines to understanding the Earth's internal and external processes. The program combines coursework in geophysics, seismology, gravity, magnetism, and heat flow to prepare students for a wide range of careers in academia, research, government, and industry.",
     "id": "geophysics",
     "college": "College of Letters & Science"
   },
   {
     "name": "German (B.A.)",
     "shortName": "GERM-BA",
-    "description": "Engage with German language, literature, and culture through critical inquiry and creative exploration. Develop a deep understanding of German-speaking societies and their histories.",
+    "description": "The Department of German offers a comprehensive program in German language, literature, and culture leading to a Bachelor of Arts degree. The program is designed to foster a deep understanding of German-speaking cultures, literary and cultural traditions, and to develop advanced language skills. Students explore a broad range of topics, including literary history, cultural studies, and linguistics, preparing them for careers in education, research, international business, law, and government, or for graduate study.",
     "id": "german",
     "college": "College of Letters & Science"
   },
   {
     "name": "Global Studies (B.A.)",
     "shortName": "GLST-BA",
-    "description": "Investigate global issues through interdisciplinary frameworks that examine identity, power, and justice. This major prepares students to engage with challenges in a rapidly changing world.",
+    "description": "The Global Studies major is an interdisciplinary program that examines the complex relationships between globalization, culture, politics, and economics. Students explore the historical and contemporary dimensions of globalization, analyzing its impact on different societies and communities. The major prepares students for careers in fields such as international relations, global development, human rights, and cultural exchange.",
     "id": "global-studies",
     "college": "College of Letters & Science"
   },
   {
     "name": "Greek (B.A.)",
     "shortName": "GREEK-BA",
-    "description": "Study ancient Greek language, literature, and culture through critical and creative approaches. This major offers insight into classical traditions and their enduring influence.",
+    "description": "The Department of Classics at UC Berkeley offers a major in Greek that provides students with a comprehensive understanding of the Greek language and its literature, as well as the cultural and historical context of ancient Greece. Students develop their knowledge of Greek language and literature through a sequence of courses that cover various genres, periods, and themes.",
     "id": "greek",
     "college": "College of Letters & Science"
   },
   {
     "name": "Greek and Latin (B.A.)",
     "shortName": "GRLA-BA",
-    "description": "Delve into the languages and cultures of ancient Greece and Rome through rigorous study. This major emphasizes critical analysis of classical texts and historical contexts.",
+    "description": "The Department of Classics at UC Berkeley offers a major in Greek and Latin, which is designed to provide students with a comprehensive understanding of the languages, literature, and cultures of ancient Greece and Rome. The program includes coursework in Greek and Latin language and literature, as well as courses on ancient history, culture, and society. The major is designed to develop students' language skills, critical thinking, and analytical abilities, and to prepare them for a range of careers or further study.",
     "id": "greek-and-latin",
     "college": "College of Letters & Science"
   },
   {
     "name": "History (B.A.)",
     "shortName": "HIST-BA",
-    "description": "Explore history through critical inquiry and creative analysis of past events and narratives. This major deepens understanding of human experience across time and place.",
+    "description": "The Department of History at UC Berkeley offers a comprehensive undergraduate major that introduces students to the methods, skills, and perspectives of historians. Students examine historical change over time, exploring diverse cultures and societies. The major emphasizes critical thinking, research, and writing skills, preparing students for a range of careers or graduate study. Coursework spans various historical periods, geographical regions, and thematic topics, allowing students to tailor their studies to their interests.",
     "id": "history",
     "college": "College of Letters & Science"
   },
   {
     "name": "Industrial Engineering & Operations Research (B.S.)",
     "shortName": "IEOR-BS",
-    "description": "Study industrial engineering and operations research with a focus on both theory and practical application. Prepare to solve complex problems using analytical and technical skills.",
+    "description": "The Industrial Engineering and Operations Research (IEOR) department at UC Berkeley offers an undergraduate program that focuses on the design, improvement, and installation of integrated systems of people, materials, information, equipment, and energy. The program emphasizes the application of advanced analytical and computational methods to make better decisions and solve complex problems. IEOR students are trained to be systems thinkers, leveraging operations research, data analytics, and engineering principles to tackle challenges in various industries, including healthcare, finance, technology, and manufacturing.",
     "id": "industrial-engineering-operations-research",
     "college": "College of Engineering"
   },
   {
     "name": "Industrial Engineering & Operations Research & Business Administration (B.S. MET)",
     "shortName": "IEBA-MET",
-    "description": "Integrate industrial engineering, operations research, and business administration in a comprehensive program. Develop skills to lead innovation and manage complex technical challenges.",
+    "description": "The Industrial Engineering & Operations Research & Business Administration program provides a broad-based education in engineering, operations research, and business administration to prepare students for leadership roles. The program combines coursework from the College of Engineering and the Haas School of Business to equip students with a strong foundation in engineering principles, analytical methods, and business practices.",
     "id": "industrial-engineering-operations-research-business-administration",
-    "college": ["College of Engineering", "Haas School of Business"]
+    "college": [
+      "College of Engineering",
+      "Haas School of Business"
+    ]
   },
   {
     "name": "Integrative Biology (B.S.)",
     "shortName": "INTB-BS",
-    "description": "Advance understanding of biological systems through interdisciplinary study and research. This major prepares students to address complex biological questions innovatively.",
+    "description": "The Integrative Biology major provides a comprehensive understanding of biological principles, integrating molecular, organismal, and evolutionary perspectives. The program emphasizes laboratory research, fieldwork, and critical thinking, preparing students for careers in research, healthcare, conservation, and education, as well as graduate study.",
     "id": "integrative-biology",
     "college": "College of Letters & Science"
   },
   {
     "name": "Interdisciplinary Studies (B.A.)",
     "shortName": "INTD-BA",
-    "description": "Bridge multiple disciplines to develop innovative solutions to contemporary challenges. This major fosters strategic thinking and leadership across fields of study.",
+    "description": "The Interdisciplinary Studies major is designed for students who wish to pursue an individually tailored course of study that doesn't fit within a single department or existing major. Students, in consultation with faculty advisors, design a coherent program that integrates multiple disciplines. The major requires a minimum of 12 upper division courses, including a senior colloquium and a minimum of 3 courses in each of 2 or 3 focus areas.",
     "id": "interdisciplinary-studies",
     "college": "College of Letters & Science"
   },
   {
     "name": "Italian Studies (B.A.)",
     "shortName": "ITAL-BA",
-    "description": "Explore Italian language, literature, and culture through critical and creative inquiry. Gain insight into Italy’s rich artistic and historical traditions.",
+    "description": "The Italian Studies major at UC Berkeley is an interdisciplinary program that encompasses the study of Italian language, literature, culture, and history. Students explore the rich cultural heritage of Italy, from the medieval period to the present day, and develop a deep understanding of the Italian language and its nuances. The major is designed to foster critical thinking, analytical skills, and effective communication.",
     "id": "italian-studies",
     "college": "College of Letters & Science"
   },
   {
     "name": "Japanese Language (B.A.)",
     "shortName": "JPNL-BA",
-    "description": "Engage deeply with Japanese language and culture through critical and creative study. This major provides broad understanding of Japan’s history and contemporary society.",
+    "description": "The Department of East Asian Languages and Cultures offers a major in Japanese Language, which includes the study of Japanese language, literature, and culture. Students develop proficiency in the Japanese language and explore various aspects of Japanese culture, history, and society. The program aims to provide students with a deep understanding of Japan and its significance in the world.",
     "id": "japanese-language",
     "college": "College of Letters & Science"
   },
   {
     "name": "Landscape Architecture (B.A.)",
     "shortName": "LAND-BA",
-    "description": "Discover landscape architecture through design, research, and applied learning. This major prepares students for careers focused on creating sustainable and inspiring environments.",
+    "description": "The Bachelor of Arts in Landscape Architecture is an undergraduate degree that provides a comprehensive education in the field. The program focuses on the design, planning, and management of landscapes, and includes coursework in landscape history, theory, and design, as well as ecological and cultural contexts.",
     "id": "landscape-architecture",
     "college": "College of Environmental Design"
   },
   {
     "name": "Latin (B.A.)",
     "shortName": "LATN-BA",
-    "description": "Study Latin language and literature through critical analysis and creative exploration. This major offers deep insight into classical heritage and its influence.",
+    "description": "The Department of Classics at UC Berkeley offers a comprehensive undergraduate major in Latin, focusing on the language, literature, and culture of ancient Rome. Students engage with a broad range of texts and genres, from the early Roman Republic to the late Empire, developing a deep understanding of Latin language and its literary and historical contexts. The program cultivates skills in reading, translation, and interpretation, as well as critical analysis and scholarly research.",
     "id": "latin",
     "college": "College of Letters & Science"
   },
   {
     "name": "Legal Studies (B.A.)",
     "shortName": "LEGL-BA",
-    "description": "Examine legal systems, theories, and practices from interdisciplinary perspectives. This major engages critically with themes of power, justice, and society.",
+    "description": "The Legal Studies major is an interdisciplinary program that explores the role of law in society, examining its social, political, economic, and cultural contexts. The major provides students with a comprehensive understanding of the complex relationships between law, power, and social justice, and prepares them for careers in law, government, non-profit organizations, and private industry. Students choose from a range of courses that cover topics such as the history and theory of law, the relationship between law and social inequality, and the role of law in shaping public policy.",
     "id": "legal-studies",
     "college": "College of Letters & Science"
   },
   {
     "name": "Linguistics (B.A.)",
     "shortName": "LING-BA",
-    "description": "Explore the scientific study of language through coursework and research. This major prepares students for diverse careers by deepening understanding of language structure and use.",
+    "description": "The Linguistics major at UC Berkeley provides a comprehensive education in the scientific study of language, covering phonetics, phonology, morphology, syntax, semantics, and pragmatics. Students gain a deep understanding of the structure, acquisition, and use of language, as well as its role in society.",
     "id": "linguistics",
     "college": "College of Letters & Science"
   },
   {
     "name": "Marine Science (B.S.)",
     "shortName": "MAR-SC",
-    "description": "Advance understanding of marine ecosystems through theory, research, and applied science. Prepare to address challenges in ocean and coastal environments with interdisciplinary approaches.",
+    "description": "The Marine Science major is an interdisciplinary program that provides a rigorous foundation in the natural sciences, with a specific focus on the marine environment. The major is designed for students who wish to pursue a broad education in the natural sciences, with a strong emphasis on the study of the Earth's oceans. Students in the major take a core curriculum that includes courses in biology, chemistry, physics, and mathematics, as well as upper division courses in marine science. The program prepares students for a variety of careers in fields such as oceanography, marine biology, and environmental science, as well as for graduate study.",
     "id": "marine-science",
     "college": "College of Letters & Science"
   },
   {
     "name": "Materials Science & Engineering (B.S.)",
     "shortName": "MSE-BS",
-    "description": "Study materials science and engineering with emphasis on innovation and practical application. This major prepares students to solve real-world challenges through interdisciplinary collaboration.",
+    "description": "The undergraduate program in Materials Science & Engineering provides students with a fundamental understanding of the structure, properties, and performance of materials. The program covers the full spectrum of materials, from metals and ceramics to polymers and biomaterials, and prepares students for careers in a wide range of industries, including aerospace, biotechnology, energy, and electronics. The curriculum includes coursework in mathematics, physics, and chemistry, as well as materials-specific courses in thermodynamics, kinetics, and materials characterization.",
     "id": "materials-science-engineering",
     "college": "College of Engineering"
   },
   {
     "name": "Materials Science & Engineering / Mechanical Engineering Joint Major (B.S.)",
     "shortName": "MSEM-BS",
-    "description": "Combine materials science and mechanical engineering to develop expertise in both fields. This joint major prepares students for innovative problem-solving and technical leadership.",
+    "description": "The joint major in Materials Science & Engineering and Mechanical Engineering is an interdisciplinary program that combines the study of materials properties and behavior with the principles of mechanical engineering. Students in this program gain a deep understanding of the relationships between materials, mechanical systems, and engineering applications.",
     "id": "materials-science-engineering-mechanical-joint-major",
     "college": "College of Engineering"
   },
   {
     "name": "Materials Science & Engineering / Nuclear Engineering Joint Major (B.S.)",
     "shortName": "MSEN-BS",
-    "description": "Integrate materials science with nuclear engineering in a rigorous program. Prepare to tackle advanced technical challenges with interdisciplinary skills.",
+    "description": "The Materials Science & Engineering / Nuclear Engineering Joint Major is an interdisciplinary program that combines the study of materials science and nuclear engineering. Students in this program gain a deep understanding of the properties and applications of materials, as well as the principles of nuclear engineering. The program is designed to provide a comprehensive education in the fundamentals of materials science and nuclear engineering, preparing students for careers in a wide range of fields, including energy, aerospace, and biotechnology.",
     "id": "materials-science-engineering-nuclear-joint-major",
     "college": "College of Engineering"
   },
   {
     "name": "Materials Science & Engineering and Business Administration (B.S. MET)",
     "shortName": "MSEB-MET",
-    "description": "Combine materials science and engineering with business administration. This major prepares students to lead innovation and manage technical enterprises effectively.",
+    "description": "The Materials Science & Engineering and Business Administration program is an interdisciplinary major that combines the study of materials science and engineering with business administration. Students in this program gain a strong foundation in materials science and engineering, as well as coursework in business administration, preparing them for careers at the intersection of technology and business.",
     "id": "materials-science-engineering-business-administration",
-    "college": ["College of Engineering", "Haas School of Business"]
+    "college": [
+      "College of Engineering",
+      "Haas School of Business"
+    ]
   },
   {
     "name": "Mathematics (B.S.)",
     "shortName": "MATH-BS",
-    "description": "Engage deeply with mathematical theory and applications. This major develops analytical skills to address complex problems in diverse fields.",
+    "description": "The Department of Mathematics offers a Bachelor of Science degree program that provides a broad foundation in mathematics, including pure mathematics, applied mathematics, and probability and statistics. The program is designed to provide students with a deep understanding of mathematical concepts and techniques, as well as the ability to apply them to real-world problems.",
     "id": "mathematics",
     "college": "College of Letters & Science"
   },
   {
     "name": "Mechanical Engineering (B.S.)",
     "shortName": "MECH-BS",
-    "description": "Advance knowledge of mechanical engineering through theory and applied practice. Prepare to innovate and solve technical challenges across a variety of industries.",
+    "description": "The Mechanical Engineering program at UC Berkeley is designed to provide a broad foundation in the principles of mechanical engineering, including the design, analysis, and manufacturing of mechanical systems. The program emphasizes the development of problem-solving skills, creativity, and communication, preparing students for a wide range of careers in industry, government, and academia.",
     "id": "mechanical-engineering",
     "college": "College of Engineering"
   },
   {
     "name": "Mechanical Engineering & Business Administration (B.S. MET)",
     "shortName": "MEBA-MET",
-    "description": "Integrate mechanical engineering with business administration. This major prepares students to lead technical projects and enterprises with strategic insight.",
+    "description": "The Mechanical Engineering & Business Administration program combines a foundation in mechanical engineering with core business administration courses to prepare students for leadership roles at the intersection of technology and management. The program is designed for students who wish to pursue a career in engineering management, product development, or related fields.",
     "id": "mechanical-engineering-business-administration",
-    "college": ["College of Engineering", "Haas School of Business"]
+    "college": [
+      "College of Engineering",
+      "Haas School of Business"
+    ]
   },
   {
     "name": "Mechanical Engineering / Nuclear Engineering (B.S.)",
     "shortName": "MENB-BS",
-    "description": "Combine mechanical and nuclear engineering in a comprehensive program. Prepare to address advanced engineering challenges through interdisciplinary expertise.",
+    "description": "The Mechanical Engineering major with a Nuclear Engineering emphasis is an interdisciplinary program that combines the fundamental principles of mechanical engineering with the specialized knowledge of nuclear engineering. The program aims to provide students with a broad foundation in mechanical engineering and a deep understanding of nuclear engineering principles, preparing them for careers in the nuclear industry or for graduate study.",
     "id": "mechanical-engineering-nuclear",
     "college": "College of Engineering"
   },
   {
     "name": "Media Studies (B.A.)",
     "shortName": "MEDS-BA",
-    "description": "Study media theory, history, and practice through critical and creative approaches. This major offers insight into media’s evolving role in culture and society.",
+    "description": "The Media Studies major provides students with an interdisciplinary foundation in the study of media, examining the social, cultural, economic, and political dimensions of media in contemporary society. Students explore a range of media forms and practices, from traditional mass media to digital and interactive media, and engage with critical theories and methodologies for analyzing media's impact on individuals and society. The program emphasizes both the historical and contemporary significance of media, as well as the development of critical thinking, research, and analytical skills.",
     "id": "media-studies",
     "college": "College of Letters & Science"
   },
   {
     "name": "Microbial Biology (B.S.)",
     "shortName": "MICB-BS",
-    "description": "Advance understanding of microbial biology through research and applied science. Prepare to tackle challenges in health, environment, and biotechnology.",
+    "description": "The Microbial Biology major is an interdisciplinary program that provides a foundation in the biology of microorganisms, with an emphasis on their interactions with their environments and their roles in the biosphere. The major is designed to provide a broad understanding of microbial biology, including the structure, function, and genetics of microorganisms, as well as their applications in biotechnology, medicine, and the environment.",
     "id": "microbial-biology",
     "college": "College of Natural Resources"
   },
   {
     "name": "Middle Eastern Languages & Cultures (B.A.)",
     "shortName": "MECL-BA",
-    "description": "Explore the languages, literatures, and cultures of the Middle East through interdisciplinary inquiry. This major fosters critical understanding of the region’s historical and contemporary issues.",
+    "description": "The Department of Middle Eastern Languages and Cultures offers an undergraduate major in Middle Eastern Languages and Cultures, which encompasses the study of languages, literatures, cultures, and histories of the Middle East. The program allows students to explore the region through various disciplinary approaches, including language and literature, history, and cultural studies. Students are required to gain proficiency in a Middle Eastern language and engage with the cultural and historical contexts of the region.",
     "id": "middle-eastern-languages-cultures",
     "college": "College of Letters & Science"
   },
   {
     "name": "Molecular Environmental Biology (B.S.)",
     "shortName": "MEBI-BS",
-    "description": "Study the molecular basis of environmental processes and organisms. This major combines biology, chemistry, and ecology to prepare students for research and environmental solutions.",
+    "description": "The Molecular Environmental Biology major is an interdisciplinary program that combines the study of environmental science and molecular biology. Students in this major explore the interactions between organisms and their environment at the molecular level, with a focus on understanding and addressing environmental problems. The program is designed to provide a strong foundation in the biological, chemical, and physical sciences, as well as training in the molecular and cellular techniques used to study environmental systems.",
     "id": "molecular-environmental-biology",
     "college": "College of Natural Resources"
   },
   {
     "name": "Molecular and Cell Biology (B.S.)",
     "shortName": "MCBI-BS",
-    "description": "Investigate the molecular and cellular foundations of life through experimental research. This major emphasizes interdisciplinary approaches to understanding biological systems.",
+    "description": "The Molecular and Cell Biology major is designed to provide students with a comprehensive understanding of the molecular and cellular basis of life, preparing them for careers in research, healthcare, education, and biotechnology. The curriculum includes foundational courses in biology, chemistry, physics, and mathematics, as well as advanced courses in molecular biology, genetics, cell biology, and biochemistry.",
     "id": "molecular-cell-biology",
     "college": "College of Natural Resources"
   },
   {
     "name": "Music (B.A.)",
     "shortName": "MUSI-BA",
-    "description": "Engage with music as both an art form and cultural practice. The curriculum combines performance, composition, and critical analysis across diverse traditions and genres.",
+    "description": "The Department of Music at UC Berkeley offers a comprehensive program that includes the study of music theory, musicianship, music history, and performance. The undergraduate major is designed to provide students with a broad understanding of music, its historical and cultural contexts, and its performance practices. Students are trained in the skills of analysis, criticism, and performance, and are prepared for a variety of careers in music and related fields.",
     "id": "music",
     "college": "College of Letters & Science"
   },
   {
     "name": "Native American Studies (B.A.)",
     "shortName": "NAMS-BA",
-    "description": "Examine Native American histories, cultures, and contemporary issues through interdisciplinary study. This major centers Indigenous perspectives and social justice.",
+    "description": "The Native American Studies major is an interdisciplinary program that focuses on the histories, cultures, and experiences of Native American communities. The major provides a foundation in Native American studies through core courses and electives that explore the diverse perspectives and histories of Native American peoples.",
     "id": "native-american-studies",
     "college": "College of Letters & Science"
   },
   {
     "name": "Neuroscience (B.S.)",
     "shortName": "NEUR-BS",
-    "description": "Explore the structure and function of the nervous system through integrative study and research. This major prepares students for careers in medicine, research, and related fields.",
+    "description": "The undergraduate major in Neuroscience is an interdisciplinary program that studies the nervous system at multiple levels: molecular, cellular, systems, and behavioral. The program emphasizes a deep understanding of the structure, function, and development of the nervous system, as well as the underlying mechanisms of neurological and psychiatric disorders.",
     "id": "neuroscience",
     "college": "College of Letters & Science"
   },
   {
     "name": "Nuclear Engineering (B.S.)",
     "shortName": "NUCE-BS",
-    "description": "Focus on principles and applications of nuclear science and engineering. This major prepares students for careers in energy, medicine, and advanced technology sectors.",
+    "description": "The Nuclear Engineering undergraduate program at UC Berkeley provides a broad-based education in the principles of nuclear science and engineering, preparing students for careers in the nuclear industry, government, and research institutions, as well as for graduate study. The program includes coursework in nuclear physics, reactor design, radiation protection, and nuclear materials, as well as a strong foundation in mathematics, physics, and chemistry.",
     "id": "nuclear-engineering",
     "college": "College of Engineering"
   },
   {
     "name": "Nutritional & Metabolic Biology (B.S.)",
     "shortName": "NUMB-BS",
-    "description": "Explore human metabolism and nutrition through molecular and physiological perspectives. This major prepares students for careers in health, research, and biomedical fields.",
+    "description": "The Nutritional and Metabolic Biology major provides a strong foundation in the life sciences, chemistry, and nutrition, preparing students for careers in research, healthcare, education, and industry. The program focuses on understanding the complex interactions between diet, metabolism, and health, and how nutritional factors influence disease prevention and treatment. Coursework includes molecular and cellular biology, biochemistry, physiology, nutrition, and metabolism.",
     "id": "nutritional-metabolic-biology",
     "college": "College of Natural Resources"
   },
   {
     "name": "Nutritional Sciences: Physiology & Metabolism (B.S.)",
     "shortName": "NSPM-BS",
-    "description": "Investigate physiological processes that regulate nutrition and metabolism with an emphasis on research and health sciences. Students gain interdisciplinary skills to address nutrition-related challenges.",
+    "description": "The Nutritional Sciences: Physiology & Metabolism major provides a rigorous education in the biological and physiological sciences underlying human nutrition, focusing on the scientific basis for understanding the role of nutrition in health and disease. The program emphasizes the integration of nutritional science with the study of human physiology and metabolism.",
     "id": "physiology-and-metabolism",
     "college": "College of Natural Resources"
   },
   {
     "name": "Nutritional Sciences: Toxicology (B.S.)",
     "shortName": "NSTM-BS",
-    "description": "Study how toxins and chemicals impact metabolic systems and human health. This major combines research and applied science to prepare students for careers in public health and regulation.",
+    "description": "The Nutritional Sciences: Toxicology major is designed for students interested in the study of toxicology and its relationship to nutrition. The program provides a strong foundation in the biological and physical sciences, as well as courses specific to toxicology, nutrition, and biochemistry. Students learn about the adverse effects of chemicals on living organisms and how nutritional factors influence toxicity and disease. The curriculum prepares students for careers in research, government, industry, or further study in fields like toxicology, nutrition, or environmental health.",
     "id": "nutritional-sciences-toxicology",
     "college": "College of Natural Resources"
   },
   {
     "name": "Philosophy (B.A.)",
     "shortName": "PHIL-BA",
-    "description": "Engage with fundamental questions about knowledge, ethics, and existence. This major develops critical thinking and analytical skills across diverse philosophical traditions.",
+    "description": "The Department of Philosophy offers an undergraduate major leading to the Bachelor of Arts degree. The major is designed to provide students with a broad understanding of the main areas of philosophy, including metaphysics, epistemology, ethics, logic, and the history of philosophy. Students are encouraged to explore the department's diverse course offerings, which cover a wide range of philosophical topics and periods.",
     "id": "philosophy",
     "college": "College of Letters & Science"
   },
   {
     "name": "Physics (B.S.)",
     "shortName": "PHYS-BS",
-    "description": "Study the fundamental laws of nature through theoretical and experimental approaches. This major prepares students for research and technical careers in physical sciences.",
+    "description": "The Physics B.S. program at UC Berkeley provides a comprehensive education in physics, preparing students for careers in research, academia, and industry, as well as for graduate study. The curriculum includes coursework in classical mechanics, electromagnetism, thermodynamics, quantum mechanics, and statistical mechanics, as well as laboratory and computational physics.",
     "id": "physics",
     "college": "College of Letters & Science"
   },
   {
     "name": "Planetary Science (B.S.)",
     "shortName": "PLAN-BS",
-    "description": "Explore the formation, geology, atmospheres, and potential habitability of planets within and beyond our solar system. This interdisciplinary major combines astronomy, geology, and atmospheric science to understand planetary environments.",
+    "description": "The Planetary Science major is an interdisciplinary program that provides a rigorous foundation in the Earth sciences, astronomy, and physics, as well as in the mathematical and computational methods used to study planetary systems. Students in this major gain a broad understanding of the formation and evolution of planetary systems, the physics and chemistry of planetary bodies, and the techniques used to study them.",
     "id": "planetary-science",
     "college": "College of Letters & Science"
   },
   {
     "name": "Political Economy (B.A.)",
     "shortName": "POEC-BA",
-    "description": "Examine the interaction of economic and political systems to understand public policy, global inequality, and institutional dynamics. This major integrates theory and empirical research to address complex societal challenges.",
+    "description": "The Political Economy major provides students with a comprehensive understanding of the interplay between economic and political systems. The program combines coursework from various departments, including Economics, Political Science, and Sociology, to equip students with a nuanced understanding of the complex relationships between markets, states, and societies. Students explore the historical and contemporary dynamics of capitalism, the role of power and inequality, and the impact of globalization on local and global communities.",
     "id": "political-economy",
     "college": "College of Letters & Science"
   },
   {
     "name": "Political Science (B.A.)",
     "shortName": "POLS-BA",
-    "description": "Analyze political systems, behavior, and theory from comparative and global perspectives. This major fosters understanding of power, governance, and public policy.",
+    "description": "The Department of Political Science offers an undergraduate major leading to the Bachelor of Arts degree. The major is designed to acquaint students with the knowledge and skills needed to understand politics and to evaluate public issues and events. The department offers a range of introductory and advanced courses, from the study of institutions and political behavior to the analysis of global issues and international relations.",
     "id": "political-science",
     "college": "College of Letters & Science"
   },
   {
     "name": "Psychology (B.A.)",
     "shortName": "PSYC-BA",
-    "description": "Explore human behavior and mental processes through scientific study. This major prepares students for diverse fields including research, counseling, and health sciences.",
+    "description": "The Department of Psychology at UC Berkeley offers an undergraduate major in Psychology that provides a broad understanding of the principles and methods of psychology. The program includes coursework in research methods, statistics, and a range of content areas such as cognition, social psychology, and developmental psychology. Students are encouraged to explore the many subfields within psychology and to develop their research skills through participation in faculty-mentored research projects.",
     "id": "psychology",
     "college": "College of Letters & Science"
   },
   {
     "name": "Public Health (B.A.)",
     "shortName": "PHLH-BA",
-    "description": "Examine population health, epidemiology, and health policy to address social determinants of well-being. This interdisciplinary major prepares students to promote health equity and community resilience.",
+    "description": "The Division of Public Health in the School of Public Health offers an undergraduate major in Public Health. The undergraduate major in Public Health is designed to provide students with a broad understanding of the many facets of public health. Students in the program take courses that provide a foundation in the core disciplines of public health, including epidemiology, biostatistics, health policy, environmental health, and social and behavioral sciences. The major also includes a set of electives that allow students to explore specific areas of interest, such as global health, health equity, and health care systems.",
     "id": "public-health",
     "college": "College of Letters & Science"
   },
   {
     "name": "Rhetoric (B.A.)",
     "shortName": "RHET-BA",
-    "description": "Explore the art of persuasion and argumentation across media, public speaking, and cultural contexts. This major develops critical thinking and communication skills through analysis of discourse.",
+    "description": "The Rhetoric major at UC Berkeley is an interdisciplinary program that focuses on the study of persuasion, communication, and argumentation. Students examine the ways in which language and symbols are used to shape understanding, influence beliefs, and construct identities. The major is grounded in the Department's historical emphasis on classical rhetoric, while also engaging with contemporary theories and practices of communication. Through coursework and independent study, students develop critical thinking, writing, and speaking skills, preparing them for a variety of careers in fields such as law, politics, media, and education.",
     "id": "rhetoric",
     "college": "College of Letters & Science"
   },
   {
     "name": "Scandinavian (B.A.)",
     "shortName": "SCAN-BA",
-    "description": "Study the languages, literatures, and cultures of the Nordic region with emphasis on history and social institutions. This major fosters deep engagement with Scandinavian societies past and present.",
+    "description": "The Department of Scandinavian offers an undergraduate major in Scandinavian Languages and Literatures leading to the Bachelor of Arts degree. The major is designed to give students a broad understanding of the language, literature, and culture of Scandinavia.",
     "id": "scandinavian",
     "college": "College of Letters & Science"
   },
   {
     "name": "Slavic Languages and Literatures (B.A.)",
     "shortName": "SLAV-BA",
-    "description": "Explore the languages, literatures, and cultures of Russia, Eastern Europe, and the Balkans through historical and literary study. This major highlights the region’s diverse voices and traditions.",
+    "description": "The Department of Slavic Languages and Literatures offers a major in Slavic Languages and Literatures leading to a Bachelor of Arts degree. The major is designed to provide students with a comprehensive understanding of the literature, culture, and languages of Slavic countries, including Russia, Poland, and other countries in the region. The program includes coursework in language, literature, and culture, as well as electives in related fields.",
     "id": "slavic-languages-literatures",
     "college": "College of Letters & Science"
   },
   {
     "name": "Social Welfare (B.A.)",
     "shortName": "SWEL-BA",
-    "description": "Investigate social policies, community programs, and advocacy aimed at reducing poverty and inequality. This major prepares students for careers in social services and public policy.",
+    "description": "The undergraduate program in Social Welfare is designed to provide students with a comprehensive understanding of social welfare issues, policies, and practices. The major prepares students for careers in social services, policy analysis, and community organization, as well as for graduate study in social work and related fields. Students learn about the social, economic, and political contexts that shape social welfare policies and programs, and develop skills in critical thinking, analysis, and communication.",
     "id": "socialwelfare",
     "college": "College of Letters & Science"
   },
   {
     "name": "Society and Environment (B.A.)",
     "shortName": "SAEN-BA",
-    "description": "Examine the complex interactions between human societies and their environments through interdisciplinary study. This major emphasizes policy, ecology, and sustainable solutions to environmental challenges.",
+    "description": "The Society and Environment major is an inter-disciplinary program that examines the complex relationships between human societies and the environment. The major is grounded in the social sciences, humanities, and natural sciences, and provides students with a comprehensive understanding of the social, cultural, and environmental dimensions of environmental issues. Students in the major explore the ways in which social structures, institutions, and processes shape human-environment interactions, and develop skills in analyzing and addressing environmental problems.",
     "id": "society-environment",
     "college": "College of Natural Resources"
   },
   {
     "name": "Sociology (B.A.)",
     "shortName": "SOCY-BA",
-    "description": "Analyze social behavior, institutions, and inequalities using empirical research and social theory. This major covers diverse topics including crime, family, and social change.",
+    "description": "The Department of Sociology at UC Berkeley offers a comprehensive undergraduate program that introduces students to the study of social institutions, social relations, and social change. The program emphasizes the development of critical thinking, research skills, and sociological theory, preparing students for a wide range of careers or further study in sociology and related fields.",
     "id": "sociology",
     "college": "College of Letters & Science"
   },
   {
     "name": "South and Southeast Asian Studies (B.A.)",
     "shortName": "SSEA-BA",
-    "description": "Study the cultures, histories, and languages of South and Southeast Asia through interdisciplinary coursework. This major provides broad perspectives on a diverse and dynamic region.",
+    "description": "The Department of South and Southeast Asian Studies at UC Berkeley offers an undergraduate major that provides students with a comprehensive understanding of the languages, cultures, histories, and societies of South and Southeast Asia. The program allows students to explore the region through a variety of disciplinary approaches, including language and literature, history, anthropology, and cultural studies. Students are required to gain proficiency in at least one language of the region and to take a range of courses that cover the diverse cultures, histories, and societies of South and Southeast Asia.",
     "id": "south-southeast-asian-studies",
     "college": "College of Letters & Science"
   },
   {
     "name": "Spanish and Portuguese (B.A.)",
     "shortName": "SPPT-BA",
-    "description": "Explore Spanish and Portuguese languages and literatures with comparative study of Iberian and Latin American cultures. This major develops linguistic skills and cultural understanding.",
+    "description": "The Department of Spanish and Portuguese offers a major in Spanish and/or Portuguese leading to the Bachelor of Arts degree. The major is designed to develop students' mastery of the language and their ability to analyze the cultural and literary traditions of the Iberian Peninsula and Latin America. Students may choose to focus on one or both languages, and may also pursue coursework in related fields such as linguistics, cultural studies, and literature.",
     "id": "spanish-portuguese",
     "college": "College of Letters & Science"
   },
   {
     "name": "Statistics (B.S.)",
     "shortName": "STAT-BS",
-    "description": "Gain rigorous training in probability, statistical theory, and data analysis for applications in science, business, and policy. This major equips students to extract insights from complex data.",
+    "description": "The Bachelor of Science in Statistics at UC Berkeley is designed to provide students with a comprehensive understanding of statistical theory and methods, as well as the ability to apply statistical knowledge to real-world problems. The program emphasizes the development of critical thinking, problem-solving, and communication skills. Students learn to collect and analyze data, make informed decisions, and effectively convey their findings.",
     "id": "statistics",
     "college": "College of Letters & Science"
   },
   {
     "name": "Sustainable Environmental Design (B.A.)",
     "shortName": "SEDZ-BA",
-    "description": "Study the design of buildings, communities, and landscapes with a focus on sustainability and ecological resilience. This major integrates environmental science with creative problem-solving.",
+    "description": "The Sustainable Environmental Design major provides students with a comprehensive understanding of the interrelationships between the built environment, cultural landscapes, and ecological systems. The program focuses on the social, cultural, and environmental aspects of design and planning, preparing students for careers in fields such as architecture, landscape architecture, urban planning, and environmental consulting.",
     "id": "sustainable-environmental-design",
     "college": "College of Environmental Design"
   },
   {
     "name": "Theater and Performance Studies (B.A.)",
     "shortName": "THEA-BA",
-    "description": "Explore theater history, theory, and practice with opportunities in acting, directing, and playwriting. This major cultivates creative expression and critical analysis of performance.",
+    "description": "The Department of Theater and Performance Studies at UC Berkeley offers an undergraduate major that combines critical thinking, historical and cultural context, and practical skills in theater and performance. The program encompasses a broad range of courses, including performance, design, dramaturgy, and critical analysis. Students engage with diverse traditions and contemporary practices, preparing them for a variety of careers or further study.",
     "id": "theater-performance-studies",
     "college": "College of Letters & Science"
   },
   {
     "name": "Urban Studies (B.A.)",
     "shortName": "URBN-BA",
-    "description": "Examine urbanization, planning, and social dynamics in cities through policy, design, and geographic perspectives. This major prepares students to engage with the challenges of urban life.",
+    "description": "The Urban Studies major is an interdisciplinary program that examines the social, economic, and political processes shaping urban environments. It draws on a range of disciplines, including sociology, economics, geography, and political science, to understand the complex issues facing urban areas. Students in the major develop a critical understanding of the historical and contemporary forces that have shaped urban development and learn to analyze the impact of urban policies and programs. The major prepares students for careers in fields such as urban planning, policy analysis, community development, and research.",
     "id": "urban-studies",
     "college": "College of Environmental Design"
   }
