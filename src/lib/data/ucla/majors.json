@@ -1,0 +1,933 @@
+[
+  {
+    "name": "African American Studies (B.A.)",
+    "id": "african-american-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=40",
+    "college": "The College",
+    "description": "The Department of African American Studies at UCLA offers an undergraduate major that provides students with a comprehensive understanding of the history, culture, and experiences of Black people in the United States and across the African diaspora. The program is interdisciplinary, drawing on fields such as history, literature, sociology, politics, and cultural studies to examine the complexities of the Black experience."
+  },
+  {
+    "name": "African and Middle Eastern Studies (B.A.)",
+    "id": "african-and-middle-eastern-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=49B",
+    "college": "The College",
+    "description": "The Department of African American Studies and the Department of Near Eastern Languages and Cultures offer an interdisciplinary major in African and Middle Eastern Studies. The major is designed to provide students with a broad understanding of the cultures, histories, and societies of Africa and the Middle East. Students may focus on a particular region or pursue a comparative study of the cultures, languages, and histories of these areas. The major requires a total of 48 units, with 12 courses in the student's chosen track."
+  },
+  {
+    "name": "American Indian Studies (B.A.)",
+    "id": "american-indian-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=030",
+    "college": "The College",
+    "description": "The American Indian Studies major is an interdisciplinary program that focuses on the histories, cultures, and experiences of Native American communities. The program provides students with a comprehensive understanding of the complex issues facing Native American communities, including cultural preservation, identity, and social justice. Students in the program explore a range of topics, from the historical and contemporary contexts of Native American life to the cultural and artistic expressions of Native American communities."
+  },
+  {
+    "name": "American Literature and Culture (B.A.)",
+    "id": "american-literature-and-culture-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=761",
+    "college": "The College",
+    "description": "The American Literature and Culture major is an interdisciplinary program that explores the diverse cultural, historical, and literary traditions of the United States. Students examine American culture through a variety of lenses, including literature, history, and cultural studies, and develop critical thinking, writing, and research skills. The program prepares students for a range of careers in fields such as education, media, law, and the arts."
+  },
+  {
+    "name": "Ancient Near East and Egyptology (B.A.)",
+    "id": "ancient-near-east-and-egyptology-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=41",
+    "college": "The College",
+    "description": "The Ancient Near East and Egyptology major provides students with a comprehensive understanding of the cultures, languages, and histories of the ancient civilizations of the Near East and Egypt. The program includes coursework in languages such as Akkadian, Sumerian, and Egyptian, as well as courses on the history, culture, and archaeology of these regions. Students develop skills in critical thinking, analysis, and written and oral communication."
+  },
+  {
+    "name": "Anthropology (B.A.)",
+    "id": "anthropology-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=42",
+    "college": "The College",
+    "description": "The Anthropology major is designed to provide students with a broad understanding of the biological and cultural diversity of humans, both past and present. The program covers a wide range of topics, from human evolution and biological variation to cultural anthropology and archaeology. Students learn about the theoretical foundations of anthropology, research methods, and the application of anthropological knowledge to contemporary issues."
+  },
+  {
+    "name": "Anthropology (B.S.)",
+    "id": "anthropology-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=43",
+    "college": "The College",
+    "description": "The Anthropology major is designed to provide students with a broad understanding of the discipline, including its four subfields: sociocultural anthropology, biological anthropology, archaeology, and linguistic anthropology. The program emphasizes the development of critical thinking, research, and analytical skills."
+  },
+  {
+    "name": "Arabic (B.A.)",
+    "id": "arabic-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=081",
+    "college": "The College",
+    "description": "The Arabic major is designed to provide students with a comprehensive understanding of the Arabic language, literature, and culture. The program includes coursework in Arabic language and linguistics, literature, history, and culture, as well as electives that allow students to explore specific interests."
+  },
+  {
+    "name": "Art History (B.A.)",
+    "id": "art-history-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=093",
+    "college": "The College",
+    "description": "The Art History major is designed to introduce students to the global history of art from antiquity to the modern and contemporary eras. The program focuses on the historical development of art, architecture, and visual culture, examining the social, cultural, and historical contexts in which artworks were created. Students develop critical thinking, research, and writing skills through the study of diverse artistic traditions."
+  },
+  {
+    "name": "Asian American Studies (B.A.)",
+    "id": "asian-american-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=100",
+    "college": "The College",
+    "description": "The Asian American Studies major is an interdisciplinary program that focuses on the experiences of people of Asian descent in the United States and elsewhere. The program examines the historical, social, cultural, and political contexts that have shaped the lives of Asian Americans. Students in the major explore the complexities of Asian American identity, community, and culture through coursework in the humanities, social sciences, and cultural studies."
+  },
+  {
+    "name": "Asian Humanities (B.A.)",
+    "id": "asian-humanities-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=442",
+    "college": "The College",
+    "description": "The Asian Humanities major is an interdisciplinary program that explores the cultures, histories, and societies of Asia. The program focuses on the development of critical thinking, writing, and analytical skills through the study of Asian languages, literatures, and cultural practices. Students examine the historical, social, and cultural contexts that have shaped Asian cultures and societies."
+  },
+  {
+    "name": "Asian Languages and Linguistics (B.A.)",
+    "id": "asian-languages-and-linguistics-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=408",
+    "college": "The College",
+    "description": "The Asian Languages and Linguistics major at UCLA is designed to provide students with a comprehensive understanding of the languages and linguistics of Asia. The program covers the language, literature, and culture of various Asian countries, with a focus on linguistic analysis, cultural context, and historical development. Students can choose from a range of courses that cover different Asian languages, including Chinese, Japanese, Korean, and Southeast Asian languages."
+  },
+  {
+    "name": "Asian Religions (B.A.)",
+    "id": "asian-religions-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=443",
+    "college": "The College",
+    "description": "The Asian Religions major is an interdisciplinary program that examines the religious traditions of Asia, including Hinduism, Buddhism, Jainism, Sikhism, and East Asian religions. The program provides a comprehensive understanding of the historical, cultural, and philosophical contexts of these traditions, as well as their contemporary practices and expressions. Students explore the complex relationships between Asian religions and various aspects of society, culture, and politics."
+  },
+  {
+    "name": "Asian Studies (B.A.)",
+    "id": "asian-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=241",
+    "college": "The College",
+    "description": "The Asian Studies major is an interdisciplinary program that focuses on the languages, cultures, histories, and societies of Asia. Students choose a regional or thematic concentration and explore Asia from multiple perspectives through courses in departments across the humanities and social sciences. The program is designed to provide a deep understanding of Asia's diverse cultures and societies, as well as the skills to analyze and interpret complex information. Students develop critical thinking, research, and communication skills through coursework, language training, and a senior capstone experience. The major prepares students for careers in fields such as education, government, business, law, and non-profit organizations, as well as for graduate study in Asian Studies or related fields."
+  },
+  {
+    "name": "Astrophysics (B.S.)",
+    "id": "astrophysics-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=101",
+    "college": "The College",
+    "description": "The Astrophysics major is designed to provide a comprehensive understanding of the physical universe, from the properties of stars and galaxies to the behavior of matter and energy under extreme conditions. The program includes a strong foundation in physics and mathematics, as well as specialized courses in astrophysics."
+  },
+  {
+    "name": "Atmospheric and Oceanic Sciences (B.S.)",
+    "id": "atmospheric-and-oceanic-sciences-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=589",
+    "college": "The College",
+    "description": "The Atmospheric and Oceanic Sciences major is designed to provide students with a comprehensive understanding of the Earth's atmosphere and oceans. The program covers the fundamental principles of atmospheric and oceanic dynamics, thermodynamics, and physics, as well as the interactions between the atmosphere and oceans. Students learn about the climate system, weather patterns, and the impact of human activities on the environment. The major prepares students for careers in research, education, government, and private industry, as well as for graduate study."
+  },
+  {
+    "name": "Atmospheric and Oceanic Sciences/Mathematics (B.S.)",
+    "id": "atmospheric-and-oceanic-sciences-mathematics-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=54B",
+    "college": "The College",
+    "description": "The Atmospheric and Oceanic Sciences/Math B.S. is an interdisciplinary program offered in The College. It combines the study of atmospheric and oceanic sciences with a strong foundation in mathematics. The program is designed for students who wish to pursue a career in the atmospheric or oceanic sciences, or related fields."
+  },
+  {
+    "name": "Biochemistry (B.S.)",
+    "id": "biochemistry-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=111",
+    "college": "The College",
+    "description": "The Biochemistry major is designed to provide students with a comprehensive understanding of the chemical processes that occur within living organisms. Students learn about the structure and function of biomolecules, metabolic pathways, and the regulation of gene expression. The program includes coursework in chemistry, biology, physics, and mathematics, as well as laboratory research experience."
+  },
+  {
+    "name": "Biology (B.S.)",
+    "id": "biology-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=123",
+    "college": "The College",
+    "description": "The Biology Major is designed to provide a broad background in the fundamental principles of biology, from the molecular and cellular level to the organismal and ecological level. The program emphasizes the development of critical thinking, analytical, and problem-solving skills, as well as effective communication. Students are exposed to a range of subdisciplines within biology, including genetics, evolution, ecology, and physiology. The curriculum includes laboratory and fieldwork, providing hands-on experience with experimental design, data collection, and analysis."
+  },
+  {
+    "name": "Biophysics (B.S.)",
+    "id": "biophysics-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=126",
+    "college": "The College",
+    "description": "The Biophysics major is designed to provide a broad foundation in the fundamental laws governing the behavior of living systems, as well as the physical and chemical principles underlying biological processes. The program includes coursework in physics, chemistry, mathematics, and biology, and provides students with a strong preparation for graduate study or a career in biophysics or related fields."
+  },
+  {
+    "name": "Business Economics (B.A.)",
+    "id": "business-economics-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=144",
+    "college": "The College",
+    "description": "The Business Economics major is designed to provide students with a fundamental understanding of the institutional framework and the theoretical concepts appropriate for understanding the operation of the economic system. The curriculum emphasizes the development of skills in economic analysis and prepares students for careers in business, government, and other related fields, as well as for graduate study in economics and business administration."
+  },
+  {
+    "name": "Central and East European Languages and Cultures (B.A.)",
+    "id": "central-and-east-european-languages-and-cultures-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=845",
+    "college": "The College",
+    "description": "The Central and East European Languages and Cultures major provides students with a comprehensive understanding of the languages, literatures, and cultures of Central and Eastern Europe. Students gain proficiency in a chosen language and explore the historical, cultural, and literary contexts of the region. The program fosters critical thinking, analytical skills, and effective communication."
+  },
+  {
+    "name": "Chemistry (B.S.)",
+    "id": "chemistry-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=153",
+    "college": "The College",
+    "description": "The Chemistry B.S. program is designed to provide students with a deep understanding of the principles of chemistry and prepare them for a wide range of career opportunities in fields such as research, industry, education, and healthcare. The program includes coursework in inorganic, organic, physical, and analytical chemistry, as well as laboratory and research experiences."
+  },
+  {
+    "name": "Chemistry/Materials Science (B.S.)",
+    "id": "chemistry-materials-science-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=155",
+    "college": "The College",
+    "description": "The Chemistry/Materials Science major is an interdisciplinary program that combines coursework in chemistry, materials science, and related fields to provide a foundation for understanding the properties and applications of various materials. The program is designed for students who are interested in pursuing careers in materials science, nanotechnology, or related fields, or who plan to attend graduate school in these areas."
+  },
+  {
+    "name": "Chicana and Chicano Studies (B.A.)",
+    "id": "chicana-and-chicano-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=626",
+    "college": "The College",
+    "description": "The Chicana and Chicano Studies major is an interdisciplinary program that focuses on the study of the experiences, cultures, and histories of Chicanas and Chicanos in the United States. The program provides students with a comprehensive understanding of the social, cultural, economic, and political contexts that shape the lives of Chicanas and Chicanos. Students explore a range of topics, including identity, culture, history, literature, and social justice."
+  },
+  {
+    "name": "Chinese (B.A.)",
+    "id": "chinese-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=162",
+    "college": "The College",
+    "description": "The Chinese Language and Literature program is designed to provide students with thorough training in all aspects of the Chinese language, as well as a comprehensive understanding of Chinese culture. Students explore the historical, cultural, and literary contexts of China, developing linguistic competence and cultural knowledge."
+  },
+  {
+    "name": "Classical Civilization (B.A.)",
+    "id": "classical-civilization-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=169",
+    "college": "The College",
+    "description": "The Classical Civilization major is designed for students who wish to study the cultures of ancient Greece and Rome through their literature, history, and material remains. The program provides a broad understanding of the classical world, its influence on later cultures, and its continued relevance today."
+  },
+  {
+    "name": "Climate Science (B.S.)",
+    "id": "climate-science-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=414",
+    "college": "The College",
+    "description": "The Climate Science major is an interdisciplinary program that provides students with a rigorous foundation in the scientific principles underlying climate change. The program covers the physical, biological, and chemical processes that govern the Earth's climate system, as well as the social and policy implications of climate change. Students in the program take courses in atmospheric and oceanic sciences, ecology, geology, and statistics, and have the opportunity to engage in research and experiential learning."
+  },
+  {
+    "name": "Cognitive Science (B.S.)",
+    "id": "cognitive-science-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=179",
+    "college": "The College",
+    "description": "The Cognitive Science major is designed to provide a broad understanding of the principles and mechanisms underlying human cognition, including perception, attention, memory, language, problem-solving, and decision-making. Students explore the complex interactions between the mind, brain, and behavior, drawing on theories and methods from psychology, neuroscience, computer science, linguistics, and philosophy. The program emphasizes the development of critical thinking, analytical skills, and the ability to design and conduct empirical research."
+  },
+  {
+    "name": "Communication (B.A.)",
+    "id": "communication-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=181",
+    "college": "The College",
+    "description": "The Department of Communication at UCLA offers a comprehensive program of study leading to the Bachelor of Arts degree in Communication. The undergraduate major is designed to provide a broad understanding of the field and in-depth training in research methods and theory. Students study a wide range of topics, including interpersonal communication, mass communication, organizational communication, and intercultural communication. The program prepares students for a variety of careers in fields such as media, public relations, and corporate communication, as well as for graduate study in communication."
+  },
+  {
+    "name": "Comparative Literature (B.A.)",
+    "id": "comparative-literature-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=192",
+    "college": "The College",
+    "description": "The Comparative Literature major is designed for students who wish to explore literature in a global context, examining the cultural, historical, and theoretical dimensions of literary works across different languages and cultures. The program allows students to engage with a broad range of texts, genres, and critical approaches, fostering a deep understanding of the complex relationships between literature and society."
+  },
+  {
+    "name": "Computational Biology (B.S.)",
+    "id": "computational-biology-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=208",
+    "college": "The College",
+    "description": "The Computational Biology major is an interdisciplinary program that provides students with a foundation in the principles of biology, computer science, and mathematics, and prepares them for careers in the rapidly growing field of computational biology. Students learn to apply computational techniques to analyze and model biological systems, and to develop new algorithms and tools for biological data analysis."
+  },
+  {
+    "name": "Data Theory (B.S.)",
+    "id": "data-theory-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=423",
+    "college": "The College",
+    "description": "The Data Theory Major is an interdisciplinary program that provides students with a comprehensive understanding of data science, statistical analysis, and data-driven decision-making. The major focuses on the development of theoretical foundations, computational methods, and practical applications of data science. Students learn to collect, analyze, and interpret complex data, and to communicate their findings effectively."
+  },
+  {
+    "name": "Disability Studies (B.A.)",
+    "id": "disability-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=459",
+    "college": "The College",
+    "description": "The Disability Studies major is an interdisciplinary program that examines the social, cultural, and political contexts of disability. Students explore the complex relationships between disability, identity, culture, and power, and analyze the ways in which disability is represented, experienced, and addressed in different societies. The major prepares students for careers in fields such as education, healthcare, social services, and advocacy, and provides a foundation for graduate study in disability-related fields."
+  },
+  {
+    "name": "Earth and Environmental Science (B.A.)",
+    "id": "earth-and-environmental-science-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=01C",
+    "college": "The College",
+    "description": "The Earth and Environmental Science major is an interdisciplinary program that prepares students to understand the complexities of environmental issues and Earth's physical systems. The program combines coursework in Earth sciences, ecology, biology, chemistry, and physics to provide a comprehensive understanding of the Earth's systems and the impact of human activities on the environment. Students can choose from a range of electives to tailor their degree to their interests and career goals."
+  },
+  {
+    "name": "Ecology, Behavior, and Evolution (B.S.)",
+    "id": "ecology-behavior-and-evolution-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=122",
+    "college": "The College",
+    "description": "The Ecology, Behavior, and Evolution (EBE) major is an integrative life science major that focuses on the ecological and evolutionary processes that have shaped the diversity of life on Earth. Students examine the patterns and processes of biological diversity, from molecular to ecosystem levels, and explore the complex interactions between organisms and their environments. The program emphasizes the application of scientific principles to understand and address environmental issues."
+  },
+  {
+    "name": "Economics (B.A.)",
+    "id": "economics-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=246",
+    "college": "The College",
+    "description": "The undergraduate major in Economics is designed to provide students with a comprehensive understanding of the field of economics, including microeconomics, macroeconomics, and econometrics. The program prepares students for careers in government, business, and academia, as well as for graduate study in economics and related fields."
+  },
+  {
+    "name": "English (B.A.)",
+    "id": "english-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=345",
+    "college": "The College",
+    "description": "The English major at UCLA is designed to provide students with a comprehensive understanding of English literature and language. The program includes coursework in various periods and genres, as well as training in critical analysis, writing, and research methods. Students may focus on specific areas such as medieval, Renaissance, 18th-century, 19th-century, or 20th-century literature, and may also explore interdisciplinary connections with other departments."
+  },
+  {
+    "name": "Environmental Science (B.S.)",
+    "id": "environmental-science-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=0351",
+    "college": "The College",
+    "description": "The Environmental Science major is designed to provide students with a comprehensive understanding of the natural world and the impact of human activities on the environment. The program focuses on the scientific principles underlying environmental issues and prepares students for careers in research, conservation, policy, and education."
+  },
+  {
+    "name": "European Language and Transcultural Studies (B.A.)",
+    "id": "european-language-and-transcultural-studies-ba",
+    "url": "https://elts.ucla.edu/b-a-in-elts/",
+    "college": "The College",
+    "description": "The European Language and Transcultural Studies (ELTS) major is an interdisciplinary program that combines the study of language, literature, and culture with a focus on the global and transcultural dimensions of European cultures. Students choose from six different tracks, each with a distinct language component (French, German, Italian, or Spanish) and explore the cultural, historical, and literary contexts of their chosen language. The program emphasizes critical thinking, cultural competence, and linguistic proficiency."
+  },
+  {
+    "name": "European Languages and Transcultural Studies with French and Francophone (B.A.)",
+    "id": "european-languages-and-transcultural-studies-with-french-and-francophone-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=437",
+    "college": "The College",
+    "description": "The European Languages and Transcultural Studies (ELTS) major with French and Francophone Studies is an interdisciplinary program that explores the cultures, literatures, and languages of Europe and beyond. Students examine the transcultural exchanges and interactions that have shaped the modern world, with a focus on the French-speaking world. The program fosters critical thinking, linguistic competence, and cultural understanding."
+  },
+  {
+    "name": "European Languages and Transcultural Studies with German (B.A.)",
+    "id": "european-languages-and-transcultural-studies-with-german-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=439",
+    "college": "The College",
+    "description": "The European Languages and Transcultural Studies (ELTS) major with German is an interdisciplinary program that explores the cultural, literary, and linguistic dimensions of Europe, with a focus on the German-speaking world. Students examine the historical and contemporary cultural contexts that shape European identities, literary traditions, and artistic expressions. The program emphasizes the development of language proficiency in German, as well as critical thinking, analysis, and communication skills."
+  },
+  {
+    "name": "European Languages and Transcultural Studies with Italian (B.A.)",
+    "id": "european-languages-and-transcultural-studies-with-italian-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=440",
+    "college": "The College",
+    "description": "The European Languages and Transcultural Studies (ELTS) major with Italian is an interdisciplinary program that explores the cultures, literatures, and histories of Europe through the lens of the Italian language. Students examine the cultural production of Italy and its global connections, developing a nuanced understanding of the complex transcultural dynamics at play. The program fosters critical thinking, close reading, and effective writing skills, preparing students for a range of careers in fields such as education, law, government, and the arts."
+  },
+  {
+    "name": "European Languages and Transcultural Studies with Scandinavian (B.A.)",
+    "id": "european-languages-and-transcultural-studies-with-scandinavian-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=441",
+    "college": "The College",
+    "description": "The European Languages and Transcultural Studies (ELTS) major with Scandinavian Studies is an interdisciplinary program that focuses on the languages, literatures, and cultures of Europe, with a specific emphasis on Scandinavia. Students explore the historical and contemporary cultural contexts of European societies, developing linguistic proficiency and cultural competence. The program encourages the study of multiple languages and fosters an understanding of the transcultural interactions that shape European identities."
+  },
+  {
+    "name": "European Studies (B.A.)",
+    "id": "european-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=762",
+    "college": "The College",
+    "description": "The European Studies major is an interdisciplinary program that focuses on the cultures, societies, and histories of Europe. The program allows students to explore various aspects of European civilization, from its languages and literatures to its politics, economics, and social structures. Students can choose from a range of courses across different departments, enabling them to tailor their degree to their interests."
+  },
+  {
+    "name": "Gender Studies (B.A.)",
+    "id": "gender-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=363",
+    "college": "The College",
+    "description": "The Gender Studies major is an interdisciplinary program that examines the social and cultural constructions of gender and their intersections with other categories of identity and difference. The major provides students with a critical understanding of the ways in which gender shapes individual and collective experiences, as well as the ways in which power and inequality are organized and maintained through gender."
+  },
+  {
+    "name": "Geography (B.A.)",
+    "id": "geography-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=396",
+    "college": "The College",
+    "description": "The Geography major is designed to provide students with a comprehensive understanding of the spatial relationships between people, places, and environments. The program encompasses a broad range of topics, including human and physical geography, geographic techniques, and regional studies. Students learn about the theoretical foundations of geography, as well as practical skills in geographic information systems (GIS), spatial analysis, and cartography."
+  },
+  {
+    "name": "Geography/Environmental Studies (B.A.)",
+    "id": "geography-environmental-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=491",
+    "college": "The College",
+    "description": "The Geography/Environmental Studies major provides students with a theoretical and practical understanding of the complex relationships between human societies and the environment. The program emphasizes the spatial and ecological dimensions of social and environmental issues, and students learn to apply geographic concepts and methods to analyze and address these issues."
+  },
+  {
+    "name": "Geology (B.S.)",
+    "id": "geology-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=402",
+    "college": "The College",
+    "description": "The Geology (B.S.) program at UCLA is designed to provide students with a comprehensive understanding of the Earth's physical structure, composition, and processes. The curriculum includes coursework in geology, Earth sciences, and related fields, as well as fieldwork and laboratory training. Students gain a strong foundation in the principles of geology, including the study of rocks, minerals, landforms, and geological processes."
+  },
+  {
+    "name": "Geology/Engineering Geology (B.S.)",
+    "id": "geology-engineering-geology-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=398",
+    "college": "The College",
+    "description": "The Geology/Engineering Geology program at UCLA provides students with a comprehensive understanding of the Earth's physical structure, composition, and processes. The program combines coursework in geology, mathematics, and physics to prepare students for careers in fields such as environmental consulting, natural resource management, and geotechnical engineering. Students learn about geological processes, including tectonics, geomorphology, and geophysics, and develop skills in data analysis, scientific writing, and critical thinking."
+  },
+  {
+    "name": "Geophysics (B.S.)",
+    "id": "geophysics-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=402",
+    "college": "The College",
+    "description": "The Geophysics B.S. program at UCLA is an interdisciplinary major that combines coursework in geology, physics, and mathematics to understand the Earth's internal and external processes. Students develop a strong foundation in the principles of geophysics, including seismology, gravity, magnetism, and heat flow. The program prepares students for careers in research, industry, and government, as well as for graduate study in geophysics and related fields."
+  },
+  {
+    "name": "Global Studies (B.A.)",
+    "id": "global-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=492",
+    "college": "The College",
+    "description": "The Global Studies major is an interdisciplinary program that examines the complex interactions between globalization, culture, and power. Students explore the global flows of people, goods, and ideas, and analyze the impact of globalization on local communities and environments."
+  },
+  {
+    "name": "Greek (B.A.)",
+    "id": "greek-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=414",
+    "college": "The College",
+    "description": "The Greek major is designed to acquaint students with the language, literature, and culture of ancient Greece. The program includes the study of Greek language, literature, and history, with a focus on the development of linguistic and critical thinking skills."
+  },
+  {
+    "name": "Greek and Latin (B.A.)",
+    "id": "greek-and-latin-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=625",
+    "college": "The College",
+    "description": "The Department of Classics at UCLA offers a comprehensive program in Greek and Latin, focusing on the literary, historical, and cultural achievements of ancient Greece and Rome. Students engage with a broad range of texts, from Homer and Greek tragedy to Roman epic and historiography, developing their understanding of the classical world and its ongoing influence on Western culture. Through coursework in language, literature, and history, the program aims to cultivate critical thinking, linguistic proficiency, and a nuanced understanding of the ancient Mediterranean."
+  },
+  {
+    "name": "History (B.A.)",
+    "id": "history-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=429",
+    "college": "The College",
+    "description": "The History major is designed to provide students with a broad understanding of the past, as well as the skills and methods historians use to interpret historical events and processes. The major requires students to take a range of courses that cover different historical periods, regions, and themes, and to develop their critical thinking, writing, and research skills."
+  },
+  {
+    "name": "Human Biology and Society (B.A.)",
+    "id": "human-biology-and-society-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=325",
+    "college": "The College",
+    "description": "The Human Biology and Society major is an interdisciplinary program that explores the complex relationships between human biology, health, and society. Students examine the biological and social factors that influence human health and well-being, and investigate the ways in which societal structures and institutions shape our understanding of and responses to health issues. The major prepares students for careers in healthcare, research, policy, and education, and provides a strong foundation for graduate study in fields such as public health, medicine, and the social sciences."
+  },
+  {
+    "name": "Human Biology and Society (B.S.)",
+    "id": "human-biology-and-society-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=055",
+    "college": "The College",
+    "description": "The Human Biology and Society major is an interdisciplinary program that focuses on the study of human biology, health, and society. The program emphasizes the complex interactions between biological, social, and environmental factors that influence human health and well-being. Students in this major explore the biological and social sciences to understand the human condition and address pressing health issues."
+  },
+  {
+    "name": "International Development Studies (B.A.)",
+    "id": "international-development-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=991",
+    "college": "The College",
+    "description": "The International Development Studies major is an interdisciplinary program that focuses on the economic, political, social, and cultural aspects of development in low- and middle-income countries. Students examine the complex relationships between development processes, policies, and institutions, as well as the social, economic, and environmental impacts of development interventions."
+  },
+  {
+    "name": "Iranian Studies (B.A.)",
+    "id": "iranian-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=464",
+    "college": "The College",
+    "description": "The Iranian Studies major is an interdisciplinary program that focuses on the languages, cultures, histories, and societies of Iran and the Persianate world. Students gain a deep understanding of the region through coursework in Persian language, literature, history, and culture, as well as related fields such as anthropology, sociology, and politics."
+  },
+  {
+    "name": "Japanese (B.A.)",
+    "id": "japanese-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=480",
+    "college": "The College",
+    "description": "The Japanese Language major is designed to provide students with a comprehensive understanding of the Japanese language and culture. Students develop proficiency in the four language skills of reading, writing, listening, and speaking, as well as an appreciation of Japanese culture and society. The program includes coursework in Japanese literature, linguistics, and culture, and prepares students for careers in fields such as education, business, government, and international relations."
+  },
+  {
+    "name": "Jewish Studies (B.A.)",
+    "id": "jewish-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=482",
+    "college": "The College",
+    "description": "The Jewish Studies major is an interdisciplinary program that explores the history, culture, and literature of the Jewish people from ancient times to the present. The major encompasses a broad range of topics, including biblical studies, rabbinic literature, Jewish history, Israeli culture, and contemporary Jewish issues. Students in the major gain a deep understanding of the Jewish experience and its diverse manifestations across time and geography."
+  },
+  {
+    "name": "Korean (B.A.)",
+    "id": "korean-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=818",
+    "college": "The College",
+    "description": "The Korean major is designed to provide students with advanced proficiency in the Korean language and a critical understanding of Korean culture and society. The program includes coursework in Korean language, literature, and culture, as well as electives that allow students to explore their interests in areas such as linguistics, history, and cultural studies."
+  },
+  {
+    "name": "Labor Studies (B.A.)",
+    "id": "labor-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=36",
+    "college": "The College",
+    "description": "The Labor Studies major is an interdisciplinary program that examines the role of labor and workers in society. The major explores the history, politics, and culture of work and labor movements, and prepares students for careers in labor organizations, government, and other fields. Students take courses in labor studies, sociology, history, and other departments, and complete a capstone research project."
+  },
+  {
+    "name": "Latin (B.A.)",
+    "id": "latin-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=495",
+    "college": "The College",
+    "description": "The Latin major is designed to provide students with a thorough knowledge of the Latin language and a detailed understanding of Latin literature in its historical context. Students develop skills in reading and analyzing Latin texts, as well as an appreciation for the cultural, historical, and literary significance of the Roman civilization."
+  },
+  {
+    "name": "Latin American Studies (B.A.)",
+    "id": "latin-american-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=498",
+    "college": "The College",
+    "description": "The Latin American Studies major is an interdisciplinary program that focuses on the cultures, histories, and societies of Latin America, from the colonial period to the present. Students explore the region through a variety of disciplinary lenses, including anthropology, history, literature, and sociology. The major aims to provide a comprehensive understanding of the complex issues facing Latin America, including globalization, migration, and social inequality."
+  },
+  {
+    "name": "Linguistics (B.A.)",
+    "id": "linguistics-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=510",
+    "college": "The College",
+    "description": "The Linguistics major at UCLA is designed to provide students with a comprehensive understanding of the fundamental principles of language, including its sound structure, grammatical structure, and meaning. Students explore the diversity of human languages and the cognitive and neural basis of language acquisition and use. The major aims to equip students with analytical skills, theoretical knowledge, and empirical methods necessary for understanding the complexities of human language."
+  },
+  {
+    "name": "Linguistics and Anthropology (B.A.)",
+    "id": "linguistics-and-anthropology-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=496",
+    "college": "The College",
+    "description": "The Linguistics and Anthropology major is an interdisciplinary program that combines the study of human language with the study of human culture and behavior. Students in this major explore the complex relationships between language, culture, and society, and develop a deep understanding of the ways in which language is shaped by and shapes human identity and interaction."
+  },
+  {
+    "name": "Linguistics and Asian Languages and Cultures (B.A.)",
+    "id": "linguistics-and-asian-languages-and-cultures-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=52A",
+    "college": "The College",
+    "description": "The Linguistics and Asian Languages and Cultures major is an interdisciplinary program that combines the study of linguistics with the study of Asian languages and cultures. Students in this major gain a deep understanding of the linguistic structures, cultural contexts, and historical developments of Asian languages, as well as the theoretical foundations of linguistics. The program prepares students for careers in fields such as language teaching, cultural consulting, international business, and diplomacy, as well as for graduate study in linguistics, Asian studies, or related fields."
+  },
+  {
+    "name": "Linguistics and Computer Science (B.A.)",
+    "id": "linguistics-and-computer-science-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=499",
+    "college": "The College",
+    "description": "The Linguistics and Computer Science major is an interdisciplinary program that combines the study of language, its structure, and its use, with the study of computer science and its applications. Students learn about the sound, structure, and meaning of language, as well as programming, data structures, and algorithms."
+  },
+  {
+    "name": "Linguistics and English (B.A.)",
+    "id": "linguistics-and-english-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=514",
+    "college": "The College",
+    "description": "The Linguistics and English major is an interdisciplinary program that combines the study of linguistics and English literature. Students examine the structure and acquisition of language, the history and development of English, and the literary and cultural contexts of English-language texts."
+  },
+  {
+    "name": "Linguistics and Philosophy (B.A.)",
+    "id": "linguistics-and-philosophy-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=517",
+    "college": "The College",
+    "description": "The Linguistics and Philosophy major is an interdisciplinary program that combines the study of human language and the fundamental principles of philosophy. Students examine the structure and properties of language, the nature of meaning, and the principles of philosophical inquiry."
+  },
+  {
+    "name": "Linguistics and Psychology (B.A.)",
+    "id": "linguistics-and-psychology-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=518",
+    "college": "The College",
+    "description": "The Linguistics and Psychology major is an interdisciplinary program that provides students with a broad background in the structures and acquisition of language as well as human behavior and mental processes. Students explore the complex relationships between language and cognition, and the ways in which language influences and is influenced by psychological processes."
+  },
+  {
+    "name": "Linguistics and Spanish (B.A.)",
+    "id": "linguistics-and-spanish-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=511",
+    "college": "The College",
+    "description": "Students select an adviser from each department and complete a minimum of 12 upper division units in Linguistics and a minimum of 20 upper division units in Spanish & Portuguese. Students must satisfy the requirements for both majors as well as the College and University requirements."
+  },
+  {
+    "name": "Linguistics, Applied (B.A.)",
+    "id": "linguistics-applied-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=074",
+    "college": "The College",
+    "description": "The Applied Linguistics major at UCLA is designed to provide students with a comprehensive understanding of language acquisition, language teaching, and language assessment. The program focuses on the practical applications of linguistic theory to real-world problems, such as language education, language policy, and language assessment. Students in this major gain a solid foundation in linguistics, as well as specialized knowledge in areas such as second language acquisition, language teaching methodologies, and language assessment techniques."
+  },
+  {
+    "name": "Marine Biology (B.S.)",
+    "id": "marine-biology-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=537",
+    "college": "The College",
+    "description": "The Marine Biology major is designed to provide a rigorous foundation in the biological sciences, with an emphasis on the marine environment. The program includes coursework in biology, chemistry, physics, and mathematics, as well as specialized courses in marine biology. Students gain a broad understanding of the complex interactions between marine organisms and their environments, and are prepared for careers in research, conservation, and education, or for further study in graduate school."
+  },
+  {
+    "name": "Mathematics (B.S.)",
+    "id": "mathematics-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=540",
+    "college": "The College",
+    "description": "The Mathematics major at UCLA is designed to provide students with a comprehensive understanding of mathematical concepts, theories, and applications. The program includes a range of courses in pure and applied mathematics, as well as opportunities for advanced study and research. Students are encouraged to explore various areas of mathematics, including algebra, analysis, geometry, and differential equations."
+  },
+  {
+    "name": "Mathematics, Applied (B.S.)",
+    "id": "mathematics-applied-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=072",
+    "college": "The College",
+    "description": "The Applied Mathematics major at UCLA is designed to provide a broad background in mathematics and a deep understanding of one area of applied mathematics. The program requires a strong foundation in mathematics, including calculus, linear algebra, differential equations, and numerical analysis. Students also take courses in a specific area of application, such as physics, computer science, or economics. The program prepares students for careers in industry, government, or academia, as well as for graduate study."
+  },
+  {
+    "name": "Mathematics/Applied Science (B.S.)",
+    "id": "mathematics-applied-science-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=545",
+    "college": "The College",
+    "description": "The Mathematics/Applied Science major is an interdisciplinary program that provides a foundation in mathematical and scientific principles and prepares students for a broad range of career opportunities. Students gain a strong background in mathematics, as well as knowledge in a specific area of application, such as physics, computer science, or biology. The program emphasizes the development of problem-solving skills, analytical thinking, and computational techniques."
+  },
+  {
+    "name": "Mathematics/Economics (B.S.)",
+    "id": "mathematics-economics-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=778",
+    "college": "The College",
+    "description": "The Mathematics/Economics major is an interdisciplinary program that combines a strong foundation in mathematics with a thorough understanding of economics. Students learn advanced mathematical techniques and apply them to economic theory and models. The program requires coursework in calculus, linear algebra, differential equations, probability, and statistics, as well as microeconomics, macroeconomics, and econometrics. Students gain a deep understanding of economic principles and develop skills in mathematical modeling, data analysis, and problem-solving."
+  },
+  {
+    "name": "Mathematics, Financial Actuarial (B.S.)",
+    "id": "mathematics-financial-actuarial-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=08E",
+    "college": "The College",
+    "description": "The Mathematics, Financial Actuarial major is designed to meet the growing demand for professionals with strong mathematical skills who can apply their knowledge to financial and actuarial problems. The program provides a rigorous foundation in mathematical techniques, probability, and statistics, as well as coursework in economics, finance, and actuarial science."
+  },
+  {
+    "name": "Mathematics for Teaching (B.S.)",
+    "id": "mathematics-for-teaching-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=00G",
+    "college": "The College",
+    "description": "The Mathematics for Teaching program is designed for students who wish to teach mathematics at the secondary level. The program provides a strong foundation in mathematics, as well as preparation for the teacher credentialing process."
+  },
+  {
+    "name": "Mathematics of Computation (B.S.)",
+    "id": "mathematics-of-computation-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=536",
+    "college": "The College",
+    "description": "The Mathematics of Computation program is an interdisciplinary major that combines mathematics, computer science, and scientific computing. Students in this program gain a strong foundation in mathematical principles and computational techniques, preparing them for careers in fields such as scientific computing, data analysis, and mathematical modeling, or for graduate study in related fields."
+  },
+  {
+    "name": "Microbiology, Immunology, and Molecular Genetics (B.S.)",
+    "id": "microbiology-immunology-and-molecular-genetics-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=440",
+    "college": "The College",
+    "description": "The Microbiology, Immunology, and Molecular Genetics major is designed to provide a broad background in biology, with an emphasis on molecular biology, as well as specialized training in microbiology and immunology. The program includes coursework in genetics, biochemistry, and molecular biology, as well as laboratory research experience."
+  },
+  {
+    "name": "Middle Eastern Studies (B.A.)",
+    "id": "middle-eastern-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=353",
+    "college": "The College",
+    "description": "The Department of Near Eastern Languages and Cultures offers an undergraduate major in Middle Eastern Studies. This interdisciplinary program provides students with a broad understanding of the history, cultures, languages, and societies of the Middle East. Students develop proficiency in a Middle Eastern language and explore a range of courses that cover the region's diverse cultures, histories, and contemporary issues. The program is designed to equip students with critical thinking, research, and analytical skills, preparing them for a variety of careers or further academic study."
+  },
+  {
+    "name": "Molecular, Cell, and Developmental Biology (B.S.)",
+    "id": "molecular-cell-and-developmental-biology-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=644",
+    "college": "The College",
+    "description": "The Molecular, Cell, and Developmental Biology major is designed to provide students with a broad understanding of the fundamental principles governing the behavior of cells and organisms. The program encompasses a range of disciplines, including molecular biology, genetics, biochemistry, and developmental biology. Students gain a solid foundation in the biological sciences, with an emphasis on the molecular and cellular mechanisms underlying development and disease."
+  },
+  {
+    "name": "Neuroscience (B.S.)",
+    "id": "neuroscience-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=594",
+    "college": "The College",
+    "description": "The Neuroscience major is designed to provide a rigorous foundation in the principles of neuroscience. The program is structured to provide a broad understanding of the field, including the molecular and cellular mechanisms underlying nervous system function, as well as the behavioral and cognitive aspects of neuroscience. Students are exposed to a range of courses that cover the structure and function of the nervous system, from the molecular to the systems level."
+  },
+  {
+    "name": "Nordic Studies (B.A.)",
+    "id": "nordic-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=410",
+    "college": "The College",
+    "description": "The Nordic Studies major at UCLA is an interdisciplinary program that focuses on the languages, literatures, cultures, and histories of the Nordic countries. Students gain a deep understanding of the region through coursework in Scandinavian languages, literature, and culture, as well as related fields such as history, folklore, and film. The program aims to equip students with a nuanced understanding of the complex cultural and historical contexts of the Nordic region."
+  },
+  {
+    "name": "Philosophy (B.A.)",
+    "id": "philosophy-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=651",
+    "college": "The College",
+    "description": "The Department of Philosophy at UCLA is one of the largest and most distinguished in the world. The undergraduate major in Philosophy is designed to provide students with a broad understanding of the central areas of philosophy, including metaphysics, epistemology, ethics, logic, and the history of philosophy. The major is structured to allow students to explore various subfields within philosophy and to develop their critical thinking, writing, and analytical skills."
+  },
+  {
+    "name": "Physics (B.A.)",
+    "id": "physics-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=285",
+    "college": "The College",
+    "description": "The Bachelor of Arts in Physics is designed to provide a broad understanding of the fundamental principles of physics, while allowing for flexibility in course selection. The program is suitable for students who wish to pursue a liberal arts education with a strong foundation in physics."
+  },
+  {
+    "name": "Physics (B.S.)",
+    "id": "physics-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=666",
+    "college": "The College",
+    "description": "The Physics B.S. program at UCLA is designed to provide students with a comprehensive understanding of the fundamental principles of physics, including mechanics, electromagnetism, thermodynamics, and quantum mechanics. The program includes a rigorous curriculum of theoretical and experimental courses, as well as opportunities for research and hands-on learning. Students are prepared for careers in research, industry, and education, as well as graduate study in physics and related fields."
+  },
+  {
+    "name": "Physiological Science (B.S.)",
+    "id": "physiological-science-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=671",
+    "college": "The College",
+    "description": "The Physiological Science major is designed to provide students with a comprehensive understanding of the functions and processes that occur within living organisms. The program covers a broad range of topics, including the molecular, cellular, and systems levels of organization, and prepares students for careers in research, healthcare, and other related fields."
+  },
+  {
+    "name": "Political Science (B.A.)",
+    "id": "political-science-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=699",
+    "college": "The College",
+    "description": "The Political Science major provides students with a broad understanding of the discipline, including American politics, comparative politics, international relations, and political theory. Students develop critical thinking, research, and analytical skills through coursework and research opportunities."
+  },
+  {
+    "name": "Portuguese and Brazilian Studies (B.A.)",
+    "id": "portuguese-and-brazilian-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=166",
+    "college": "The College",
+    "description": "The Department of Spanish and Portuguese offers an undergraduate major in Portuguese and Brazilian Studies. The program is designed to provide students with a solid foundation in the language, literature, and cultures of Portugal and Brazil. Students develop their linguistic skills through coursework in Portuguese language and literature, as well as through exposure to the cultural production of the Lusophone world. The program prepares students for careers in fields such as education, government, international business, and cultural management, as well as for graduate study in Portuguese and Brazilian Studies or related fields."
+  },
+  {
+    "name": "Psychobiology (B.S.)",
+    "id": "psychobiology-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=777",
+    "college": "The College",
+    "description": "The Psychobiology major is designed to provide students with a comprehensive understanding of the biological bases of behavior. The program emphasizes the application of scientific methods to the study of the nervous system and its role in behavior, cognition, and emotion. Students learn about the structure and function of the nervous system, behavioral neuroscience, and the methods used to study the brain and its relationship to behavior."
+  },
+  {
+    "name": "Psychology (B.A.)",
+    "id": "psychology-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=780",
+    "college": "The College",
+    "description": "The Psychology major provides a broad education in the scientific study of behavior and mental processes. Students take courses in a variety of subfields within psychology, including clinical psychology, cognitive psychology, developmental psychology, and social psychology. The major emphasizes the development of critical thinking, research methods, and statistical analysis skills."
+  },
+  {
+    "name": "Religion, Study of (B.A.)",
+    "id": "religion-study-of-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=890",
+    "college": "The College",
+    "description": "The Study of Religion major is designed to introduce students to the varieties of religious thought, practice, and expression, both historical and contemporary, and to provide a framework for the comparative study of religions. The program focuses on the critical analysis of religious traditions and their cultural contexts, developing skills in textual analysis, historical contextualization, and comparative study."
+  },
+  {
+    "name": "Russian Language and Literature (B.A.)",
+    "id": "russian-language-and-literature-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=826",
+    "college": "The College",
+    "description": "The Russian Language and Literature major is designed to provide students with a comprehensive understanding of the Russian language, literature, and culture. Students develop their language skills through coursework and experience, and explore the rich literary and cultural heritage of Russia. The program prepares students for careers in fields such as education, government, and international relations, as well as for graduate study."
+  },
+  {
+    "name": "Russian Studies (B.A.)",
+    "id": "russian-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=824",
+    "college": "The College",
+    "description": "The Russian Studies major at UCLA is an interdisciplinary program that focuses on the language, literature, history, and culture of Russia and other Slavic countries. Students gain a deep understanding of the region through coursework in Russian language, literature, and culture, as well as related fields such as history, politics, and sociology. The program prepares students for careers in fields such as diplomacy, education, journalism, and cultural management, or for further study in graduate school."
+  },
+  {
+    "name": "Sociology (B.A.)",
+    "id": "sociology-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=867",
+    "college": "The College",
+    "description": "The Sociology major is designed to provide students with a comprehensive understanding of social structures, institutions, and relationships. It encompasses a broad range of topics, including social inequality, institutions, social change, and the ways in which social contexts shape individual and group experiences. The program emphasizes the development of critical thinking, research, and analytical skills."
+  },
+  {
+    "name": "Southeast Asian Studies (B.A.)",
+    "id": "southeast-asian-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=447",
+    "college": "The College",
+    "description": "The Southeast Asian Studies major is an interdisciplinary program that focuses on the cultures, histories, and societies of Southeast Asia. Students explore the diverse cultures and traditions of the region through coursework in languages, humanities, social sciences, and cultural studies. The program aims to provide students with a deep understanding of Southeast Asia's complex history, cultural heritage, and contemporary issues."
+  },
+  {
+    "name": "Spanish (B.A.)",
+    "id": "spanish-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=882",
+    "college": "The College",
+    "description": "The Spanish major is designed to give students proficiency in the Spanish language and to introduce them to the cultures of the Spanish-speaking world. Students will be able to understand, speak, read, and write Spanish with increasing sophistication and will be acquainted with a wide range of literary and cultural texts, films, and other media."
+  },
+  {
+    "name": "Spanish and Community and Culture (B.A.)",
+    "id": "spanish-and-community-and-culture-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=00W",
+    "college": "The College",
+    "description": "The Spanish and Community and Culture major is designed for students who wish to develop advanced-level proficiency in Spanish while exploring the cultural and linguistic dimensions of Spain and Spanish America. The program combines the study of language, literature, and culture, with a focus on community engagement and cultural competency."
+  },
+  {
+    "name": "Spanish and Linguistics (B.A.)",
+    "id": "spanish-and-linguistics-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=878",
+    "college": "The College",
+    "description": "The Spanish and Linguistics major is an interdisciplinary program that combines the study of the Spanish language with the scientific study of language structure, language use, and language acquisition. Students develop a deep understanding of the Spanish language and its cultural context, as well as the theoretical foundations of linguistics."
+  },
+  {
+    "name": "Spanish and Portuguese (B.A.)",
+    "id": "spanish-and-portuguese-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=881",
+    "college": "The College",
+    "description": "The Department of Spanish and Portuguese offers a comprehensive program that covers the literature, culture, and languages of the Iberian Peninsula and Latin America. Students explore the historical and cultural contexts of these regions, engaging with a wide range of literary and cultural works. The program is designed to foster a deep understanding of the languages, literatures, and cultures of the Spanish and Portuguese-speaking worlds."
+  },
+  {
+    "name": "Statistics and Data Science (B.S.)",
+    "id": "statistics-and-data-science-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=299",
+    "college": "The College",
+    "description": "The Statistics and Data Science major is designed to provide students with a strong foundation in statistical theory and methodology, as well as the ability to apply statistical techniques to real-world problems. The program includes coursework in probability, statistical inference, data analysis, and computational methods. Students learn to think critically and make informed decisions based on data."
+  },
+  {
+    "name": "Architectural Studies (B.A.)",
+    "id": "architectural-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=308",
+    "college": "School of the Arts and Architecture",
+    "description": "The Architectural Studies major is designed for students who wish to pursue a course of study in preparation for the Master of Architecture (M.Arch.) professional degree program or a related graduate program, or who are interested in a career in the architectural field. The program provides a comprehensive education in the history, theory, and practice of architecture, as well as a foundation in the liberal arts."
+  },
+  {
+    "name": "Art (B.A.)",
+    "id": "art-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=090",
+    "college": "School of the Arts and Architecture",
+    "description": "The Art major at UCLA is designed to provide students with a broad understanding of the visual arts, including historical, cultural, and technical aspects. The program allows students to explore a variety of media and techniques, preparing them for careers in the arts or for further study. Students are introduced to different artistic practices, fostering creativity, critical thinking, and technical skills."
+  },
+  {
+    "name": "Dance (B.A.)",
+    "id": "dance-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=210",
+    "college": "School of the Arts and Architecture",
+    "description": "The Dance major is designed for students who wish to pursue a comprehensive program in dance. The curriculum includes technique classes, dance history, criticism, and pedagogy, as well as improvisation and choreography. Students develop technical proficiency, analytical and critical thinking, and creative expression."
+  },
+  {
+    "name": "Design | Media Arts (B.A.)",
+    "id": "design-media-arts-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=207",
+    "college": "School of the Arts and Architecture",
+    "description": "The Design | Media Arts program at UCLA focuses on the study and application of design principles, media technologies, and artistic practices. The program is designed to provide students with a comprehensive education in the creative and technical aspects of media arts, preparing them for careers in fields such as game design, interactive media, animation, and visual effects."
+  },
+  {
+    "name": "World Arts and Cultures (B.A.)",
+    "id": "world-arts-and-cultures-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=932",
+    "college": "School of the Arts and Architecture",
+    "description": "The World Arts and Cultures major is an interdisciplinary program that focuses on the study of arts and cultures from around the world. The program explores the complex relationships between culture, power, and identity, and examines the ways in which arts and cultural practices shape and reflect societal values. Students in the program engage with a range of artistic and cultural forms, including music, dance, theater, visual arts, and performance."
+  },
+  {
+    "name": "Individual Field of Concentration in the Arts and Architecture (B.A.)",
+    "id": "individual-field-of-concentration-in-the-arts-and-architecture-ba",
+    "url": "https://catalog.registrar.ucla.edu/major/2021/IndividualFieldofConcentrationBAinArtsandArchitecture",
+    "college": "School of the Arts and Architecture",
+    "description": "The Individual Field of Concentration in the Arts and Architecture is a degree program within the School of the Arts and Architecture that enables students to design an individualized course of study that is not available through existing majors. Students, in consultation with a faculty adviser, develop a coherent program of study that is academically sound and appropriate to their educational and career goals."
+  },
+  {
+    "name": "Aerospace Engineering (B.S.)",
+    "id": "aerospace-engineering-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=279",
+    "college": "Samueli School of Engineering",
+    "description": "The Aerospace Engineering program at UCLA is designed to provide a strong foundation in the fundamental principles of engineering, with a focus on the application of these principles to aerospace systems. The program includes coursework in mathematics, physics, and engineering, as well as specialized courses in aerospace engineering topics such as aerodynamics, propulsion, and structural analysis."
+  },
+  {
+    "name": "Bioengineering (B.S.)",
+    "id": "bioengineering-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=288",
+    "college": "Samueli School of Engineering",
+    "description": "The Bioengineering program at UCLA is an interdisciplinary field that applies engineering principles to understand, modify, or control biological systems. The program is designed to provide a rigorous foundation in engineering, mathematics, and physical sciences, as well as a strong understanding of biological systems and processes."
+  },
+  {
+    "name": "Chemical Engineering (B.S.)",
+    "id": "chemical-engineering-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=294",
+    "college": "Samueli School of Engineering",
+    "description": "The Chemical Engineering program at UCLA is designed to provide students with a fundamental understanding of chemical engineering principles, including thermodynamics, transport phenomena, and reaction kinetics. The program includes coursework in mathematics, physics, and chemistry, as well as core courses in chemical engineering, and allows for electives in specialized areas. Students are prepared for careers in industry, research, or graduate study."
+  },
+  {
+    "name": "Civil Engineering (B.S.)",
+    "id": "civil-engineering-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=300",
+    "college": "Samueli School of Engineering",
+    "description": "The Civil Engineering program at UCLA provides a comprehensive education in the fundamental principles and practices of civil engineering, including structural analysis and design, geotechnical engineering, water resources, transportation, and environmental engineering. The program emphasizes the development of problem-solving skills, teamwork, and communication, preparing students for a wide range of career opportunities in the field."
+  },
+  {
+    "name": "Computer Engineering (B.S.)",
+    "id": "computer-engineering-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=413",
+    "college": "Samueli School of Engineering",
+    "description": "The Computer Engineering program at UCLA is offered through the Samueli School of Engineering. The program prepares students for a career in the rapidly growing field of computer engineering, which encompasses both hardware and software aspects. Students gain a strong foundation in computer architecture, digital design, software engineering, and other relevant areas."
+  },
+  {
+    "name": "Computer Science (B.S.)",
+    "id": "computer-science-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=201",
+    "college": "Samueli School of Engineering",
+    "description": "The Computer Science program at UCLA is designed to give students a broad background in the theory, design, and application of computer systems. The program provides a foundation in computer science theory, algorithms, data structures, programming languages, computer architecture, and software engineering. Students also gain practical experience through coursework and projects."
+  },
+  {
+    "name": "Computer Science and Engineering (B.S.)",
+    "id": "computer-science-and-engineering-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=193",
+    "college": "Samueli School of Engineering",
+    "description": "The Computer Science and Engineering major is designed to provide a broad foundation in the fundamentals of computer science and engineering, as well as the opportunity to pursue advanced coursework in specialized areas. The program emphasizes the development of problem-solving skills, both theoretical and practical, and provides students with a comprehensive understanding of computer systems, software, and algorithms. Students learn about computer architecture, programming languages, data structures, algorithms, computer networks, and operating systems."
+  },
+  {
+    "name": "Electrical Engineering (B.S.)",
+    "id": "electrical-engineering-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=84",
+    "college": "Samueli School of Engineering",
+    "description": "The Electrical Engineering program at UCLA's Samueli School of Engineering is designed to provide a comprehensive education in the fundamentals of electrical engineering, including circuit analysis, electronics, digital systems, computer architecture, signals and systems, and electromagnetics. The program prepares students for a wide range of careers in industry, government, and academia, as well as for graduate study."
+  },
+  {
+    "name": "Materials Engineering (B.S.)",
+    "id": "materials-engineering-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=336",
+    "college": "Samueli School of Engineering",
+    "description": "The Materials Engineering program at UCLA is designed to provide a comprehensive education in the field of materials science and engineering. The program focuses on the development of materials for various applications, including energy, aerospace, and biomedical fields. Students learn about the structure, properties, and performance of different materials, as well as the processing and characterization techniques used to create and analyze them. The program is designed to prepare students for careers in industry, research, or graduate study."
+  },
+  {
+    "name": "Mechanical Engineering (B.S.)",
+    "id": "mechanical-engineering-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=330",
+    "college": "Samueli School of Engineering",
+    "description": "The Mechanical Engineering program at UCLA provides a comprehensive education in the principles of mechanical engineering, including the design, analysis, and manufacturing of mechanical systems. The program emphasizes the development of problem-solving skills, creativity, and communication, preparing students for a wide range of careers in industry, government, and academia."
+  },
+  {
+    "name": "Ethnomusicology (B.A.)",
+    "id": "ethnomusicology-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=472",
+    "college": "Herb Alpert School of Music",
+    "description": "The Ethnomusicology program at UCLA is an interdisciplinary field that combines musicology, anthropology, and cultural studies. Students explore the diverse musical traditions of the world, examining the cultural contexts and social processes that shape musical practices. The program emphasizes the importance of understanding music as a cultural phenomenon, and students learn to analyze and interpret musical practices in a variety of cultural settings. Students are trained in music theory, history, and ethnography, and are encouraged to develop their own research interests and skills."
+  },
+  {
+    "name": "Global Jazz Studies (B.A.)",
+    "id": "global-jazz-studies-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=419",
+    "college": "Herb Alpert School of Music",
+    "description": "The Bachelor of Arts in Global Jazz Studies is an interdisciplinary program that focuses on the study of jazz in a global context. Students explore the historical, cultural, and musical aspects of jazz, examining its development, evolution, and impact on society. The program is designed to foster musical, cultural, and critical thinking competencies, preparing students for careers in performance, education, composition, and arts administration."
+  },
+  {
+    "name": "Musicology (B.A.)",
+    "id": "musicology-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=584",
+    "college": "Herb Alpert School of Music",
+    "description": "The Musicology program at UCLA provides students with a comprehensive understanding of music in its historical, cultural, and social contexts. Students explore a wide range of topics, including music theory, analysis, and history, as well as specialized areas such as ethnomusicology and music technology. The program is designed to foster critical thinking, research skills, and musical literacy, preparing students for a variety of careers in music and related fields."
+  },
+  {
+    "name": "Music Composition (B.A.)",
+    "id": "music-composition-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=422",
+    "college": "Herb Alpert School of Music",
+    "description": "The Bachelor of Arts in Music Composition is offered through the Herb Alpert School of Music. The program is designed to provide students with a comprehensive education in music composition, theory, and history, as well as to foster their creative and technical skills. Students work closely with faculty composers and have opportunities to have their work performed by ensembles on campus."
+  },
+  {
+    "name": "Music Education (B.A.)",
+    "id": "music-education-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=415",
+    "college": "Herb Alpert School of Music",
+    "description": "The Bachelor of Arts in Music Education is designed for students who wish to pursue a career in music education. The program provides a comprehensive education in music theory, history, and performance, as well as training in music education methods and pedagogy. Students in this program will develop their musical skills and knowledge, as well as their ability to communicate musical concepts to others."
+  },
+  {
+    "name": "Music Industry (B.A.)",
+    "id": "music-industry-ba",
+    "url": "https://schoolofmusic.ucla.edu/academics/music-industry/ba/",
+    "college": "Herb Alpert School of Music",
+    "description": "The Music Industry program at UCLA's Herb Alpert School of Music prepares students for careers in the music industry by providing a comprehensive education in music business, production, and technology. The program covers the music industry's commercial and artistic aspects, including recording, publishing, marketing, and management. Students gain hands-on experience through internships, projects, and collaborative work."
+  },
+  {
+    "name": "Music Performance (B.M.)",
+    "id": "music-performance-bm",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=426",
+    "college": "Herb Alpert School of Music",
+    "description": "The Bachelor of Music in Music Performance is designed for students who wish to pursue a career as a performer or to continue their studies at the graduate level. The program provides intensive training in performance, music theory, music history, and musicianship. Students in the program receive private instruction on their major instrument, participate in ensembles, and study a range of repertoire from different historical periods."
+  },
+  {
+    "name": "Nursing - Prelicensure (B.S.)",
+    "id": "nursing-prelicensure-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=309",
+    "college": "School of Nursing",
+    "description": "The Nursing - Prelicensure (B.S.) program at UCLA's School of Nursing is designed to prepare students for a career in nursing. The program combines theoretical coursework with clinical training to provide students with a comprehensive understanding of nursing principles and practices."
+  },
+  {
+    "name": "Public Affairs (B.A.)",
+    "id": "public-affairs-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=418",
+    "college": "Luskin School of Public Affairs",
+    "description": "The undergraduate major in Public Affairs is an interdisciplinary program that prepares students for careers in the public, private, and nonprofit sectors. The program focuses on the development of skills and knowledge necessary to analyze and address complex social problems. Coursework includes classes in public policy, urban planning, and social welfare, as well as electives in areas such as environmental policy, international development, and community organizing."
+  },
+  {
+    "name": "Education and Social Transformation (B.A.)",
+    "id": "education-and-social-transformation-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=429",
+    "college": "School of Education and Information Studies",
+    "description": "The Education and Social Transformation major is an interdisciplinary program that examines the complex relationships between education, society, and social change. Students explore the ways in which educational institutions and practices shape, and are shaped by, societal forces such as inequality, power dynamics, and cultural norms. The major prepares students for a range of careers in fields such as education, social justice, policy, and community organizing."
+  },
+  {
+    "name": "Public Health (B.A.)",
+    "id": "public-health-ba",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=457",
+    "college": "Fielding School of Public Health",
+    "description": "The Public Health major provides foundational training in the assessment, policy development, and assurance of public health, introducing core concepts in epidemiology, health policy, environmental health, and health behavior. The program is designed to prepare students for a wide range of careers or graduate studies in public health, healthcare administration, and related fields."
+  },
+  {
+    "name": "Public Health (B.S.)",
+    "id": "public-health-bs",
+    "url": "https://newstudents.ucla.edu/studyarea/?id=458",
+    "college": "Fielding School of Public Health",
+    "description": "The B.S. in Public Health is an interdisciplinary program that prepares students for careers in public health practice, research, or further study. The program focuses on the application of theory, research methods, and analysis to address health issues. Coursework includes foundations in public health, health services, health behavior, environmental health, and epidemiology, as well as advanced study in selected areas."
+  }
+]

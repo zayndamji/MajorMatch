@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Astrophysics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Astrophysics major is designed to provide a comprehensive understanding of the physical universe, from the properties of stars and galaxies to the behavior of matter and energy under extreme conditions. The program includes a strong foundation in physics and mathematics, as well as specialized courses in astrophysics.",
+  "shortProgramDescription": "The Astrophysics B.S. provides a rigorous foundation in physics, mathematics, and astrophysics, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The Astrophysics major requires a strong foundation in physics, including Mechanics (PHYSICS 11A), Electricity and Magnetism (PHYSICS 11C), and Thermodynamics (PHYSICS 11D).",
+    "Students take core mathematics courses, including Calculus (MATH 31A, 31B) and Differential Equations (MATH 33B, PHYSICS 115B).",
+    "Astrophysics-specific courses cover topics such as Stellar Structure and Evolution, Galactic Astronomy, and Cosmology.",
+    "Students also complete laboratory courses, including Physics Laboratory (PHYSICS 4BL, 107L).",
+    "Electives allow students to explore topics such as planetary science, high-energy astrophysics, and computational methods."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical and physical principles to understand astrophysical phenomena.",
+    "Analyze and interpret data from astronomical observations and experiments.",
+    "Understand the principles of stellar structure, galaxy evolution, and cosmology.",
+    "Use computational methods to model and simulate astrophysical systems.",
+    "Communicate complex scientific concepts effectively."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Physics (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=157"
+    },
+    {
+      "title": "Physics (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=156"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=101",
+    "https://www.physics.ucla.edu/undergrad/majors/astrophysics-bs"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete a set of preparation for the major courses, including physics and mathematics. Upper-division coursework includes astrophysics-specific classes and electives. GPA thresholds and other requirements apply."
+}

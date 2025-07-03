@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Disability Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Disability Studies major is an interdisciplinary program that examines the social, cultural, and political contexts of disability. Students explore the complex relationships between disability, identity, culture, and power, and analyze the ways in which disability is represented, experienced, and addressed in different societies. The major prepares students for careers in fields such as education, healthcare, social services, and advocacy, and provides a foundation for graduate study in disability-related fields.",
+  "shortProgramDescription": "The Disability Studies B.A. provides students with a comprehensive understanding of disability as a social and cultural phenomenon, preparing them for careers in disability-related fields.",
+  "classHighlights": [
+    "The Disability Studies major includes core courses that introduce students to the field's key concepts, theories, and methods. These courses cover topics such as the social construction of disability, disability identity, and disability rights.",
+    "Students also take electives that explore the intersections between disability and other fields, such as education, healthcare, and social justice. These courses may include topics such as disability and education, disability and employment, and disability and health.",
+    "In addition to coursework, students have opportunities to engage with disability communities and organizations through internships, research projects, and community-based learning experiences."
+  ],
+  "learningOutcomes": [
+    "Understand the social, cultural, and political contexts of disability",
+    "Analyze the complex relationships between disability, identity, culture, and power",
+    "Apply disability theories and concepts to real-world issues and problems",
+    "Develop skills in critical thinking, research, and communication",
+    "Prepare for careers in disability-related fields or graduate study"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Disability Studies Minor",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=460"
+    },
+    {
+      "title": "Social Welfare Major",
+      "link": "https://luskin.ucla.edu/social-welfare"
+    },
+    {
+      "title": "Education and Social Transformation Major",
+      "link": "https://education.ucla.edu/programs/education-and-social-transformation"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=459",
+    "https://luskin.ucla.edu/luskin-center-disability-health/disability-studies-major"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Disability Studies major is housed in the Luskin School of Public Affairs. Students must meet the College's residency and GPA requirements."
+}

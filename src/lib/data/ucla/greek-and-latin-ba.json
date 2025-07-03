@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Greek and Latin (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Classics at UCLA offers a comprehensive program in Greek and Latin, focusing on the literary, historical, and cultural achievements of ancient Greece and Rome. Students engage with a broad range of texts, from Homer and Greek tragedy to Roman epic and historiography, developing their understanding of the classical world and its ongoing influence on Western culture. Through coursework in language, literature, and history, the program aims to cultivate critical thinking, linguistic proficiency, and a nuanced understanding of the ancient Mediterranean.",
+  "shortProgramDescription": "The Greek and Latin B.A. at UCLA provides a rigorous foundation in classical languages and cultures, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "📚 **Language Courses**: Students complete a sequence of courses in Greek and/or Latin, progressing from introductory language classes to advanced readings in Greek and Roman literature, including works by authors such as Homer, Sophocles, Euripides, Virgil, and Ovid.",
+    "🏛️ **Classical Literature**: Courses cover major genres and authors of Greek and Roman literature, exploring the cultural contexts and historical significance of classical texts.",
+    "🕰️ **Ancient History**: Students engage with the history of ancient Greece and Rome, analyzing primary sources and developing an understanding of the social, political, and cultural developments of the classical world.",
+    "🔍 **Classics in Context**: The program includes courses that examine the reception and influence of classical culture in later periods, as well as the methodologies and theories used in classical studies.",
+    "📜 **Electives and Special Topics**: Students can choose from a range of electives covering topics such as mythology, ancient philosophy, and the archaeology of the classical world, allowing them to tailor their studies to their interests."
+  ],
+  "learningOutcomes": [
+    "Read and analyze Greek and/or Latin texts at an advanced level.",
+    "Understand the cultural, historical, and literary contexts of classical antiquity.",
+    "Apply critical thinking and theoretical approaches to the study of classical texts and cultures.",
+    "Communicate effectively about classical subjects in written and oral forms.",
+    "Recognize the ongoing influence of classical culture in later periods.",
+    "Demonstrate an awareness of the diverse methodologies and theories used in classical studies."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Classics Minor",
+      "link": "https://classics.ucla.edu/undergraduate-programs/classics-minor/"
+    },
+    {
+      "title": "Ancient Greek (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=600"
+    },
+    {
+      "title": "Latin (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=618"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=625",
+    "https://classics.ucla.edu/undergraduate-programs/greek-latin-ba/",
+    "https://catalog.registrar.ucla.edu/",
+    "https://www.ucla.edu/admissions/undergraduate-admissions"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are advised to consult with departmental advisors to plan their course of study. The program encourages study abroad and participation in archaeological field schools."
+}

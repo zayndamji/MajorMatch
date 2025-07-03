@@ -1,0 +1,48 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Computer Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Computer Engineering program at UCLA is offered through the Samueli School of Engineering. The program prepares students for a career in the rapidly growing field of computer engineering, which encompasses both hardware and software aspects. Students gain a strong foundation in computer architecture, digital design, software engineering, and other relevant areas.",
+  "shortProgramDescription": "The UCLA Computer Engineering B.S. program provides a comprehensive education in computer engineering, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The program begins with foundational courses in programming (CS 31, CS 32), computer organization (ECEnigr 10), and digital logic (ECEnigr 3).",
+    "Students then progress to more specialized courses in computer architecture (ECE 115A, 115B, 115C), digital design (ECE 111, 113), and software engineering (CS 35L, CS 131).",
+    "Additional coursework includes electrical engineering (ECE 10, 11), signals and systems (ECE 102), and mathematics (Math 31A, 31B, 32A, 32B, 33A).",
+    "Students also take a range of technical electives, allowing them to explore areas such as computer networks, embedded systems, or VLSI design.",
+    "Throughout the program, students develop skills in design, analysis, and problem-solving, preparing them for a wide range of career opportunities.",
+    "Laboratory and project-based courses provide hands-on experience, complementing theoretical coursework.",
+    "Upper-division courses emphasize advanced topics and the integration of concepts learned in earlier courses."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of computer engineering to design and analyze systems.",
+    "Understand computer architecture, digital design, and software engineering.",
+    "Use programming skills to develop software for a variety of applications.",
+    "Analyze and solve complex engineering problems.",
+    "Communicate technical concepts effectively in written and oral form.",
+    "Work effectively in teams to design and implement projects.",
+    "Stay current with emerging technologies and trends in the field."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Computer Science (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=410"
+    },
+    {
+      "title": "Electrical Engineering (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=414"
+    },
+    {
+      "title": "Electrical Engineering (B.S.) with Specialization in Computer Engineering",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=414"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=413",
+    "https://samueli.ucla.edu/departments/electrical-computer-engineering/",
+    "https://catalog.ucla.edu/engineering/computer-science"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "202 units total",
+  "additionalInformation": "The Computer Engineering program at UCLA is a highly competitive and rigorous program that requires a strong foundation in mathematics and science. Students are encouraged to participate in research projects, internships, and other extracurricular activities to gain practical experience."
+}

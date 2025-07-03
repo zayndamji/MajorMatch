@@ -1,0 +1,48 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Bioengineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Bioengineering program at UCLA is an interdisciplinary field that applies engineering principles to understand, modify, or control biological systems. The program is designed to provide a rigorous foundation in engineering, mathematics, and physical sciences, as well as a strong understanding of biological systems and processes.",
+  "shortProgramDescription": "The Bioengineering B.S. program at UCLA provides students with a comprehensive education in the principles of engineering, biology, and medicine, preparing them for careers in biomedical industries, research, or graduate study.",
+  "classHighlights": [
+    "The program begins with foundational courses in mathematics, physics, and chemistry, including Calculus (Math 31A-31B), Physics (Physics 1A-1B), and Chemistry (Chem 20A-20B).",
+    "Students take core bioengineering courses, including Introduction to Bioengineering (BioEng 10), Biomechanics (BioEng 102), and Bioengineering Laboratory (BioEng 103).",
+    "Upper-division courses cover topics such as Biotransport (BioEng 101), Bioengineering Thermodynamics (BioEng 110), and Systems Bioengineering (BioEng 174).",
+    "Students also complete coursework in biology, including Cell Biology (MCDB 165A) and Biochemistry (Chem 153A-153B).",
+    "Electives allow students to explore specialized areas, such as tissue engineering, biomaterials, and biomedical imaging.",
+    "The program emphasizes laboratory and design experiences, with courses like Bioengineering Laboratory (BioEng 103) and Senior Design (BioEng 195).",
+    "Students also complete a capstone design project, applying engineering principles to a real-world biomedical problem."
+  ],
+  "learningOutcomes": [
+    "Apply engineering principles to biological systems and problems",
+    "Understand the fundamental biology and physiology of living systems",
+    "Design and conduct experiments to analyze and solve biomedical problems",
+    "Communicate complex ideas and results effectively in written and oral forms",
+    "Work collaboratively in teams to design and develop biomedical solutions",
+    "Analyze and interpret data from biomedical experiments and systems",
+    "Understand the ethical and societal implications of bioengineering research and applications"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Biomedical Engineering Minor",
+      "link": "https://www.ucla.edu/academics/minors"
+    },
+    {
+      "title": "Biochemistry Major",
+      "link": "https://www.ucla.edu/academics/majors/biochemistry"
+    },
+    {
+      "title": "Biology Major",
+      "link": "https://www.ucla.edu/academics/majors/biology"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=288",
+    "https://samueli.ucla.edu/academics/departments/bioengineering/",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23/ugrad/engg/bioengineering.html"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180-186 units (quarter system)",
+  "additionalInformation": "The Bioengineering program is accredited by the Engineering Accreditation Commission of ABET. Students are encouraged to participate in research and internships to gain practical experience."
+}

@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Political Science (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Political Science major provides students with a broad understanding of the discipline, including American politics, comparative politics, international relations, and political theory. Students develop critical thinking, research, and analytical skills through coursework and research opportunities.",
+  "shortProgramDescription": "The Political Science B.A. at UCLA provides a comprehensive education in the field, preparing students for careers in government, law, public policy, and more.",
+  "classHighlights": [
+    "The major requires foundational courses in American Politics (POL SCI 40), Comparative Politics (POL SCI 120), International Relations (POL SCI 140), and Political Theory (POL SCI 180), ensuring a broad base of knowledge.",
+    "Students choose from a range of upper-division courses, including POL SCI 150 (Globalization and Governance), POL SCI 191 (Introduction to Research Design), and various electives in subfields like public policy, urban politics, or comparative politics.",
+    "Courses cover a range of methodologies, including quantitative analysis and qualitative research techniques, preparing students for advanced study or professional careers.",
+    "Electives allow students to explore specialized topics, such as environmental politics, social movements, or the politics of specific regions or countries.",
+    "The major emphasizes developing critical thinking, writing, and analytical skills through coursework and research opportunities."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental concepts and theories in political science.",
+    "Analyze and interpret data related to political phenomena.",
+    "Develop critical thinking and problem-solving skills.",
+    "Communicate complex ideas effectively in written and oral form.",
+    "Apply knowledge of political science to real-world issues and problems.",
+    "Demonstrate an understanding of the diversity of political systems and institutions."
+  ],
+  "similarPrograms": [
+    {
+      "title": "International Relations Minor",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MIN&code=234"
+    },
+    {
+      "title": "Public Policy Minor",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MIN&code=235"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=699",
+    "https://polisci.ucla.edu/undergraduate/political-science-major"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must fulfill the College's general education requirements and complete a minimum of 180 units to graduate. The major is flexible, allowing students to tailor their coursework to their interests."
+}

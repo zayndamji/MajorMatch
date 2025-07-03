@@ -1,0 +1,36 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Iranian Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Iranian Studies major is an interdisciplinary program that focuses on the languages, cultures, histories, and societies of Iran and the Persianate world. Students gain a deep understanding of the region through coursework in Persian language, literature, history, and culture, as well as related fields such as anthropology, sociology, and politics.",
+  "shortProgramDescription": "The Iranian Studies major at UCLA provides students with a comprehensive understanding of Iranian culture, history, and language, preparing them for careers in academia, government, and international relations.",
+  "classHighlights": [
+    "Language and Literature: Students take courses in Persian language and literature, including introductory and advanced language classes, as well as courses on Persian literature and poetry.",
+    "History and Culture: Students explore the history and culture of Iran and the Persianate world through courses that cover topics such as the history of Iran, Islamic thought, and cultural anthropology.",
+    "Social Sciences and Politics: Students examine the social sciences and politics of Iran through courses that focus on topics such as Iranian society, politics, and international relations."
+  ],
+  "learningOutcomes": [
+    "Demonstrate proficiency in the Persian language",
+    "Analyze and interpret Persian literature and cultural texts",
+    "Understand the history and cultural heritage of Iran and the Persianate world",
+    "Examine the social, political, and economic contexts of Iran and the region"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Near Eastern Languages and Cultures",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=348"
+    },
+    {
+      "title": "Middle East Studies Minor",
+      "link": "https://www.iranian.ucla.edu/academics/minor"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=464",
+    "https://www.iranian.ucla.edu/academics/iranian-studies-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units",
+  "additionalInformation": "Students are encouraged to participate in study abroad programs and to engage with the UCLA Iranian Studies community."
+}

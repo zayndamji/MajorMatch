@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Aerospace Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Aerospace Engineering program at UCLA is designed to provide a strong foundation in the fundamental principles of engineering, with a focus on the application of these principles to aerospace systems. The program includes coursework in mathematics, physics, and engineering, as well as specialized courses in aerospace engineering topics such as aerodynamics, propulsion, and structural analysis.",
+  "shortProgramDescription": "The Aerospace Engineering B.S. program at UCLA prepares students for careers in the aerospace industry through a rigorous curriculum in engineering fundamentals, mathematics, and physics.",
+  "classHighlights": [
+    "The program begins with a foundation in mathematics and physics, including courses such as Calculus (Math 31A-31B), Physics (Physics 1A-1C), and Differential Equations (Math 131A-131B).",
+    "Engineering coursework includes classes on Mechanics (ENGR 30-130), Materials Science (ENGR 45), and Electrical Engineering (EC ENGR 110A).",
+    "Aerospace-specific courses cover topics like Aerodynamics (AERO 101), Propulsion (AERO 102), and Structural Analysis (AERO 103).",
+    "Students also take courses in computational methods and engineering design, including Computational Methods in Aerospace Engineering (AERO 101C) and Aerospace Engineering Design (AERO 101D).",
+    "Laboratory and experimental coursework, such as Aerospace Engineering Laboratory (AERO 106), provides hands-on experience with aerospace systems and components."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical and scientific principles to solve aerospace engineering problems",
+    "Design and analyze aerospace systems and components",
+    "Demonstrate understanding of aerodynamics, propulsion, and structural analysis",
+    "Use computational tools and experimental techniques to analyze and test aerospace systems",
+    "Communicate effectively in written and oral forms"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mechanical Engineering (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=282"
+    },
+    {
+      "title": "Materials Science and Engineering (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=285"
+    },
+    {
+      "title": "Civil Engineering (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=280"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=279",
+    "https://www.ucla.edu/academics/majors/aerospace-engineering-bs",
+    "https://www.seas.ucla.edu/academics/undergraduate-programs/aerospace-engineering"
+  ],
+  "programDuration": "4 years (8 semesters, semester system)",
+  "creditRequirements": "186 units (semester credits)",
+  "additionalInformation": "The Aerospace Engineering program is accredited by the Engineering Accreditation Commission of ABET. Students are encouraged to participate in research and internship opportunities to gain practical experience."
+}

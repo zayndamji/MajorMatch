@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Ecology, Behavior, and Evolution (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Ecology, Behavior, and Evolution (EBE) major is an integrative life science major that focuses on the ecological and evolutionary processes that have shaped the diversity of life on Earth. Students examine the patterns and processes of biological diversity, from molecular to ecosystem levels, and explore the complex interactions between organisms and their environments. The program emphasizes the application of scientific principles to understand and address environmental issues.",
+  "shortProgramDescription": "The EBE major at UCLA provides a comprehensive understanding of ecological and evolutionary principles, preparing students for careers in research, conservation, and environmental management.",
+  "classHighlights": [
+    "Core courses in EBE include Ecology (LS 4), Evolution (LS 7), Genetics (LS 1 or LS 7A), and Biochemistry (Chem 14C or LS 7B/7C), providing a foundational understanding of biological principles.",
+    "Upper-division courses cover topics such as Conservation Biology, Behavioral Ecology, and Evolutionary Ecology, allowing students to explore specialized areas in depth.",
+    "Laboratory and field-based courses, such as Experimental Biology (LS 107 or LS 107A), provide hands-on experience with research methods and data analysis, developing practical skills for scientific inquiry.",
+    "Electives in related fields, such as Environmental Science, Anthropology, and Earth and Space Sciences, enable students to broaden their knowledge and contextualize ecological and evolutionary processes within interdisciplinary frameworks.",
+    "Courses in statistical analysis and research methods, such as Biostatistics (LS 40 or Stat 13 or 23) and Research Design (LS 100), equip students with the quantitative skills necessary for advanced study and professional applications."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of ecology, behavior, and evolution.",
+    "Apply scientific methods to investigate biological phenomena.",
+    "Analyze complex ecological and evolutionary processes.",
+    "Synthesize knowledge from multiple disciplines to address environmental issues.",
+    "Communicate scientific information effectively to diverse audiences."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Biology (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=120"
+    },
+    {
+      "title": "Environmental Science (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=180"
+    },
+    {
+      "title": "Microbiology, Immunology, and Molecular Genetics (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=142"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=122",
+    "https://life sciences.ucla.edu/degrees/ebe"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Approx. 180 quarter units",
+  "additionalInformation": "Students are advised to consult with EBE faculty advisors to tailor their course selections and pursue research opportunities."
+}

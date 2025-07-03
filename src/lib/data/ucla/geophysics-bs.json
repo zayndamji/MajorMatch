@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Geophysics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Geophysics B.S. program at UCLA is an interdisciplinary major that combines coursework in geology, physics, and mathematics to understand the Earth's internal and external processes. Students develop a strong foundation in the principles of geophysics, including seismology, gravity, magnetism, and heat flow. The program prepares students for careers in research, industry, and government, as well as for graduate study in geophysics and related fields.",
+  "shortProgramDescription": "The Geophysics B.S. program at UCLA provides a comprehensive education in the Earth's physical processes, preparing students for careers or further study.",
+  "classHighlights": [
+    "Mathematics and Physics Foundation: Students take a series of courses in mathematics (MATH 31A, 31B, 32A, 32B) and physics (PHYSICS 1A, 1B, 1C, 4AL, 4BL) to develop a strong foundation in the principles of geophysics.",
+    "Geology and Geophysics Core: The major includes core courses in geology (EARTH 1, 11, 111, 113) and geophysics (EARTH 131, 132, 135), providing a comprehensive understanding of the Earth's internal and external processes.",
+    "Specialized Geophysics Courses: Students take specialized courses in geophysics, including seismology, gravity, magnetism, and heat flow (EARTH 136, 137, 138), to develop a deeper understanding of the Earth's physical processes."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of geophysics, including seismology, gravity, magnetism, and heat flow.",
+    "Apply mathematical and physical principles to understand the Earth's internal and external processes.",
+    "Analyze and interpret geophysical data to understand the Earth's structure and evolution.",
+    "Communicate complex geophysical concepts and data effectively in written and oral form."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Geology (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=401"
+    },
+    {
+      "title": "Earth, Planetary, and Space Sciences (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=399"
+    },
+    {
+      "title": "Environmental Science (B.A., B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=403"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=402",
+    "https://catalog.ucla.edu/undergrad/schools-departments/physical-sciences/geology",
+    "https://www.eas.ucla.edu/undergraduate-programs"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Geophysics B.S. program is an interdisciplinary major that requires a strong foundation in mathematics and physics. Students are encouraged to participate in research opportunities and internships to gain practical experience in the field."
+}

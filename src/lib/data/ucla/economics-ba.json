@@ -1,0 +1,36 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Economics (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The undergraduate major in Economics is designed to provide students with a comprehensive understanding of the field of economics, including microeconomics, macroeconomics, and econometrics. The program prepares students for careers in government, business, and academia, as well as for graduate study in economics and related fields.",
+  "shortProgramDescription": "The Economics B.A. at UCLA provides a rigorous foundation in economic theory, empirical analysis, and applied economics, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "Microeconomics: Students take courses in microeconomic theory, including ECON 101 (Principles of Microeconomics) and ECON 102 (Principles of Macroeconomics), followed by intermediate theory courses (ECON 11, ECON 41) that cover consumer and firm behavior, markets, and general equilibrium.",
+    "Macroeconomics: The program includes coursework in macroeconomic theory, such as ECON 102 (Principles of Macroeconomics) and ECON 131 (Economic Growth and Development), focusing on national income, inflation, and economic growth.",
+    "Econometrics: Students learn statistical techniques and data analysis in ECON 41 (Statistics for Economists) and ECON 141 (Econometrics), enabling them to apply empirical methods to economic problems.",
+    "Field Courses: Students choose from a range of field courses, including labor economics (ECON 145), industrial organization (ECON 161), international trade (ECON 171), and public finance (ECON 174), allowing them to specialize in areas of interest.",
+    "Electives: Additional electives are available in specialized areas, such as economic history, environmental economics, and economic development, providing further depth and context."
+  ],
+  "learningOutcomes": [
+    "Understand and apply microeconomic and macroeconomic theories.",
+    "Analyze economic data using statistical and econometric techniques.",
+    "Evaluate the impact of economic policies and events.",
+    "Communicate economic concepts and research findings effectively.",
+    "Apply economic principles to real-world problems and policy issues.",
+    "Prepare for careers or further study in economics and related fields."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Economics Minor",
+      "link": "https://www.econ.ucla.edu/undergraduate/econ-minor"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=246",
+    "https://www.econ.ucla.edu/undergraduate"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Approx. 180 quarter units, including major requirements and breadth courses",
+  "additionalInformation": "Students are advised to complete the major preparation courses in their first two years. The major is highly sequenced, requiring careful planning. UCLA also offers an Economics Minor for students majoring in other fields."
+}

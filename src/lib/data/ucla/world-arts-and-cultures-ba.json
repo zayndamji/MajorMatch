@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "World Arts and Cultures (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The World Arts and Cultures major is an interdisciplinary program that focuses on the study of arts and cultures from around the world. The program explores the complex relationships between culture, power, and identity, and examines the ways in which arts and cultural practices shape and reflect societal values. Students in the program engage with a range of artistic and cultural forms, including music, dance, theater, visual arts, and performance.",
+  "shortProgramDescription": "The World Arts and Cultures major at UCLA is an interdisciplinary program that explores the complex relationships between culture, power, and identity through the study of arts and cultures from around the world.",
+  "classHighlights": [
+    "The World Arts and Cultures program includes core courses that introduce students to key concepts and methodologies in the field, such as the cultural politics of identity and the anthropology of art.",
+    "Students take courses in the department that cover a range of topics, including dance, music, and performance, as well as the historical and cultural contexts of these practices.",
+    "Electives allow students to explore their interests in areas such as cultural studies, anthropology, and art history, and to engage with the work of artists and cultural practitioners.",
+    "Students also have the opportunity to take courses in other departments, such as Music, Theater, and Dance, and to participate in performance and production activities.",
+    "The program emphasizes critical thinking, creative expression, and cultural competency, preparing students for careers in the arts, cultural management, and education."
+  ],
+  "learningOutcomes": [
+    "Understand the complex relationships between culture, power, and identity",
+    "Analyze the ways in which arts and cultural practices shape and reflect societal values",
+    "Engage with a range of artistic and cultural forms, including music, dance, theater, visual arts, and performance",
+    "Develop critical thinking, creative expression, and cultural competency",
+    "Prepare for careers in the arts, cultural management, and education"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Dance (B.A.)",
+      "link": "https://www.ucla.edu/academics/majors/dance-ba"
+    },
+    {
+      "title": "Ethnomusicology (B.A.)",
+      "link": "https://www.ethnomusic.ucla.edu/undergraduate-program"
+    },
+    {
+      "title": "Art History (B.A.)",
+      "link": "https://arthistory.ucla.edu/undergraduate"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=932",
+    "https://www.ucla.edu/academics/majors/world-arts-and-cultures-ba",
+    "https://www.wac.ucla.edu/undergraduate-program"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The World Arts and Cultures major is offered through the School of the Arts and Architecture. Students must declare the major by the end of their sophomore year and maintain a minimum GPA of 2.0."
+}

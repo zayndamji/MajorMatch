@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Linguistics (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Linguistics major at UCLA is designed to provide students with a comprehensive understanding of the fundamental principles of language, including its sound structure, grammatical structure, and meaning. Students explore the diversity of human languages and the cognitive and neural basis of language acquisition and use. The major aims to equip students with analytical skills, theoretical knowledge, and empirical methods necessary for understanding the complexities of human language.",
+  "shortProgramDescription": "The Linguistics B.A. at UCLA provides a rigorous foundation in the scientific study of language, preparing students for careers in language teaching, speech pathology, or further study in linguistics or related fields.",
+  "classHighlights": [
+    "Linguistics Core: Students are required to take Introduction to Linguistics (Ling 1), Phonetics (Ling 120A), Phonology (Ling 120B), Morphology (Ling 121A), Syntax (Ling 122A), and Semantics (Ling 123A), providing a comprehensive overview of the core areas of linguistic study.",
+    "Phonetics and Phonology: Courses like Phonetics (Ling 120A) and Phonology (Ling 120B) teach students about the sound systems of languages, including phonetic transcription, phonological analysis, and the cognitive foundations of speech perception and production.",
+    "Morphology and Syntax: Morphology (Ling 121A) and Syntax (Ling 122A) focus on the structure of words and sentences, respectively, examining how languages organize and express meaning through grammatical structures.",
+    "Semantics and Pragmatics: Semantics (Ling 123A) introduces students to the study of meaning in language, while related courses explore pragmatics, the study of how context influences meaning.",
+    "Sociolinguistics and Language Acquisition: Courses in sociolinguistics and language acquisition examine the role of language in society and the processes by which children and adults acquire language, highlighting the interplay between linguistic structure, social context, and cognitive development.",
+    "Field Methods and Linguistic Analysis: Field Methods (Ling 130) allows students to engage in original research by collecting and analyzing data from a less commonly studied language, applying theoretical knowledge to real-world linguistic data."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of linguistic structure, including phonetics, phonology, morphology, syntax, and semantics.",
+    "Analyze linguistic data using theoretical models and empirical methods.",
+    "Recognize the diversity of human languages and the cognitive and neural basis of language acquisition and use.",
+    "Apply linguistic knowledge to real-world problems, such as language teaching, speech pathology, or language documentation.",
+    "Demonstrate critical thinking and analytical skills in evaluating linguistic theories and data."
+  ],
+  "similarPrograms": [
+    {
+      "title": "English",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=220"
+    },
+    {
+      "title": "Language and Literature (French, Italian, Spanish, etc.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=280"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=510",
+    "https://linguistics.ucla.edu/undergraduate-program"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Linguistics major requires a minimum of 12 upper-division courses. Students are encouraged to participate in research projects, internships, or study abroad programs to enhance their undergraduate experience."
+}

@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Civil Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Civil Engineering program at UCLA provides a comprehensive education in the fundamental principles and practices of civil engineering, including structural analysis and design, geotechnical engineering, water resources, transportation, and environmental engineering. The program emphasizes the development of problem-solving skills, teamwork, and communication, preparing students for a wide range of career opportunities in the field.",
+  "shortProgramDescription": "UCLA's Civil Engineering B.S. program provides a strong foundation in civil engineering principles and practices, preparing students for careers in the field.",
+  "classHighlights": [
+    "The Civil Engineering program begins with a series of foundational courses, including Introduction to Civil Engineering (CIV ENG 30), Mechanics of Solids and Fluids (CIV ENG 101), and Engineering Geology (CIV ENG 111).",
+    "Students then progress to more specialized courses in areas such as structural analysis and design (CIV ENG 130, CIV ENG 135), geotechnical engineering (CIV ENG 115, CIV ENG 116), and water resources (CIV ENG 151, CIV ENG 155).",
+    "Additional coursework covers topics such as transportation (CIV ENG 121), environmental engineering (CIV ENG 140, CIV ENG 141), and construction management (CIV ENG 120).",
+    "Throughout the program, students develop their analytical and problem-solving skills through a combination of lectures, discussions, and hands-on projects.",
+    "The curriculum is designed to ensure that students gain a broad understanding of civil engineering principles, as well as the ability to apply these principles to real-world problems."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mathematics and science to solve civil engineering problems",
+    "Analyze and design civil engineering systems, including structures, transportation networks, and water resources",
+    "Understand the geotechnical and geological aspects of civil engineering",
+    "Communicate effectively with diverse stakeholders, including engineers, policymakers, and the general public",
+    "Work effectively in teams to solve complex civil engineering problems",
+    "Apply knowledge of ethics, sustainability, and social responsibility to civil engineering practice"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Engineering (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=303"
+    },
+    {
+      "title": "Mechanical Engineering (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=306"
+    },
+    {
+      "title": "Aerospace Engineering (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=301"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=300",
+    "https://www.ucla.edu/academics/majors/civil-engineering",
+    "https://samueli.ucla.edu/departments/civil-environmental-engineering/"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "194-198 units (quarter system)",
+  "additionalInformation": "The Civil Engineering program at UCLA is accredited by the Engineering Accreditation Commission of ABET. Students are encouraged to participate in research projects, internships, and other experiential learning opportunities to supplement their academic coursework."
+}

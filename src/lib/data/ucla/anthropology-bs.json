@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Anthropology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Anthropology major is designed to provide students with a broad understanding of the discipline, including its four subfields: sociocultural anthropology, biological anthropology, archaeology, and linguistic anthropology. The program emphasizes the development of critical thinking, research, and analytical skills.",
+  "shortProgramDescription": "The Anthropology B.S. program at UCLA provides a comprehensive education in the field, preparing students for a wide range of careers or graduate study.",
+  "classHighlights": [
+    "The Anthropology program begins with foundational courses such as Introduction to Anthropology and Anthropological Theory, which introduce students to the discipline's core concepts and methods.",
+    "Students then progress to more specialized courses in areas like cultural anthropology, biological anthropology, and archaeology, gaining a deeper understanding of human diversity, evolution, and cultural dynamics.",
+    "Upper-division courses allow students to explore specific topics in depth, such as anthropological theory, research methods, and cultural area studies, fostering advanced critical thinking and research skills."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad understanding of the anthropological discipline, including its subfields and key concepts.",
+    "Apply anthropological theories and methods to analyze human cultures, behaviors, and biological characteristics.",
+    "Conduct independent research using anthropological methods and present findings effectively.",
+    "Critically evaluate information and ideas within the context of anthropological inquiry.",
+    "Communicate complex ideas and research results clearly in written and oral forms."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Sociology",
+      "link": "https://sociology.ucla.edu/undergraduate-program"
+    },
+    {
+      "title": "African American Studies",
+      "link": "https://www.aas.ucla.edu"
+    },
+    {
+      "title": "Global Studies",
+      "link": "https://globalstudies.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=43",
+    "https://anthropology.ucla.edu/undergraduate-program"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Anthropology B.S. program is designed to be flexible, allowing students to tailor their coursework to their interests and career goals. Students are encouraged to engage in research and fieldwork opportunities to gain practical experience."
+}

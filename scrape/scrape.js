@@ -84,8 +84,17 @@ async function ucsdFilterLinksFirstPass() {
   }
 }
 
+// UCLA
+async function ucla() {
+  const uclaMajors = JSON.parse(fs.readFileSync('../src/lib/data/ucla/majors.json'));
+  for (const major of uclaMajors) {
+    await scrapeProgram('University of California, Los Angeles', major.name + `(${major.college})`, `use the official website and description: ${major.url}`, `../src/lib/data/ucla/${major.id}.json`);
+  }
+}
+
 // stanford();
 // ucb();
 // mit();
 // ucsd();
 // ucsdFilterLinksFirstPass();
+// ucla();

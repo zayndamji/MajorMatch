@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "European Languages and Transcultural Studies with Scandinavian (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The European Languages and Transcultural Studies (ELTS) major with Scandinavian Studies is an interdisciplinary program that focuses on the languages, literatures, and cultures of Europe, with a specific emphasis on Scandinavia. Students explore the historical and contemporary cultural contexts of European societies, developing linguistic proficiency and cultural competence. The program encourages the study of multiple languages and fosters an understanding of the transcultural interactions that shape European identities.",
+  "shortProgramDescription": "The ELTS major with Scandinavian Studies at UCLA prepares students to engage with Scandinavian cultures and languages within a broader European context.",
+  "classHighlights": [
+    "Language and Literature: Students take courses in Scandinavian languages (Danish, Norwegian, Swedish) and literature, exploring the historical development of these languages and their cultural significance. Courses cover literary works and authors, analyzing the cultural and historical contexts that shape Scandinavian literary traditions.",
+    "Cultural and Historical Contexts: The program includes courses on Scandinavian history, culture, and society, providing a nuanced understanding of the region's development and its place within Europe. Students examine the cultural, social, and political factors that have influenced Scandinavian societies.",
+    "Transcultural Studies: ELTS courses emphasize the transcultural interactions that have shaped European societies, including the exchange of ideas, cultural practices, and the impact of globalization. Students consider how Scandinavian cultures engage with and are influenced by broader European and global trends.",
+    "Electives and Specializations: Students have the flexibility to choose from a range of electives that allow them to explore specific interests within Scandinavian Studies, such as literature, history, or cultural studies. The program encourages students to develop a deeper understanding of their chosen area of focus."
+  ],
+  "learningOutcomes": [
+    "Demonstrate proficiency in a Scandinavian language (Danish, Norwegian, or Swedish).",
+    "Analyze Scandinavian literary and cultural texts within their historical and cultural contexts.",
+    "Understand the cultural, social, and political factors shaping Scandinavian societies.",
+    "Examine the transcultural interactions influencing Scandinavian cultures and identities.",
+    "Apply knowledge of Scandinavian cultures and languages to real-world contexts."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Scandinavian Studies Minor",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=444"
+    },
+    {
+      "title": "European Studies Minor",
+      "link": "https://international.ucla.edu/europe/article/17272"
+    },
+    {
+      "title": "German, French, or Italian Studies",
+      "link": "https://newstudents.ucla.edu/departments/languages"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=441",
+    "https://scand.ucla.edu/undergrad/major",
+    "https://catalog.registrar.ucla.edu/catalog/2023-24/ugrad/programs/college/ELTS-scandinavian"
+  ],
+  "programDuration": "4 years (quarter system), typically 12 quarters",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are encouraged to study abroad in a Scandinavian country to enhance their language skills and cultural understanding. The major requires a minimum of four upper-division courses in Scandinavian Studies, with at least two courses in the target language."
+}

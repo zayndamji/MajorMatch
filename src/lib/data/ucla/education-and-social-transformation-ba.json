@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Education and Social Transformation (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Education and Social Transformation major is an interdisciplinary program that examines the complex relationships between education, society, and social change. Students explore the ways in which educational institutions and practices shape, and are shaped by, societal forces such as inequality, power dynamics, and cultural norms. The major prepares students for a range of careers in fields such as education, social justice, policy, and community organizing.",
+  "shortProgramDescription": "The Education and Social Transformation major provides students with a critical understanding of the intersections between education, society, and social change, preparing them for careers in education, social justice, and related fields.",
+  "classHighlights": [
+    "The major requires students to take foundational courses in the School of Education and Information Studies, including introductory courses on education and society, as well as research methods.",
+    "Students explore the historical, cultural, and social contexts of education, including the impact of power dynamics, inequality, and social movements on educational institutions and practices.",
+    "Courses examine the ways in which educational policies and practices shape, and are shaped by, societal forces, including inequality, cultural norms, and economic systems.",
+    "Students engage with theoretical perspectives on education and social change, including critical pedagogy, feminist theory, and critical race theory.",
+    "The major includes coursework on research methods, including quantitative and qualitative approaches, to understand educational issues and develop effective solutions.",
+    "Electives allow students to explore specialized topics, such as education policy, community organizing, and social justice, and to develop a deeper understanding of the complex relationships between education and society."
+  ],
+  "learningOutcomes": [
+    "Understand the complex relationships between education, society, and social change",
+    "Analyze the ways in which educational institutions and practices shape, and are shaped by, societal forces",
+    "Apply theoretical perspectives on education and social change to real-world issues",
+    "Develop effective research skills to understand educational issues and develop solutions",
+    "Prepare for careers in education, social justice, policy, and related fields"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Minor in Education",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=427"
+    },
+    {
+      "title": "Minor in Disability Studies",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=425"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=429",
+    "https://www.ucla.edu"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must meet UCLA's general education requirements and complete the major requirements as specified by the School of Education and Information Studies."
+}

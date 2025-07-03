@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Art (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Art major at UCLA is designed to provide students with a broad understanding of the visual arts, including historical, cultural, and technical aspects. The program allows students to explore a variety of media and techniques, preparing them for careers in the arts or for further study. Students are introduced to different artistic practices, fostering creativity, critical thinking, and technical skills.",
+  "shortProgramDescription": "The Art B.A. program at UCLA offers a comprehensive education in the visual arts, covering a range of media and techniques, and preparing students for careers or graduate study.",
+  "classHighlights": [
+    "The Art program begins with foundational courses that introduce students to various artistic media and techniques, including drawing, painting, sculpture, and printmaking. These courses are designed to develop technical skills and encourage exploration of different artistic practices.",
+    "As students progress, they engage with more advanced courses that focus on specific mediums or artistic practices, such as digital art, photography, or installation art. These courses allow students to deepen their understanding and skills in areas of their interest.",
+    "Throughout the program, students are also exposed to art history, theory, and criticism, providing a comprehensive understanding of the visual arts within cultural and historical contexts. This includes courses that survey the history of art, as well as more specialized courses that examine specific periods, movements, or themes."
+  ],
+  "learningOutcomes": [
+    "Demonstrate proficiency in a range of artistic media and techniques.",
+    "Understand the historical and cultural contexts of art.",
+    "Apply critical thinking and creativity to artistic practices.",
+    "Communicate effectively through visual and written means.",
+    "Prepare for careers in the arts or for further academic study."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Design Media Arts",
+      "link": "https://dma.ucla.edu"
+    },
+    {
+      "title": "Art History",
+      "link": "https://arthistory.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=090",
+    "https://www.ucla.edu/academics/majors/art-ba",
+    "https://arts.ucla.edu/academics/undergraduate/art-ba"
+  ],
+  "programDuration": "4 years (quarter system, typically 12-13 quarters)",
+  "creditRequirements": "180 quarter units (includes major, breadth, and elective requirements)",
+  "additionalInformation": "The Art B.A. program is offered through the School of the Arts and Architecture. Students are advised to consult with departmental advisors to plan their course of study and ensure they meet all program requirements."
+}

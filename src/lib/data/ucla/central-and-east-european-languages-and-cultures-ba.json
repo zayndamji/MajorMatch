@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Central and East European Languages and Cultures (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Central and East European Languages and Cultures major provides students with a comprehensive understanding of the languages, literatures, and cultures of Central and Eastern Europe. Students gain proficiency in a chosen language and explore the historical, cultural, and literary contexts of the region. The program fosters critical thinking, analytical skills, and effective communication.",
+  "shortProgramDescription": "The Central and East European Languages and Cultures major at UCLA offers a rigorous exploration of languages, literatures, and cultures, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "Language courses: Students develop language proficiency through a sequence of courses in the target language, including grammar, composition, and conversation. Courses cover a range of proficiency levels, from introductory to advanced.",
+    "Literature and culture courses: Students examine the literary and cultural heritage of Central and Eastern Europe through courses on specific authors, genres, and historical periods. These courses foster an understanding of the region's complex cultural landscape.",
+    "Historical and cultural context courses: Students explore the historical, social, and cultural contexts that have shaped the region, including the impact of major events and movements on language, literature, and culture."
+  ],
+  "learningOutcomes": [
+    "Demonstrate proficiency in a Central or East European language.",
+    "Analyze literary and cultural texts within their historical and cultural contexts.",
+    "Understand the cultural, social, and historical complexities of Central and Eastern Europe.",
+    "Communicate effectively in the target language, both written and spoken.",
+    "Apply critical thinking and analytical skills to complex cultural and literary issues."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Slavic Languages and Literatures",
+      "link": "https://www.ucla.edu/academics/majors-minors/slavic-languages-and-literatures"
+    },
+    {
+      "title": "Linguistics",
+      "link": "https://linguistics.ucla.edu"
+    },
+    {
+      "title": "European Studies Minor",
+      "link": "https://international.ucla.edu/las/european-studies"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=845",
+    "https://www.ucla.edu/academics/majors-minors/central-and-east-european-languages-and-cultures",
+    "https://international.ucla.edu/las/central-and-east-european-languages-and-cultures"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total: 180 quarter units; Major: varies depending on language and course selection",
+  "additionalInformation": "Students must declare the major through the Humanities Division. Course requirements may vary depending on language and student background."
+}

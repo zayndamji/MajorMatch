@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Asian Languages and Linguistics (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Asian Languages and Linguistics major at UCLA is designed to provide students with a comprehensive understanding of the languages and linguistics of Asia. The program covers the language, literature, and culture of various Asian countries, with a focus on linguistic analysis, cultural context, and historical development. Students can choose from a range of courses that cover different Asian languages, including Chinese, Japanese, Korean, and Southeast Asian languages.",
+  "shortProgramDescription": "The Asian Languages and Linguistics major at UCLA provides students with a deep understanding of Asian languages and cultures, preparing them for careers in fields such as education, research, and international relations.",
+  "classHighlights": [
+    "Language and Linguistics Courses: Students take courses in linguistic analysis, phonetics, phonology, morphology, syntax, and semantics, as well as courses on the language and culture of specific Asian countries, such as Chinese, Japanese, and Korean.",
+    "Language-specific Courses: The program offers a range of language-specific courses, including Chinese, Japanese, Korean, and Southeast Asian languages, which provide students with a deep understanding of the grammar, syntax, and cultural context of each language.",
+    "Linguistics and Cultural Context: Courses in the program examine the linguistic and cultural context of Asian languages, including the historical development of languages, language contact, and language change."
+  ],
+  "learningOutcomes": [
+    "Analyze and interpret linguistic data from Asian languages",
+    "Understand the cultural and historical context of Asian languages",
+    "Apply linguistic theories and models to the analysis of Asian languages",
+    "Demonstrate proficiency in an Asian language",
+    "Understand the linguistic and cultural diversity of Asia"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Asian American Studies",
+      "link": "https://www.asianamerican.ucla.edu/"
+    },
+    {
+      "title": "Linguistics",
+      "link": "https://linguistics.ucla.edu/"
+    },
+    {
+      "title": "East Asian Languages and Cultures",
+      "link": "https://www.eastasian.ucla.edu/"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=408",
+    "https://www.ucla.edu/academics/majors/asian-languages-and-linguistics",
+    "https://www.asian.ucla.edu/advising/major-requirements"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are advised to consult with the department advisor to plan their course schedule and ensure they meet the major requirements."
+}

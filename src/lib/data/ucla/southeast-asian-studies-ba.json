@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Southeast Asian Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Southeast Asian Studies major is an interdisciplinary program that focuses on the cultures, histories, and societies of Southeast Asia. Students explore the diverse cultures and traditions of the region through coursework in languages, humanities, social sciences, and cultural studies. The program aims to provide students with a deep understanding of Southeast Asia's complex history, cultural heritage, and contemporary issues.",
+  "shortProgramDescription": "The Southeast Asian Studies major at UCLA offers students an in-depth understanding of the cultures, histories, and societies of Southeast Asia through interdisciplinary coursework.",
+  "classHighlights": [
+    "Language Courses: Students are required to complete four quarters of a Southeast Asian language (such as Indonesian, Thai, Vietnamese, or Filipino) to develop linguistic proficiency and cultural understanding.",
+    "Core Courses: The major includes core courses that introduce students to the history, culture, and politics of Southeast Asia, covering topics such as colonialism, nationalism, and contemporary social issues.",
+    "Electives: Students choose from a range of electives that explore specific themes, regions, or disciplines related to Southeast Asia, including literature, anthropology, history, and politics.",
+    "Thematic Courses: Courses are organized around themes such as culture, history, and politics, allowing students to explore different aspects of Southeast Asian studies.",
+    "Regional Focus: Some courses focus on specific countries or subregions within Southeast Asia, providing students with in-depth knowledge of particular areas."
+  ],
+  "learningOutcomes": [
+    "Demonstrate an understanding of the cultural, historical, and social contexts of Southeast Asia.",
+    "Analyze complex issues related to Southeast Asia's past, present, and future.",
+    "Apply knowledge of Southeast Asian languages, cultures, and societies to real-world problems.",
+    "Communicate effectively about Southeast Asia in written and oral forms.",
+    "Evaluate the diversity and complexity of Southeast Asian cultures and traditions."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Asian Studies Minor",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=446"
+    },
+    {
+      "title": "Asian American Studies Major",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=413"
+    },
+    {
+      "title": "Asian Languages and Cultures Major",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=415"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=447",
+    "https://www.asian.ucla.edu/programs/southeast-asian-studies"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units required for graduation; major preparation and electives vary.",
+  "additionalInformation": "Students are encouraged to study abroad in Southeast Asia to enhance their language skills and cultural understanding. Internships and research opportunities are available for students to gain practical experience."
+}

@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Biochemistry (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Biochemistry major is designed to provide students with a comprehensive understanding of the chemical processes that occur within living organisms. Students learn about the structure and function of biomolecules, metabolic pathways, and the regulation of gene expression. The program includes coursework in chemistry, biology, physics, and mathematics, as well as laboratory research experience.",
+  "shortProgramDescription": "The Biochemistry B.S. program at UCLA provides a comprehensive education in the chemical processes of living organisms, preparing students for careers in research, healthcare, or graduate study.",
+  "classHighlights": [
+    "The biochemistry major includes foundational coursework in chemistry, including General Chemistry (CHEM14A/14B), Organic Chemistry (CHEM14C/14D), and Physical Chemistry (CHEM113A/113B). These courses provide a strong understanding of chemical principles and laboratory techniques.",
+    "Students also complete core biology courses, including Introduction to Evolution and Diversity (LS4/7), Cell Biology (MIMG101), and Genetics (GENE/MIMG102). These courses introduce students to the principles of biochemistry, molecular biology, and genetics.",
+    "Upper-division biochemistry coursework includes Biochemistry: Structure and Function of Biomolecules (CHEM153A), Biochemistry: Metabolism (CHEM153B/C), and Laboratory Research in Biochemistry (CHEM153L). These courses provide advanced training in biochemical principles, laboratory research, and experimental design.",
+    "Additional required courses include Mathematics for Life Sciences (LS30A/30B) and Physics for Life Sciences (PHYS6A/6B/6C). These courses develop the mathematical and physical principles necessary for understanding biochemical processes.",
+    "Students also complete upper-division electives in biochemistry, chemistry, or related fields, allowing them to explore specialized topics and deepen their knowledge in areas of interest."
+  ],
+  "learningOutcomes": [
+    "Understand the principles of biochemistry, including the structure and function of biomolecules and metabolic pathways.",
+    "Apply biochemical principles to understand complex biological processes.",
+    "Design and conduct laboratory experiments to test hypotheses and analyze data.",
+    "Communicate biochemical concepts and research findings effectively through written and oral presentations.",
+    "Analyze the role of biochemistry in addressing societal challenges, such as disease and environmental sustainability."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Chemistry (B.S.)",
+      "link": "https://www.chem.ucla.edu/undergraduate-program/chemistry-bs"
+    },
+    {
+      "title": "Molecular, Cell, and Developmental Biology (B.S.)",
+      "link": "https://mcdbiology.ucla.edu/undergraduate-program"
+    },
+    {
+      "title": "Microbiology, Immunology, and Molecular Genetics (B.S.)",
+      "link": "https://www.mimg.ucla.edu/undergraduate-program"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=111",
+    "https://catalog.registrar.ucla.edu/",
+    "https://www.chem.ucla.edu/undergraduate-program/biochemistry-bs"
+  ],
+  "programDuration": "4 academic years (quarter system)",
+  "creditRequirements": "approx. 180 quarter units",
+  "additionalInformation": "The Biochemistry major is administered by the Department of Chemistry and Biochemistry. Students are advised to consult with departmental advisors to ensure timely completion of major requirements."
+}

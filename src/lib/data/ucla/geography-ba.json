@@ -1,0 +1,37 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Geography (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Geography major is designed to provide students with a comprehensive understanding of the spatial relationships between people, places, and environments. The program encompasses a broad range of topics, including human and physical geography, geographic techniques, and regional studies. Students learn about the theoretical foundations of geography, as well as practical skills in geographic information systems (GIS), spatial analysis, and cartography.",
+  "shortProgramDescription": "The Geography B.A. program at UCLA provides students with a comprehensive understanding of spatial relationships between people, places, and environments, preparing them for diverse careers or further study.",
+  "classHighlights": [
+    "The department requires students to take introductory courses in human and physical geography, including Introduction to Human Geography and Introduction to Physical Geography, which provide a foundational understanding of geographic concepts and theories.",
+    "Students also complete courses in geographic techniques, such as Geographic Information Systems (GIS) and Cartography, which equip them with practical skills in spatial analysis and mapping.",
+    "Upper-division courses in the major allow students to explore specialized topics, including cultural geography, urban geography, environmental geography, and regional studies, enabling them to develop a deeper understanding of geographic phenomena and issues."
+  ],
+  "learningOutcomes": [
+    "Understand the theoretical foundations of geography and its subfields.",
+    "Apply geographic concepts and techniques to analyze and solve problems.",
+    "Demonstrate proficiency in geographic information systems (GIS) and spatial analysis.",
+    "Analyze the spatial relationships between people, places, and environments.",
+    "Communicate geographic concepts and research findings effectively in written and oral form."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Studies",
+      "link": "https://environmentalstudies.ucla.edu"
+    },
+    {
+      "title": "Urban Planning",
+      "link": "https://luskin.ucla.edu/urban-planning"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=396",
+    "https://geog.ucla.edu/undergraduate/geography-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are advised to consult with departmental advisors to plan their course sequence and electives."
+}

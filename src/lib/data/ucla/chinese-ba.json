@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Chinese (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Chinese Language and Literature program is designed to provide students with thorough training in all aspects of the Chinese language, as well as a comprehensive understanding of Chinese culture. Students explore the historical, cultural, and literary contexts of China, developing linguistic competence and cultural knowledge.",
+  "shortProgramDescription": "The Chinese (B.A.) program at UCLA provides students with a comprehensive understanding of the Chinese language and culture, preparing them for diverse careers or further study.",
+  "classHighlights": [
+    "Language Courses: Students take a sequence of language courses (Chinese 1A-1B, 1C, 101, 102, 103) to develop proficiency in reading, writing, and speaking. These courses cover various aspects of the language, including grammar, vocabulary, and syntax.",
+    "Literature and Culture Courses: Students explore Chinese literature and culture through courses that examine historical and cultural contexts, literary genres, and critical approaches. These courses include Chinese 105, 106, 107, 108, and 109, which cover topics such as classical Chinese literature, modern Chinese literature, and Chinese cultural history.",
+    "Elective Courses: Students choose from a range of electives that allow them to explore specific interests, such as Chinese linguistics, Chinese history, or Chinese cultural studies. These courses may include Chinese 110, 111, 112, and 113, as well as courses cross-listed with other departments, such as Asian American Studies or History."
+  ],
+  "learningOutcomes": [
+    "Develop proficiency in reading, writing, and speaking Chinese",
+    "Understand the cultural and historical contexts of China",
+    "Analyze and interpret Chinese literary and cultural texts",
+    "Apply critical approaches to understanding Chinese culture and society",
+    "Communicate effectively in Chinese and about Chinese culture"
+  ],
+  "similarPrograms": [
+    {
+      "title": "East Asian Languages and Cultures (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=164"
+    },
+    {
+      "title": "Asian American Studies (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=134"
+    },
+    {
+      "title": "Asian Studies Minor",
+      "link": "https://international.ucla.edu/asia/institute/education/minors"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=162",
+    "https://www.ucla.edu/academics/majors/chinese-language-and-literature",
+    "https://ealc.ucla.edu"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are encouraged to participate in study abroad programs and to take advantage of UCLA's resources, including the East Asian Library and the Asia Institute."
+}

@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Mathematics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mathematics major at UCLA is designed to provide students with a comprehensive understanding of mathematical concepts, theories, and applications. The program includes a range of courses in pure and applied mathematics, as well as opportunities for advanced study and research. Students are encouraged to explore various areas of mathematics, including algebra, analysis, geometry, and differential equations.",
+  "shortProgramDescription": "The Mathematics B.S. program at UCLA provides students with a rigorous foundation in mathematical principles, preparing them for diverse careers or further study.",
+  "classHighlights": [
+    "The Mathematics program begins with foundational courses in calculus (MATH 31A, 31B, 32A, 32B) and linear algebra (MATH 33A), which introduce students to key concepts such as limits, derivatives, and vector spaces.",
+    "Students then progress to intermediate courses like Differential Equations (MATH 33B), Real Analysis (MATH 131A), and Abstract Algebra (MATH 113), developing a deeper understanding of mathematical structures and techniques.",
+    "Upper-division electives allow students to explore specialized areas, including number theory (MATH 115A), topology (MATH 131C), and mathematical modeling (MATH 156), with opportunities to engage in advanced study and research.",
+    "The program also incorporates preparation for teaching mathematics (MATH 105A-B) and exposure to applied mathematics through courses like Numerical Analysis (MATH 128A) and Computational Mathematics (MATH 170A).",
+    "Throughout the major, students are encouraged to develop problem-solving skills, critical thinking, and a strong analytical foundation."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a solid understanding of calculus, linear algebra, and differential equations.",
+    "Apply mathematical principles to model real-world phenomena.",
+    "Develop and analyze mathematical proofs.",
+    "Communicate complex mathematical ideas effectively.",
+    "Analyze and solve problems using advanced mathematical techniques.",
+    "Understand the connections between different areas of mathematics."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Applied Mathematics (B.S.)",
+      "link": "https://www.ucla.edu/academics/majors/applied-mathematics-bs"
+    },
+    {
+      "title": "Mathematics for Teaching (B.S.)",
+      "link": "https://www.ucla.edu/academics/majors/mathematics-for-teaching-bs"
+    },
+    {
+      "title": "Actuarial Science Minor",
+      "link": "https://www.ucla.edu/academics/minors/actuarial-science"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=540",
+    "https://www.math.ucla.edu/undergrad/major",
+    "https://catalog.registrar.ucla.edu/catalog/2023-24/ugrad/letters-science/mathematics-b-s-"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Mathematics B.S. program requires a minimum of 13 upper-division mathematics courses. Students are advised to consult with department advisors to plan their course sequence and ensure they meet major requirements."
+}

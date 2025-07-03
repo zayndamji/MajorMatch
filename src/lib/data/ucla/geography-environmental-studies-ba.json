@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Geography/Environmental Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Geography/Environmental Studies major provides students with a theoretical and practical understanding of the complex relationships between human societies and the environment. The program emphasizes the spatial and ecological dimensions of social and environmental issues, and students learn to apply geographic concepts and methods to analyze and address these issues.",
+  "shortProgramDescription": "The Geography/Environmental Studies B.A. program at UCLA explores the relationships between human societies and the environment, preparing students for careers in fields such as environmental management, urban planning, and conservation.",
+  "classHighlights": [
+    "The major requires a foundation in geographic theory and methods, including courses in physical geography, human geography, and geographic information systems (GIS).",
+    "Students take courses in environmental studies, including environmental policy, conservation biology, and sustainability.",
+    "The program includes a range of electives that allow students to explore specialized topics, such as climate change, urbanization, and environmental justice.",
+    "Students learn to apply geographic concepts and methods to real-world problems, including environmental degradation, social inequality, and economic development."
+  ],
+  "learningOutcomes": [
+    "Understand the theoretical and practical dimensions of geography and environmental studies",
+    "Apply geographic concepts and methods to analyze and address environmental issues",
+    "Demonstrate knowledge of environmental policy, conservation biology, and sustainability",
+    "Analyze the spatial and ecological dimensions of social and environmental issues",
+    "Evaluate the complex relationships between human societies and the environment"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Science (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=342"
+    },
+    {
+      "title": "Environmental Studies Minor",
+      "link": "https://environment.ucla.edu/undergraduate/minor"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=491",
+    "https://geog.ucla.edu/undergraduate/geography-environmental-studies-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the University's general education requirements and the major requirements, and maintain a minimum GPA of 2.0."
+}

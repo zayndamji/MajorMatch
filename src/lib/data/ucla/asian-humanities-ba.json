@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Asian Humanities (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Asian Humanities major is an interdisciplinary program that explores the cultures, histories, and societies of Asia. The program focuses on the development of critical thinking, writing, and analytical skills through the study of Asian languages, literatures, and cultural practices. Students examine the historical, social, and cultural contexts that have shaped Asian cultures and societies.",
+  "shortProgramDescription": "The Asian Humanities B.A. at UCLA provides students with a comprehensive understanding of Asian cultures and societies through the study of languages, literatures, and cultural practices.",
+  "classHighlights": [
+    "The major requires students to complete a sequence of language courses in either Chinese, Japanese, or Korean, which provides a foundation for understanding the cultural and historical contexts of Asia.",
+    "Courses in Asian Humanities cover a range of topics, including literature, history, art, and culture, and are organized around four themes: Cultural Representation, Historical Contexts, Social and Cultural Practices, and Identity and Community.",
+    "Students also have the opportunity to take electives in related fields, such as Asian American Studies, History, or Comparative Literature, which allows them to tailor their major to their interests and career goals.",
+    "The program emphasizes the development of critical thinking, writing, and analytical skills through coursework, research, and writing-intensive seminars.",
+    "Students engage with a range of methodologies and approaches, including literary analysis, historical contextualization, and cultural critique, to analyze and interpret Asian cultural practices and texts."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a comprehensive understanding of Asian cultures and societies through the study of languages, literatures, and cultural practices.",
+    "Analyze and interpret Asian cultural texts and practices within their historical, social, and cultural contexts.",
+    "Apply critical thinking, writing, and analytical skills to the study of Asian Humanities.",
+    "Develop a nuanced understanding of the complex cultural, historical, and social contexts that have shaped Asian cultures and societies.",
+    "Communicate effectively in written and oral forms about Asian cultures and societies."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Asian American Studies",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=400"
+    },
+    {
+      "title": "Asian Languages and Cultures",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=405"
+    },
+    {
+      "title": "Comparative Literature",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=430"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=442",
+    "https://www.ucla.edu/academics/majors/asian-humanities"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units",
+  "additionalInformation": "Students are encouraged to study abroad in Asia to enhance their language skills and cultural knowledge. The major also offers opportunities for research and internships related to Asian cultures and societies."
+}

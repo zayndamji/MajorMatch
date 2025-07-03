@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Business Economics (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Business Economics major is designed to provide students with a fundamental understanding of the institutional framework and the theoretical concepts appropriate for understanding the operation of the economic system. The curriculum emphasizes the development of skills in economic analysis and prepares students for careers in business, government, and other related fields, as well as for graduate study in economics and business administration.",
+  "shortProgramDescription": "The Business Economics major at UCLA provides a comprehensive education in economics, focusing on analytical skills and real-world applications, preparing students for diverse career paths or further study.",
+  "classHighlights": [
+    "The Business Economics major requires students to complete a series of core courses in economics, including Microeconomic Theory, Macroeconomic Theory, and Econometrics. These courses provide a solid foundation in economic principles and analytical techniques.",
+    "Students also take upper-division courses in areas such as Microeconomics for Business Decisions, Macroeconomics for Business Decisions, and Managerial Economics. These courses apply economic concepts to real-world business scenarios, developing students' ability to analyze complex problems and make informed decisions.",
+    "The major includes electives that allow students to explore specialized topics, such as International Economics, Industrial Organization, and Public Finance. These courses deepen students' understanding of specific economic issues and their implications for business and policy.",
+    "Throughout the program, students develop skills in data analysis, problem-solving, and critical thinking, preparing them for a range of career opportunities or graduate study."
+  ],
+  "learningOutcomes": [
+    "Apply economic principles and models to analyze business decisions and market outcomes.",
+    "Understand the macroeconomic environment and its implications for business and policy.",
+    "Use econometric techniques to analyze data and estimate economic relationships.",
+    "Develop critical thinking and problem-solving skills to address complex economic issues.",
+    "Communicate economic concepts and analysis effectively in written and oral form.",
+    "Evaluate the impact of economic policies and business decisions on various stakeholders."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Economics",
+      "link": "https://www.econ.ucla.edu/undergraduate-program/economics-major"
+    },
+    {
+      "title": "Economics Minor",
+      "link": "https://www.econ.ucla.edu/undergraduate-program/economics-minor"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=144",
+    "https://www.anderson.ucla.edu/programs/undergraduate-programs/business-economics"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the required pre-major and major courses with a minimum GPA, and fulfill the College's general education requirements. The major is designed to be completed within four years, assuming a normal course load each quarter."
+}

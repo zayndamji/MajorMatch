@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Neuroscience (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Neuroscience major is designed to provide a rigorous foundation in the principles of neuroscience. The program is structured to provide a broad understanding of the field, including the molecular and cellular mechanisms underlying nervous system function, as well as the behavioral and cognitive aspects of neuroscience. Students are exposed to a range of courses that cover the structure and function of the nervous system, from the molecular to the systems level.",
+  "shortProgramDescription": "The Neuroscience B.S. program at UCLA offers a comprehensive education in the principles and practices of neuroscience, preparing students for a range of careers or further study.",
+  "classHighlights": [
+    "The core curriculum includes Introduction to Neuroscience (NEUROSCI M101A), Cellular Neurobiology (NEUROSCI M101B), and Systems Neuroscience (NEUROSCI M101C), which provide a foundation in the principles of neuroscience.",
+    "Students also complete coursework in Biochemistry and Molecular Biology (CHEM M153C or LIFE SCI M120), Psychology (PSYCH 100A or PSYCH 100B), and Statistics ( STATS 13 or PSYCH 100C), which provide a broad understanding of the underlying biological and psychological principles.",
+    "Additional required courses include Neurobiology Laboratory (NEUROSCI 101L), Neuroscience Research Methods (NEUROSCI 102), and Senior Seminar (NEUROSCI 199), which provide hands-on experience with experimental techniques and research methods."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of neuroscience, including the structure and function of the nervous system.",
+    "Apply knowledge of neuroscience to understand behavior and cognition.",
+    "Analyze and interpret data related to neuroscience.",
+    "Communicate complex ideas in neuroscience effectively in written and oral form.",
+    "Demonstrate an understanding of the research methods and techniques used in neuroscience."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Psychobiology",
+      "link": "https://psych.ucla.edu/undergraduate/psychobiology"
+    },
+    {
+      "title": "Biology",
+      "link": "https://biology.ucla.edu/undergraduate/major"
+    },
+    {
+      "title": "Biochemistry",
+      "link": "https://chemistry.ucla.edu/undergraduate-program/biochemistry"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=594",
+    "https://neuroscience.ucla.edu/undergraduate-program"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "approximately 180 quarter units",
+  "additionalInformation": "Students are advised to consult with a departmental advisor to ensure that they meet the requirements for the major."
+}

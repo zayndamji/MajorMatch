@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Dance (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Dance major is designed for students who wish to pursue a comprehensive program in dance. The curriculum includes technique classes, dance history, criticism, and pedagogy, as well as improvisation and choreography. Students develop technical proficiency, analytical and critical thinking, and creative expression.",
+  "shortProgramDescription": "The Dance B.A. at UCLA provides a rigorous and comprehensive education in dance technique, history, and creative practice.",
+  "classHighlights": [
+    "Technique Classes: Students take ballet, modern, and contemporary technique classes to develop technical proficiency and artistic expression.",
+    "Dance History and Criticism: Courses cover historical and cultural contexts of dance, analyzing choreographers, and performances.",
+    "Improvisation and Choreography: Classes focus on developing creative skills through improvisation and choreographic practices, emphasizing composition and performance.",
+    "Pedagogy and Teaching: Students learn teaching methods and approaches to dance instruction, preparing them for careers in education.",
+    "Production and Performance: Opportunities to participate in dance productions and performances, applying technical and creative skills in a practical setting."
+  ],
+  "learningOutcomes": [
+    "Demonstrate technical proficiency in multiple dance styles.",
+    "Analyze and critically evaluate dance performances and choreography.",
+    "Develop creative skills through choreography and improvisation.",
+    "Apply pedagogical principles in teaching dance.",
+    "Perform and present dance works in a variety of contexts."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Theater (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=234"
+    },
+    {
+      "title": "World Arts and Cultures/Dance Minor",
+      "link": "https://www.ucla.edu/academics/minors"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=210",
+    "https://www.ucla.edu/academics/majors/dance-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete a series of core courses, technique requirements, and electives. Admission is based on auditions and academic qualifications."
+}

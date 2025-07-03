@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Materials Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Materials Engineering program at UCLA is designed to provide a comprehensive education in the field of materials science and engineering. The program focuses on the development of materials for various applications, including energy, aerospace, and biomedical fields. Students learn about the structure, properties, and performance of different materials, as well as the processing and characterization techniques used to create and analyze them. The program is designed to prepare students for careers in industry, research, or graduate study.",
+  "shortProgramDescription": "The Materials Engineering B.S. program at UCLA provides a comprehensive education in materials science and engineering, preparing students for careers in industry, research, or graduate study.",
+  "classHighlights": [
+    "The program requires coursework in mathematics, physics, and chemistry, including Differential Equations, Physics of Materials, and Thermodynamics of Materials.",
+    "Students take core courses in Materials Science and Engineering, including Introduction to Materials Science and Engineering, Materials Characterization, and Materials Processing.",
+    "The curriculum includes coursework in mechanical behavior of materials, electrical and magnetic properties of materials, and materials selection and design.",
+    "Students also take courses in engineering, including Engineering Mechanics and Engineering Thermodynamics.",
+    "Laboratory courses provide hands-on experience with materials characterization and processing techniques.",
+    "Electives allow students to explore specialized areas, such as biomaterials, nanomaterials, and energy materials."
+  ],
+  "learningOutcomes": [
+    "Apply knowledge of mathematics, physics, and chemistry to understand the behavior of materials.",
+    "Understand the structure, properties, and performance of different materials.",
+    "Analyze and characterize materials using various techniques.",
+    "Design and process materials for specific applications.",
+    "Communicate technical information effectively in written and oral form.",
+    "Work effectively in teams to solve materials-related problems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Aerospace Engineering (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=310"
+    },
+    {
+      "title": "Chemical Engineering (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=317"
+    },
+    {
+      "title": "Mechanical Engineering (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=332"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=336",
+    "https://www.ucla.edu/academics/majors/materials-engineing",
+    "https://samueli.ucla.edu/departments/materials-science-and-engineering/"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete a comprehensive curriculum that includes coursework, laboratories, and design experiences. The program is accredited by the Engineering Accreditation Commission of ABET."
+}

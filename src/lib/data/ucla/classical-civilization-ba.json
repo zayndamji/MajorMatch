@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Classical Civilization (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Classical Civilization major is designed for students who wish to study the cultures of ancient Greece and Rome through their literature, history, and material remains. The program provides a broad understanding of the classical world, its influence on later cultures, and its continued relevance today.",
+  "shortProgramDescription": "The Classical Civilization B.A. explores ancient Greek and Roman cultures through literature, history, and archaeology, preparing students for careers or graduate study in related fields.",
+  "classHighlights": [
+    "The Classical Civilization major requires a foundation in Greek and/or Latin language. Students take courses in language and literature, covering works by authors such as Homer, Vergil, and Ovid.",
+    "Courses in Classical Civilization also encompass ancient history, covering periods from the Bronze Age to the Roman Empire, and explore the archaeology and material culture of the classical world.",
+    "Students examine the social, political, and cultural contexts of ancient Greece and Rome, including topics like mythology, religion, and gender.",
+    "Electives allow students to delve into specialized areas, such as classical mythology, ancient philosophy, or the reception of classical culture in later periods."
+  ],
+  "learningOutcomes": [
+    "Read and analyze Greek and/or Latin texts in the original language.",
+    "Understand the historical and cultural contexts of ancient Greece and Rome.",
+    "Examine the material remains and archaeology of the classical world.",
+    "Apply knowledge of classical cultures to related fields, such as history, literature, or art history.",
+    "Demonstrate critical thinking and analytical skills in the study of classical civilization."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Classics",
+      "link": "https://classics.ucla.edu"
+    },
+    {
+      "title": "Ancient Greek",
+      "link": "https://classics.ucla.edu/undergraduate/ancient-greek"
+    },
+    {
+      "title": "Latin",
+      "link": "https://classics.ucla.edu/undergraduate/latin"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=169",
+    "https://classics.ucla.edu/undergraduate/classical-civilization"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are advised to consult with the department about course selection and program planning. The major is designed to be flexible, allowing students to pursue their interests within the field of Classical Civilization."
+}

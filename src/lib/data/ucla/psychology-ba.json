@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Psychology (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Psychology major provides a broad education in the scientific study of behavior and mental processes. Students take courses in a variety of subfields within psychology, including clinical psychology, cognitive psychology, developmental psychology, and social psychology. The major emphasizes the development of critical thinking, research methods, and statistical analysis skills.",
+  "shortProgramDescription": "The UCLA Psychology B.A. major provides a comprehensive education in the scientific study of behavior and mental processes, preparing students for a range of careers or further study.",
+  "classHighlights": [
+    "Research Methods and Statistics: Students learn research design, statistical analysis, and interpretation of results in courses such as Psychology 5 (Research Methods in Psychology) and Psychology 100A-B (Introduction to Research Methods and Statistics).",
+    "Core Courses: Required courses cover the breadth of psychology, including abnormal psychology (Psychology 127), developmental psychology (Psychology 131), social psychology (Psychology 145), and cognitive neuroscience (Psychology 115).",
+    "Electives: Students choose from a range of electives, including courses in clinical psychology, child development, and the biological bases of behavior, allowing them to tailor their education to their interests.",
+    "Theoretical and Applied Psychology: Courses cover various theoretical perspectives and applied areas, such as personality (Psychology 133), psychopathology (Psychology 127), and health psychology (Psychology 156).",
+    "Laboratory and Field Experience: Some courses, such as Psychology 115L (Cognitive Neuroscience Laboratory), provide hands-on experience in laboratory or field settings, applying theoretical knowledge to practical problems."
+  ],
+  "learningOutcomes": [
+    "Understand the major concepts, theoretical perspectives, and empirical findings in psychology.",
+    "Develop critical thinking and analytical skills in evaluating psychological research.",
+    "Apply research methods and statistical techniques to understand behavior and mental processes.",
+    "Demonstrate knowledge of the biological, cognitive, and social factors that influence behavior.",
+    "Communicate effectively about psychological concepts and research."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Cognitive Science",
+      "link": "https://cogsciscience.ucla.edu/undergrad/major"
+    },
+    {
+      "title": "Neuroscience",
+      "link": "https://neuroscience.ucla.edu/undergraduate-program"
+    },
+    {
+      "title": "Psychology Minor",
+      "link": "https://psych.ucla.edu/undergraduate-program/psychology-minor"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=780",
+    "https://psych.ucla.edu/undergraduate-program/psychology-major",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23/ugrad/psychology"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Approx. 180 quarter units",
+  "additionalInformation": "Students are advised to consult with departmental advisors to plan their course of study and ensure they meet major requirements."
+}

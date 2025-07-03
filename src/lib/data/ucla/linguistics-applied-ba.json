@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Linguistics, Applied (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Applied Linguistics major at UCLA is designed to provide students with a comprehensive understanding of language acquisition, language teaching, and language assessment. The program focuses on the practical applications of linguistic theory to real-world problems, such as language education, language policy, and language assessment. Students in this major gain a solid foundation in linguistics, as well as specialized knowledge in areas such as second language acquisition, language teaching methodologies, and language assessment techniques.",
+  "shortProgramDescription": "The Applied Linguistics major at UCLA prepares students for careers in language education, language policy, and related fields by providing a comprehensive understanding of language acquisition and language teaching.",
+  "classHighlights": [
+    "The major includes foundational courses in linguistics, such as Introduction to Linguistics (Ling 1), Phonetics (Ling 120A), and Phonology (Ling 120B), which provide a solid understanding of the fundamental principles of language structure.",
+    "Students also take courses in second language acquisition, such as Second Language Acquisition (Ling 147), and language teaching methodologies, such as Language Teaching Methodologies (Ling 147L), which prepare them for careers in language education.",
+    "Additional coursework includes classes on language assessment, such as Language Assessment (Ling 148), and language policy, such as Language Policy (Ling 149), which provide students with a comprehensive understanding of the complex issues surrounding language use in society.",
+    "Electives in the major allow students to explore specialized topics, such as corpus linguistics, sociolinguistics, and discourse analysis, in courses like Corpus Linguistics (Ling 151) and Sociolinguistics (Ling 155)."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of language structure and language acquisition.",
+    "Apply linguistic theory to real-world problems in language education and language policy.",
+    "Design and implement effective language teaching methodologies and assessments.",
+    "Analyze language use in social contexts and understand the complex issues surrounding language policy.",
+    "Demonstrate a comprehensive understanding of the field of applied linguistics and its practical applications."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Linguistics",
+      "link": "https://linguistics.ucla.edu/undergraduate/linguistics-ba"
+    },
+    {
+      "title": "English as a Second Language",
+      "link": "https://www.ucla.edu/academics/majors-minors-degrees/310/ESL"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=074",
+    "https://linguistics.ucla.edu/undergraduate/applied-linguistics-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the University's writing requirement and a minimum of 12 upper division units in the major. Internship and research opportunities are available."
+}

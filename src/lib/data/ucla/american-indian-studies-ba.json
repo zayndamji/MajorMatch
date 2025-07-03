@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "American Indian Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The American Indian Studies major is an interdisciplinary program that focuses on the histories, cultures, and experiences of Native American communities. The program provides students with a comprehensive understanding of the complex issues facing Native American communities, including cultural preservation, identity, and social justice. Students in the program explore a range of topics, from the historical and contemporary contexts of Native American life to the cultural and artistic expressions of Native American communities.",
+  "shortProgramDescription": "The American Indian Studies B.A. provides students with a deep understanding of Native American histories, cultures, and experiences, preparing them for careers in fields such as education, law, and social justice.",
+  "classHighlights": [
+    "The major requires students to complete a series of core courses that introduce them to the field of American Indian Studies, including the history, culture, and contemporary issues facing Native American communities.",
+    "Students also choose from a range of electives that allow them to explore specific topics in more depth, such as Native American literature, history, and cultural studies.",
+    "Courses in the major are designed to help students develop critical thinking, research, and writing skills, as well as a nuanced understanding of the complex issues facing Native American communities.",
+    "The program also emphasizes the importance of community engagement and cultural preservation, providing students with opportunities to work with Native American communities and organizations."
+  ],
+  "learningOutcomes": [
+    "Understand the historical and contemporary contexts of Native American life and experiences.",
+    "Analyze the complex issues facing Native American communities, including cultural preservation, identity, and social justice.",
+    "Develop critical thinking, research, and writing skills.",
+    "Cultivate a nuanced understanding of Native American cultures, histories, and experiences.",
+    "Apply knowledge and skills to real-world contexts, including education, law, and social justice."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Native American Studies Minor",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MIN&code=030"
+    },
+    {
+      "title": "Chicana/o Studies Major",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=031"
+    },
+    {
+      "title": "Ethnomusicology Major",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=037"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=030",
+    "https://ais.ucla.edu/undergraduate/",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23/ugrad/ais"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The American Indian Studies major is designed to be completed in four years. Students are encouraged to participate in internships, research projects, and community engagement activities to gain practical experience and build their skills."
+}

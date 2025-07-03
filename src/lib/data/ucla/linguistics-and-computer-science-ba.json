@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Linguistics and Computer Science (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Linguistics and Computer Science major is an interdisciplinary program that combines the study of language, its structure, and its use, with the study of computer science and its applications. Students learn about the sound, structure, and meaning of language, as well as programming, data structures, and algorithms.",
+  "shortProgramDescription": "The Linguistics and Computer Science major at UCLA combines the study of language and computer science, preparing students for careers in natural language processing, human-computer interaction, and other related fields.",
+  "classHighlights": [
+    "Linguistics Core Courses: Students take courses in phonetics, phonology, morphology, syntax, and semantics, which provide a foundation in the study of language. These courses cover the sound systems, grammatical structures, and meaning of language.",
+    "Computer Science Core Courses: Students take courses in programming, data structures, algorithms, and computer architecture, which provide a foundation in computer science. These courses cover programming languages, data structures, and algorithms.",
+    "Computational Linguistics Courses: Students take courses that combine linguistics and computer science, such as natural language processing and human-computer interaction. These courses cover the application of computer science to the study of language.",
+    "Electives: Students choose from a range of electives in linguistics and computer science, allowing them to specialize in areas such as phonology, syntax, or artificial intelligence."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of linguistics and computer science",
+    "Analyze and describe the sound, structure, and meaning of language",
+    "Design and implement algorithms and data structures to solve problems",
+    "Apply computer science to the study of language",
+    "Communicate complex ideas in linguistics and computer science effectively"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Linguistics",
+      "link": "https://linguistics.ucla.edu"
+    },
+    {
+      "title": "Computer Science",
+      "link": "https://cs.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=499",
+    "https://linguistics.ucla.edu/undergraduate/linguistics-computer-science",
+    "https://cs.ucla.edu/undergraduate"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the requirements for both the Linguistics and Computer Science majors. The major is administered by the Department of Linguistics."
+}

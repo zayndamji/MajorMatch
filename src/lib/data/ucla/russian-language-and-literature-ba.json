@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Russian Language and Literature (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Russian Language and Literature major is designed to provide students with a comprehensive understanding of the Russian language, literature, and culture. Students develop their language skills through coursework and experience, and explore the rich literary and cultural heritage of Russia. The program prepares students for careers in fields such as education, government, and international relations, as well as for graduate study.",
+  "shortProgramDescription": "The Russian Language and Literature major at UCLA fosters advanced language proficiency and a deep understanding of Russian literature and culture.",
+  "classHighlights": [
+    "Language Courses: Students complete a sequence of Russian language courses, progressing from intermediate to advanced levels, with a focus on developing reading, writing, speaking, and listening skills.",
+    "Literature and Culture Courses: Students engage with a range of Russian literary works and cultural texts, exploring themes, genres, and historical contexts, and developing critical analysis and interpretation skills.",
+    "Electives and Specialized Courses: Students choose from a range of elective courses, including topics such as Russian poetry, 19th-century literature, and contemporary Russian culture, allowing them to tailor their studies to their interests and goals."
+  ],
+  "learningOutcomes": [
+    "Demonstrate advanced proficiency in Russian language, including reading, writing, speaking, and listening skills.",
+    "Analyze and interpret Russian literary and cultural texts, demonstrating an understanding of historical and cultural contexts.",
+    "Develop critical thinking and writing skills through engagement with Russian literature and culture.",
+    "Cultivate an appreciation for the cultural and historical significance of Russian literature and its relevance to contemporary issues and concerns."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Slavic Languages and Literatures",
+      "link": "https://slavic.ucla.edu"
+    },
+    {
+      "title": "Comparative Literature",
+      "link": "https://comparative-literature.ucla.edu"
+    },
+    {
+      "title": "European Studies",
+      "link": "https://international.ucla.edu/europe"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=826",
+    "https://catalog.registrar.ucla.edu/",
+    "https://slavic.ucla.edu"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units required for graduation",
+  "additionalInformation": "Students are encouraged to study abroad in Russia or participate in relevant internships to enhance their language skills and cultural understanding."
+}

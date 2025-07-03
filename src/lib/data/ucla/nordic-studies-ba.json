@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Nordic Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Nordic Studies major at UCLA is an interdisciplinary program that focuses on the languages, literatures, cultures, and histories of the Nordic countries. Students gain a deep understanding of the region through coursework in Scandinavian languages, literature, and culture, as well as related fields such as history, folklore, and film. The program aims to equip students with a nuanced understanding of the complex cultural and historical contexts of the Nordic region.",
+  "shortProgramDescription": "The Nordic Studies major provides students with a comprehensive understanding of the languages, cultures, and histories of the Nordic countries through an interdisciplinary approach.",
+  "classHighlights": [
+    "Language and Literature: Students take courses in Scandinavian languages, including Norwegian, Swedish, and Danish, and study the literature and cultural heritage of the region.",
+    "Cultural and Historical Contexts: Courses explore the history, folklore, and cultural practices of the Nordic countries, providing a rich understanding of the region's complex cultural landscape.",
+    "Interdisciplinary Approaches: The major incorporates coursework from related fields such as history, film studies, and cultural studies, allowing students to approach Nordic Studies from multiple angles."
+  ],
+  "learningOutcomes": [
+    "Demonstrate proficiency in a Scandinavian language.",
+    "Analyze and interpret literary and cultural texts from the Nordic region.",
+    "Understand the historical and cultural contexts of the Nordic countries.",
+    "Apply interdisciplinary approaches to the study of Nordic Studies.",
+    "Communicate effectively about the Nordic region and its cultures."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Scandinavian Languages and Literatures Minor",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=412"
+    },
+    {
+      "title": "European Studies Major",
+      "link": "https://international.ucla.edu/lais/european-studies"
+    },
+    {
+      "title": "Linguistics Major",
+      "link": "https://linguistics.ucla.edu/undergraduate/linguistics-major"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=410",
+    "https://www.ucla.edu/academics/majors/nordic-studies-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are encouraged to study abroad in a Nordic country to enhance their language skills and cultural understanding."
+}

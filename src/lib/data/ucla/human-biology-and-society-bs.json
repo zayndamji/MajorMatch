@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Human Biology and Society (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Human Biology and Society major is an interdisciplinary program that focuses on the study of human biology, health, and society. The program emphasizes the complex interactions between biological, social, and environmental factors that influence human health and well-being. Students in this major explore the biological and social sciences to understand the human condition and address pressing health issues.",
+  "shortProgramDescription": "The Human Biology and Society major at UCLA prepares students to understand the interplay between human biology, health, and society, and to apply this knowledge to improve human well-being.",
+  "classHighlights": [
+    "The major requires coursework in biology, chemistry, and physiology, including introductory biology (LS 1, LS 2, LS 4, LS 7), genetics (LS 4), biochemistry (Chem 14C, 14CL, or 14D), and physiology (Physci 3, Physci 4).",
+    "Students also take courses in epidemiology, health policy, and the social sciences, such as Introduction to Epidemiology (Epid 100), Health and Society (Soc 180), and Medical Sociology (Soc 181).",
+    "Additional coursework includes statistics (Stats 10 or 13), research methods, and electives in areas such as global health, health disparities, and bioethics.",
+    "Upper-division courses provide advanced knowledge in areas such as human genetics, infectious diseases, and health policy.",
+    "The major also includes a focus on the social and cultural contexts of health, with courses that examine the social determinants of health and the impact of societal factors on health outcomes."
+  ],
+  "learningOutcomes": [
+    "Understand the complex interactions between biological, social, and environmental factors that influence human health and well-being.",
+    "Apply knowledge of human biology and social sciences to address pressing health issues.",
+    "Analyze the social and cultural contexts of health and disease.",
+    "Evaluate the impact of health policies and interventions on different populations.",
+    "Demonstrate critical thinking and problem-solving skills in the context of human biology and society."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Global Health Minor",
+      "link": "https://globalhealth.ucla.edu/academics/minor"
+    },
+    {
+      "title": "Public Health Minor",
+      "link": "https://ph.ucla.edu/academics/undergraduate/minor"
+    },
+    {
+      "title": "Biology Major",
+      "link": "https://biology.ucla.edu/undergraduate/major"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=055",
+    "https://hbs.anthro.ucla.edu/undergraduate",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23/ugrad/hbs-maj"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students in this major are advised to consult with a faculty advisor to plan their course sequence and to explore research and internship opportunities."
+}

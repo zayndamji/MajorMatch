@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Earth and Environmental Science (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Earth and Environmental Science major is an interdisciplinary program that prepares students to understand the complexities of environmental issues and Earth's physical systems. The program combines coursework in Earth sciences, ecology, biology, chemistry, and physics to provide a comprehensive understanding of the Earth's systems and the impact of human activities on the environment. Students can choose from a range of electives to tailor their degree to their interests and career goals.",
+  "shortProgramDescription": "The Earth and Environmental Science B.A. program provides a comprehensive understanding of Earth's systems and environmental issues, preparing students for careers in research, conservation, policy, and more.",
+  "classHighlights": [
+    "Earth and Environmental Science Foundation: Foundational courses cover the principles of Earth sciences, including Earth's physical systems, environmental processes, and the interactions between human and natural systems.",
+    "Scientific Principles: Students take coursework in sciences such as biology, chemistry, physics, and geology to build a strong foundation in the natural sciences.",
+    "Environmental Systems and Processes: Courses explore the dynamics of environmental systems, including ecosystems, climate, water resources, and natural hazards.",
+    "Research and Methods: Students learn research methods and techniques used in Earth and environmental sciences, preparing them for advanced study or professional careers.",
+    "Electives and Specializations: The program allows students to choose from a range of electives, enabling them to tailor their degree to their interests in areas such as conservation, sustainability, climate change, or environmental policy."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of Earth and environmental sciences.",
+    "Analyze complex environmental issues and systems.",
+    "Apply scientific methods and principles to environmental problems.",
+    "Communicate effectively about environmental issues and scientific findings.",
+    "Evaluate the impact of human activities on the environment.",
+    "Demonstrate an understanding of the interconnectedness of Earth's systems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Science B.A.",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=01D"
+    },
+    {
+      "title": "Geography B.A.",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=03C"
+    },
+    {
+      "title": "Geology B.S.",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=03D"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=01C",
+    "https://www.ess.ucla.edu/undergrad/majors-and-minors/earth-and-environmental-science-ba",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23/ugrad/letters-science/earth-environmental-science-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The program is designed to be completed in four years. Students are encouraged to consult with advisors to tailor their coursework to their career goals and interests."
+}

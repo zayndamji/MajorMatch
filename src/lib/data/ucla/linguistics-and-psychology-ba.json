@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Linguistics and Psychology (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Linguistics and Psychology major is an interdisciplinary program that provides students with a broad background in the structures and acquisition of language as well as human behavior and mental processes. Students explore the complex relationships between language and cognition, and the ways in which language influences and is influenced by psychological processes.",
+  "shortProgramDescription": "The Linguistics and Psychology major provides students with a comprehensive understanding of language and cognition, preparing them for careers in fields such as research, education, and healthcare.",
+  "classHighlights": [
+    "Linguistics courses: Students take courses in phonetics, phonology, morphology, syntax, semantics, and pragmatics, as well as courses on language acquisition, language and cognition, and linguistic theory.",
+    "Psychology courses: Students take courses in cognitive psychology, social psychology, developmental psychology, and research methods, as well as courses on statistics and psychological theory.",
+    "Interdisciplinary courses: Students take courses that combine linguistics and psychology, such as psycholinguistics, language and cognition, and cognitive science.",
+    "Electives: Students choose from a range of electives in linguistics and psychology, allowing them to tailor their major to their interests and career goals."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of linguistics and psychology",
+    "Analyze the complex relationships between language and cognition",
+    "Apply theoretical knowledge to real-world problems in fields such as education and healthcare",
+    "Conduct research using empirical methods and statistical analysis",
+    "Communicate complex ideas effectively in written and oral form"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Linguistics (B.A.)",
+      "link": "https://linguistics.ucla.edu/undergraduate/program"
+    },
+    {
+      "title": "Psychology (B.A.)",
+      "link": "https://psych.ucla.edu/undergraduate/psychology-ba"
+    },
+    {
+      "title": "Cognitive Science (B.A.)",
+      "link": "https://cogscis.ucla.edu/undergraduate-program"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=518",
+    "https://linguistics.ucla.edu/undergraduate/program",
+    "https://psych.ucla.edu/undergraduate/psychology-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the University's general education requirements and the major requirements. The major is administered by the Department of Linguistics and the Department of Psychology."
+}

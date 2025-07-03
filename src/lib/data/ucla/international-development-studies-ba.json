@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "International Development Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The International Development Studies major is an interdisciplinary program that focuses on the economic, political, social, and cultural aspects of development in low- and middle-income countries. Students examine the complex relationships between development processes, policies, and institutions, as well as the social, economic, and environmental impacts of development interventions.",
+  "shortProgramDescription": "The IDS major prepares students to understand and address development challenges in a global context, equipping them for careers in international organizations, NGOs, government, and private sectors.",
+  "classHighlights": [
+    "Core courses introduce students to the fundamental concepts and theories of development, including economic development, social and cultural change, and global governance.",
+    "Students take courses in economics, political science, sociology, and anthropology to gain a comprehensive understanding of development processes and institutions.",
+    "Electives allow students to explore specialized topics such as poverty and inequality, environmental sustainability, human rights, and conflict resolution.",
+    "The major emphasizes the importance of critical thinking, research skills, and cultural competence in addressing development challenges."
+  ],
+  "learningOutcomes": [
+    "Understand the complex relationships between economic, political, social, and cultural factors in development processes.",
+    "Analyze the impacts of development policies and interventions on different populations and environments.",
+    "Apply critical thinking and research skills to address development challenges.",
+    "Demonstrate cultural competence and understanding of the global dimensions of development.",
+    "Communicate effectively about development issues and policies."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Global Studies Minor",
+      "link": "https://globalstudies.ucla.edu"
+    },
+    {
+      "title": "Environmental Studies Major",
+      "link": "https://environment.ucla.edu"
+    },
+    {
+      "title": "International Relations Minor",
+      "link": "https://www.polisci.ucla.edu/undergrad/minors"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=991",
+    "https://www.idsonline.ucla.edu",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23/ugrad/ID-Studies"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are advised to consult with the department to plan their course sequence and electives. The major is designed to be flexible, allowing students to pursue their interests and career goals."
+}

@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Global Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Global Studies major is an interdisciplinary program that examines the complex interactions between globalization, culture, and power. Students explore the global flows of people, goods, and ideas, and analyze the impact of globalization on local communities and environments.",
+  "shortProgramDescription": "The Global Studies major at UCLA provides students with a comprehensive understanding of globalization and its effects on cultures, economies, and societies.",
+  "classHighlights": [
+    "The Global Studies major requires students to complete a series of core courses that introduce them to the key concepts and theories of globalization, including the historical and contemporary processes that shape global interactions.",
+    "Students take courses in global cultural studies, international relations, and global economies, which provide a foundation for understanding the complex dynamics of globalization.",
+    "The major also requires students to complete a series of electives that allow them to explore specific themes and regions in greater depth, such as global migration, human rights, and sustainable development.",
+    "Courses in the major cover a range of topics, including the cultural politics of globalization, the impact of globalization on local communities, and the role of international institutions in shaping global governance.",
+    "Students also have the opportunity to engage with global issues through experiential learning, such as internships and study abroad programs, which provide hands-on experience and practical skills."
+  ],
+  "learningOutcomes": [
+    "Analyze the complex interactions between globalization, culture, and power",
+    "Understand the historical and contemporary processes that shape global interactions",
+    "Examine the impact of globalization on local communities and environments",
+    "Develop critical thinking and problem-solving skills in the context of global issues",
+    "Communicate effectively about global issues and their cultural, economic, and political implications"
+  ],
+  "similarPrograms": [
+    {
+      "title": "International Studies Minor",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MIN&code=492I"
+    },
+    {
+      "title": "Global Poverty and Practice Minor",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MIN&code=704"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=492",
+    "https://globalstudies.ucla.edu"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete a series of preparation courses for the major, as well as a capstone course. The major is designed to be completed within 4 years, with careful planning and advising."
+}

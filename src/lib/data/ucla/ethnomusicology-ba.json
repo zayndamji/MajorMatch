@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Ethnomusicology (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Ethnomusicology program at UCLA is an interdisciplinary field that combines musicology, anthropology, and cultural studies. Students explore the diverse musical traditions of the world, examining the cultural contexts and social processes that shape musical practices. The program emphasizes the importance of understanding music as a cultural phenomenon, and students learn to analyze and interpret musical practices in a variety of cultural settings. Students are trained in music theory, history, and ethnography, and are encouraged to develop their own research interests and skills.",
+  "shortProgramDescription": "The Ethnomusicology B.A. program at UCLA provides students with a comprehensive understanding of diverse musical traditions and the cultural contexts in which they are performed.",
+  "classHighlights": [
+    "Students take core courses in Ethnomusicology, including Introduction to Ethnomusicology, Research Methods in Ethnomusicology, and Senior Seminar.",
+    "Courses in music theory and history provide a foundation for understanding musical structures and traditions.",
+    "Students can choose from a range of electives that explore specific musical traditions, such as African, Asian, Latin American, and European music.",
+    "The program also includes courses in related fields, such as anthropology, cultural studies, and musicology.",
+    "Students are encouraged to develop their own research interests and skills through coursework and independent study."
+  ],
+  "learningOutcomes": [
+    "Understand the cultural contexts and social processes that shape musical practices.",
+    "Analyze and interpret musical practices in a variety of cultural settings.",
+    "Develop skills in music theory, history, and ethnography.",
+    "Cultivate critical thinking and research skills.",
+    "Communicate complex ideas about music and culture effectively."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Musicology (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=473"
+    },
+    {
+      "title": "Music Theory (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=474"
+    },
+    {
+      "title": "Global Studies (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=342"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=472",
+    "https://herbalpert.ucla.edu/academics/degrees-and-programs/undergraduate-programs/ethnomusicology-ba/",
+    "https://www.ucla.edu/academics/majors/ethnomusicology"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students in the Ethnomusicology program are encouraged to participate in music ensembles and to develop their performance skills. The program also offers opportunities for study abroad and internships."
+}

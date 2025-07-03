@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "African and Middle Eastern Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of African American Studies and the Department of Near Eastern Languages and Cultures offer an interdisciplinary major in African and Middle Eastern Studies. The major is designed to provide students with a broad understanding of the cultures, histories, and societies of Africa and the Middle East. Students may focus on a particular region or pursue a comparative study of the cultures, languages, and histories of these areas. The major requires a total of 48 units, with 12 courses in the student's chosen track.",
+  "shortProgramDescription": "This major provides students with an interdisciplinary understanding of Africa and the Middle East, allowing for regional or comparative study.",
+  "classHighlights": [
+    "The major requires students to take core courses that introduce them to the cultures, histories, and societies of Africa and the Middle East, including 'Introduction to African American Studies' and 'Introduction to Near Eastern Civilization'.",
+    "Students choose from a range of electives that allow them to explore specific topics, such as African diasporic cultures, Middle Eastern literature, and the history of the region.",
+    "Courses are drawn from a variety of departments, including African American Studies, Near Eastern Languages and Cultures, History, and Anthropology, providing students with a diverse and interdisciplinary education.",
+    "Students may choose to focus on a particular region or language, such as Swahili, Arabic, or Hebrew, and may also pursue coursework in related fields, such as history or cultural studies.",
+    "The major also includes a range of upper-division courses that allow students to explore advanced topics, such as African American cultural theory, Middle Eastern cultural studies, and comparative studies of African and Middle Eastern cultures."
+  ],
+  "learningOutcomes": [
+    "Demonstrate an understanding of the cultures, histories, and societies of Africa and the Middle East",
+    "Analyze the complex relationships between different cultures and societies in the region",
+    "Apply critical thinking and analytical skills to the study of African and Middle Eastern cultures and societies",
+    "Communicate effectively about the cultures, histories, and societies of Africa and the Middle East",
+    "Demonstrate an understanding of the interdisciplinary nature of African and Middle Eastern Studies"
+  ],
+  "similarPrograms": [
+    {
+      "title": "African American Studies",
+      "link": "https://afam.ucla.edu"
+    },
+    {
+      "title": "Near Eastern Languages and Cultures",
+      "link": "https://nelc.ucla.edu"
+    },
+    {
+      "title": "History",
+      "link": "https://history.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=49B",
+    "https://afam.ucla.edu/undergraduate-program/",
+    "https://nelc.ucla.edu/undergraduate-program/"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "48 units",
+  "additionalInformation": "The major requires a total of 48 units, with 12 courses in the student's chosen track. Students may choose to focus on a particular region or pursue a comparative study of the cultures, languages, and histories of Africa and the Middle East."
+}

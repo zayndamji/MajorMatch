@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "History (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The History major is designed to provide students with a broad understanding of the past, as well as the skills and methods historians use to interpret historical events and processes. The major requires students to take a range of courses that cover different historical periods, regions, and themes, and to develop their critical thinking, writing, and research skills.",
+  "shortProgramDescription": "The History B.A. at UCLA provides students with a deep understanding of historical events, processes, and cultures, and prepares them for a wide range of careers or further study.",
+  "classHighlights": [
+    "The History Department offers a wide range of courses that cover different historical periods, from ancient to modern times, and various regions, including Europe, Asia, Africa, and the Americas. These courses provide students with a broad understanding of historical events and processes.",
+    "Students in the History major take upper-division courses that focus on specific historical themes, periods, or regions, and are expected to develop their critical thinking, writing, and research skills through the completion of reading and research papers, as well as seminar-style discussions.",
+    "The major requires students to complete a series of core courses, including the Historical Studies introductory course, as well as upper-division courses in historical methodology and thematic or regional fields. Students also have the opportunity to take electives in related fields, such as art history, literature, or cultural studies."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad understanding of historical events, processes, and cultures",
+    "Analyze and interpret historical sources and evidence",
+    "Develop critical thinking, writing, and research skills",
+    "Communicate complex historical ideas and arguments effectively",
+    "Evaluate the significance of historical events and processes in different contexts"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Classics",
+      "link": "https://classics.ucla.edu"
+    },
+    {
+      "title": "Ancient History",
+      "link": "https://www.history.ucla.edu/undergraduate/ancient-history"
+    },
+    {
+      "title": "Medieval and Early Modern Studies",
+      "link": "https://www.history.ucla.edu/undergraduate/medieval-and-early-modern-studies"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=429",
+    "https://history.ucla.edu/undergraduate/history-major",
+    "https://www.ucla.edu/academics/majors/history-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The History major is a flexible program that allows students to pursue their interests in different historical periods, regions, and themes. Students are encouraged to work closely with their advisors to develop a course plan that meets their academic and career goals."
+}

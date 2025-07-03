@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Spanish and Portuguese (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Spanish and Portuguese offers a comprehensive program that covers the literature, culture, and languages of the Iberian Peninsula and Latin America. Students explore the historical and cultural contexts of these regions, engaging with a wide range of literary and cultural works. The program is designed to foster a deep understanding of the languages, literatures, and cultures of the Spanish and Portuguese-speaking worlds.",
+  "shortProgramDescription": "The Spanish and Portuguese B.A. program at UCLA provides a rigorous education in the languages, literatures, and cultures of the Iberian Peninsula and Latin America, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The program begins with foundational courses in Spanish and Portuguese language and culture, ensuring students develop a strong linguistic base and cultural understanding.",
+    "Students then progress to more advanced courses that explore the literature and culture of specific periods and regions, such as medieval, early modern, and contemporary Spain and Latin America.",
+    "Electives allow students to specialize in areas like literary movements, historical periods, or thematic topics, while also offering the opportunity to engage with related fields such as linguistics, cultural studies, or comparative literature.",
+    "Courses cover a range of genres, including poetry, narrative, drama, and essay, and are taught in their original language, promoting a nuanced understanding of the texts.",
+    "Through coursework, students develop critical thinking, analytical, and communication skills, preparing them for a variety of professional paths or graduate study."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a high level of proficiency in Spanish and/or Portuguese.",
+    "Analyze and interpret literary and cultural texts within their historical and cultural contexts.",
+    "Understand the cultural and historical contexts of the Iberian Peninsula and Latin America.",
+    "Develop critical thinking, analytical, and written and oral communication skills.",
+    "Engage with diverse perspectives and experiences through the study of literature and culture."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Spanish for Native/Heritage Speakers Minor",
+      "link": "https://spanport.ucla.edu/undergraduate-programs/minor-programs"
+    },
+    {
+      "title": "Portuguese Minor",
+      "link": "https://spanport.ucla.edu/undergraduate-programs/minor-programs"
+    },
+    {
+      "title": "Latin American Studies Major",
+      "link": "https://international.ucla.edu/latinamerica/institute/las-major"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=881",
+    "https://spanport.ucla.edu/undergraduate-programs/span-port-ba",
+    "https://catalog.registrar.ucla.edu/catalog/2023-24/programs/spanish-and-portuguese-b-a-the-college"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units, with at least 72 upper division units",
+  "additionalInformation": "Students are encouraged to study abroad in Spanish or Portuguese-speaking countries to enhance their linguistic and cultural proficiency. Internship opportunities are available for course credit, providing practical experience in fields related to the major."
+}

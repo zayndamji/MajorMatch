@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Music Industry (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Music Industry program at UCLA's Herb Alpert School of Music prepares students for careers in the music industry by providing a comprehensive education in music business, production, and technology. The program covers the music industry's commercial and artistic aspects, including recording, publishing, marketing, and management. Students gain hands-on experience through internships, projects, and collaborative work.",
+  "shortProgramDescription": "The Music Industry B.A. program at UCLA educates students in the business, production, and technology of the music industry, preparing them for diverse careers.",
+  "classHighlights": [
+    "The curriculum includes foundational courses such as Introduction to the Music Industry, Music Business Law, and Music Production Techniques.",
+    "Students explore the commercial aspects of the music industry through courses like Music Marketing, Music Publishing, and Artist Management.",
+    "The program emphasizes the development of skills in music production, recording technology, and audio engineering.",
+    "Electives allow students to specialize in areas like music entrepreneurship, music and technology, and the music industry's global context.",
+    "The program incorporates experational learning through internships and projects, providing students with practical experience in the music industry."
+  ],
+  "learningOutcomes": [
+    "Understand the structure and functions of the music industry.",
+    "Develop skills in music production, recording, and technology.",
+    "Apply knowledge of music business law, marketing, and management.",
+    "Analyze the commercial and artistic aspects of the music industry.",
+    "Demonstrate the ability to work collaboratively in music industry contexts.",
+    "Evaluate the impact of technology on the music industry."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Music (B.A.)",
+      "link": "https://schoolofmusic.ucla.edu/academics/music/ba/"
+    },
+    {
+      "title": "Ethnomusicology (B.A.)",
+      "link": "https://schoolofmusic.ucla.edu/academics/ethnomusicology/ba/"
+    }
+  ],
+  "sources": [
+    "https://schoolofmusic.ucla.edu/academics/music-industry/ba/",
+    "https://catalog.registrar.ucla.edu/catalog/2023-24?view=full&section=MUSIC-INDUSTRY-BA"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are encouraged to participate in internships and projects to gain practical experience in the music industry."
+}

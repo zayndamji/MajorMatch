@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Music Education (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Bachelor of Arts in Music Education is designed for students who wish to pursue a career in music education. The program provides a comprehensive education in music theory, history, and performance, as well as training in music education methods and pedagogy. Students in this program will develop their musical skills and knowledge, as well as their ability to communicate musical concepts to others.",
+  "shortProgramDescription": "The Music Education B.A. program at UCLA prepares students for careers in music education, providing a foundation in music theory, history, and performance, as well as training in music education methods.",
+  "classHighlights": [
+    "Music Theory and Musicianship: Students complete a sequence of music theory courses (MUSIC 1A-1B, 1C-1D) and musicianship courses (MUSIC 20A-20B, 20C-20D), which provide a comprehensive understanding of music theory and aural skills.",
+    "Music History: Students take a sequence of music history courses (MUSIC 40A-40B, 40C-40D) that cover the historical development of Western classical music, jazz, and other musical traditions.",
+    "Performance: Students are required to participate in a performance ensemble (MUSIC 90-99) and take private lessons (MUSIC 100-199) to develop their performance skills.",
+    "Music Education Methods: Students take courses in music education methods and pedagogy (MUSIC ED 101-102, 103-104), which provide training in teaching music to diverse populations.",
+    "Musical Diversity and Inclusion: Students learn about diverse musical traditions and the importance of inclusion in music education, preparing them to teach in a variety of settings."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a comprehensive understanding of music theory and history",
+    "Develop performance skills on a primary instrument or voice",
+    "Apply music education methods and pedagogy in a variety of settings",
+    "Communicate musical concepts effectively to diverse populations",
+    "Understand the importance of inclusion and diversity in music education"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Music (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=410"
+    },
+    {
+      "title": "Ethnomusicology (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=234"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=415",
+    "https://herbalpert.ucla.edu/academics/music-education-ba/",
+    "https://www.ucla.edu/academics/majors/music-education-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students in the Music Education B.A. program must complete a series of music theory, music history, and performance courses, as well as music education methods and pedagogy courses. The program prepares students for careers in music education and provides a foundation for further study."
+}

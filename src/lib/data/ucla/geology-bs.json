@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Geology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Geology (B.S.) program at UCLA is designed to provide students with a comprehensive understanding of the Earth's physical structure, composition, and processes. The curriculum includes coursework in geology, Earth sciences, and related fields, as well as fieldwork and laboratory training. Students gain a strong foundation in the principles of geology, including the study of rocks, minerals, landforms, and geological processes.",
+  "shortProgramDescription": "The Geology (B.S.) program at UCLA prepares students for careers in geology, Earth sciences, and related fields through a comprehensive curriculum and hands-on training.",
+  "classHighlights": [
+    "Geology Fundamentals: Students take introductory courses in geology, including Physical Geology and Historical Geology, which provide a foundation in the principles of geology and the Earth's history.",
+    "Earth Processes: Courses in Earth processes, such as Structural Geology, Petrology, and Geomorphology, help students understand the Earth's internal and external processes and the resulting landforms and geological features.",
+    "Geochemistry and Geophysics: Students study geochemistry and geophysics, including courses in Geochemistry, Geophysics, and Seismology, to understand the Earth's composition and internal structure.",
+    "Field and Laboratory Training: Fieldwork and laboratory training are essential components of the program, providing students with hands-on experience in geological mapping, sampling, and data analysis.",
+    "Electives and Specializations: Students can choose from a range of electives and specializations, including courses in environmental geology, economic geology, and geological hazards, to tailor their degree to their interests and career goals."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of geology, including the Earth's physical structure, composition, and processes.",
+    "Apply geological knowledge to real-world problems, including environmental and societal issues.",
+    "Conduct fieldwork and laboratory research, including data collection and analysis.",
+    "Communicate geological information effectively through written and oral presentations.",
+    "Think critically and solve problems using geological principles and concepts."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Science",
+      "link": "https://www.environmentalscience.ucla.edu"
+    },
+    {
+      "title": "Earth, Planetary, and Space Sciences",
+      "link": "https://epss.ucla.edu"
+    },
+    {
+      "title": "Geography",
+      "link": "https://geography.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=402",
+    "https://catalog.registrar.ucla.edu/",
+    "https://epss.ucla.edu/undergraduate/geology-bs"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Geology (B.S.) program at UCLA is designed to provide students with a comprehensive education in geology and prepare them for careers in the field. Students are encouraged to participate in fieldwork, research projects, and internships to gain practical experience."
+}

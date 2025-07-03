@@ -1,0 +1,36 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Japanese (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Japanese Language major is designed to provide students with a comprehensive understanding of the Japanese language and culture. Students develop proficiency in the four language skills of reading, writing, listening, and speaking, as well as an appreciation of Japanese culture and society. The program includes coursework in Japanese literature, linguistics, and culture, and prepares students for careers in fields such as education, business, government, and international relations.",
+  "shortProgramDescription": "The Japanese Language major at UCLA provides students with advanced proficiency in Japanese language and culture, preparing them for diverse careers or further study.",
+  "classHighlights": [
+    "Language Courses: Students take a sequence of courses in Japanese language, including grammar, vocabulary, reading, and writing. Courses cover a range of topics, from basic language skills to advanced readings in Japanese literature and culture.",
+    "Literature and Culture Courses: Students explore Japanese literature and culture through coursework that covers a range of topics, including classical and modern Japanese literature, Japanese cinema, and cultural studies.",
+    "Linguistics and Language Acquisition Courses: Students examine the structure and acquisition of the Japanese language, including phonetics, phonology, morphology, syntax, and language teaching methodologies."
+  ],
+  "learningOutcomes": [
+    "Develop advanced proficiency in reading, writing, listening, and speaking Japanese.",
+    "Analyze and interpret Japanese literary and cultural texts.",
+    "Understand the cultural and historical contexts of Japan.",
+    "Apply knowledge of Japanese language and culture to real-world situations."
+  ],
+  "similarPrograms": [
+    {
+      "title": "East Asian Languages and Cultures (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=400"
+    },
+    {
+      "title": "Asian American Studies (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=570"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=480",
+    "https://www.ucla.edu/academics/majors/japanese"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units required for graduation",
+  "additionalInformation": "Students are encouraged to study abroad in Japan to enhance their language skills and cultural knowledge."
+}

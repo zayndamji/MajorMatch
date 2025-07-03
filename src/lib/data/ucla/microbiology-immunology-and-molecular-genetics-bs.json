@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Microbiology, Immunology, and Molecular Genetics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Microbiology, Immunology, and Molecular Genetics major is designed to provide a broad background in biology, with an emphasis on molecular biology, as well as specialized training in microbiology and immunology. The program includes coursework in genetics, biochemistry, and molecular biology, as well as laboratory research experience.",
+  "shortProgramDescription": "The Microbiology, Immunology, and Molecular Genetics B.S. program provides a comprehensive education in microbiology, immunology, and molecular genetics, preparing students for careers in research, healthcare, and industry.",
+  "classHighlights": [
+    "The program requires coursework in microbiology, including the study of microbial structure, function, and interactions with the environment. Students learn about the molecular mechanisms underlying microbial pathogenesis and the host immune response.",
+    "Students take courses in genetics, biochemistry, and molecular biology, providing a foundation in the molecular mechanisms underlying biological processes. Laboratory courses provide hands-on experience with microbiological and molecular techniques.",
+    "Upper-division coursework includes immunology, virology, and microbial genetics, allowing students to explore specialized topics in depth. Students also complete a laboratory research course, applying molecular and microbiological techniques to investigate biological questions."
+  ],
+  "learningOutcomes": [
+    "Understand the principles of microbiology, including microbial structure, function, and interactions with the environment.",
+    "Apply molecular and microbiological techniques to investigate biological questions.",
+    "Analyze the molecular mechanisms underlying microbial pathogenesis and the host immune response.",
+    "Demonstrate knowledge of genetics, biochemistry, and molecular biology as they relate to microbiology and immunology."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Molecular, Cell, and Developmental Biology",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=332"
+    },
+    {
+      "title": "Biochemistry",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=202"
+    },
+    {
+      "title": "Biology",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=218"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=440",
+    "https://catalog.registrar.ucla.edu/",
+    "https://www.ucla.edu/academics/majors"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are advised to consult with a departmental advisor to plan their course schedule and to discuss research opportunities and career paths."
+}

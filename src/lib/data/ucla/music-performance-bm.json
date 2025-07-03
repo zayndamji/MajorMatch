@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Music Performance (B.M.)",
+  "degreeAwarded": "Bachelor of Music",
+  "fullProgramDescription": "The Bachelor of Music in Music Performance is designed for students who wish to pursue a career as a performer or to continue their studies at the graduate level. The program provides intensive training in performance, music theory, music history, and musicianship. Students in the program receive private instruction on their major instrument, participate in ensembles, and study a range of repertoire from different historical periods.",
+  "shortProgramDescription": "The Music Performance B.M. at UCLA provides advanced training in performance and musicianship, preparing students for professional careers or graduate study.",
+  "classHighlights": [
+    "Private instruction on the major instrument is a core component, with students studying repertoire from various historical periods and styles, developing technical mastery, interpretive skills, and performance practice.",
+    "Music theory and musicianship courses provide a foundation in the elements of music, harmony, counterpoint, and analysis, preparing students for advanced study and professional work.",
+    "Music history courses survey the development of Western art music, exploring historical contexts, genres, and styles, and cultivating critical thinking and research skills.",
+    "Ensemble participation is required, offering students the opportunity to apply performance skills in a collaborative setting, develop stage presence, and build professional networks.",
+    "Additional courses cover topics such as pedagogy, literature, and performance practice, rounding out the student's understanding of their instrument and the broader musical landscape."
+  ],
+  "learningOutcomes": [
+    "Demonstrate advanced technical and musical skills on their primary instrument.",
+    "Perform a wide range of repertoire with musicality and interpretive insight.",
+    "Apply music theory and analysis to performance and musical understanding.",
+    "Contextualize music within historical and cultural frameworks.",
+    "Participate effectively in ensemble settings, contributing to collaborative music-making.",
+    "Communicate musical ideas and interpretations to audiences."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Composition (B.M.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=427"
+    },
+    {
+      "title": "Music Education (B.M.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=429"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=426",
+    "https://herbalpert.ucla.edu/undergraduate-programs/",
+    "https://music.ucla.edu"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "approx. 216 quarter units",
+  "additionalInformation": "Admission to the Music Performance B.M. is by audition. Students must maintain satisfactory progress in their major, pass a junior proficiency evaluation, and adhere to departmental policies and requirements."
+}

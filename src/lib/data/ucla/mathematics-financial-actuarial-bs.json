@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Mathematics, Financial Actuarial (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mathematics, Financial Actuarial major is designed to meet the growing demand for professionals with strong mathematical skills who can apply their knowledge to financial and actuarial problems. The program provides a rigorous foundation in mathematical techniques, probability, and statistics, as well as coursework in economics, finance, and actuarial science.",
+  "shortProgramDescription": "The Mathematics, Financial Actuarial major at UCLA prepares students for careers in the actuarial profession and related fields, providing a strong foundation in mathematical and financial principles.",
+  "classHighlights": [
+    "Mathematical Foundations: Students complete a sequence of calculus courses (MATH 31A, 31B, 32A, 32B), linear algebra (MATH 33A), and differential equations (MATH 33B), providing a strong foundation in mathematical principles.",
+    "Probability and Statistics: Coursework includes probability theory (MATH 170A, 170B) and mathematical statistics (MATH 170E, 170F), preparing students for advanced work in actuarial science.",
+    "Actuarial Science: Students take courses in actuarial science (MATH 167, 168), covering topics such as life contingencies, risk management, and financial mathematics.",
+    "Economics and Finance: Coursework includes microeconomics (ECON 11), macroeconomics (ECON 12), and finance (MGT 120, 121), providing a solid understanding of economic and financial principles.",
+    "Mathematical Finance: Students learn about financial mathematics, including derivatives, options, and risk management, through courses such as MATH 171 and MGT 124."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical techniques to solve problems in finance and actuarial science.",
+    "Understand probability theory and mathematical statistics.",
+    "Analyze and interpret financial data.",
+    "Communicate complex mathematical and financial concepts effectively.",
+    "Understand the principles of economics and finance."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mathematics of Computation (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=08D"
+    },
+    {
+      "title": "Economics (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=02E"
+    },
+    {
+      "title": "Financial Management (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=16E"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=08E",
+    "https://www.math.ucla.edu/undergrad/major",
+    "https://catalog.ucla.edu/liberal-arts/mathematics"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "approx. 180 quarter units",
+  "additionalInformation": "Students must complete a set of required courses in mathematics, actuarial science, and economics, as well as electives in finance and related fields. UCLA's actuarial program is designed to prepare students for the professional actuarial exams."
+}

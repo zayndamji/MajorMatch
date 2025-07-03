@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Public Health (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The B.S. in Public Health is an interdisciplinary program that prepares students for careers in public health practice, research, or further study. The program focuses on the application of theory, research methods, and analysis to address health issues. Coursework includes foundations in public health, health services, health behavior, environmental health, and epidemiology, as well as advanced study in selected areas.",
+  "shortProgramDescription": "UCLA's Public Health B.S. program provides a comprehensive education in public health principles, research methods, and health issues, preparing students for careers or further study.",
+  "classHighlights": [
+    "The program begins with foundational courses in Introduction to Public Health (PH1), Biostatistics (STAT 13 or PH 142), and Introduction to Probability and Statistics (Stats 10 or PH 142).",
+    "Students take core courses in Epidemiology (PH 150A), Health Services Organization and Delivery (PH 150B), Health Behavior and Education (PH 150C), and Environmental Health (PH 150D).",
+    "Upper-division coursework includes advanced epidemiology, biostatistics, and health policy, allowing students to explore public health topics in depth.",
+    "Electives enable students to tailor their education to areas of interest, such as global health, health equity, or health policy.",
+    "The program emphasizes the development of critical thinking, research, and analytical skills, preparing students for a range of careers or graduate study."
+  ],
+  "learningOutcomes": [
+    "Apply public health principles to address health issues and promote health equity.",
+    "Understand the organization, financing, and delivery of health services.",
+    "Analyze health behaviors and develop interventions to promote healthy behaviors.",
+    "Assess the impact of environmental factors on health.",
+    "Use epidemiological methods to investigate health issues.",
+    "Critically evaluate research and data to inform public health practice."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Health Sciences",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=419"
+    },
+    {
+      "title": "Nursing",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=436"
+    },
+    {
+      "title": "Physiology",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=446"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=458",
+    "https://ph.ucla.edu/",
+    "https://catalog.registrar.ucla.edu/"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The program is designed to be completed in four years. Students are advised to consult with departmental advisors to plan their coursework and ensure they meet all program requirements."
+}

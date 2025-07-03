@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Chemistry (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Chemistry B.S. program is designed to provide students with a deep understanding of the principles of chemistry and prepare them for a wide range of career opportunities in fields such as research, industry, education, and healthcare. The program includes coursework in inorganic, organic, physical, and analytical chemistry, as well as laboratory and research experiences.",
+  "shortProgramDescription": "The Chemistry B.S. program at UCLA provides students with a comprehensive education in chemistry, preparing them for careers or graduate study in fields related to chemistry.",
+  "classHighlights": [
+    "The program begins with foundational courses in General Chemistry (Chemistry 14A, 14B, 14C, 14CL, 14D) and Quantitative Analysis (Chemistry 14BL, 14CL), providing a broad introduction to chemical principles and laboratory techniques.",
+    "Organic Chemistry (Chemistry 20A, 20B, 20L) and Organic Chemistry Laboratory (Chemistry 30A, 30B, 30BL) coursework develop students' understanding of carbon-based compounds and reactions, as well as their ability to synthesize and analyze complex molecules.",
+    "Physical Chemistry (Chemistry 113A, 113B) and Quantum Mechanics (Chemistry 112A, 112B) courses provide a rigorous treatment of the underlying physical principles governing chemical systems, including thermodynamics, kinetics, and quantum theory.",
+    "Inorganic Chemistry (Chemistry 171A, 171B, 172) and Advanced Inorganic Chemistry Laboratory (Chemistry 174) explore the chemistry of main group and transition metal elements, including synthesis, structure, and reactivity.",
+    "Advanced laboratory courses, such as Chemistry 174 and Chemistry 110A, provide hands-on experience with modern instrumentation and experimental techniques, preparing students for research or industry careers.",
+    "Electives in specialized areas, such as Biochemistry (Chemistry 153A, 153B, 153C), Chemical Biology, or Materials Chemistry, allow students to tailor their education to their interests and career goals."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad understanding of the principles of chemistry, including inorganic, organic, physical, and analytical chemistry.",
+    "Apply chemical principles to solve problems and analyze complex systems.",
+    "Design and execute experiments using modern laboratory techniques and instrumentation.",
+    "Communicate scientific information effectively in written and oral forms.",
+    "Analyze and interpret data, drawing conclusions based on evidence.",
+    "Apply knowledge of chemistry to real-world problems and contexts."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Biochemistry, Molecular Biology (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=160"
+    },
+    {
+      "title": "Chemical Engineering (B.S.)",
+      "link": "https://www.seas.ucla.edu/chemical-engineering"
+    },
+    {
+      "title": "Chemistry Minor",
+      "link": "https://www.chemistry.ucla.edu/undergraduate-program/minor"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=153",
+    "https://www.chemistry.ucla.edu/undergraduate-program/chemistry-bs",
+    "https://catalog.registrar.ucla.edu/catalog/2023-24/ugrad/chem/chem-bs"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "approx. 180 quarter units",
+  "additionalInformation": "The Chemistry B.S. program is designed for students intending to pursue graduate study or a career in chemistry or related fields. Research opportunities are available through faculty-mentored projects and internships."
+}

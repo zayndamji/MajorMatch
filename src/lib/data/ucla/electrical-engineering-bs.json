@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Electrical Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Electrical Engineering program at UCLA's Samueli School of Engineering is designed to provide a comprehensive education in the fundamentals of electrical engineering, including circuit analysis, electronics, digital systems, computer architecture, signals and systems, and electromagnetics. The program prepares students for a wide range of careers in industry, government, and academia, as well as for graduate study.",
+  "shortProgramDescription": "UCLA's Electrical Engineering B.S. program provides a strong foundation in the principles and practices of electrical engineering, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "Circuit Analysis and Electronics: Students learn circuit analysis techniques, electronics, and digital systems through courses like Electrical Engineering 10 (Introduction to Engineering), Electrical Engineering 110L (Circuit Analysis Laboratory), and Electrical Engineering 111L (Signals and Systems Laboratory).",
+    "Digital Systems and Computer Architecture: Courses in digital systems, computer organization, and computer architecture, such as Electrical Engineering 115A (Digital Logic) and Electrical Engineering 115C (Computer Organization), equip students with a deep understanding of digital systems.",
+    "Signals and Systems: The program covers signals and systems, including continuous and discrete-time signals, through courses like Electrical Engineering 102 (Signals and Systems).",
+    "Electromagnetics and Fields: Students study electromagnetics, fields, and waves, including Maxwell's equations, through courses like Electrical Engineering 131A (Fields and Waves).",
+    "Mathematics and Physics: The program requires a strong foundation in mathematics and physics, including differential equations, probability, and statistics, to support the study of electrical engineering principles.",
+    "Laboratory and Design Experience: Throughout the curriculum, students engage in laboratory and design experiences, developing practical skills in circuit design, electronics, and digital systems."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of electrical engineering to analyze and design electrical systems.",
+    "Understand and apply mathematical and scientific principles to solve engineering problems.",
+    "Design and conduct experiments, as well as analyze and interpret data.",
+    "Communicate effectively in written and oral forms.",
+    "Work effectively in teams to achieve common goals.",
+    "Understand the impact of engineering solutions in a global and societal context."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Computer Engineering (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=83"
+    },
+    {
+      "title": "Computer Science (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=83"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=84",
+    "https://samueli.ucla.edu",
+    "https://catalog.registrar.ucla.edu"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "212 units (semester credits)",
+  "additionalInformation": "The Electrical Engineering program at UCLA is accredited by the Engineering Accreditation Commission of ABET. Students are encouraged to participate in research, internships, and other extracurricular activities to enhance their educational experience."
+}

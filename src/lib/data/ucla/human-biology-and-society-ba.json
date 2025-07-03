@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Human Biology and Society (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Human Biology and Society major is an interdisciplinary program that explores the complex relationships between human biology, health, and society. Students examine the biological and social factors that influence human health and well-being, and investigate the ways in which societal structures and institutions shape our understanding of and responses to health issues. The major prepares students for careers in healthcare, research, policy, and education, and provides a strong foundation for graduate study in fields such as public health, medicine, and the social sciences.",
+  "shortProgramDescription": "The Human Biology and Society major provides students with a comprehensive understanding of the interplay between human biology and societal factors, preparing them for careers in healthcare, research, and policy.",
+  "classHighlights": [
+    "The major requires coursework in biology, including introductory biology and genetics, as well as upper-division courses in human biology and health.",
+    "Students also complete coursework in social sciences, including anthropology, sociology, and psychology, with a focus on the social and cultural factors that influence human health.",
+    "Additional coursework includes classes on health policy, epidemiology, and research methods, providing students with a strong foundation in the principles and methods of public health research and practice.",
+    "Upper-division electives allow students to explore specialized topics such as global health, health disparities, and the social determinants of health.",
+    "The major also includes a focus on the intersection of biology and society, with coursework examining the social and cultural contexts of human biology and health."
+  ],
+  "learningOutcomes": [
+    "Understand the complex relationships between human biology, health, and society",
+    "Analyze the social and cultural factors that influence human health and well-being",
+    "Apply principles of epidemiology and research methods to the study of human health",
+    "Examine the social and cultural contexts of human biology and health",
+    "Evaluate the impact of societal structures and institutions on human health and health care"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Public Health Minor",
+      "link": "https://ph.ucla.edu/academics/minor"
+    },
+    {
+      "title": "Global Health Minor",
+      "link": "https://globalhealth.ucla.edu/minor"
+    },
+    {
+      "title": "Biology Major",
+      "link": "https://biology.ucla.edu/undergraduate/major"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=325",
+    "https://hbs.sas.ucla.edu/undergraduate-program/major-requirements/",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23/prog/HBS_BA"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Human Biology and Society major is a highly interdisciplinary program that draws on coursework and faculty expertise from across the UCLA campus. Students are encouraged to pursue research and internship opportunities to gain practical experience in the field."
+}

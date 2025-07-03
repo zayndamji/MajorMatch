@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Asian American Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Asian American Studies major is an interdisciplinary program that focuses on the experiences of people of Asian descent in the United States and elsewhere. The program examines the historical, social, cultural, and political contexts that have shaped the lives of Asian Americans. Students in the major explore the complexities of Asian American identity, community, and culture through coursework in the humanities, social sciences, and cultural studies.",
+  "shortProgramDescription": "The Asian American Studies major provides students with a comprehensive understanding of the Asian American experience, preparing them for careers in fields such as education, social work, law, and community organizing.",
+  "classHighlights": [
+    "The major requires students to take a series of core courses that introduce them to the field of Asian American Studies, including introductory courses that cover the history and culture of Asian Americans.",
+    "Students also choose from a range of electives that allow them to explore specific topics in Asian American Studies, such as Asian American literature, history, and culture.",
+    "Courses in the major cover a range of themes and issues, including identity, community, immigration, and social justice.",
+    "Students learn about the diverse experiences of different Asian American communities, including Chinese, Japanese, Korean, Filipino, and Southeast Asian Americans.",
+    "The major emphasizes the importance of critical thinking, research, and writing skills, preparing students for a range of careers and graduate study."
+  ],
+  "learningOutcomes": [
+    "Understand the historical and contemporary experiences of Asian Americans",
+    "Analyze the social, cultural, and political contexts that shape Asian American lives",
+    "Develop critical thinking and research skills through the study of Asian American issues",
+    "Apply knowledge of Asian American Studies to real-world problems and issues",
+    "Communicate effectively about Asian American experiences and issues"
+  ],
+  "similarPrograms": [
+    {
+      "title": "American Studies",
+      "link": "https://americanstudies.ucla.edu"
+    },
+    {
+      "title": "Ethnomusicology",
+      "link": "https://ethnomusicology.ucla.edu"
+    },
+    {
+      "title": "Asian Pacific Islander Studies Minor",
+      "link": "https://asianamericanstudies.ucla.edu/undergraduate/minor"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=100",
+    "https://asianamericanstudies.ucla.edu/undergraduate/major"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the University's writing requirement and other general education requirements in addition to major coursework."
+}

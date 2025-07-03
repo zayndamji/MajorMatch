@@ -1,0 +1,37 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Arabic (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Arabic major is designed to provide students with a comprehensive understanding of the Arabic language, literature, and culture. The program includes coursework in Arabic language and linguistics, literature, history, and culture, as well as electives that allow students to explore specific interests.",
+  "shortProgramDescription": "The Arabic B.A. program at UCLA provides students with a deep understanding of the Arabic language and culture, preparing them for careers in fields such as education, government, and international relations.",
+  "classHighlights": [
+    "Language and Linguistics: Students take courses in Arabic language and linguistics, including grammar, syntax, and phonetics, to develop a strong foundation in the language.",
+    "Literature and Culture: Courses in Arabic literature and culture cover the history and development of Arabic literature, as well as the cultural and social contexts in which it was produced.",
+    "History and Society: Students learn about the history of the Arab world, including the social, cultural, and political developments that have shaped the region.",
+    "Electives: Students can choose from a range of electives that allow them to explore specific interests, such as Arabic literature in translation, Islamic studies, or Middle Eastern history."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a high level of proficiency in Arabic language skills, including reading, writing, and speaking.",
+    "Analyze and interpret Arabic literary and cultural texts in their historical and cultural contexts.",
+    "Understand the cultural and social contexts of the Arab world and its history.",
+    "Apply knowledge of Arabic language and culture to real-world problems and situations."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Near Eastern Languages and Cultures",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=084"
+    },
+    {
+      "title": "Islamic Studies Minor",
+      "link": "https://www.nelc.ucla.edu/programs/islamic-studies-minor/"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=081",
+    "https://www.nelc.ucla.edu/programs/arabic-major/"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units, including major requirements and electives",
+  "additionalInformation": "Students are encouraged to study abroad in an Arabic-speaking country to enhance their language skills and cultural understanding."
+}

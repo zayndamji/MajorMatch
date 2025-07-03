@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Individual Field of Concentration in the Arts and Architecture (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Individual Field of Concentration in the Arts and Architecture is a degree program within the School of the Arts and Architecture that enables students to design an individualized course of study that is not available through existing majors. Students, in consultation with a faculty adviser, develop a coherent program of study that is academically sound and appropriate to their educational and career goals.",
+  "shortProgramDescription": "The Individual Field of Concentration in the Arts and Architecture B.A. allows students to create a tailored major in consultation with a faculty advisor.",
+  "classHighlights": [
+    "Students are required to take a minimum of 64 units in the School of the Arts and Architecture, including at least 32 units of upper division courses.",
+    "The program requires students to complete a series of core courses and electives that are determined in consultation with their faculty adviser.",
+    "The curriculum is designed to be flexible, allowing students to explore various disciplines within the School of the Arts and Architecture.",
+    "Students work closely with their faculty adviser to ensure their program is coherent and aligned with their academic and professional goals."
+  ],
+  "learningOutcomes": [
+    "Develop a comprehensive understanding of their chosen field of study.",
+    "Demonstrate the ability to integrate multiple disciplines within the School of the Arts and Architecture.",
+    "Apply critical thinking and problem-solving skills in their area of concentration.",
+    "Communicate effectively about their field of study.",
+    "Prepare for a range of career paths or further study in their chosen field."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Art B.A.",
+      "link": "https://catalog.registrar.ucla.edu/major/2021/ArtBA"
+    },
+    {
+      "title": "Design Media Arts B.A.",
+      "link": "https://catalog.registrar.ucla.edu/major/2021/DesignMediaArtsBA"
+    },
+    {
+      "title": "Architecture B.A.",
+      "link": "https://catalog.registrar.ucla.edu/major/2021/ArchitectureBA"
+    }
+  ],
+  "sources": [
+    "https://catalog.registrar.ucla.edu/major/2021/IndividualFieldofConcentrationBAinArtsandArchitecture",
+    "https://saag.ucla.edu"
+  ],
+  "programDuration": "4 years (quarter system, typically 12 quarters)",
+  "creditRequirements": "180 total units (minimum 64 units in the School of the Arts and Architecture)",
+  "additionalInformation": "Students must find a faculty sponsor within the School of the Arts and Architecture and develop a coherent program of study in consultation with their sponsor. The program is subject to approval by the School's Undergraduate Committee."
+}

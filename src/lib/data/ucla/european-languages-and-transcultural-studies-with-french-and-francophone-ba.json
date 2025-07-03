@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "European Languages and Transcultural Studies with French and Francophone (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The European Languages and Transcultural Studies (ELTS) major with French and Francophone Studies is an interdisciplinary program that explores the cultures, literatures, and languages of Europe and beyond. Students examine the transcultural exchanges and interactions that have shaped the modern world, with a focus on the French-speaking world. The program fosters critical thinking, linguistic competence, and cultural understanding.",
+  "shortProgramDescription": "The ELTS major with French and Francophone Studies at UCLA prepares students to engage with the diverse cultures and literatures of the French-speaking world.",
+  "classHighlights": [
+    "The ELTS program begins with foundational courses in French language and culture, including language acquisition courses (FRENCH 1-6) and introductory courses on French literature and culture (FRENCH 40-50).",
+    "Students then progress to intermediate and advanced courses that explore French and Francophone literature, culture, and history, such as FRENCH 101-102, FRENCH 103-104, and FRENCH 106.",
+    "Upper-division courses allow students to specialize in areas such as 19th- and 20th-century French literature, Francophone literature, and cultural studies, including courses like FRENCH 151, FRENCH 152, and FRENCH 165.",
+    "The program also includes coursework on literary theory, cultural critique, and transcultural studies, preparing students for advanced research and analysis.",
+    "Students can choose from a range of electives that complement their French and Francophone Studies, including courses in other European languages, comparative literature, and related fields."
+  ],
+  "learningOutcomes": [
+    "Demonstrate advanced proficiency in French language skills, including reading, writing, speaking, and comprehension.",
+    "Analyze and interpret literary and cultural texts from the French-speaking world.",
+    "Understand the historical and cultural contexts that have shaped the modern French-speaking world.",
+    "Engage in critical thinking and cultural critique, applying theoretical frameworks to literary and cultural analysis.",
+    "Develop research skills and produce scholarly writing on topics related to French and Francophone Studies."
+  ],
+  "similarPrograms": [
+    {
+      "title": "European Languages and Transcultural Studies with Italian",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=438"
+    },
+    {
+      "title": "European Languages and Transcultural Studies with Spanish",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=442"
+    },
+    {
+      "title": "Comparative Literature",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=411"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=437",
+    "https://www.ucla.edu/academics/majors/european-languages-and-transcultural-studies"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students in the ELTS major with French and Francophone Studies are encouraged to study abroad in a French-speaking country and to participate in internships or research projects related to their field of study."
+}

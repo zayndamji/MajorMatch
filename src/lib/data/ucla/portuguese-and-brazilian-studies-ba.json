@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Portuguese and Brazilian Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Spanish and Portuguese offers an undergraduate major in Portuguese and Brazilian Studies. The program is designed to provide students with a solid foundation in the language, literature, and cultures of Portugal and Brazil. Students develop their linguistic skills through coursework in Portuguese language and literature, as well as through exposure to the cultural production of the Lusophone world. The program prepares students for careers in fields such as education, government, international business, and cultural management, as well as for graduate study in Portuguese and Brazilian Studies or related fields.",
+  "shortProgramDescription": "The Portuguese and Brazilian Studies major at UCLA provides students with a comprehensive understanding of the language, literature, and cultures of Portugal and Brazil.",
+  "classHighlights": [
+    "Language and Culture Courses: Students take courses in Portuguese language, including introductory, intermediate, and advanced levels, as well as courses on Lusophone cultures and societies.",
+    "Literary Studies: The program includes coursework on the literature of Portugal and Brazil, covering various periods and genres, from medieval to contemporary works.",
+    "Electives and Specialized Courses: Students can choose from a range of electives that focus on specific aspects of Lusophone cultures, such as history, cinema, and cultural studies, allowing them to tailor their major to their interests.",
+    "Cultural and Historical Context: Courses often explore the historical and cultural contexts that have shaped the Lusophone world, providing students with a nuanced understanding of the regions' complexities."
+  ],
+  "learningOutcomes": [
+    "Demonstrate proficiency in the Portuguese language, both written and spoken.",
+    "Analyze and interpret literary and cultural texts from Portugal and Brazil.",
+    "Understand the historical and cultural contexts of the Lusophone world.",
+    "Apply knowledge of Lusophone cultures to various professional or academic pursuits.",
+    "Critically evaluate the cultural production of Portugal and Brazil within their global contexts."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Spanish and Latin American Studies",
+      "link": "https://spanport.ucla.edu/"
+    },
+    {
+      "title": "Latin American Studies",
+      "link": "https://www.international.ucla.edu/las"
+    },
+    {
+      "title": "Comparative Literature",
+      "link": "https://comparative-literature.ucla.edu/"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=166",
+    "https://spanport.ucla.edu/",
+    "https://catalog.registrar.ucla.edu/catalog/2023-24/ugrad/1492/149210.html"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units, with a minimum of 36 upper division units in the major",
+  "additionalInformation": "Students are encouraged to study abroad in Portugal or Brazil to enhance their language skills and cultural understanding. The major also offers opportunities for research and internship experiences related to Lusophone cultures."
+}

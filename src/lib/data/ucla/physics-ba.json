@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Physics (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Bachelor of Arts in Physics is designed to provide a broad understanding of the fundamental principles of physics, while allowing for flexibility in course selection. The program is suitable for students who wish to pursue a liberal arts education with a strong foundation in physics.",
+  "shortProgramDescription": "The Physics B.A. provides a comprehensive education in physics within a liberal arts framework, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The lower division core courses, including Physics 1A, 1B, 1C, and Mathematics 31A, 31B, 32A, 32B, provide a foundation in classical mechanics, electromagnetism, and mathematical techniques.",
+    "Upper division courses, such as Physics 105A, 105B, 106, and 115, cover topics including classical mechanics, electromagnetism, statistical mechanics, and quantum mechanics, providing a deeper understanding of the principles of physics.",
+    "Electives in areas such as astrophysics, computational physics, and physics education allow students to explore specialized topics and develop their interests.",
+    "Laboratory courses, including Physics 101, 102, and 131L, provide hands-on experience with experimental techniques and data analysis.",
+    "Courses in mathematical methods, such as Physics 110A and 110B, complement the physics curriculum and provide additional mathematical tools."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of physics, including classical mechanics, electromagnetism, and quantum mechanics.",
+    "Apply mathematical techniques to solve physics problems.",
+    "Develop experimental skills and analyze data.",
+    "Communicate complex physics concepts effectively.",
+    "Demonstrate an understanding of the broader context of physics, including its historical development and its connections to other fields."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Physics (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=105"
+    },
+    {
+      "title": "Astronomy",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=100"
+    },
+    {
+      "title": "Engineering Physics",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=373"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=285",
+    "https://physics.ucla.edu/undergraduate-program",
+    "https://catalog.ucla.edu/lsas/undergraduate/Physics#ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the College's general education requirements and the major requirements. The major is administered by the Department of Physics and Astronomy."
+}

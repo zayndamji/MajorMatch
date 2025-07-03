@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "American Literature and Culture (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The American Literature and Culture major is an interdisciplinary program that explores the diverse cultural, historical, and literary traditions of the United States. Students examine American culture through a variety of lenses, including literature, history, and cultural studies, and develop critical thinking, writing, and research skills. The program prepares students for a range of careers in fields such as education, media, law, and the arts.",
+  "shortProgramDescription": "The American Literature and Culture major provides students with a nuanced understanding of American cultural and literary traditions, preparing them for careers in a variety of fields.",
+  "classHighlights": [
+    "Lower-division courses introduce students to the field of American Literature and Culture, covering topics such as American literature from the colonial period to the present, and the cultural and historical contexts that shape literary production.",
+    "Upper-division courses allow students to explore specific topics in American Literature and Culture, such as African American literature, Chicana/o literature, and American literary history.",
+    "Courses in the major emphasize critical thinking, writing, and research skills, and provide students with a range of methodological and theoretical approaches to the study of American culture.",
+    "Students in the major take courses in departments such as English, History, and Chicana/o Studies, allowing them to engage with a diverse range of perspectives and approaches to the study of American culture."
+  ],
+  "learningOutcomes": [
+    "Analyze and interpret American literary and cultural texts within their historical and cultural contexts.",
+    "Demonstrate an understanding of the diverse cultural, historical, and literary traditions of the United States.",
+    "Develop critical thinking, writing, and research skills.",
+    "Apply a range of methodological and theoretical approaches to the study of American culture.",
+    "Evaluate the cultural and historical contexts that shape literary production."
+  ],
+  "similarPrograms": [
+    {
+      "title": "English",
+      "link": "https://www.ucla.edu/academics/majors/english"
+    },
+    {
+      "title": "History",
+      "link": "https://history.ucla.edu/undergraduate/major"
+    },
+    {
+      "title": "Chicana/o Studies",
+      "link": "https://chicst.ucla.edu/undergraduate/degrees-and-courses"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=761",
+    "https://www.ucla.edu/academics/majors/american-literature-and-culture"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the University's writing requirement and a senior seminar or capstone course. The major is designed to be completed in four years, with careful planning and advising."
+}

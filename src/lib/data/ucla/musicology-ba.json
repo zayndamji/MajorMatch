@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Musicology (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Musicology program at UCLA provides students with a comprehensive understanding of music in its historical, cultural, and social contexts. Students explore a wide range of topics, including music theory, analysis, and history, as well as specialized areas such as ethnomusicology and music technology. The program is designed to foster critical thinking, research skills, and musical literacy, preparing students for a variety of careers in music and related fields.",
+  "shortProgramDescription": "The Musicology B.A. program at UCLA provides a rigorous foundation in music history, theory, and analysis, preparing students for careers in music and related fields.",
+  "classHighlights": [
+    "Music History and Literature: Students take a sequence of courses covering music history from the Middle Ages to the present, including topics such as music of the Renaissance, Baroque, Classical, and Romantic periods.",
+    "Music Theory and Analysis: Students develop their understanding of music theory and analysis through courses that cover topics such as harmony, counterpoint, and form.",
+    "Research Methods: Students learn research methods and critical thinking skills through courses that focus on musicology, bibliography, and research techniques.",
+    "Electives: Students choose from a range of electives that allow them to explore specialized areas such as ethnomusicology, music technology, and popular music studies."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad knowledge of music history and literature",
+    "Apply music theory and analysis to a variety of musical styles and genres",
+    "Conduct research using musicological methods and bibliography",
+    "Think critically about music in its cultural, social, and historical contexts",
+    "Communicate effectively about music through written and oral presentations"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Ethnomusicology (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=583"
+    },
+    {
+      "title": "Music Composition (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=586"
+    },
+    {
+      "title": "Music Performance (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=587"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=584",
+    "https://www.ucla.edu/academics/majors/musicology-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students in the Musicology program are encouraged to explore related fields such as music composition, performance, and ethnomusicology. The program is housed in the Herb Alpert School of Music, which provides a vibrant and supportive community for music students."
+}

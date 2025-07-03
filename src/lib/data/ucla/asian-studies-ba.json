@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Asian Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Asian Studies major is an interdisciplinary program that focuses on the languages, cultures, histories, and societies of Asia. Students choose a regional or thematic concentration and explore Asia from multiple perspectives through courses in departments across the humanities and social sciences. The program is designed to provide a deep understanding of Asia's diverse cultures and societies, as well as the skills to analyze and interpret complex information. Students develop critical thinking, research, and communication skills through coursework, language training, and a senior capstone experience. The major prepares students for careers in fields such as education, government, business, law, and non-profit organizations, as well as for graduate study in Asian Studies or related fields.",
+  "shortProgramDescription": "The Asian Studies B.A. at UCLA provides an interdisciplinary exploration of Asia's languages, cultures, histories, and societies, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "Language Training: Students complete four years of language coursework in a chosen Asian language (Chinese, Japanese, Korean, etc.), developing advanced proficiency in reading, writing, and speaking. Language courses cover grammar, vocabulary, and cultural context, with opportunities for conversation practice and cultural immersion.",
+    "Foundational Courses: The major begins with an introductory course on Asian cultures and societies, followed by a series of core courses that survey the history, politics, literature, and cultures of various Asian regions. These courses introduce key themes and methodologies in the field.",
+    "Thematic or Regional Concentrations: Students choose a concentration, such as East Asia, Southeast Asia, or a thematic focus like gender or modernization. Within their chosen concentration, students take upper-division courses that allow them to explore specific topics in depth, applying theoretical frameworks and analytical skills.",
+    "Electives and Interdisciplinary Exploration: Students select additional electives from a range of departments, including History, Literature, Cultural Studies, and Political Science. These courses enable students to connect their knowledge of Asia to broader fields of study, such as globalization, comparative literature, or international relations.",
+    "Research and Analytical Skills: Throughout the major, students develop research skills, critical analysis, and written and oral communication through coursework and research projects. Upper-division courses often include research papers or presentations, honing students' ability to analyze sources and construct arguments."
+  ],
+  "learningOutcomes": [
+    "Demonstrate advanced proficiency in an Asian language, including reading, writing, and speaking skills.",
+    "Analyze the cultural, historical, and social contexts of Asia from multiple disciplinary perspectives.",
+    "Apply critical thinking and research skills to understand complex issues in Asian Studies.",
+    "Communicate effectively in written and oral forms about topics related to Asia.",
+    "Evaluate the diverse cultures, societies, and political systems within Asia and in a global context."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Asian American Studies Minor",
+      "link": "https://asianam.ucla.edu/programs/minor"
+    },
+    {
+      "title": "East Asian Languages and Cultures Major",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=342"
+    },
+    {
+      "title": "South Asian Studies Minor",
+      "link": "https://sasia.ucla.edu/programs/minor"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=241",
+    "https://international.ucla.edu/asia",
+    "https://www.ucla.edu/academics/majors/asian-studies-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units (minimum 12 units per quarter)",
+  "additionalInformation": "Students are advised to declare the major early and plan their coursework in consultation with an advisor. Opportunities for study abroad in Asia are available, and students are encouraged to take advantage of these programs to enhance their language skills and cultural understanding."
+}

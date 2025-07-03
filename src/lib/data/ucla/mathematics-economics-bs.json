@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Mathematics/Economics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mathematics/Economics major is an interdisciplinary program that combines a strong foundation in mathematics with a thorough understanding of economics. Students learn advanced mathematical techniques and apply them to economic theory and models. The program requires coursework in calculus, linear algebra, differential equations, probability, and statistics, as well as microeconomics, macroeconomics, and econometrics. Students gain a deep understanding of economic principles and develop skills in mathematical modeling, data analysis, and problem-solving.",
+  "shortProgramDescription": "The Mathematics/Economics B.S. program at UCLA combines advanced mathematical techniques with economic theory, preparing students for careers in research, finance, and policy.",
+  "classHighlights": [
+    "Mathematical Foundations: Students complete a sequence of calculus courses (MATH 31A, 31B, 32A, 32B), linear algebra (MATH 33A), and differential equations (MATH 33B), providing a strong foundation in mathematical techniques.",
+    "Probability and Statistics: Courses in probability (MATH 170A, 170B) and statistics (STAT 100A, 100B) enable students to apply mathematical methods to economic data and models.",
+    "Economic Theory: Students take microeconomics (ECON 101, 102), macroeconomics (ECON 103, 104), and econometrics (ECON 141, 142), developing a deep understanding of economic principles and empirical methods.",
+    "Mathematical Economics: Courses in mathematical economics (ECON 171, 172) and advanced econometrics (ECON 242) apply mathematical techniques to economic models and data analysis.",
+    "Electives: Students choose from a range of electives in mathematics and economics, including courses in game theory, optimization, and financial mathematics, allowing them to tailor their program to their interests and career goals."
+  ],
+  "learningOutcomes": [
+    "Apply advanced mathematical techniques to economic models and data analysis.",
+    "Understand and apply microeconomic and macroeconomic principles.",
+    "Analyze economic data using statistical and econometric methods.",
+    "Develop skills in mathematical modeling, data analysis, and problem-solving.",
+    "Communicate complex economic ideas and mathematical results effectively."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Economics (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=212"
+    },
+    {
+      "title": "Mathematics (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=270"
+    },
+    {
+      "title": "Statistics (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=346"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=778",
+    "https://www.math.ucla.edu/undergrad/major",
+    "https://www.econ.ucla.edu/undergrad/major"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "180 quarter units (semester system, approximately 120 semester credits)",
+  "additionalInformation": "Students must complete a set of required courses in mathematics and economics, as well as electives in both departments. The program is designed to be completed in four years, with a typical course load of 12-15 units per semester."
+}

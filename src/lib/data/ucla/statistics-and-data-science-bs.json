@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Statistics and Data Science (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Statistics and Data Science major is designed to provide students with a strong foundation in statistical theory and methodology, as well as the ability to apply statistical techniques to real-world problems. The program includes coursework in probability, statistical inference, data analysis, and computational methods. Students learn to think critically and make informed decisions based on data.",
+  "shortProgramDescription": "The Statistics and Data Science B.S. at UCLA provides a rigorous foundation in statistical theory, methodology, and application, preparing students for careers in data analysis, research, and academia.",
+  "classHighlights": [
+    "The major begins with foundational courses in Probability and Statistics (Stats 10, Stats 20), introducing key concepts such as probability distributions, statistical inference, and data analysis.",
+    "Students then progress to more advanced coursework, including Mathematical Statistics (Stats 100A-B), Data Analysis (Stats 101B), and Computing (Stats 101C, Stats 140), which provide a deeper understanding of statistical theory and practical skills in data manipulation and modeling.",
+    "Upper-division electives allow students to explore specialized areas, including Machine Learning (Stats 141, 181), Biostatistics (Stats 151A-B), and Statistical Consulting (Stats 192), giving them the flexibility to tailor their education to their interests and career goals.",
+    "Throughout the program, students gain hands-on experience with statistical software and programming languages, such as R and Python, to analyze and interpret complex data sets.",
+    "The curriculum emphasizes both theoretical understanding and practical application, preparing students to tackle real-world problems in various fields, from healthcare and finance to social sciences and engineering."
+  ],
+  "learningOutcomes": [
+    "Apply statistical theory and methods to solve real-world problems.",
+    "Analyze and interpret complex data sets using statistical software.",
+    "Communicate statistical results effectively to both technical and non-technical audiences.",
+    "Understand the role of statistical inference and modeling in data-driven decision-making.",
+    "Demonstrate proficiency in statistical programming languages, such as R or Python.",
+    "Work collaboratively on data analysis projects, applying statistical knowledge to inform insights and recommendations."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mathematics of Computation (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=298"
+    },
+    {
+      "title": "Computer Science (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=263"
+    },
+    {
+      "title": "Data Science Minor",
+      "link": "https://datascience.ucla.edu/academics/minor"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=299",
+    "https://stats.ucla.edu/",
+    "https://catalog.registrar.ucla.edu/catalog/2023-24?required=stats"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Statistics and Data Science major is designed for students who are interested in pursuing careers in data analysis, statistical consulting, or research. The program is also suitable for students who plan to pursue graduate studies in statistics or related fields."
+}

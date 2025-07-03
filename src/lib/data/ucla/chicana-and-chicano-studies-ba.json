@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Chicana and Chicano Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Chicana and Chicano Studies major is an interdisciplinary program that focuses on the study of the experiences, cultures, and histories of Chicanas and Chicanos in the United States. The program provides students with a comprehensive understanding of the social, cultural, economic, and political contexts that shape the lives of Chicanas and Chicanos. Students explore a range of topics, including identity, culture, history, literature, and social justice.",
+  "shortProgramDescription": "The Chicana and Chicano Studies major provides students with a deep understanding of the Chicana and Chicano experience, preparing them for careers in fields such as education, law, social work, and community organizing.",
+  "classHighlights": [
+    "The Chicana and Chicano Studies program provides a foundation in the field through introductory courses that cover the history, culture, and identity of Chicanas and Chicanos.",
+    "Upper-division courses focus on specialized topics such as Chicana and Chicano literature, history, and culture, as well as the experiences of specific sub-groups within the Chicana and Chicano community.",
+    "Courses also examine the intersections between Chicana and Chicano Studies and other fields, such as sociology, history, and literature, providing students with a nuanced understanding of the complex issues facing Chicanas and Chicanos."
+  ],
+  "learningOutcomes": [
+    "Analyze the historical and contemporary experiences of Chicanas and Chicanos in the United States.",
+    "Understand the cultural, social, and economic contexts that shape the lives of Chicanas and Chicanos.",
+    "Apply Chicana and Chicano Studies perspectives to real-world issues and problems.",
+    "Communicate effectively about Chicana and Chicano issues and experiences.",
+    "Demonstrate an understanding of the intersections between Chicana and Chicano Studies and other fields of study."
+  ],
+  "similarPrograms": [
+    {
+      "title": "CéSAR E. Chávez Department of Chicana/o and Central American Studies",
+      "link": "https://chicano.ucla.edu"
+    },
+    {
+      "title": "Latin American Studies",
+      "link": "https://international.ucla.edu/las"
+    },
+    {
+      "title": "American Studies",
+      "link": "https://americanstudies.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=626",
+    "https://chicano.ucla.edu/undergraduate/degree-programs/chicana-chicano-studies-ba",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23/programs?prog=CHICANO_STUDIES_BA"
+  ],
+  "programDuration": "4 academic years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete a series of required courses, including introductory and upper-division courses, as well as a senior seminar. The program also offers a range of electives that allow students to explore specific topics in more depth."
+}

@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Gender Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Gender Studies major is an interdisciplinary program that examines the social and cultural constructions of gender and their intersections with other categories of identity and difference. The major provides students with a critical understanding of the ways in which gender shapes individual and collective experiences, as well as the ways in which power and inequality are organized and maintained through gender.",
+  "shortProgramDescription": "The Gender Studies major at UCLA provides students with a comprehensive understanding of the social, cultural, and political constructions of gender and their intersections with other categories of identity and difference.",
+  "classHighlights": [
+    "Core Courses: The major requires core courses that introduce students to key concepts and theories in Gender Studies, including the social and cultural constructions of gender, intersectionality, and the intersections between gender and other categories of identity and difference.",
+    "Methodology and Research Design: Students learn about research methods and design, including qualitative and quantitative approaches, to analyze and understand gender-related phenomena.",
+    "Thematic Clusters: The major offers a range of thematic clusters that allow students to explore specific topics in-depth, including topics such as gender and sexuality, gender and globalization, and gender and social justice.",
+    "Electives: Students can choose from a range of electives that allow them to explore specific topics and themes in more depth, including courses on topics such as masculinity, queer studies, and feminist theory.",
+    "Intersectionality: Throughout the major, students are encouraged to think intersectionally about the ways in which different categories of identity and difference intersect and shape individual and collective experiences.",
+    "Theory and Praxis: The major emphasizes the importance of both theoretical understanding and practical application, encouraging students to think critically about the ways in which knowledge can be used to promote social change."
+  ],
+  "learningOutcomes": [
+    "Understand the social and cultural constructions of gender and their intersections with other categories of identity and difference",
+    "Analyze the ways in which power and inequality are organized and maintained through gender",
+    "Apply critical thinking and research skills to understand and address gender-related issues",
+    "Communicate effectively about gender-related topics and issues",
+    "Think intersectionally about the ways in which different categories of identity and difference intersect and shape individual and collective experiences"
+  ],
+  "similarPrograms": [
+    {
+      "title": "LGBTQ Studies Minor",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=383"
+    },
+    {
+      "title": "African American Studies",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=301"
+    },
+    {
+      "title": "Chicana/o and Central American Studies",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=335"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=363",
+    "https://genderstudies.ucla.edu/"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units required for graduation; major preparation and electives vary",
+  "additionalInformation": "The Gender Studies major is an interdisciplinary program that draws on a range of departments and fields. Students are encouraged to explore the many resources and opportunities available through the Gender Studies department, including research centers and community engagement initiatives."
+}

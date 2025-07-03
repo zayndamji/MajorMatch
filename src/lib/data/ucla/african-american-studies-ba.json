@@ -1,0 +1,37 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "African American Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of African American Studies at UCLA offers an undergraduate major that provides students with a comprehensive understanding of the history, culture, and experiences of Black people in the United States and across the African diaspora. The program is interdisciplinary, drawing on fields such as history, literature, sociology, politics, and cultural studies to examine the complexities of the Black experience.",
+  "shortProgramDescription": "The African American Studies major at UCLA prepares students for a nuanced understanding of the Black experience through an interdisciplinary curriculum.",
+  "classHighlights": [
+    "The major includes foundational courses that introduce students to the field of African American Studies, covering topics such as the history of Black people in the United States, African diasporic cultures, and the politics of Black identity.",
+    "Students engage with a range of disciplinary approaches, including historical, literary, and sociological analyses, to deepen their understanding of the Black experience.",
+    "Elective courses allow students to explore specialized topics, such as African American literature, the Civil Rights Movement, and Black cultural production.",
+    "The major emphasizes the development of critical thinking, research, and writing skills, preparing students for a variety of careers or further academic study."
+  ],
+  "learningOutcomes": [
+    "Analyze the historical and contemporary experiences of Black people in the United States and across the African diaspora.",
+    "Apply interdisciplinary approaches to understanding the complexities of Black culture and identity.",
+    "Critically evaluate the social, political, and economic contexts that shape the lives of Black people.",
+    "Develop effective research and writing skills, with the ability to communicate complex ideas clearly."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Africana Studies Minor",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=145"
+    },
+    {
+      "title": "African Studies Minor",
+      "link": "https://international.ucla.edu/africa/minor"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=40",
+    "https://aastas.ucla.edu/"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The major is designed to be completed in four years. Students are encouraged to consult with departmental advisors to plan their course of study."
+}

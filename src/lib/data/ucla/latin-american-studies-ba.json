@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Latin American Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Latin American Studies major is an interdisciplinary program that focuses on the cultures, histories, and societies of Latin America, from the colonial period to the present. Students explore the region through a variety of disciplinary lenses, including anthropology, history, literature, and sociology. The major aims to provide a comprehensive understanding of the complex issues facing Latin America, including globalization, migration, and social inequality.",
+  "shortProgramDescription": "The Latin American Studies B.A. provides an interdisciplinary exploration of Latin America's cultures, histories, and societies, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The major requires a foundational course in Latin American Studies, which introduces students to the field's key concepts and debates.",
+    "Students take a range of disciplinary courses, including anthropology, history, literature, and sociology, that focus on specific themes, such as culture, identity, and social movements.",
+    "Electives allow students to explore specialized topics, such as human rights, environmental issues, and economic development, in the context of Latin America.",
+    "Courses cover a range of geographical areas, including Mexico, Central America, South America, and the Caribbean, and span different historical periods, from the colonial era to the present.",
+    "Students develop critical thinking, research, and writing skills through coursework and a senior essay or capstone project."
+  ],
+  "learningOutcomes": [
+    "Demonstrate an understanding of the complex histories, cultures, and societies of Latin America.",
+    "Apply interdisciplinary approaches to analyze the region's key issues and challenges.",
+    "Critically evaluate the impact of globalization, migration, and social inequality on Latin America.",
+    "Develop effective research and writing skills, with the ability to analyze and interpret complex information.",
+    "Communicate complex ideas and arguments in a clear and concise manner."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Spanish and Portuguese",
+      "link": "https://spanport.ucla.edu"
+    },
+    {
+      "title": "Latin American Studies Minor",
+      "link": "https://international.ucla.edu/las/minor"
+    },
+    {
+      "title": "Chicana/o Studies",
+      "link": "https://chicanaostudies.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=498",
+    "https://international.ucla.edu/las",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23/programs/Latin-American-Studies-B-A"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are encouraged to study abroad in Latin America and to participate in internships or research projects related to the region."
+}

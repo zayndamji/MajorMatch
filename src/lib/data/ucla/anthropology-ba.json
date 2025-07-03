@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Anthropology (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Anthropology major is designed to provide students with a broad understanding of the biological and cultural diversity of humans, both past and present. The program covers a wide range of topics, from human evolution and biological variation to cultural anthropology and archaeology. Students learn about the theoretical foundations of anthropology, research methods, and the application of anthropological knowledge to contemporary issues.",
+  "shortProgramDescription": "The Anthropology B.A. at UCLA offers a comprehensive education in the biological, social, and cultural aspects of human diversity, preparing students for a wide range of careers or graduate study.",
+  "classHighlights": [
+    "The Anthropology department at UCLA offers a range of courses that cover the subfields of anthropology, including sociocultural anthropology, biological anthropology, archaeology, and linguistic anthropology. Courses in sociocultural anthropology explore the diversity of human cultures and societies, examining topics such as globalization, inequality, and cultural identity.",
+    "Biological anthropology courses focus on human evolution, genetics, and the biology of human variation, providing a foundation in the biological aspects of anthropology. Archaeology courses cover the methods and theories of archaeological research, including excavation techniques, artifact analysis, and the interpretation of past cultures.",
+    "Linguistic anthropology courses examine the complex relationships between language, culture, and society, exploring topics such as language acquisition, language ideology, and the role of language in shaping social identity."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad understanding of the subfields of anthropology, including sociocultural anthropology, biological anthropology, archaeology, and linguistic anthropology.",
+    "Apply anthropological theories and methods to the analysis of human diversity and complexity.",
+    "Critically evaluate the role of anthropology in understanding contemporary social and cultural issues.",
+    "Conduct original research using anthropological methods and techniques.",
+    "Communicate complex anthropological concepts and research findings effectively in written and oral forms."
+  ],
+  "similarPrograms": [
+    {
+      "title": "African American Studies",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=11"
+    },
+    {
+      "title": "Asian American Studies",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=15"
+    },
+    {
+      "title": "Latin American Studies",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=62"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=42",
+    "https://anthropology.ucla.edu/undergraduate-program"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Anthropology major at UCLA is a flexible program that allows students to tailor their coursework to their interests and career goals. Students are encouraged to engage in research and internship opportunities to gain practical experience in the field."
+}

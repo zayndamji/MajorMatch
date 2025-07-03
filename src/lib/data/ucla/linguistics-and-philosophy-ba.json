@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Linguistics and Philosophy (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Linguistics and Philosophy major is an interdisciplinary program that combines the study of human language and the fundamental principles of philosophy. Students examine the structure and properties of language, the nature of meaning, and the principles of philosophical inquiry.",
+  "shortProgramDescription": "The Linguistics and Philosophy major provides a comprehensive education in the principles of language and philosophical inquiry, preparing students for a variety of careers or further study.",
+  "classHighlights": [
+    "Students in this major take a range of courses in both Linguistics and Philosophy, including introductory courses in linguistics and philosophy, as well as upper-division courses in areas such as phonetics, phonology, syntax, semantics, ethics, metaphysics, and epistemology.",
+    "The major requires students to complete a set of core courses that provide a foundation in the principles of linguistics and philosophy, as well as a range of electives that allow students to explore their interests in greater depth.",
+    "Courses in the major emphasize critical thinking, analytical reasoning, and effective communication, preparing students for a variety of careers or further study in fields such as law, academia, or public policy."
+  ],
+  "learningOutcomes": [
+    "Analyze and describe the structure and properties of language.",
+    "Apply philosophical principles to a range of topics and issues.",
+    "Evaluate arguments and evidence in a clear and effective manner.",
+    "Demonstrate a comprehensive understanding of the principles of linguistics and philosophy.",
+    "Communicate complex ideas and arguments in a clear and effective manner."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Linguistics (B.A.)",
+      "link": "https://linguistics.ucla.edu/undergraduate/linguistics-ba"
+    },
+    {
+      "title": "Philosophy (B.A.)",
+      "link": "https://philosophy.ucla.edu/undergraduate/philosophy-ba"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=517",
+    "https://linguistics.ucla.edu",
+    "https://philosophy.ucla.edu"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units required for graduation; major requirements include a minimum of 12 upper-division courses.",
+  "additionalInformation": "Students must satisfy the College's foreign language requirement and complete a minimum of 12 upper-division courses in the major. The major is administered by the Department of Linguistics and the Department of Philosophy."
+}

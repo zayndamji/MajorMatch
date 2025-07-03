@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Jewish Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Jewish Studies major is an interdisciplinary program that explores the history, culture, and literature of the Jewish people from ancient times to the present. The major encompasses a broad range of topics, including biblical studies, rabbinic literature, Jewish history, Israeli culture, and contemporary Jewish issues. Students in the major gain a deep understanding of the Jewish experience and its diverse manifestations across time and geography.",
+  "shortProgramDescription": "The Jewish Studies major at UCLA provides students with a comprehensive understanding of Jewish history, culture, and literature, preparing them for careers in education, research, and community service.",
+  "classHighlights": [
+    "The Jewish Studies major requires students to complete a series of core courses that introduce them to the major fields of Jewish Studies, including biblical studies, Jewish history, and Jewish literature.",
+    "Students in the major can choose from a range of elective courses that explore specific topics in Jewish Studies, such as Israeli culture, Jewish mysticism, and Jewish-American literature.",
+    "The major also includes courses in Hebrew language and literature, which provide students with a strong foundation in the language and culture of the Jewish people.",
+    "Students can also explore related fields such as history, literature, and cultural studies, allowing them to contextualize their understanding of Jewish Studies within a broader academic framework.",
+    "Courses in the major are taught by faculty with expertise in Jewish Studies, ensuring that students receive a rigorous and nuanced education in the field."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad understanding of Jewish history, culture, and literature",
+    "Analyze and interpret Jewish texts and cultural artifacts",
+    "Understand the diverse manifestations of Jewish culture across time and geography",
+    "Apply knowledge of Jewish Studies to real-world issues and problems",
+    "Communicate complex ideas and arguments effectively in writing and speech"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Near Eastern Languages and Cultures",
+      "link": "https://nelc.ucla.edu"
+    },
+    {
+      "title": "Comparative Literature",
+      "link": "https://comparativeliterature.ucla.edu"
+    },
+    {
+      "title": "History",
+      "link": "https://history.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=482",
+    "https://jewishstudies.ucla.edu",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23?required=3247#/program/3247"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "48 upper division units",
+  "additionalInformation": "Students must complete the University's writing requirement and American History and Institutions requirements. Students are encouraged to study abroad in Israel or other relevant locations."
+}

@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Public Affairs (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The undergraduate major in Public Affairs is an interdisciplinary program that prepares students for careers in the public, private, and nonprofit sectors. The program focuses on the development of skills and knowledge necessary to analyze and address complex social problems. Coursework includes classes in public policy, urban planning, and social welfare, as well as electives in areas such as environmental policy, international development, and community organizing.",
+  "shortProgramDescription": "The Public Affairs major at UCLA prepares students for careers in the public, private, and nonprofit sectors by providing a comprehensive education in public policy, urban planning, and social welfare.",
+  "classHighlights": [
+    "The major requires a foundation in the core areas of public affairs, including courses on public policy, urban planning, and social welfare. Students learn about the historical and contemporary issues shaping the field and develop skills in analysis, problem-solving, and communication.",
+    "Students take courses in research methods, statistics, and data analysis, which provide a strong foundation for understanding and evaluating public policy and social programs.",
+    "Electives allow students to explore specialized areas, such as environmental policy, international development, community organizing, and social justice, providing a nuanced understanding of the complex issues facing society.",
+    "The program emphasizes experiential learning, with opportunities for internships, service-learning projects, and community engagement, allowing students to apply theoretical knowledge in real-world settings."
+  ],
+  "learningOutcomes": [
+    "Analyze complex social problems and develop effective solutions",
+    "Understand the historical and contemporary issues shaping public policy and social welfare",
+    "Apply research methods, statistical analysis, and data interpretation to inform decision-making",
+    "Communicate effectively with diverse stakeholders, including policymakers, community leaders, and the general public",
+    "Demonstrate an understanding of the social, economic, and political contexts that shape public policy and social programs",
+    "Evaluate the impact of policies and programs on diverse populations and communities"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Public Policy Minor",
+      "link": "https://luskin.ucla.edu/academics/minors/public-policy-minor"
+    },
+    {
+      "title": "Urban Planning Minor",
+      "link": "https://luskin.ucla.edu/academics/minors/urban-planning-minor"
+    },
+    {
+      "title": "Social Welfare Minor",
+      "link": "https://luskin.ucla.edu/academics/minors/social-welfare-minor"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=418",
+    "https://luskin.ucla.edu/academics/undergraduate/public-affairs-major",
+    "https://luskin.ucla.edu/academics/departments"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Public Affairs major is an interdisciplinary program housed in the Luskin School of Public Affairs. Students are encouraged to pursue internships, study abroad opportunities, and community engagement projects to complement their academic coursework."
+}

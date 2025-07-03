@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Linguistics and English (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Linguistics and English major is an interdisciplinary program that combines the study of linguistics and English literature. Students examine the structure and acquisition of language, the history and development of English, and the literary and cultural contexts of English-language texts.",
+  "shortProgramDescription": "The Linguistics and English major at UCLA explores the intersection of language and literature, preparing students for careers in fields such as education, writing, and cultural analysis.",
+  "classHighlights": [
+    "Linguistics Core Courses: Students take introductory courses in linguistics, phonetics, phonology, morphology, syntax, and semantics, providing a foundation in the scientific study of language.",
+    "English Literature Courses: Students engage with a range of English-language texts, exploring literary history, genre, and cultural context, as well as theoretical approaches to literary analysis.",
+    "Language Acquisition and Sociolinguistics: Courses examine language acquisition, language variation, and the social contexts of language use, highlighting the complex relationships between language, culture, and identity.",
+    "Research Methods and Applications: Students learn research methods in linguistics and English, applying theoretical knowledge to practical problems in fields such as language teaching, language documentation, and discourse analysis.",
+    "Electives and Specializations: The major offers a range of electives, allowing students to pursue specialized interests in areas such as linguistic theory, literary criticism, or the language of specific genres or media."
+  ],
+  "learningOutcomes": [
+    "Analyze the structure and acquisition of language using linguistic theories and methods.",
+    "Interpret and analyze English-language texts within their cultural and historical contexts.",
+    "Apply knowledge of linguistics and English to real-world problems and career paths.",
+    "Demonstrate understanding of the complex relationships between language, culture, and identity.",
+    "Use research methods and theoretical approaches to address questions in linguistics and English."
+  ],
+  "similarPrograms": [
+    {
+      "title": "English (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=220"
+    },
+    {
+      "title": "Linguistics (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=332"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=514",
+    "https://linguistics.ucla.edu",
+    "https://english.ucla.edu"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total: approximately 180 quarter units; Major: varies based on specific coursework and electives",
+  "additionalInformation": "Students must satisfy the College's residency and GPA requirements. Major preparation and declaration typically occur during the sophomore year."
+}

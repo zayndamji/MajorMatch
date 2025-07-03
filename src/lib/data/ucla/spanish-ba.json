@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Spanish (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Spanish major is designed to give students proficiency in the Spanish language and to introduce them to the cultures of the Spanish-speaking world. Students will be able to understand, speak, read, and write Spanish with increasing sophistication and will be acquainted with a wide range of literary and cultural texts, films, and other media.",
+  "shortProgramDescription": "The Spanish major at UCLA provides students with a deep understanding of the Spanish language and Hispanic cultures, preparing them for various careers or further study.",
+  "classHighlights": [
+    "Language courses: Students take a sequence of courses that develop their language skills, from lower-division courses that focus on grammar and vocabulary to upper-division courses that emphasize reading, writing, and conversation.",
+    "Literature and Culture courses: The major includes a range of courses that explore Hispanic literature and culture, from medieval to modern times, and cover various genres, such as poetry, narrative, and drama.",
+    "Advanced Language and Culture courses: Students take advanced courses that build on their language skills and cultural knowledge, exploring topics such as linguistics, cultural theory, and cultural production.",
+    "Electives: Students can choose from a variety of electives that allow them to explore specific interests, such as Latin American literature, Spanish film, or Hispanic cultural studies."
+  ],
+  "learningOutcomes": [
+    "Communicate effectively in Spanish in writing and speaking",
+    "Analyze and interpret Hispanic literary and cultural texts",
+    "Understand the cultural and historical contexts of the Spanish-speaking world",
+    "Demonstrate an awareness of the diversity of Hispanic cultures and experiences",
+    "Apply critical thinking and analytical skills to cultural and literary texts"
+  ],
+  "similarPrograms": [
+    {
+      "title": "French and Francophone Studies",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=884"
+    },
+    {
+      "title": "Italian",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=887"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=882",
+    "https://spanport.ucla.edu/undergraduate-spanish"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units",
+  "additionalInformation": "Students are encouraged to study abroad in a Spanish-speaking country and to participate in internships or volunteer work that involves Spanish language and culture."
+}

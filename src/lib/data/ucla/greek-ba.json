@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Greek (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Greek major is designed to acquaint students with the language, literature, and culture of ancient Greece. The program includes the study of Greek language, literature, and history, with a focus on the development of linguistic and critical thinking skills.",
+  "shortProgramDescription": "The Greek major provides a comprehensive understanding of ancient Greek language, literature, and culture, preparing students for careers in education, research, or related fields.",
+  "classHighlights": [
+    "Language courses: Students learn ancient Greek language through a sequence of courses that introduce and develop linguistic skills, covering grammar, syntax, and vocabulary.",
+    "Literary and cultural studies: Courses examine major works of Greek literature, exploring historical context, themes, and literary devices, and analyzing the cultural significance of these texts.",
+    "Historical and cultural context: Students gain a deeper understanding of the historical and cultural context of ancient Greece, including its politics, society, and philosophy."
+  ],
+  "learningOutcomes": [
+    "Read and analyze ancient Greek texts with comprehension",
+    "Understand the historical and cultural context of ancient Greece",
+    "Apply critical thinking and analytical skills to literary and cultural texts",
+    "Develop linguistic skills in ancient Greek",
+    "Demonstrate knowledge of major works and authors in Greek literature"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Classics",
+      "link": "https://classics.ucla.edu"
+    },
+    {
+      "title": "Classical Civilizations",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=409"
+    },
+    {
+      "title": "Latin",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=473"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=414",
+    "https://classics.ucla.edu/undergraduate/greek-major"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units, with at least 72 upper-division units",
+  "additionalInformation": "Students are encouraged to study abroad in Greece or participate in archaeological field schools to enhance their understanding of ancient Greek culture."
+}

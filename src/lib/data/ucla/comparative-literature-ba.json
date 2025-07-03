@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Comparative Literature (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Comparative Literature major is designed for students who wish to explore literature in a global context, examining the cultural, historical, and theoretical dimensions of literary works across different languages and cultures. The program allows students to engage with a broad range of texts, genres, and critical approaches, fostering a deep understanding of the complex relationships between literature and society.",
+  "shortProgramDescription": "The Comparative Literature B.A. at UCLA provides a comprehensive education in literary studies, preparing students for careers in fields such as academia, publishing, and cultural criticism.",
+  "classHighlights": [
+    "The Comparative Literature major at UCLA requires students to complete a series of core courses that introduce them to key concepts, theories, and methodologies in the field. These courses cover topics such as literary theory, cultural studies, and the history of literary criticism.",
+    "Students in the Comparative Literature major are also required to take a range of electives that allow them to explore specific areas of interest, such as literary genres, periods, and cultural contexts.",
+    "The major includes coursework in literary analysis, critical theory, and cultural studies, as well as the study of literature in translation and the cultural contexts of literary production.",
+    "Comparative Literature majors at UCLA are also encouraged to explore related fields such as language studies, cultural studies, and historical analysis, providing a rich and interdisciplinary education."
+  ],
+  "learningOutcomes": [
+    "Analyze literary texts in a nuanced and contextualized manner, taking into account cultural, historical, and theoretical dimensions.",
+    "Apply critical theories and methodologies to the study of literature, demonstrating an understanding of the complex relationships between literature and society.",
+    "Develop a deep understanding of the cultural and historical contexts of literary production, and be able to situate literary works within these contexts.",
+    "Cultivate effective writing and communication skills, demonstrating the ability to present complex ideas and arguments in a clear and persuasive manner."
+  ],
+  "similarPrograms": [
+    {
+      "title": "English (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=220"
+    },
+    {
+      "title": "French (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=270"
+    },
+    {
+      "title": "Spanish (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=480"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=192",
+    "https://complit.ucla.edu/undergraduate-program/"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are encouraged to pursue a minor or double major in a related field, and to take advantage of UCLA's study abroad programs to enhance their language skills and cultural knowledge."
+}

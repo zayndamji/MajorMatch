@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Computational Biology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Computational Biology major is an interdisciplinary program that provides students with a foundation in the principles of biology, computer science, and mathematics, and prepares them for careers in the rapidly growing field of computational biology. Students learn to apply computational techniques to analyze and model biological systems, and to develop new algorithms and tools for biological data analysis.",
+  "shortProgramDescription": "The Computational Biology major at UCLA provides students with a strong foundation in biology, computer science, and mathematics, and prepares them for careers in computational biology.",
+  "classHighlights": [
+    "The major requires a foundation in biology, including introductory biology, genetics, and biochemistry. Students learn about the principles of biology and the structure and function of living organisms.",
+    "Students also take a series of courses in computer science, including programming, data structures, and algorithms. They learn to apply computational techniques to analyze and model biological systems.",
+    "The major includes a strong mathematical component, with courses in calculus, linear algebra, and probability. Students learn to apply mathematical techniques to model and analyze biological systems.",
+    "In addition, students take courses in computational biology, including bioinformatics, computational genomics, and systems biology. They learn to develop and apply computational tools and techniques to analyze and model biological systems.",
+    "The major also includes electives in areas such as machine learning, data science, and biostatistics, allowing students to tailor their education to their interests and career goals."
+  ],
+  "learningOutcomes": [
+    "Apply computational techniques to analyze and model biological systems",
+    "Develop new algorithms and tools for biological data analysis",
+    "Understand the principles of biology and the structure and function of living organisms",
+    "Apply mathematical techniques to model and analyze biological systems",
+    "Communicate complex biological and computational concepts to both technical and non-technical audiences"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Computer Science Major",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=Computer-Science"
+    },
+    {
+      "title": "Biology Major",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=Biology"
+    },
+    {
+      "title": "Biomathematics Major",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=Biomathematics"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=208",
+    "https://www.lifesciences.ucla.edu/labs/computational-biology",
+    "https://samsha.ucla.edu/undergrad-majors/computational-biology-bs"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The major requires a strong foundation in biology, computer science, and mathematics. Students are encouraged to participate in research and internships to gain practical experience in computational biology."
+}

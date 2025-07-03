@@ -1,0 +1,48 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "European Language and Transcultural Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The European Language and Transcultural Studies (ELTS) major is an interdisciplinary program that combines the study of language, literature, and culture with a focus on the global and transcultural dimensions of European cultures. Students choose from six different tracks, each with a distinct language component (French, German, Italian, or Spanish) and explore the cultural, historical, and literary contexts of their chosen language. The program emphasizes critical thinking, cultural competence, and linguistic proficiency.",
+  "shortProgramDescription": "The ELTS major at UCLA combines language study with cultural and literary analysis, preparing students for global careers or further study.",
+  "classHighlights": [
+    "Language and Literature Courses: Students take advanced language courses and literature classes that explore the cultural and historical contexts of their chosen language, including authors, texts, and themes that shape European cultures.",
+    "Cultural Studies: Courses examine the cultural, social, and political contexts of European societies, focusing on issues like identity, power, and globalization.",
+    "Transcultural Perspectives: ELTS courses emphasize the global dimensions of European cultures, examining transcultural exchange, diasporic communities, and the intersections between European and non-European cultures.",
+    "Theoretical and Critical Approaches: Students engage with critical theories and methodologies that inform the study of language, literature, and culture, including postcolonial, feminist, and poststructuralist perspectives.",
+    "Electives and Tracks: The major offers six tracks (French, German, Italian, Spanish, and two comparative tracks) with tailored course sequences that allow students to deepen their knowledge in their chosen area."
+  ],
+  "learningOutcomes": [
+    "Demonstrate advanced proficiency in a European language (reading, writing, speaking).",
+    "Analyze literary and cultural texts within their historical and cultural contexts.",
+    "Apply critical theories and methodologies to the study of language, literature, and culture.",
+    "Understand the global and transcultural dimensions of European cultures.",
+    "Communicate effectively in written and oral forms about cultural and literary topics."
+  ],
+  "similarPrograms": [
+    {
+      "title": "French and Francophone Studies",
+      "link": "https://french.ucla.edu"
+    },
+    {
+      "title": "Germanic Languages",
+      "link": "https://www.german.ucla.edu"
+    },
+    {
+      "title": "Italian",
+      "link": "https://italian.ucla.edu"
+    },
+    {
+      "title": "Spanish and Portuguese",
+      "link": "https://spanishandportuguese.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://elts.ucla.edu/b-a-in-elts/",
+    "https://catalog.registrar.ucla.edu/",
+    "https://www.ucla.edu/admissions/undergraduate"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are encouraged to study abroad and participate in internships or research projects to enhance their language skills and cultural knowledge."
+}

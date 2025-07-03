@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Mathematics, Applied (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Applied Mathematics major at UCLA is designed to provide a broad background in mathematics and a deep understanding of one area of applied mathematics. The program requires a strong foundation in mathematics, including calculus, linear algebra, differential equations, and numerical analysis. Students also take courses in a specific area of application, such as physics, computer science, or economics. The program prepares students for careers in industry, government, or academia, as well as for graduate study.",
+  "shortProgramDescription": "The Applied Mathematics B.S. program at UCLA provides a broad foundation in mathematics and a deep understanding of one area of applied mathematics, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "Mathematical Foundations: Students complete a sequence of calculus courses (MATH 31A, 31B, 32A, 32B), Linear Algebra (MATH 33A), and Differential Equations (MATH 33B, 134), providing a strong foundation in mathematical principles.",
+    "Applied Mathematics Core: Required courses include Numerical Analysis (MATH 128A), Mathematical Modeling (MATH 131A), and Probability (MATH 170A, 170B), ensuring a deep understanding of applied mathematical techniques.",
+    "Specialized Electives: Students choose from a range of electives, including Computational Methods (MATH 128B, 128C), Mathematical Finance (MATH 171), and Optimization (MATH 173), allowing them to tailor their program to their interests and career goals.",
+    "Computational and Programming Skills: Students develop programming skills through courses like Scientific Computing (MATH 142), and Computational Methods, enabling them to apply mathematical techniques to real-world problems."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical principles to model and solve real-world problems.",
+    "Understand and use numerical and computational methods to analyze and solve mathematical models.",
+    "Communicate complex mathematical ideas clearly and effectively.",
+    "Demonstrate a deep understanding of one area of applied mathematics.",
+    "Work collaboratively and think creatively to solve problems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mathematics (B.S.)",
+      "link": "https://www.math.ucla.edu/undergrad/major"
+    },
+    {
+      "title": "Statistics (B.S.)",
+      "link": "https://www.stat.ucla.edu/undergrad/major"
+    },
+    {
+      "title": "Computational and Systems Biology (B.S.)",
+      "link": "https://www.cbs.ucla.edu/academics/undergraduate/csbr"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=072",
+    "https://www.math.ucla.edu/undergrad/major/applied",
+    "https://catalog.registrar.ucla.edu/",
+    "https://www.ucla.edu/admissions/undergraduate"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are advised to consult with a department advisor to plan their course sequence and electives. The program is designed to be flexible, allowing students to tailor their coursework to their interests and career goals."
+}

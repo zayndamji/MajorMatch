@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Global Jazz Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Bachelor of Arts in Global Jazz Studies is an interdisciplinary program that focuses on the study of jazz in a global context. Students explore the historical, cultural, and musical aspects of jazz, examining its development, evolution, and impact on society. The program is designed to foster musical, cultural, and critical thinking competencies, preparing students for careers in performance, education, composition, and arts administration.",
+  "shortProgramDescription": "The Global Jazz Studies B.A. provides students with a comprehensive understanding of jazz in a global context, preparing them for careers in music and related fields.",
+  "classHighlights": [
+    "Students engage in a comprehensive curriculum that includes courses in jazz history, theory, performance, and composition, providing a foundation in the musical and cultural aspects of jazz.",
+    "The program emphasizes the global nature of jazz, with courses that explore the development of jazz in different regions and cultures, as well as its intersection with other musical traditions.",
+    "Students participate in jazz ensembles and performance classes, developing their skills as musicians and improvisers.",
+    "The curriculum includes courses in musicology, ethnomusicology, and music theory, providing students with a nuanced understanding of jazz and its place in the broader musical landscape."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a comprehensive understanding of jazz history, theory, and performance practices.",
+    "Analyze and contextualize jazz within global cultural and historical frameworks.",
+    "Apply musical knowledge and skills in performance, composition, or other creative endeavors.",
+    "Critically evaluate the social, cultural, and economic contexts that shape jazz and its development.",
+    "Communicate effectively about jazz and its significance in written and oral forms."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Ethnomusicology",
+      "link": "https://www.ethnomusicology.ucla.edu"
+    },
+    {
+      "title": "Music",
+      "link": "https://music.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=419",
+    "https://www.ucla.edu/academics/majors/global-jazz-studies-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Global Jazz Studies program is housed within the Herb Alpert School of Music. Students are expected to have prior experience in jazz performance and/or theory. The program is designed to be completed in four years, with a total of 180 quarter units required for graduation."
+}

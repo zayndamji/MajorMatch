@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "European Languages and Transcultural Studies with German (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The European Languages and Transcultural Studies (ELTS) major with German is an interdisciplinary program that explores the cultural, literary, and linguistic dimensions of Europe, with a focus on the German-speaking world. Students examine the historical and contemporary cultural contexts that shape European identities, literary traditions, and artistic expressions. The program emphasizes the development of language proficiency in German, as well as critical thinking, analysis, and communication skills.",
+  "shortProgramDescription": "The ELTS major with German at UCLA fosters advanced language skills, cultural competence, and critical analysis of European cultural contexts through literature, history, and transcultural studies.",
+  "classHighlights": [
+    "Language and Culture Courses: Students take courses in German language and culture, including grammar, composition, and conversation, as well as cultural and literary studies. These courses develop language proficiency and provide a nuanced understanding of German-speaking cultures.",
+    "Literary and Cultural Studies: Courses cover a range of literary and cultural topics, including major authors, literary movements, and cultural trends. Students analyze and interpret literary and cultural texts, developing their critical thinking and writing skills.",
+    "Transcultural and Interdisciplinary Approaches: The program incorporates transcultural and interdisciplinary perspectives, examining the intersections and exchanges between European cultures and other global contexts. Students explore themes such as identity, migration, and cultural exchange, using a variety of disciplinary approaches."
+  ],
+  "learningOutcomes": [
+    "Demonstrate advanced proficiency in German language, including reading, writing, and speaking skills.",
+    "Analyze and interpret literary and cultural texts from the German-speaking world, demonstrating an understanding of cultural and historical contexts.",
+    "Apply critical thinking and theoretical frameworks to understand cultural and literary phenomena.",
+    "Communicate complex ideas and arguments effectively in written and oral forms.",
+    "Engage with diverse cultural perspectives and practices, demonstrating an awareness of transcultural and global contexts."
+  ],
+  "similarPrograms": [
+    {
+      "title": "German Studies Minor",
+      "link": "https://www.ucla.edu/academics/minors"
+    },
+    {
+      "title": "European Studies Minor",
+      "link": "https://www.ucla.edu/academics/minors"
+    },
+    {
+      "title": "Comparative Literature Major",
+      "link": "https://comparative-literature.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=439",
+    "https://www.ucla.edu/academics/majors",
+    "https://elts.ucla.edu"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are encouraged to study abroad in a German-speaking country and participate in internships or research projects related to their interests. The major prepares students for careers in fields such as education, international relations, cultural management, and more."
+}

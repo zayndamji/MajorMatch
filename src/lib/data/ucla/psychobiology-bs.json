@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Psychobiology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Psychobiology major is designed to provide students with a comprehensive understanding of the biological bases of behavior. The program emphasizes the application of scientific methods to the study of the nervous system and its role in behavior, cognition, and emotion. Students learn about the structure and function of the nervous system, behavioral neuroscience, and the methods used to study the brain and its relationship to behavior.",
+  "shortProgramDescription": "The Psychobiology B.S. at UCLA provides a rigorous education in the biological foundations of behavior, preparing students for careers in research, healthcare, and related fields.",
+  "classHighlights": [
+    "The Psychobiology major requires coursework in introductory psychology, statistics, and research methods, as well as core courses in biopsychology, neuroscience, and research methods.",
+    "Students take advanced courses in areas such as behavioral neuroscience, neuroanatomy, and neurophysiology, and have the opportunity to engage in research and laboratory work.",
+    "The major also includes electives in psychobiology and related fields, allowing students to tailor their education to their interests and career goals.",
+    "Courses in the major cover topics such as the structure and function of the nervous system, behavioral genetics, and the biological bases of behavior and cognition.",
+    "Students learn about the methods used to study the brain and its relationship to behavior, including techniques such as neuroimaging and electrophysiology."
+  ],
+  "learningOutcomes": [
+    "Understand the biological bases of behavior and the structure and function of the nervous system.",
+    "Apply scientific methods to the study of the brain and its relationship to behavior.",
+    "Analyze and interpret data related to behavioral neuroscience and psychobiology.",
+    "Communicate complex scientific information effectively in written and oral form.",
+    "Demonstrate knowledge of the methods used to study the brain and its relationship to behavior."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Psychology (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=790"
+    },
+    {
+      "title": "Neuroscience (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=457"
+    },
+    {
+      "title": "Cognitive Science (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=303"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=777",
+    "https://psych.ucla.edu/undergraduate/psychobiology"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "approx. 180 quarter units",
+  "additionalInformation": "Students must complete a series of required courses, including introductory psychology, statistics, and research methods, as well as core courses in biopsychology and neuroscience. The major also includes electives in psychobiology and related fields."
+}

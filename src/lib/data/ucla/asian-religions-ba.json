@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Asian Religions (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Asian Religions major is an interdisciplinary program that examines the religious traditions of Asia, including Hinduism, Buddhism, Jainism, Sikhism, and East Asian religions. The program provides a comprehensive understanding of the historical, cultural, and philosophical contexts of these traditions, as well as their contemporary practices and expressions. Students explore the complex relationships between Asian religions and various aspects of society, culture, and politics.",
+  "shortProgramDescription": "The Asian Religions major at UCLA provides a comprehensive understanding of the diverse religious traditions of Asia, preparing students for careers in fields such as academia, non-profit, and public service.",
+  "classHighlights": [
+    "Core Courses: The major requires foundational courses in Asian Religions, including introductory surveys and methodological approaches, which provide a broad understanding of the historical and cultural contexts of Asian religious traditions.",
+    "Elective Courses: Students choose from a range of electives that explore specific aspects of Asian Religions, such as Buddhist philosophy, Hindu devotional traditions, and East Asian religious practices, allowing them to tailor their coursework to their interests.",
+    "Thematic Courses: The program includes thematic courses that examine the intersections between Asian Religions and other fields, such as culture, politics, and society, providing a nuanced understanding of the complex relationships between religion and other aspects of human experience.",
+    "Language Courses: Students are encouraged to develop language skills relevant to the study of Asian Religions, such as Sanskrit, Pali, or Chinese, which enables them to engage with primary sources and conduct research in the field."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a comprehensive understanding of the major religious traditions of Asia, including their historical, cultural, and philosophical contexts.",
+    "Analyze the complex relationships between Asian Religions and various aspects of society, culture, and politics.",
+    "Apply methodological approaches and theoretical frameworks to the study of Asian Religions.",
+    "Develop critical thinking and writing skills in the study of Asian Religions.",
+    "Cultivate cultural competence and sensitivity in the study of diverse religious traditions."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Religion (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=474"
+    },
+    {
+      "title": "Asian Studies (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=300"
+    },
+    {
+      "title": "South Asian Studies Minor",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MIN&code=135"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=443",
+    "https://www.asian.ucla.edu/programs/asian-religions-major"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units, with a minimum of 36 units in upper-division coursework in the major",
+  "additionalInformation": "Students are encouraged to study abroad in programs that focus on Asian cultures and languages, and to engage in research and internship opportunities related to Asian Religions."
+}

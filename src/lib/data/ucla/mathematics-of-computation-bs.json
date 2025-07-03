@@ -1,0 +1,38 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Mathematics of Computation (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mathematics of Computation program is an interdisciplinary major that combines mathematics, computer science, and scientific computing. Students in this program gain a strong foundation in mathematical principles and computational techniques, preparing them for careers in fields such as scientific computing, data analysis, and mathematical modeling, or for graduate study in related fields.",
+  "shortProgramDescription": "The Mathematics of Computation B.S. at UCLA combines rigorous mathematical training with computational techniques, preparing students for careers or further study in scientific computing, data analysis, and related fields.",
+  "classHighlights": [
+    "The program requires a strong foundation in mathematics, including courses in calculus (MATH 31A, 31B), linear algebra (MATH 33A), differential equations (MATH 33B), and mathematical analysis (MATH 131A, 131B).",
+    "Students also take courses in computer science, including programming (CS 31, 32), data structures (CS 33), and algorithms (CS 111, MATH 170).",
+    "Additional coursework includes numerical analysis (MATH 170), computational mathematics (MATH 174), and mathematical modeling (MATH 176), providing students with a comprehensive understanding of computational techniques and mathematical principles."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical principles to model and analyze complex problems.",
+    "Use computational techniques to solve mathematical problems.",
+    "Understand the theoretical foundations of numerical analysis and computational mathematics.",
+    "Communicate mathematical and computational concepts effectively.",
+    "Analyze and interpret data using mathematical and statistical techniques."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mathematics (B.A./B.S.)",
+      "link": "https://ww2.math.ucla.edu/undergraduate-program/major-and-minor/"
+    },
+    {
+      "title": "Computer Science (B.S.)",
+      "link": "https://www.cs.ucla.edu/undergrad/major/"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=536",
+    "https://ww2.math.ucla.edu/undergraduate-program/major-and-minor/",
+    "https://catalog.registrar.ucla.edu/catalog/2023-24/ugrad/LETTERS-SCIENCES/math/Mathematics-of-Computation-BS"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of approximately 180 quarter units, with specific requirements for major and breadth courses",
+  "additionalInformation": "Students must fulfill the College of Letters and Science requirements in addition to the major requirements. Preparation for upper division courses is crucial, and advising is available through the department and the College."
+}

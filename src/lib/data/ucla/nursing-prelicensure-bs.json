@@ -1,0 +1,33 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Nursing - Prelicensure (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Nursing - Prelicensure (B.S.) program at UCLA's School of Nursing is designed to prepare students for a career in nursing. The program combines theoretical coursework with clinical training to provide students with a comprehensive understanding of nursing principles and practices.",
+  "shortProgramDescription": "UCLA's Nursing - Prelicensure (B.S.) program prepares students for a nursing career through a combination of theoretical and clinical training.",
+  "classHighlights": [
+    "The program includes foundational courses in sciences such as chemistry, physiology, and microbiology, which provide a basis for understanding human health and disease.",
+    "Nursing-specific courses cover topics such as nursing research, pathophysiology, and pharmacology, ensuring students have a solid grasp of nursing concepts and practices.",
+    "Clinical training is a significant component, allowing students to apply theoretical knowledge in real-world healthcare settings under the supervision of experienced nursing professionals."
+  ],
+  "learningOutcomes": [
+    "Apply nursing principles and practices to provide high-quality patient care.",
+    "Demonstrate understanding of the biological, social, and psychological factors that influence health and disease.",
+    "Use evidence-based research to inform nursing practice.",
+    "Communicate effectively with patients, families, and healthcare teams.",
+    "Exhibit professional behaviors and ethics in nursing practice."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Nursing Science (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=311"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=309",
+    "https://nursing.ucla.edu/admissions/apply/prelicensure-bsn/"
+  ],
+  "programDuration": "8 quarters (2.67 academic years, quarter system)",
+  "creditRequirements": "Minimum of 212 quarter units",
+  "additionalInformation": "Admission is competitive and requires prerequisite courses. Clinical placements are a crucial part of the program, providing hands-on experience in various healthcare settings."
+}

@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Communication (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Communication at UCLA offers a comprehensive program of study leading to the Bachelor of Arts degree in Communication. The undergraduate major is designed to provide a broad understanding of the field and in-depth training in research methods and theory. Students study a wide range of topics, including interpersonal communication, mass communication, organizational communication, and intercultural communication. The program prepares students for a variety of careers in fields such as media, public relations, and corporate communication, as well as for graduate study in communication.",
+  "shortProgramDescription": "The Communication B.A. at UCLA provides a broad understanding of the field and in-depth training in research methods and theory, preparing students for careers in media, public relations, corporate communication, and graduate study.",
+  "classHighlights": [
+    "The Communication department requires students to complete a series of core courses that introduce the fundamental theories and methods of the field, including Introduction to Communication, Research Methods in Communication, and Theories of Communication.",
+    "Students then choose from a range of elective courses that allow them to specialize in areas such as interpersonal communication, mass communication, organizational communication, and intercultural communication.",
+    "Courses in the department cover a range of topics, including communication and technology, health communication, and environmental communication, providing students with a nuanced understanding of the complex role of communication in contemporary society.",
+    "Students also have the opportunity to engage in research and hands-on learning through courses that emphasize applied skills and theoretical knowledge.",
+    "The department's curriculum is designed to provide students with a strong foundation in the principles of communication, as well as the skills and knowledge necessary to succeed in a rapidly changing field."
+  ],
+  "learningOutcomes": [
+    "Understand the major theories and research methods in the field of communication.",
+    "Apply communication theories and principles to real-world problems and contexts.",
+    "Analyze the role of communication in shaping individual, social, and cultural identities.",
+    "Develop effective communication skills, including written and oral communication.",
+    "Critically evaluate the impact of communication on individuals, organizations, and society.",
+    "Conduct research and analyze data to inform communication practice and theory."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Communication Studies Minor",
+      "link": "https://comm.ucla.edu/undergraduate/major-and-minor"
+    },
+    {
+      "title": "Digital Humanities",
+      "link": "https://dh.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=181",
+    "https://comm.ucla.edu/undergraduate/major-and-minor"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Communication major is a limited-enrollment major. Students must complete a series of preparation courses before applying to the major. The major requires a total of 180 quarter units, including major-specific courses and general education requirements."
+}

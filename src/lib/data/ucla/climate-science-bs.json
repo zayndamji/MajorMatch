@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Climate Science (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Climate Science major is an interdisciplinary program that provides students with a rigorous foundation in the scientific principles underlying climate change. The program covers the physical, biological, and chemical processes that govern the Earth's climate system, as well as the social and policy implications of climate change. Students in the program take courses in atmospheric and oceanic sciences, ecology, geology, and statistics, and have the opportunity to engage in research and experiential learning.",
+  "shortProgramDescription": "The Climate Science major at UCLA prepares students to understand and address the complex challenges posed by climate change.",
+  "classHighlights": [
+    "The program includes foundational courses in Atmospheric and Oceanic Sciences, such as Introduction to Climate Change (AOSC M102), Climate Modeling (AOSC M115), and Dynamics of the Atmosphere and Oceans (AOSC M124).",
+    "Students also take courses in Ecology, Evolution, and Marine Biology, including Ecology and Evolution (EEB M101) and Marine Biology (EEB M120).",
+    "The major requires coursework in Geology, including Introduction to Geology (GEOL M101) and Paleoclimatology (GEOL M150).",
+    "Statistical analysis is a critical component of climate science, and students take courses in Statistics, such as Statistical Methods in Climate Science (STAT M103).",
+    "Electives allow students to explore specialized topics, such as renewable energy, climate policy, and environmental justice."
+  ],
+  "learningOutcomes": [
+    "Understand the physical, biological, and chemical processes governing the Earth's climate system.",
+    "Analyze climate data and model outputs to understand climate variability and change.",
+    "Communicate climate science concepts and findings to diverse audiences.",
+    "Apply climate knowledge to real-world problems, including policy and decision-making.",
+    "Evaluate the social and policy implications of climate change."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Science (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=427"
+    },
+    {
+      "title": "Atmospheric and Oceanic Sciences (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=400"
+    },
+    {
+      "title": "Environmental Studies (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=428"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=414",
+    "https://catalog.ucla.edu/liberal-arts/subject-areas/atmospheric-oceanic-sciences",
+    "https://www.earth.ucla.edu"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Climate Science major is an interdisciplinary program that draws on coursework and research opportunities across multiple departments. Students are encouraged to engage in research, internships, and experiential learning to gain practical skills and apply climate science concepts to real-world problems."
+}

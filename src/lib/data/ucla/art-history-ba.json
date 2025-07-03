@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Art History (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Art History major is designed to introduce students to the global history of art from antiquity to the modern and contemporary eras. The program focuses on the historical development of art, architecture, and visual culture, examining the social, cultural, and historical contexts in which artworks were created. Students develop critical thinking, research, and writing skills through the study of diverse artistic traditions.",
+  "shortProgramDescription": "The Art History B.A. program at UCLA explores the history of art and visual culture across diverse cultures and historical periods, preparing students for careers in museums, galleries, and other cultural institutions.",
+  "classHighlights": [
+    "Art Historical Methods and Theories: Courses in this area introduce students to the methodologies and theoretical frameworks used in the study of art history, including critical analysis, historical contextualization, and visual literacy.",
+    "Historical Surveys: Survey courses cover the history of art from antiquity to the modern era, including European, Asian, African, and Latin American art, providing a broad understanding of artistic developments across cultures and periods.",
+    "Period and Geographic Specializations: Upper-division courses allow students to explore specific historical periods, geographic regions, or artistic traditions in greater depth, such as Renaissance art, modern art, or Asian art.",
+    "Research and Writing: Students develop research and writing skills through seminar papers and research projects, learning to analyze and interpret artworks within their historical contexts.",
+    "Thematic and Topical Courses: Courses examining themes such as gender, politics, or cultural exchange provide students with a nuanced understanding of the complex issues surrounding the creation and reception of art.",
+    "Studio and Curatorial Practices: Some courses offer hands-on experience in studio practices or curatorial work, giving students a deeper understanding of artistic production and the role of museums and galleries in the art world."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad knowledge of the history of art from diverse cultures and historical periods.",
+    "Analyze and interpret artworks within their historical and cultural contexts.",
+    "Apply critical thinking and research skills to the study of art history.",
+    "Develop effective writing and communication skills in the presentation of art historical research.",
+    "Understand the social, cultural, and historical factors influencing artistic production and reception."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Art (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=009"
+    },
+    {
+      "title": "Design Media Arts (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=135"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=093",
+    "https://arthistory.department.ucla.edu/undergraduate/art-history-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are advised to consult with departmental advisors to plan their course of study and ensure they meet the requirements for the major. Internship and study abroad opportunities are available."
+}

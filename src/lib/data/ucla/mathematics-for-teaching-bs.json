@@ -1,0 +1,37 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Mathematics for Teaching (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mathematics for Teaching program is designed for students who wish to teach mathematics at the secondary level. The program provides a strong foundation in mathematics, as well as preparation for the teacher credentialing process.",
+  "shortProgramDescription": "The Mathematics for Teaching B.S. at UCLA prepares students to teach secondary mathematics with a strong foundation in mathematical content and teaching methods.",
+  "classHighlights": [
+    "The program requires a series of mathematics courses, including calculus, linear algebra, differential equations, and abstract algebra, to build a strong foundation in mathematical content.",
+    "Students also take courses in mathematics education, including methods for teaching mathematics and classroom management.",
+    "The program includes a range of mathematics electives, such as number theory, geometry, and probability and statistics, to provide a broad understanding of mathematical concepts.",
+    "Additional coursework includes preparation for the teacher credentialing process, with an emphasis on teaching methods and classroom practice."
+  ],
+  "learningOutcomes": [
+    "Develop a deep understanding of mathematical concepts and principles.",
+    "Apply mathematical knowledge to teach secondary mathematics effectively.",
+    "Demonstrate an understanding of teaching methods and classroom management techniques.",
+    "Prepare for the teacher credentialing process."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mathematics (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=00F"
+    },
+    {
+      "title": "Mathematics/Applied Science (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=00H"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=00G",
+    "https://www.ucla.edu/academics/majors/mathematics-for-teaching"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "approx. 180 quarter units",
+  "additionalInformation": "Students in this program must also apply for the teacher credentialing program through the UCLA Graduate School of Education & Information Studies."
+}

@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Atmospheric and Oceanic Sciences/Mathematics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Atmospheric and Oceanic Sciences/Math B.S. is an interdisciplinary program offered in The College. It combines the study of atmospheric and oceanic sciences with a strong foundation in mathematics. The program is designed for students who wish to pursue a career in the atmospheric or oceanic sciences, or related fields.",
+  "shortProgramDescription": "The Atmospheric and Oceanic Sciences/Math B.S. program provides students with a comprehensive understanding of the Earth's atmosphere and oceans, as well as the mathematical skills needed to analyze and model complex environmental systems.",
+  "classHighlights": [
+    "Mathematics and Statistics: Students take a range of mathematics and statistics courses, including calculus, differential equations, and probability and statistics, which provide a strong foundation for understanding complex environmental systems.",
+    "Atmospheric and Oceanic Sciences: Courses in atmospheric and oceanic sciences cover topics such as climate dynamics, atmospheric physics, and oceanography, providing students with a comprehensive understanding of the Earth's atmosphere and oceans.",
+    "Computational Skills: Students learn computational skills, including programming languages and data analysis techniques, which are essential for analyzing and modeling complex environmental systems."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical and scientific principles to understand complex environmental systems.",
+    "Analyze and interpret data related to atmospheric and oceanic sciences.",
+    "Use computational skills to model and simulate environmental systems.",
+    "Communicate complex scientific information effectively.",
+    "Understand the underlying physical and mathematical principles that govern the Earth's atmosphere and oceans."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Atmospheric and Oceanic Sciences",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=54A"
+    },
+    {
+      "title": "Mathematics",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=70"
+    },
+    {
+      "title": "Environmental Science",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=59"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=54B",
+    "https://aos.ucla.edu/undergraduate-program"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete a range of required courses in atmospheric and oceanic sciences, mathematics, and statistics, as well as electives in related fields. The program is designed to prepare students for a range of careers in environmental science, research, and related fields."
+}

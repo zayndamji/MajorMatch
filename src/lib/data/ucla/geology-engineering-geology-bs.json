@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Geology/Engineering Geology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Geology/Engineering Geology program at UCLA provides students with a comprehensive understanding of the Earth's physical structure, composition, and processes. The program combines coursework in geology, mathematics, and physics to prepare students for careers in fields such as environmental consulting, natural resource management, and geotechnical engineering. Students learn about geological processes, including tectonics, geomorphology, and geophysics, and develop skills in data analysis, scientific writing, and critical thinking.",
+  "shortProgramDescription": "The Geology/Engineering Geology B.S. program at UCLA provides a foundation in geological principles and prepares students for careers in fields such as environmental consulting and geotechnical engineering.",
+  "classHighlights": [
+    "Geology core courses: Students take introductory courses in geology, including Earth System Science, Physical Geology, and Historical Geology, which provide a foundation in geological principles and processes.",
+    "Mathematics and physics: Students complete coursework in mathematics, including Calculus and Differential Equations, and physics, which provide a foundation for understanding geological processes and analyzing data.",
+    "Geology electives: Students choose from a range of electives in geology, including courses in structural geology, geomorphology, geophysics, and environmental geology, which allow them to explore their interests and develop specialized knowledge.",
+    "Field and laboratory courses: Students participate in field and laboratory courses, including Field Geology and Geologic Laboratory, which provide hands-on experience with geological data collection and analysis.",
+    "Upper division courses: Students take upper division courses in geology, including Geomechanics, Geophysics, and Engineering Geology, which build on foundational knowledge and develop advanced skills."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of geology, including the Earth's physical structure, composition, and processes.",
+    "Analyze and interpret geological data, including maps, cross-sections, and geophysical data.",
+    "Apply geological knowledge to real-world problems, including environmental consulting and geotechnical engineering.",
+    "Develop skills in scientific writing, critical thinking, and data analysis.",
+    "Communicate geological information effectively to technical and non-technical audiences."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Science",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=210"
+    },
+    {
+      "title": "Earth, Planetary, and Space Sciences",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=183"
+    },
+    {
+      "title": "Environmental Studies",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=212"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=398",
+    "https://eps.ucla.edu/undergraduate-programs/geology-engineering-geology-bs"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete a comprehensive examination in the major and a senior thesis or project. The program is designed to be completed in four years, with a typical course load of 12-16 units per quarter."
+}

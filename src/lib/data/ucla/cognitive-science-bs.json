@@ -1,0 +1,47 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Cognitive Science (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Cognitive Science major is designed to provide a broad understanding of the principles and mechanisms underlying human cognition, including perception, attention, memory, language, problem-solving, and decision-making. Students explore the complex interactions between the mind, brain, and behavior, drawing on theories and methods from psychology, neuroscience, computer science, linguistics, and philosophy. The program emphasizes the development of critical thinking, analytical skills, and the ability to design and conduct empirical research.",
+  "shortProgramDescription": "The Cognitive Science B.S. at UCLA provides a comprehensive foundation in the study of human cognition, integrating insights from multiple disciplines to understand mental processes and behavior.",
+  "classHighlights": [
+    "Core Courses: Students begin with foundational courses in Cognitive Science, including Introduction to Cognitive Science, Cognitive Neuroscience, and Research Methods, which provide a broad introduction to the field and its methodologies.",
+    "Cognitive Processes: Courses in this category explore specific aspects of cognition, such as perception, attention, memory, language processing, and decision-making, often incorporating experimental and computational approaches.",
+    "Neuroscience and Brain Function: Classes focus on the neural basis of cognition, covering topics such as brain anatomy, neurophysiology, and the neural mechanisms underlying various cognitive processes.",
+    "Computational Modeling: Students learn to apply computational models and simulations to understand complex cognitive phenomena, drawing on techniques from artificial intelligence and machine learning.",
+    "Linguistics and Philosophy: Courses examine the relationship between language, thought, and cognition, as well as philosophical issues relevant to the study of the mind and knowledge.",
+    "Research and Capstone Preparation: Advanced coursework emphasizes research design, data analysis, and the development of independent research projects, preparing students for original research or further study."
+  ],
+  "learningOutcomes": [
+    "Understand the core principles and theories of cognitive science.",
+    "Apply knowledge from psychology, neuroscience, computer science, and linguistics to understand human cognition.",
+    "Design and conduct empirical research using appropriate methodologies.",
+    "Analyze and interpret data related to cognitive processes.",
+    "Develop critical thinking and problem-solving skills.",
+    "Communicate complex ideas effectively in written and oral forms.",
+    "Evaluate the ethical implications of cognitive science research and applications."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Psychology",
+      "link": "https://psych.ucla.edu/undergraduate/psychology-major"
+    },
+    {
+      "title": "Neuroscience",
+      "link": "https://neuroscience.ucla.edu/undergraduate-program"
+    },
+    {
+      "title": "Linguistics",
+      "link": "https://linguistics.ucla.edu/undergraduate/linguistics-major"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=179",
+    "https://cognitivescience.ucla.edu/undergraduate-program",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23?sections=cognitivesciencebs"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "180 quarter units (semester system, with some courses being 4 units and others 5 units)",
+  "additionalInformation": "The Cognitive Science major requires a strong foundation in the sciences and mathematics. Students are encouraged to engage in research projects and internships to gain practical experience. The major prepares students for a range of careers, from research and academia to industry and healthcare, as well as for further study in graduate programs."
+}

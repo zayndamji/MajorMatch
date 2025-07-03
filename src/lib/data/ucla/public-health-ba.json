@@ -1,0 +1,39 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Public Health (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Public Health major provides foundational training in the assessment, policy development, and assurance of public health, introducing core concepts in epidemiology, health policy, environmental health, and health behavior. The program is designed to prepare students for a wide range of careers or graduate studies in public health, healthcare administration, and related fields.",
+  "shortProgramDescription": "The UCLA Public Health B.A. provides a comprehensive education in public health principles, preparing students for careers or further study in the field.",
+  "classHighlights": [
+    "The introductory courses cover the basics of public health, including an introduction to the field and the core methods and principles that underlie public health practice.",
+    "Epidemiology and Biostatistics courses teach students to evaluate health data and apply statistical techniques to understand health trends and disease patterns.",
+    "Courses in Health Policy and Management introduce students to the organization, financing, and delivery of healthcare, and the ways in which health policy is developed and implemented.",
+    "Environmental Health and Health Behavior courses provide a foundation in the environmental and behavioral factors that affect health outcomes, and strategies to promote healthy behaviors and mitigate environmental hazards.",
+    "Additional electives allow students to explore specialized areas of public health, such as global health, health equity, and health promotion."
+  ],
+  "learningOutcomes": [
+    "Understand the core concepts and principles of public health.",
+    "Apply epidemiologic and biostatistical methods to analyze health data.",
+    "Evaluate health policies and programs.",
+    "Recognize the impact of environmental and behavioral factors on health.",
+    "Develop skills to promote health and prevent disease."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Public Health Minor",
+      "link": "https://ph.ucla.edu/academics/minor"
+    },
+    {
+      "title": "Global Health Minor",
+      "link": "https://globalhealth.ucla.edu/academics/minor"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=457",
+    "https://ph.ucla.edu/academics/undergraduate"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Public Health major is administered by the Fielding School of Public Health. Students are advised to consult with departmental advisors for specific course requirements and electives."
+}

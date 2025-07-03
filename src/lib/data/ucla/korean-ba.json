@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Korean (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Korean major is designed to provide students with advanced proficiency in the Korean language and a critical understanding of Korean culture and society. The program includes coursework in Korean language, literature, and culture, as well as electives that allow students to explore their interests in areas such as linguistics, history, and cultural studies.",
+  "shortProgramDescription": "The Korean B.A. program at UCLA develops advanced language skills and a nuanced understanding of Korean culture, preparing students for careers or further study.",
+  "classHighlights": [
+    "Language Courses: Students take a sequence of courses in Korean language, including reading and writing, to develop advanced proficiency.",
+    "Literature and Culture Courses: Students engage with Korean literature and culture through courses that explore the historical and cultural contexts of literary works.",
+    "Electives: Students choose from a range of electives that allow them to explore their interests in areas such as linguistics, history, and cultural studies.",
+    "Advanced Courses: Students take advanced courses in Korean language and culture, including courses that focus on specific topics such as Korean cinema or Korean diaspora literature."
+  ],
+  "learningOutcomes": [
+    "Develop advanced proficiency in the Korean language",
+    "Understand the cultural and historical contexts of Korean literature and culture",
+    "Analyze and interpret Korean literary and cultural texts",
+    "Apply knowledge of Korean language and culture to a range of contexts, including academic, professional, and personal pursuits"
+  ],
+  "similarPrograms": [
+    {
+      "title": "East Asian Languages and Cultures (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=817"
+    },
+    {
+      "title": "East Asian Studies Minor",
+      "link": "https://www.ealc.ucla.edu/undergraduate/minor"
+    },
+    {
+      "title": "Asian American Studies (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=803"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=818",
+    "https://www.ealc.ucla.edu/undergraduate/korean",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23/ugrad/departments/ealc.html"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units, including major requirements and electives",
+  "additionalInformation": "Students are encouraged to study abroad in Korea to enhance their language skills and cultural understanding. The major is designed to be flexible, allowing students to pursue their interests and career goals."
+}

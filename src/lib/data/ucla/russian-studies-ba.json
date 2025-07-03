@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Russian Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Russian Studies major at UCLA is an interdisciplinary program that focuses on the language, literature, history, and culture of Russia and other Slavic countries. Students gain a deep understanding of the region through coursework in Russian language, literature, and culture, as well as related fields such as history, politics, and sociology. The program prepares students for careers in fields such as diplomacy, education, journalism, and cultural management, or for further study in graduate school.",
+  "shortProgramDescription": "The Russian Studies major at UCLA provides students with a comprehensive understanding of Russian language, literature, and culture, preparing them for careers in a range of fields or further study.",
+  "classHighlights": [
+    "Language Courses: Students take a sequence of Russian language courses (Russian 1A, 1B, 1C, and beyond) to develop proficiency in reading, writing, and speaking.",
+    "Literature and Culture Courses: Students explore Russian literature and culture through courses such as Introduction to Russian Literature, Russian Folklore, and Russian Culture and Society.",
+    "History and Politics Courses: Students examine the history and politics of Russia and other Slavic countries through courses such as History of Russia and East European Politics.",
+    "Electives and Specialized Courses: Students choose from a range of electives and specialized courses that allow them to focus on areas such as Russian literature, history, or culture, or to explore related fields such as linguistics or international relations."
+  ],
+  "learningOutcomes": [
+    "Demonstrate proficiency in the Russian language, including reading, writing, and speaking skills.",
+    "Understand the literature, history, and culture of Russia and other Slavic countries.",
+    "Analyze and interpret complex cultural and historical texts and phenomena.",
+    "Apply knowledge of Russian language and culture to a range of contexts, including academic, professional, and personal settings."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Slavic Languages and Literatures",
+      "link": "https://slavic.ucla.edu"
+    },
+    {
+      "title": "European Studies",
+      "link": "https://international.ucla.edu/europe"
+    },
+    {
+      "title": "Comparative Literature",
+      "link": "https://comparative-literature.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=824",
+    "https://slavic.ucla.edu/academics/russian-studies-major",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23?view=full&anchor=SLAVIC%252C%2520DEPARTMENT%2520OF%2520%2540%255B16750%255D#SLAVIC%2C%20DEPARTMENT%20OF%20%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27%27"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units, including major requirements and electives",
+  "additionalInformation": "Students are encouraged to study abroad in Russia or other Slavic countries to enhance their language skills and cultural knowledge. Internship and research opportunities are also available."
+}

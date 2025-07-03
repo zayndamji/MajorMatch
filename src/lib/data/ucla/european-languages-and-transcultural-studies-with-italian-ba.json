@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "European Languages and Transcultural Studies with Italian (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The European Languages and Transcultural Studies (ELTS) major with Italian is an interdisciplinary program that explores the cultures, literatures, and histories of Europe through the lens of the Italian language. Students examine the cultural production of Italy and its global connections, developing a nuanced understanding of the complex transcultural dynamics at play. The program fosters critical thinking, close reading, and effective writing skills, preparing students for a range of careers in fields such as education, law, government, and the arts.",
+  "shortProgramDescription": "The ELTS major with Italian at UCLA is an interdisciplinary program that explores Italian culture, literature, and history within a global context, fostering critical thinking and effective writing skills.",
+  "classHighlights": [
+    "Language and Culture: Students develop proficiency in Italian language through coursework that emphasizes linguistic structures, cultural nuances, and historical contexts. Courses cover a range of topics, from medieval to modern Italian literature and culture.",
+    "Literary and Cultural Studies: The program includes a variety of courses that examine Italian literature, cinema, and cultural production within a transcultural framework. Students engage with texts and media that reflect the complex interactions between Italy and other cultures, developing a nuanced understanding of the cultural dynamics at play.",
+    "Theoretical and Critical Approaches: Students are introduced to various theoretical and critical approaches to the study of culture and literature, including postcolonial, feminist, and cultural studies perspectives. These approaches enable students to analyze and interpret cultural texts and practices within their broader social and historical contexts."
+  ],
+  "learningOutcomes": [
+    "Demonstrate advanced proficiency in Italian language, including reading, writing, and speaking skills.",
+    "Analyze and interpret Italian literary and cultural texts within their historical and cultural contexts.",
+    "Apply theoretical and critical approaches to the study of culture and literature, demonstrating an understanding of the complex transcultural dynamics at play.",
+    "Develop effective writing and communication skills, including the ability to articulate complex ideas and arguments in a clear and concise manner.",
+    "Cultivate critical thinking and problem-solving skills through the examination of complex cultural and literary phenomena."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Italian Studies Minor",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=445"
+    },
+    {
+      "title": "French and Francophone Studies",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=442"
+    },
+    {
+      "title": "Germanic Languages",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=443"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=440",
+    "https://www.ucla.edu/academics/majors"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The ELTS major with Italian requires a minimum of 12 upper-division courses, including a minimum of 5 courses in Italian language and literature. Students must also complete a senior seminar or capstone course, although specific requirements may vary."
+}

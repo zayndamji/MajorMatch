@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Data Theory (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Data Theory Major is an interdisciplinary program that provides students with a comprehensive understanding of data science, statistical analysis, and data-driven decision-making. The major focuses on the development of theoretical foundations, computational methods, and practical applications of data science. Students learn to collect, analyze, and interpret complex data, and to communicate their findings effectively.",
+  "shortProgramDescription": "The Data Theory B.S. program at UCLA provides a rigorous education in data science, combining theoretical foundations with practical applications.",
+  "classHighlights": [
+    "The major requires coursework in probability and statistics, including Introduction to Probability and Statistics (Stats 10), Mathematical Statistics (Stats 100A), and Statistical Methods for Data Science (Stats 102C).",
+    "Students take courses in data manipulation and analysis, such as Introduction to Computing for Data Science (Stats 20), Data Science (CS 35L), and Machine Learning (CS 181).",
+    "The program includes coursework in mathematical and computational methods, including Linear Algebra (Math 115A), Differential Equations (Math 131A), and Algorithms (CS 161).",
+    "Students learn to apply data science concepts to real-world problems through courses like Data Science for Social Good (Stats 192G) and Statistical Consulting (Stats 195).",
+    "The major also requires coursework in a chosen domain area, such as economics, sociology, or environmental science, to provide context for data analysis."
+  ],
+  "learningOutcomes": [
+    "Understand the theoretical foundations of data science, including probability, statistics, and machine learning.",
+    "Apply computational methods to collect, analyze, and interpret complex data.",
+    "Communicate data insights effectively to both technical and non-technical audiences.",
+    "Use data science to solve real-world problems in a chosen domain area.",
+    "Understand the ethical implications of data science and data-driven decision-making."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Statistics (B.S.)",
+      "link": "https://stats.ucla.edu/undergrad/majors/statistics-bs/"
+    },
+    {
+      "title": "Computer Science (B.S.)",
+      "link": "https://cs.ucla.edu/undergraduate/cs-bs"
+    },
+    {
+      "title": "Mathematics of Computation (B.S.)",
+      "link": "https://www.math.ucla.edu/~mocomp/"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=423",
+    "https://stats.ucla.edu/undergrad/majors/data-theory-bs/",
+    "https://catalog.registrar.ucla.edu/catalog/2023-24/programs/statistics-data-theory-bs"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Data Theory major is an interdisciplinary program that requires a strong foundation in mathematics and computer science. Students are encouraged to explore domain areas that align with their interests and career goals."
+}

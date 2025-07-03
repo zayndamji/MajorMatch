@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Mechanical Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mechanical Engineering program at UCLA provides a comprehensive education in the principles of mechanical engineering, including the design, analysis, and manufacturing of mechanical systems. The program emphasizes the development of problem-solving skills, creativity, and communication, preparing students for a wide range of careers in industry, government, and academia.",
+  "shortProgramDescription": "The Mechanical Engineering B.S. program at UCLA provides a rigorous foundation in mechanical engineering principles, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The program begins with foundational courses in mathematics and physics, including Calculus, Differential Equations, and Physics for Engineers. These courses provide a solid base for understanding mechanical systems and principles.",
+    "Students then progress to core mechanical engineering courses, including Mechanics of Solids and Fluids, Thermodynamics, Heat Transfer, and Mechanical Design. These courses cover fundamental concepts and principles in mechanical engineering.",
+    "In addition to core courses, students take classes in mechanical engineering laboratories, where they gain hands-on experience with experimental techniques and data analysis.",
+    "The program also includes a range of technical electives, allowing students to explore specialized areas such as aerospace engineering, biomechanical engineering, or energy systems.",
+    "Throughout the program, students develop skills in computational tools, including programming languages and software packages commonly used in mechanical engineering.",
+    "The curriculum emphasizes the integration of theoretical knowledge with practical skills, preparing students for real-world applications in mechanical engineering."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of mechanical engineering to analyze and design mechanical systems.",
+    "Demonstrate understanding of mathematical and scientific principles underlying mechanical engineering.",
+    "Use computational tools and experimental techniques to solve mechanical engineering problems.",
+    "Communicate technical information effectively through written and oral presentations.",
+    "Work effectively in teams to design and develop mechanical systems.",
+    "Understand the social and environmental implications of mechanical engineering practice."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Aerospace Engineering (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=320"
+    },
+    {
+      "title": "Civil Engineering (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=310"
+    },
+    {
+      "title": "Materials Science and Engineering (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=340"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=330",
+    "https://www.ucla.edu/academics/majors/mechanical-engineering-bs",
+    "https://samueli.ucla.edu/departments/mechanical-and-aerospace-engineering/"
+  ],
+  "programDuration": "8 quarters (4 academic years, quarter system)",
+  "creditRequirements": "212-217 total units",
+  "additionalInformation": "Students must complete a set of required courses in mechanical engineering, mathematics, and physics, as well as a range of technical electives. The program is accredited by the Engineering Accreditation Commission of ABET."
+}

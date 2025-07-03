@@ -1,0 +1,45 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Chemistry/Materials Science (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Chemistry/Materials Science major is an interdisciplinary program that combines coursework in chemistry, materials science, and related fields to provide a foundation for understanding the properties and applications of various materials. The program is designed for students who are interested in pursuing careers in materials science, nanotechnology, or related fields, or who plan to attend graduate school in these areas.",
+  "shortProgramDescription": "The Chemistry/Materials Science B.S. provides a comprehensive education in the principles of materials science and chemistry, preparing students for careers or further study.",
+  "classHighlights": [
+    "The program includes foundational courses in chemistry, such as General Chemistry (Chemistry 14A, 14B, 14C, 14D), Organic Chemistry (Chemistry 14C, 14D), and Physical Chemistry (Chemistry 113A, 113B). These courses provide a strong background in the principles of chemistry and its applications.",
+    "Materials science courses include Introduction to Materials Science (Engineering 45), Materials Characterization (Engineering 45L), and Materials Science Laboratory (Chemistry 156). These courses cover the properties, synthesis, and characterization of various materials, including metals, ceramics, polymers, and nanomaterials.",
+    "Additional coursework includes classes in physics, mathematics, and engineering, such as Physics 5A, 5B, 5C, and Mathematics 31A, 31B, 32A, 32B. These courses provide a foundation in the principles of physics and mathematics and their application to materials science and engineering.",
+    "Upper-division coursework includes classes in advanced materials science and chemistry, such as Nanoscience and Nanotechnology (Chemistry 156), Materials Science and Engineering (Engineering 141), and Chemistry of Materials (Chemistry 171). These courses cover the latest developments in materials science and its applications.",
+    "The program also includes laboratory coursework, such as Materials Science Laboratory (Chemistry 156) and Advanced Laboratory (Chemistry 144), which provide hands-on experience with materials synthesis, characterization, and analysis."
+  ],
+  "learningOutcomes": [
+    "Apply the principles of chemistry and materials science to understand the properties and applications of various materials.",
+    "Design and synthesize materials with specific properties for various applications.",
+    "Characterize and analyze materials using various techniques, such as spectroscopy and microscopy.",
+    "Understand the relationships between the structure, properties, and performance of materials.",
+    "Apply mathematical and computational models to understand and predict materials behavior.",
+    "Communicate scientific information effectively in written and oral forms."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Chemistry (B.S.)",
+      "link": "https://www.chemistry.ucla.edu/undergraduate-program"
+    },
+    {
+      "title": "Materials Science and Engineering (B.S.)",
+      "link": "https://www.seas.ucla.edu/departments/ms"
+    },
+    {
+      "title": "Chemical Engineering (B.S.)",
+      "link": "https://www.seas.ucla.edu/departments/chen"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=155",
+    "https://www.chemistry.ucla.edu/undergraduate-program",
+    "https://www.seas.ucla.edu/departments/ms"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The program is designed for students who are interested in pursuing careers in materials science, nanotechnology, or related fields, or who plan to attend graduate school in these areas. Students are advised to consult with the program advisors to ensure that they meet the program requirements."
+}

@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "European Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The European Studies major is an interdisciplinary program that focuses on the cultures, societies, and histories of Europe. The program allows students to explore various aspects of European civilization, from its languages and literatures to its politics, economics, and social structures. Students can choose from a range of courses across different departments, enabling them to tailor their degree to their interests.",
+  "shortProgramDescription": "The European Studies major at UCLA provides an interdisciplinary exploration of European cultures, societies, and histories, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The European Studies major requires students to complete a series of core courses and electives that span the humanities and social sciences. Students engage with the historical, cultural, and political contexts of Europe, examining its development from the medieval period to the present day.",
+    "Courses in the program include language and literature classes, as well as studies in history, art history, and social sciences, providing a comprehensive understanding of European civilization.",
+    "Students can choose from a variety of electives that allow them to focus on specific aspects of European Studies, such as the politics of the European Union, the cultural heritage of Europe, or the impact of globalization on European societies."
+  ],
+  "learningOutcomes": [
+    "Understand the historical, cultural, and political contexts that have shaped Europe.",
+    "Analyze the development of European civilization from the medieval period to the present.",
+    "Examine the social, economic, and political structures of Europe.",
+    "Apply interdisciplinary approaches to the study of European cultures and societies.",
+    "Communicate complex ideas about European Studies effectively in written and oral form."
+  ],
+  "similarPrograms": [
+    {
+      "title": "European Studies Minor",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MIN&code=762"
+    },
+    {
+      "title": "International Studies Major",
+      "link": "https://www.iis.ucla.edu/programs/major"
+    },
+    {
+      "title": "History Major",
+      "link": "https://history.ucla.edu/undergraduate/history-ba"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=762",
+    "https://www.ucla.edu/academics/majors/european-studies-ba"
+  ],
+  "programDuration": "4 years (quarter system, typically 12 quarters)",
+  "creditRequirements": "180 quarter units (total), with specific requirements for the major",
+  "additionalInformation": "Students are advised to consult with the program advisor to plan their course of study. The major is designed to be flexible, allowing students to pursue their interests within the field of European Studies."
+}

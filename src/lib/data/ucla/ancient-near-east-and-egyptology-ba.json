@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Ancient Near East and Egyptology (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Ancient Near East and Egyptology major provides students with a comprehensive understanding of the cultures, languages, and histories of the ancient civilizations of the Near East and Egypt. The program includes coursework in languages such as Akkadian, Sumerian, and Egyptian, as well as courses on the history, culture, and archaeology of these regions. Students develop skills in critical thinking, analysis, and written and oral communication.",
+  "shortProgramDescription": "The Ancient Near East and Egyptology major at UCLA explores the languages, cultures, and histories of ancient Near Eastern and Egyptian civilizations, preparing students for careers in academia, research, and cultural institutions.",
+  "classHighlights": [
+    "Language Courses: Students take courses in languages such as Akkadian, Sumerian, and Egyptian, developing their understanding of the linguistic and cultural heritage of the ancient Near East and Egypt.",
+    "Historical and Cultural Context: Courses on the history, culture, and archaeology of the ancient Near East and Egypt provide students with a nuanced understanding of the complex cultural dynamics of these regions.",
+    "Methodology and Theory: Students learn about the methodologies and theories used in the study of ancient Near Eastern and Egyptian cultures, including archaeological methods, textual analysis, and historical interpretation.",
+    "Electives and Specializations: Students can choose from a range of electives to specialize in areas such as ancient Near Eastern literature, Egyptian art and architecture, or the archaeology of the Near East."
+  ],
+  "learningOutcomes": [
+    "Read and analyze texts in ancient languages such as Akkadian, Sumerian, and Egyptian.",
+    "Understand the historical and cultural contexts of the ancient Near East and Egypt.",
+    "Apply critical thinking and analytical skills to the study of ancient cultures.",
+    "Communicate complex ideas and research findings effectively in written and oral form.",
+    "Develop a nuanced understanding of the cultural and historical significance of the ancient Near East and Egypt."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Near Eastern Languages and Cultures",
+      "link": "https://nelc.ucla.edu"
+    },
+    {
+      "title": "Classics",
+      "link": "https://classics.ucla.edu"
+    },
+    {
+      "title": "History",
+      "link": "https://history.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=41",
+    "https://ane.ucla.edu/undergraduate-program/",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23/ugrad/letters-science/ancient-near-east-egyptology"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are advised to consult with the department advisor to plan their course sequence and ensure they meet the major requirements. The major is designed to be completed within four years, assuming a normal course load each quarter."
+}

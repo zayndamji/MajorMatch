@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Architectural Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Architectural Studies major is designed for students who wish to pursue a course of study in preparation for the Master of Architecture (M.Arch.) professional degree program or a related graduate program, or who are interested in a career in the architectural field. The program provides a comprehensive education in the history, theory, and practice of architecture, as well as a foundation in the liberal arts.",
+  "shortProgramDescription": "The Architectural Studies major provides a comprehensive education in the history, theory, and practice of architecture, preparing students for graduate study or a career in the architectural field.",
+  "classHighlights": [
+    "The program includes foundational courses in architectural history, theory, and design, such as Architecture 1A: Introduction to Architectural Design and Architecture 1B: Architectural Design and Culture.",
+    "Students take a range of courses that cover the history of architecture, including Architecture 181A: History of Architecture: Ancient Through Medieval and Architecture 181B: History of Architecture: Renaissance to Modern.",
+    "The curriculum also includes courses in architectural technology and practice, such as Architecture 20: Introduction to Architectural Technology and Architecture 21: Building Systems.",
+    "Students can choose from a variety of electives that allow them to explore specific interests, such as sustainable design, urbanism, and architectural representation.",
+    "The program emphasizes the development of critical thinking, writing, and visual communication skills through courses such as Architecture 100: Critical Thinking in Architecture and Architecture 102: Writing About Architecture.",
+    "Students are also encouraged to engage with the architectural community through internships, study abroad programs, and other experiential learning opportunities."
+  ],
+  "learningOutcomes": [
+    "Understand the history and theory of architecture and its relationship to culture and society.",
+    "Develop skills in architectural design, representation, and communication.",
+    "Apply knowledge of architectural technology and building systems.",
+    "Analyze and critique architectural works and practices.",
+    "Cultivate critical thinking, writing, and visual communication skills.",
+    "Prepare for graduate study in architecture or a related field."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Urban Planning Minor",
+      "link": "https://luskin.ucla.edu/undergraduate/urban-planning-minor"
+    },
+    {
+      "title": "Design | Media Arts Major",
+      "link": "https://dma.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=308",
+    "https://www.architecture.ucla.edu/programs/undergraduate/architectural-studies-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are advised to consult with the departmental advisor to plan their course of study and to ensure they meet the requirements for the major."
+}

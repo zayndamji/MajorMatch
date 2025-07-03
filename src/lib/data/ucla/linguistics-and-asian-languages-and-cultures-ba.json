@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Linguistics and Asian Languages and Cultures (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Linguistics and Asian Languages and Cultures major is an interdisciplinary program that combines the study of linguistics with the study of Asian languages and cultures. Students in this major gain a deep understanding of the linguistic structures, cultural contexts, and historical developments of Asian languages, as well as the theoretical foundations of linguistics. The program prepares students for careers in fields such as language teaching, cultural consulting, international business, and diplomacy, as well as for graduate study in linguistics, Asian studies, or related fields.",
+  "shortProgramDescription": "The Linguistics and Asian Languages and Cultures major provides students with a comprehensive understanding of Asian languages and cultures, as well as the principles of linguistics.",
+  "classHighlights": [
+    "Students take foundational courses in linguistics, including Introduction to Linguistics, Phonetics and Phonology, Morphology and Syntax, and Semantics and Pragmatics.",
+    "Courses in Asian languages and cultures cover the history, literature, and cultural practices of countries such as China, Japan, and Korea.",
+    "Students learn about linguistic structures, language acquisition, and language teaching methodologies.",
+    "The major includes coursework on the cultural and historical contexts of Asian languages, including literature, art, and history.",
+    "Electives allow students to explore specialized topics, such as language contact, language change, and linguistic analysis of Asian languages."
+  ],
+  "learningOutcomes": [
+    "Analyze and describe the linguistic structures of Asian languages.",
+    "Understand the cultural and historical contexts of Asian languages and cultures.",
+    "Apply linguistic theories and methodologies to the study of Asian languages.",
+    "Communicate effectively in an Asian language.",
+    "Evaluate the cultural significance of linguistic and cultural practices in Asian societies."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Linguistics Major",
+      "link": "https://linguistics.ucla.edu"
+    },
+    {
+      "title": "Asian Languages and Cultures Major",
+      "link": "https://asian.ucla.edu"
+    },
+    {
+      "title": "East Asian Languages and Cultures Major",
+      "link": "https://ealc.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=52A",
+    "https://linguistics.ucla.edu",
+    "https://asian.ucla.edu"
+  ],
+  "programDuration": "8 semesters (4 academic years, semester system)",
+  "creditRequirements": "180 quarter units (semester system)",
+  "additionalInformation": "Students must complete the required coursework in linguistics and Asian languages and cultures, as well as any additional major requirements. Study abroad opportunities are available."
+}

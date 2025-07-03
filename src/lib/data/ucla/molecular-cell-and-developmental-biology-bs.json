@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Molecular, Cell, and Developmental Biology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Molecular, Cell, and Developmental Biology major is designed to provide students with a broad understanding of the fundamental principles governing the behavior of cells and organisms. The program encompasses a range of disciplines, including molecular biology, genetics, biochemistry, and developmental biology. Students gain a solid foundation in the biological sciences, with an emphasis on the molecular and cellular mechanisms underlying development and disease.",
+  "shortProgramDescription": "The Molecular, Cell, and Developmental Biology major at UCLA provides a comprehensive education in the biological sciences, focusing on the molecular and cellular mechanisms that underlie development and disease.",
+  "classHighlights": [
+    "The program includes foundational courses in biology, chemistry, and physics, including Life Sciences 1, 2, 3, and 4, Chemistry 14A, 14B, 14C, 14D, and Physics 1A, 1B, 1C, and 4AL, 4BL.",
+    "Students take core courses in molecular and cellular biology, including Molecular, Cell, and Developmental Biology 101, 102, 116, and 138.",
+    "Upper division courses cover a range of topics, including genetics (MCDB 104), biochemistry (Chem 153A, 153B), and developmental biology (MCDB 138, 165A, 165B).",
+    "Electives allow students to explore specialized areas, such as stem cell biology, neurobiology, and cancer biology."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of molecular, cellular, and developmental biology.",
+    "Analyze and apply knowledge of biological processes at the molecular and cellular level.",
+    "Demonstrate an understanding of the experimental approaches used to study biological systems.",
+    "Communicate complex biological concepts effectively in written and oral form.",
+    "Evaluate the relevance of biological knowledge to societal issues and problems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Biology (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=604"
+    },
+    {
+      "title": "Microbiology, Immunology, and Molecular Genetics (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=648"
+    },
+    {
+      "title": "Physiological Science (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=668"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=644",
+    "https://www.ucla.edu/academics/majors/molecular-cell-and-developmental-biology-bs"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The major requires a minimum of 180 quarter units, including preparation for the major, core courses, and upper division electives. Students must also complete the University's general education requirements."
+}

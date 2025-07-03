@@ -1,0 +1,37 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Labor Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Labor Studies major is an interdisciplinary program that examines the role of labor and workers in society. The major explores the history, politics, and culture of work and labor movements, and prepares students for careers in labor organizations, government, and other fields. Students take courses in labor studies, sociology, history, and other departments, and complete a capstone research project.",
+  "shortProgramDescription": "The Labor Studies major examines the role of labor and workers in society, preparing students for careers in labor organizations, government, and other fields.",
+  "classHighlights": [
+    "The Labor Studies core courses provide a foundation in labor history, labor law, and labor movements, and include classes such as Labor and Working-Class History and Labor Law and Labor Movements.",
+    "Electives in labor studies and related fields allow students to explore topics such as labor and globalization, labor and social justice, and labor and politics.",
+    "Courses in sociology, history, and other departments provide additional context and perspectives on labor and work, and include classes such as Sociology of Work and Occupations and History of Labor in the United States."
+  ],
+  "learningOutcomes": [
+    "Analyze the role of labor and workers in society",
+    "Understand the history and politics of labor movements",
+    "Examine the impact of globalization and other economic trends on labor and work",
+    "Apply labor studies concepts and theories to real-world issues and problems",
+    "Develop research and critical thinking skills through coursework and independent study"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Sociology",
+      "link": "https://sociology.ucla.edu/undergraduate-program"
+    },
+    {
+      "title": "History",
+      "link": "https://history.ucla.edu/undergraduate-program"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=36",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23/ugrad/laborstudies"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the University's writing requirement and American History and Institutions requirement."
+}

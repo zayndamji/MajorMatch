@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Physics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Physics B.S. program at UCLA is designed to provide students with a comprehensive understanding of the fundamental principles of physics, including mechanics, electromagnetism, thermodynamics, and quantum mechanics. The program includes a rigorous curriculum of theoretical and experimental courses, as well as opportunities for research and hands-on learning. Students are prepared for careers in research, industry, and education, as well as graduate study in physics and related fields.",
+  "shortProgramDescription": "The Physics B.S. program at UCLA provides a comprehensive education in physics, preparing students for careers in research, industry, and education, as well as graduate study.",
+  "classHighlights": [
+    "The introductory physics sequence, including Physics 1A, 1B, and 1C, or Physics 5A, 5B, and 5C, provides a foundation in classical mechanics, electromagnetism, and thermodynamics.",
+    "The intermediate physics sequence, including Physics 105A, 105B, and 115A, covers topics such as mathematical methods, classical mechanics, and electromagnetism.",
+    "Upper-division courses, including Physics 115B, 115C, 131, 132, and 133, provide advanced training in areas such as quantum mechanics, statistical mechanics, and computational physics.",
+    "Laboratory courses, including Physics 4AL, 4BL, and 105CL, provide hands-on experience with experimental techniques and data analysis.",
+    "Electives, such as Physics 110A, 110B, and 118, allow students to explore specialized topics and deepen their understanding of physics."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a thorough understanding of the fundamental principles of physics, including mechanics, electromagnetism, thermodynamics, and quantum mechanics.",
+    "Apply mathematical and computational techniques to solve physics problems.",
+    "Design and conduct experiments to test hypotheses and measure physical phenomena.",
+    "Analyze and interpret data to draw conclusions and make predictions.",
+    "Communicate complex physics concepts effectively in written and oral form."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Astronomy B.S.",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=601"
+    },
+    {
+      "title": "Physics B.A.",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=665"
+    },
+    {
+      "title": "Engineering Physics B.S.",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=240"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=666",
+    "https://www.physics.ucla.edu/undergrad/major",
+    "https://catalog.ucla.edu/lsas/undergrad/physicsbs.pdf"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete a minimum of 180 quarter units, including major requirements, general education, and electives. Research opportunities are available for students to work with faculty members on research projects."
+}

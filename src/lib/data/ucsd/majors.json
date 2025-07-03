@@ -522,20 +522,20 @@
     "description": "This major covers the design, analysis, and testing of aircraft and spacecraft. Students study aerodynamics, propulsion, and structural mechanics to understand flight and space systems. Graduates are prepared for engineering roles in aerospace industries and research."
   },
   {
-    "name": "Aerospace Engineering with a Specialization in Aerothermodynamics (B.S.)",
-    "id": "aerospace-engineering-with-a-specialization-in-aerothermodynamics-bs",
+    "name": "Aerospace Engineering (Aerothermodynamics) (B.S.)",
+    "id": "aerospace-engineering-aerothermodynamics-bs",
     "college": "Mechanical and Aerospace Engineering (MAE)",
     "description": "Focusing on high-temperature gas dynamics and thermal phenomena, this specialization explores propulsion and atmospheric reentry. Students develop skills in heat transfer, fluid mechanics, and combustion. The program prepares students for advanced aerospace research and development."
   },
   {
-    "name": "Aerospace Engineering with a Specialization in Astrodynamics and Space Applications (B.S.)",
-    "id": "aerospace-engineering-with-a-specialization-in-astrodynamics-and-space-applications-bs",
+    "name": "Aerospace Engineering (Astrodynamics and Space Applications) (B.S.)",
+    "id": "aerospace-engineering-astrodynamics-and-space-applications-bs",
     "college": "Mechanical and Aerospace Engineering (MAE)",
     "description": "This specialization addresses orbital mechanics, spacecraft navigation, and mission design. Students learn to model and control space vehicles and systems. Graduates are equipped for careers in satellite technology, space exploration, and aerospace engineering."
   },
   {
-    "name": "Aerospace Engineering with a Specialization in Flight Dynamics and Controls (B.S.)",
-    "id": "aerospace-engineering-with-a-specialization-in-flight-dynamics-and-controls-bs",
+    "name": "Aerospace Engineering (Flight Dynamics and Controls) (B.S.)",
+    "id": "aerospace-engineering-flight-dynamics-and-controls-bs",
     "college": "Mechanical and Aerospace Engineering (MAE)",
     "description": "Focusing on the stability and control of air and spacecraft, this specialization covers feedback systems, control theory, and guidance. Students acquire skills to design and analyze control systems for flight. Graduates pursue careers in aerospace control systems and autonomous vehicles."
   },

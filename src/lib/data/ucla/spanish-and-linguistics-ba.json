@@ -1,0 +1,40 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Spanish and Linguistics (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Spanish and Linguistics major is an interdisciplinary program that combines the study of the Spanish language with the scientific study of language structure, language use, and language acquisition. Students develop a deep understanding of the Spanish language and its cultural context, as well as the theoretical foundations of linguistics.",
+  "shortProgramDescription": "The Spanish and Linguistics B.A. program provides students with a comprehensive understanding of the Spanish language and its linguistic structures, preparing them for careers in education, research, and cultural institutions.",
+  "classHighlights": [
+    "Language and Culture Courses: Students take courses in Spanish language and culture, including advanced grammar, composition, and conversation, as well as courses on Hispanic literature and culture.",
+    "Linguistics Courses: Students study the scientific aspects of language, including phonetics, phonology, morphology, syntax, and semantics, with a focus on the Spanish language.",
+    "Sociolinguistics and Language Acquisition: Students explore the social and cultural contexts of language use, including language variation, language contact, and language acquisition.",
+    "Research Methods and Senior Seminar: Students learn research methods in linguistics and Spanish language studies, and participate in a senior seminar that integrates their knowledge of Spanish and linguistics.",
+    "Electives: Students choose from a range of electives that allow them to specialize in areas such as Hispanic linguistics, language teaching, or cultural studies."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a deep understanding of the Spanish language and its cultural context.",
+    "Analyze and describe the linguistic structures of Spanish.",
+    "Apply theoretical knowledge of linguistics to the study of Spanish.",
+    "Evaluate the social and cultural contexts of language use.",
+    "Communicate effectively in Spanish and English."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Spanish (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=878"
+    },
+    {
+      "title": "Linguistics (B.A.)",
+      "link": "https://linguistics.ucla.edu/undergraduate-program/"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=878",
+    "https://spanport.ucla.edu/undergraduate-programs",
+    "https://linguistics.ucla.edu/undergraduate-program/"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the Spanish language requirement and the linguistics core courses. The major is administered by the Department of Spanish and Portuguese and the Department of Linguistics."
+}

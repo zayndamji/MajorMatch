@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Spanish and Community and Culture (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Spanish and Community and Culture major is designed for students who wish to develop advanced-level proficiency in Spanish while exploring the cultural and linguistic dimensions of Spain and Spanish America. The program combines the study of language, literature, and culture, with a focus on community engagement and cultural competency.",
+  "shortProgramDescription": "The Spanish and Community and Culture major at UCLA prepares students for careers in education, social services, and cultural institutions, while fostering advanced language proficiency and cultural understanding.",
+  "classHighlights": [
+    "Language and Culture Courses: Students take courses that focus on the development of advanced language skills, including grammar, composition, and conversation. These courses also explore the cultural and historical contexts of the Spanish-speaking world.",
+    "Literature and Cultural Studies: Students engage with a range of literary and cultural texts, examining the cultural, historical, and social contexts that shape the Spanish-speaking world. Courses cover topics such as identity, power, and representation.",
+    "Community Engagement and Cultural Competency: The program emphasizes the importance of community engagement and cultural competency. Students learn about the experiences of Spanish-speaking communities and develop skills to work effectively in these contexts.",
+    "Electives and Specializations: Students have the opportunity to choose from a range of electives that allow them to explore specific interests, such as language acquisition, cultural studies, or literary analysis."
+  ],
+  "learningOutcomes": [
+    "Demonstrate advanced-level proficiency in Spanish language skills, including reading, writing, speaking, and listening.",
+    "Analyze and interpret a range of literary and cultural texts from the Spanish-speaking world.",
+    "Understand the cultural and historical contexts that shape the Spanish-speaking world.",
+    "Develop cultural competency and the ability to work effectively in Spanish-speaking communities.",
+    "Apply knowledge of Spanish language and culture to real-world contexts, including education, social services, and cultural institutions."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Spanish Language and Literature",
+      "link": "https://spanport.ucla.edu/undergraduate/spanish-language-and-literature-ba"
+    },
+    {
+      "title": "Latin American Studies",
+      "link": "https://international.ucla.edu/las"
+    },
+    {
+      "title": "Chicana/o Studies",
+      "link": "https://chicst.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=00W",
+    "https://spanport.ucla.edu/undergraduate/spanish-and-community-culture-ba"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units, including major requirements and electives",
+  "additionalInformation": "Students are encouraged to study abroad in a Spanish-speaking country to enhance their language skills and cultural understanding. The program also offers opportunities for community engagement and service-learning."
+}

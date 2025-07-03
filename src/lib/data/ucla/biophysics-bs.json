@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Biophysics (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Biophysics major is designed to provide a broad foundation in the fundamental laws governing the behavior of living systems, as well as the physical and chemical principles underlying biological processes. The program includes coursework in physics, chemistry, mathematics, and biology, and provides students with a strong preparation for graduate study or a career in biophysics or related fields.",
+  "shortProgramDescription": "The Biophysics B.S. program provides a rigorous foundation in the physical and chemical principles underlying biological processes, preparing students for graduate study or a career in biophysics or related fields.",
+  "classHighlights": [
+    "The Biophysics major requires coursework in introductory physics, chemistry, and biology, including Physics 1A-1B-1C, Chemistry 14A-14B-14C, and Life Sciences 1,2.",
+    "Students also complete coursework in mathematics, including Calculus and Differential Equations, such as Mathematics 31A-31B-32A-32B and 33A.",
+    "Upper division coursework includes Biophysics 100, 101, 102, and 103, as well as additional courses in physics, chemistry, and biology, such as Physics 105A-105B, Chemistry 113A-113B, and Life Sciences 107.",
+    "Students also complete laboratory coursework, including Biophysics 115 and Physics 105C or Chemistry 113C.",
+    "Additional electives are chosen from a range of courses, including Biophysics 110, 120, 130, 140, and Physics 115B, 116, and 118."
+  ],
+  "learningOutcomes": [
+    "Demonstrate an understanding of the fundamental laws governing the behavior of living systems.",
+    "Apply physical and chemical principles to understand biological processes.",
+    "Analyze and interpret data from experiments in biophysics.",
+    "Communicate complex scientific concepts effectively.",
+    "Apply mathematical techniques to solve problems in biophysics."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Biochemistry, Molecular and Cell Biology (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=127"
+    },
+    {
+      "title": "Microbiology, Immunology, and Molecular Genetics (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=166"
+    },
+    {
+      "title": "Physiological Science (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=175"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=126",
+    "https://www.ucla.edu/academics/majors/biophysics-bs",
+    "https://physics.ucla.edu/undergraduate-program/majors/biophysics"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Biophysics major is a highly structured program that requires careful planning to complete all required coursework. Students are advised to consult with a departmental advisor to ensure they meet all requirements."
+}

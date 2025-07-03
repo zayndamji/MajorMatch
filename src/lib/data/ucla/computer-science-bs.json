@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Computer Science (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Computer Science program at UCLA is designed to give students a broad background in the theory, design, and application of computer systems. The program provides a foundation in computer science theory, algorithms, data structures, programming languages, computer architecture, and software engineering. Students also gain practical experience through coursework and projects.",
+  "shortProgramDescription": "UCLA's Computer Science B.S. provides a foundation in computer science theory and application, preparing students for careers or further study.",
+  "classHighlights": [
+    "The program requires foundational courses in Programming (CS 31, CS 32), Computer Organization (CS 33, CS 35L), and Data Structures (CS 180).",
+    "Students also take courses in Algorithms (CS 180), Computer Architecture (CS 133), Operating Systems (CS 111), and Software Engineering (CS 151).",
+    "Additional required courses cover Theory of Computation (CS 181), Machine Learning (CS 181), and Computer Networks (CS 118).",
+    "Electives allow students to explore specialized areas such as Artificial Intelligence, Computer Vision, and Human-Computer Interaction.",
+    "The program includes coursework in mathematics, including Discrete Mathematics (MATH 61), Linear Algebra (MATH 115A), and Probability and Statistics (MATH 170A, MATH 170E).",
+    "Students must also complete a set of breadth requirements, including courses in science, engineering, and writing."
+  ],
+  "learningOutcomes": [
+    "Apply computer science theory and principles to design and implement software systems.",
+    "Analyze algorithms for correctness and efficiency.",
+    "Understand computer systems, architecture, and organization.",
+    "Use mathematics and probability to solve computing problems.",
+    "Communicate technical concepts in written and oral form.",
+    "Evaluate ethical, societal, and global implications of technology."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Computer Science Minor",
+      "link": "https://www.cs.ucla.edu/undergrad/minor"
+    },
+    {
+      "title": "Computer Science and Engineering Minor",
+      "link": "https://www.seas.ucla.edu/student/minors"
+    },
+    {
+      "title": "Data Science Minor",
+      "link": "https://datascience.ucla.edu/academics/minor"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=201",
+    "https://www.cs.ucla.edu/undergrad",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23/ugrad/engg/samueli-school-engineering-computer-science-bs"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "At least 204 total units",
+  "additionalInformation": "The program is designed for students to be declared in the major by the start of their sophomore year. Students must meet specific GPA requirements and complete required preparation courses."
+}

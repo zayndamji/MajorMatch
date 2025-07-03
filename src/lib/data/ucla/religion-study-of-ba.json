@@ -1,0 +1,42 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Religion, Study of (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Study of Religion major is designed to introduce students to the varieties of religious thought, practice, and expression, both historical and contemporary, and to provide a framework for the comparative study of religions. The program focuses on the critical analysis of religious traditions and their cultural contexts, developing skills in textual analysis, historical contextualization, and comparative study.",
+  "shortProgramDescription": "The Study of Religion B.A. at UCLA provides a comprehensive understanding of various religious traditions and practices, fostering critical analysis and comparative study skills.",
+  "classHighlights": [
+    "The major begins with foundational courses that introduce the field of religious studies, including introductory surveys and methods courses. These classes provide a broad overview of major world religions and the analytical tools necessary for advanced study.",
+    "Students then engage with a range of courses that explore specific religious traditions, historical periods, and thematic topics. These may include classes on the history of Christianity, Buddhism, Islam, Judaism, and other religions, as well as thematic courses on topics such as mysticism, ritual, and gender.",
+    "Upper-division courses allow students to deepen their knowledge in specific areas, developing advanced research and analytical skills. These courses often involve close readings of primary texts, historical contextualization, and comparative analysis.",
+    "Electives within the major enable students to tailor their academic focus, choosing from a variety of courses that explore different religious traditions, themes, and methodologies."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad understanding of the major world religions and their cultural contexts.",
+    "Apply critical analytical skills to the study of religious texts, practices, and traditions.",
+    "Analyze the historical development and cultural significance of various religious traditions.",
+    "Compare and contrast different religious beliefs, practices, and experiences.",
+    "Develop effective research and writing skills in the study of religion."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Theater, Film, and Television (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=872"
+    },
+    {
+      "title": "Classics (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=190"
+    },
+    {
+      "title": "Philosophy (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=720"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=890",
+    "https://religion.ucla.edu"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are advised to consult with departmental advisors to tailor their course of study and ensure they meet major requirements. The major is designed to be flexible, allowing students to explore various aspects of religious studies."
+}

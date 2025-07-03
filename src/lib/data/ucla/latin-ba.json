@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Latin (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Latin major is designed to provide students with a thorough knowledge of the Latin language and a detailed understanding of Latin literature in its historical context. Students develop skills in reading and analyzing Latin texts, as well as an appreciation for the cultural, historical, and literary significance of the Roman civilization.",
+  "shortProgramDescription": "The Latin major at UCLA focuses on the study of the Latin language, literature, and Roman culture, preparing students for careers or further study in Classics, education, or related fields.",
+  "classHighlights": [
+    "The Latin major requires students to complete a series of language courses, starting with LATIN 1A and continuing through LATIN 102, to establish a strong foundation in Latin.",
+    "Courses in Latin literature, such as LATIN 101 and LATIN 103, introduce students to major authors and genres, including epic, lyric, and historical writing.",
+    "Upper-division courses allow students to explore specific periods, authors, or themes in depth, such as Cicero, Ovid, or Roman historiography, honing their analytical skills and contextual understanding.",
+    "Additional coursework may cover related areas like Classical Greek, ancient history, or classical mythology, enriching students' comprehension of the ancient Mediterranean world.",
+    "Electives and seminars provide opportunities for advanced study and research, often focusing on specialized topics or interdisciplinary approaches.",
+    "Throughout the major, students develop their skills in reading, translating, and analyzing Latin texts, as well as their understanding of the cultural and historical contexts that shaped Roman literature."
+  ],
+  "learningOutcomes": [
+    "Read and analyze Latin texts with proficiency.",
+    "Understand the historical and cultural context of Latin literature.",
+    "Demonstrate knowledge of major Latin authors and genres.",
+    "Apply critical thinking to interpret Latin texts.",
+    "Communicate effectively about Latin literature and Roman culture.",
+    "Develop a nuanced understanding of the impact of Roman civilization on later cultures."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Classics (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=106"
+    },
+    {
+      "title": "Greek (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=235"
+    },
+    {
+      "title": "Ancient Greek and Latin Language Minor",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MIN&code=1114"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=495",
+    "https://classics.ucla.edu/undergraduate/latin-major",
+    "https://catalog.registrar.ucla.edu/catalog/2023-24/Programs/Undergraduate/495"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total: approximately 180 quarter units; Major: 45 units of upper-division coursework in Latin and related fields",
+  "additionalInformation": "Students must declare the major through the UCLA College of Letters and Science. Opportunities for research, honors, and study abroad are available through the Classics Department."
+}

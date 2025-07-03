@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Atmospheric and Oceanic Sciences (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Atmospheric and Oceanic Sciences major is designed to provide students with a comprehensive understanding of the Earth's atmosphere and oceans. The program covers the fundamental principles of atmospheric and oceanic dynamics, thermodynamics, and physics, as well as the interactions between the atmosphere and oceans. Students learn about the climate system, weather patterns, and the impact of human activities on the environment. The major prepares students for careers in research, education, government, and private industry, as well as for graduate study.",
+  "shortProgramDescription": "The Atmospheric and Oceanic Sciences major provides students with a comprehensive understanding of the Earth's atmosphere and oceans, preparing them for careers in research, education, and industry.",
+  "classHighlights": [
+    "The major requires a foundation in mathematics and physics, including calculus, differential equations, and physics. Courses such as Mathematics 31A-31B, 32A-32B, and Physics 1A-1C provide the necessary mathematical and physical background.",
+    "Students take core courses in atmospheric and oceanic sciences, including Atmospheric and Oceanic Sciences 30, 101, 102, 103, and 104. These courses cover the fundamental principles of atmospheric and oceanic dynamics, thermodynamics, and physics.",
+    "Upper-division courses provide advanced training in areas such as climate dynamics, atmospheric physics, and oceanic circulation. Students can choose from a range of electives, including courses on weather forecasting, climate modeling, and environmental policy.",
+    "The major also requires a laboratory or field course, which provides hands-on experience with data analysis, instrumentation, and experimental design.",
+    "Students are encouraged to participate in research projects, internships, and other experiential learning opportunities to gain practical experience and build their skills and knowledge."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of atmospheric and oceanic dynamics, thermodynamics, and physics.",
+    "Analyze and interpret data related to the atmosphere and oceans.",
+    "Apply mathematical and physical principles to understand the climate system and weather patterns.",
+    "Evaluate the impact of human activities on the environment and climate.",
+    "Communicate complex scientific information to diverse audiences."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Environmental Science",
+      "link": "https://environmentalscience.ucla.edu"
+    },
+    {
+      "title": "Earth, Planetary, and Space Sciences",
+      "link": "https://epss.ucla.edu"
+    },
+    {
+      "title": "Environmental Studies",
+      "link": "https://environmentalstudies.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=589",
+    "https://atmos.ucla.edu/undergraduate-program",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23/ugrad/let/Atmospheric-and-Oceanic-Sciences-Major"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The major is administered by the Department of Atmospheric and Oceanic Sciences. Students are advised to consult with departmental advisors to plan their course of study and ensure that they meet the major requirements."
+}

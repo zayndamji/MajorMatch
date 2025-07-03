@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Marine Biology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Marine Biology major is designed to provide a rigorous foundation in the biological sciences, with an emphasis on the marine environment. The program includes coursework in biology, chemistry, physics, and mathematics, as well as specialized courses in marine biology. Students gain a broad understanding of the complex interactions between marine organisms and their environments, and are prepared for careers in research, conservation, and education, or for further study in graduate school.",
+  "shortProgramDescription": "The Marine Biology B.S. at UCLA provides a comprehensive education in the biological sciences, with a focus on the marine environment, preparing students for careers or graduate study.",
+  "classHighlights": [
+    "Students begin with foundational coursework in biology, including Principles of Biology (LS4) and Genetics, Evolution, and Ecology (LS7A, LS7B), which introduce key concepts in cellular biology, genetics, and evolutionary biology.",
+    "Chemistry and biochemistry courses, such as General Chemistry (Chem 14A, 14B, 14C) and Biochemistry (Chem 153A, 153B), provide a strong background in the chemical principles underlying biological processes.",
+    "Marine-specific courses, including Introduction to Marine Biology (MIMG 187A) and Marine Ecology (EES 158), allow students to explore the diversity of marine organisms and ecosystems, and to understand the ecological principles that govern marine communities.",
+    "Additional coursework in ecology, evolution, and conservation biology (e.g., EES 116, EES 135) deepens students' understanding of the complex interactions between marine organisms and their environments, and prepares them for careers in research, conservation, and education.",
+    "Students also complete coursework in mathematics and statistics, including Calculus (Math 31A, 31B) and Statistics (Stats 13), to develop the quantitative skills needed to analyze and interpret data in marine biology.",
+    "Upper-division electives in marine biology and related fields (e.g., MIMG 187B, EES 159) enable students to explore specialized topics in greater depth, and to develop a more nuanced understanding of the field."
+  ],
+  "learningOutcomes": [
+    "Understand the principles of biology, chemistry, and physics as they relate to the marine environment",
+    "Analyze and interpret data related to marine ecosystems and organisms",
+    "Apply ecological and evolutionary principles to understand the complex interactions between marine organisms and their environments",
+    "Communicate effectively about marine biology and related topics",
+    "Demonstrate a broad understanding of the field of marine biology, including current research and issues in the field"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Biology (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=220"
+    },
+    {
+      "title": "Ecology, Behavior, Evolution, and Marine Biology (EBEMB) (B.S.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=222"
+    },
+    {
+      "title": "Environmental Science (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=269"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=537",
+    "https://catalog.ucla.edu/life-sciences/molecular-cellular-biology-physiology-ecology-behavior/marine-biology-bs"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The Marine Biology major is a selective program that requires a supplemental application. Students must complete a series of prerequisite courses before declaring the major."
+}

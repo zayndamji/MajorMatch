@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Linguistics and Spanish (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "Students select an adviser from each department and complete a minimum of 12 upper division units in Linguistics and a minimum of 20 upper division units in Spanish & Portuguese. Students must satisfy the requirements for both majors as well as the College and University requirements.",
+  "shortProgramDescription": "The interdepartmental program in Linguistics and Spanish is designed for students who are interested in the linguistic structure of Spanish, the history of the Spanish language, and/or Spanish sociolinguistics.",
+  "classHighlights": [
+    "Students take core courses in Linguistics such as Introduction to Linguistics, Phonetics and Phonology, Morphology, and Syntax.",
+    "Courses in Spanish & Portuguese may include Spanish Language and Culture, Advanced Spanish Grammar, and Spanish Phonetics and Phonology.",
+    "The program allows students to explore the linguistic aspects of the Spanish language and its cultural context.",
+    "Upper division courses in both departments provide a deeper understanding of linguistic theories and Spanish language structures.",
+    "Students are encouraged to take courses that combine the study of language and culture, such as Sociolinguistics and Discourse Analysis."
+  ],
+  "learningOutcomes": [
+    "Understand the fundamental principles of linguistics and their application to the Spanish language.",
+    "Analyze the linguistic structure of Spanish, including phonetics, phonology, morphology, and syntax.",
+    "Demonstrate knowledge of the history and cultural context of the Spanish language.",
+    "Apply linguistic theories to the study of Spanish language and culture.",
+    "Develop critical thinking and analytical skills in the study of language."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Linguistics (B.A.)",
+      "link": "https://linguistics.ucla.edu/undergraduate-program"
+    },
+    {
+      "title": "Spanish & Portuguese (B.A.)",
+      "link": "https://spanport.ucla.edu/undergraduate-program"
+    },
+    {
+      "title": "French and Francophone Studies (B.A.)",
+      "link": "https://french.ucla.edu/undergraduate-program"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=511",
+    "https://linguistics.ucla.edu/undergraduate-program",
+    "https://spanport.ucla.edu/undergraduate-program"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "Total of 180 quarter units; specific requirements include a minimum of 12 upper division units in Linguistics and 20 upper division units in Spanish & Portuguese",
+  "additionalInformation": "Students must satisfy the requirements for both the Linguistics and Spanish & Portuguese majors, as well as the College and University requirements. Advising is available in both departments."
+}

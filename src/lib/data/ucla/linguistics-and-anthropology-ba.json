@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Linguistics and Anthropology (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Linguistics and Anthropology major is an interdisciplinary program that combines the study of human language with the study of human culture and behavior. Students in this major explore the complex relationships between language, culture, and society, and develop a deep understanding of the ways in which language is shaped by and shapes human identity and interaction.",
+  "shortProgramDescription": "The Linguistics and Anthropology major provides students with a comprehensive understanding of the intersections between language, culture, and society.",
+  "classHighlights": [
+    "The major requires coursework in linguistics, anthropology, and related fields, including courses on language structure, language use, and language acquisition.",
+    "Students take courses that explore the cultural and social contexts of language, including anthropological approaches to language and culture.",
+    "The major includes coursework on linguistic theory, anthropological theory, and research methods, providing students with a strong foundation in the theories and methods of both disciplines.",
+    "Students also have the opportunity to take elective courses in areas such as sociolinguistics, language documentation, and linguistic anthropology.",
+    "The major requires students to complete a series of core courses, including Introduction to Linguistics, Introduction to Anthropology, and Language and Culture.",
+    "Students also complete upper-division coursework in linguistics and anthropology, including courses on linguistic structure, language use, and cultural anthropology."
+  ],
+  "learningOutcomes": [
+    "Understand the complex relationships between language, culture, and society",
+    "Analyze the structure and use of language in different cultural contexts",
+    "Apply linguistic and anthropological theories and methods to the study of human language and culture",
+    "Develop a deep understanding of the ways in which language is shaped by and shapes human identity and interaction",
+    "Cultivate critical thinking and research skills in the areas of linguistics and anthropology"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Linguistics",
+      "link": "https://linguistics.ucla.edu"
+    },
+    {
+      "title": "Anthropology",
+      "link": "https://anthro.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=496",
+    "https://linguistics.ucla.edu",
+    "https://anthro.ucla.edu"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete the University's general education requirements and the major requirements. The major is administered by the Department of Linguistics and the Department of Anthropology."
+}

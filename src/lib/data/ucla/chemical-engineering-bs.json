@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Chemical Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Chemical Engineering program at UCLA is designed to provide students with a fundamental understanding of chemical engineering principles, including thermodynamics, transport phenomena, and reaction kinetics. The program includes coursework in mathematics, physics, and chemistry, as well as core courses in chemical engineering, and allows for electives in specialized areas. Students are prepared for careers in industry, research, or graduate study.",
+  "shortProgramDescription": "The Chemical Engineering B.S. program at UCLA provides a comprehensive education in chemical engineering principles, preparing students for diverse careers or further study.",
+  "classHighlights": [
+    "The program begins with foundational courses in mathematics (Calculus, Differential Equations), physics, and chemistry, including organic chemistry.",
+    "Core chemical engineering courses cover topics such as thermodynamics, fluid mechanics, heat and mass transfer, and chemical reaction engineering.",
+    "Students also complete coursework in engineering fundamentals, including material and energy balances, and process dynamics and control.",
+    "Technical electives allow students to explore specialized areas such as biochemical engineering, nanotechnology, or energy systems.",
+    "Laboratory courses provide hands-on experience with experimental techniques and data analysis.",
+    "Additional coursework includes study of process design, safety, and economics."
+  ],
+  "learningOutcomes": [
+    "Apply fundamental principles of chemical engineering to solve problems.",
+    "Design and analyze experiments, and interpret data.",
+    "Understand and apply mathematical models to chemical engineering systems.",
+    "Communicate effectively in written and oral forms.",
+    "Demonstrate understanding of safety, ethics, and societal implications in chemical engineering.",
+    "Work effectively in teams."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Materials Engineering",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=297"
+    },
+    {
+      "title": "Environmental Engineering",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=296"
+    },
+    {
+      "title": "Biochemical Engineering",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=293"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=294",
+    "https://www.seas.ucla.edu/chemical",
+    "https://catalog.registrar.ucla.edu/catalog/2023-24/ugrad/engg/chem"
+  ],
+  "programDuration": "4 academic years (quarter system)",
+  "creditRequirements": "194-196 units (total), including major requirements and breadth courses (quarter system)",
+  "additionalInformation": "Students must complete a set of pre-major courses before declaring the major. Preparation in high school in areas such as calculus, physics, and chemistry is recommended."
+}

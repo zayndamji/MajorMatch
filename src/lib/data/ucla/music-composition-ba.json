@@ -1,0 +1,41 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Music Composition (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Bachelor of Arts in Music Composition is offered through the Herb Alpert School of Music. The program is designed to provide students with a comprehensive education in music composition, theory, and history, as well as to foster their creative and technical skills. Students work closely with faculty composers and have opportunities to have their work performed by ensembles on campus.",
+  "shortProgramDescription": "The Music Composition B.A. at UCLA provides a comprehensive education in composition, theory, and music history, preparing students for careers in music or further study.",
+  "classHighlights": [
+    "Composition Courses: Students take a sequence of composition courses (MUSIC CM174A, MUSIC CM174B, MUSIC CM174C, MUSIC CM174D) that introduce and develop skills in music composition, including working with various forms, styles, and technologies.",
+    "Theory and Musicianship: The curriculum includes music theory (MUSIC 31A, 31B, 31C) and musicianship training to provide a strong foundation in understanding music structure, harmony, and analysis.",
+    "Music History and Literature: Students study the history of Western art music and various musical styles and periods, preparing them to contextualize their own compositions.",
+    "Electives and Specializations: The program allows for flexibility with electives, enabling students to explore related areas such as music technology, improvisation, or music from diverse cultures.",
+    "Performance and Reading Sessions: Students have opportunities for their compositions to be performed, and they participate in reading sessions and workshops that provide feedback and insights into their work.",
+    "Studies in Analysis and Technique: Courses in analysis (e.g., MUSIC CM173) help students develop a deeper understanding of various compositional techniques and styles."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a high level of skill in music composition across various styles and formats.",
+    "Understand and apply advanced music theory concepts.",
+    "Analyze and contextualize music history and literature.",
+    "Develop proficiency in music technology and software relevant to composition.",
+    "Communicate effectively about their compositions and musical ideas.",
+    "Participate in performances and reading sessions of their compositions."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Music (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=420"
+    },
+    {
+      "title": "Music Industry Studies (B.A.)",
+      "link": "https://newstudents.ucla.edu/studyarea/?id=423"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=422",
+    "https://herbalpertschoolofmusic.ucla.edu"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The program is designed to be completed in four years. Students are encouraged to participate in music ensembles, attend concerts, and engage with the rich musical life on campus."
+}

@@ -1,0 +1,46 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Computer Science and Engineering (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Computer Science and Engineering major is designed to provide a broad foundation in the fundamentals of computer science and engineering, as well as the opportunity to pursue advanced coursework in specialized areas. The program emphasizes the development of problem-solving skills, both theoretical and practical, and provides students with a comprehensive understanding of computer systems, software, and algorithms. Students learn about computer architecture, programming languages, data structures, algorithms, computer networks, and operating systems.",
+  "shortProgramDescription": "The UCLA Computer Science and Engineering B.S. program provides a comprehensive education in computer science fundamentals and prepares students for a wide range of careers or advanced study.",
+  "classHighlights": [
+    "The program begins with foundational courses in programming, data structures, and computer organization, including Introduction to Programming (CS 31), Programming in Python (CS 32), and Computer Organization (CS 33), and Introduction to Computer Architecture (CS 35L).",
+    "Students then progress to more advanced courses in algorithms, computer systems, and software engineering, including Design and Analysis of Algorithms (CS 180), Operating Systems (CS 111), and Software Engineering (CS 130).",
+    "Upper-division coursework includes a range of electives in areas such as artificial intelligence, computer networks, database systems, and computer graphics, allowing students to tailor their education to their interests and career goals.",
+    "Throughout the program, students gain hands-on experience with programming languages, software development methodologies, and computer systems, preparing them for a wide range of careers or advanced study.",
+    "Students also complete coursework in mathematics, including calculus, linear algebra, and discrete mathematics, providing a strong foundation for understanding computer science concepts.",
+    "The major requires a total of 14 upper-division courses, including a set of required courses and a range of electives, ensuring that students have a broad and deep understanding of computer science and engineering."
+  ],
+  "learningOutcomes": [
+    "Apply mathematical and computational concepts to solve complex problems.",
+    "Design, implement, and analyze computer systems and software.",
+    "Understand the fundamental principles of computer science, including algorithms, data structures, and computer architecture.",
+    "Use programming languages and software development methodologies effectively.",
+    "Communicate technical concepts and results effectively in written and oral form.",
+    "Work effectively in teams to solve complex problems and develop software systems."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Computer Science Minor",
+      "link": "https://www.cs.ucla.edu/undergrad/minor"
+    },
+    {
+      "title": "Computer Science and Engineering (M.S.)",
+      "link": "https://www.cs.ucla.edu/graduate/degree-programs"
+    },
+    {
+      "title": "Cybersecurity",
+      "link": "https://cyber.ucla.edu"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=193",
+    "https://www.cs.ucla.edu/undergrad",
+    "https://catalog.registrar.ucla.edu/catalog/2022-23/ugrad-majors/Computer-Science-Engineering-Major"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "The program is designed for students who are interested in pursuing a career in computer science or related fields. Students are encouraged to participate in research projects, internships, and other extracurricular activities to gain practical experience."
+}

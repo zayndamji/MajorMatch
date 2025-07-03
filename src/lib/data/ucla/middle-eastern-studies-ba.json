@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Middle Eastern Studies (B.A.)",
+  "degreeAwarded": "Bachelor of Arts",
+  "fullProgramDescription": "The Department of Near Eastern Languages and Cultures offers an undergraduate major in Middle Eastern Studies. This interdisciplinary program provides students with a broad understanding of the history, cultures, languages, and societies of the Middle East. Students develop proficiency in a Middle Eastern language and explore a range of courses that cover the region's diverse cultures, histories, and contemporary issues. The program is designed to equip students with critical thinking, research, and analytical skills, preparing them for a variety of careers or further academic study.",
+  "shortProgramDescription": "The Middle Eastern Studies major at UCLA provides a comprehensive education in the languages, cultures, and histories of the Middle East, preparing students for diverse careers or graduate study.",
+  "classHighlights": [
+    "Language courses: Students are required to achieve proficiency in a Middle Eastern language, such as Arabic, Hebrew, Persian, or Turkish, through a sequence of language classes that cover reading, writing, and speaking skills.",
+    "History and Culture courses: The program includes a range of courses that explore the history, cultures, and societies of the Middle East, covering topics such as Islamic history, Middle Eastern literature, and contemporary issues in the region.",
+    "Thematic courses: Students can choose from a variety of thematic courses that examine topics such as gender in the Middle East, Middle Eastern diasporas, and the politics of the region.",
+    "Electives: The major allows students to select from a range of electives that align with their interests, including courses on specific countries, historical periods, or cultural themes."
+  ],
+  "learningOutcomes": [
+    "Demonstrate proficiency in a Middle Eastern language.",
+    "Analyze the history, cultures, and societies of the Middle East.",
+    "Apply critical thinking and research skills to understand contemporary issues in the region.",
+    "Evaluate the diversity of cultures and experiences within the Middle East.",
+    "Communicate effectively about Middle Eastern Studies topics in written and oral form."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Near Eastern Languages and Cultures Minor",
+      "link": "https://nelc.ucla.edu/minor/"
+    },
+    {
+      "title": "Islamic Studies Minor",
+      "link": "https://nelc.ucla.edu/islamic-studies-minor/"
+    },
+    {
+      "title": "Jewish Studies Minor",
+      "link": "https://jewishstudies.ucla.edu/minor/"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?id=353",
+    "https://nelc.ucla.edu/undergraduate-major/",
+    "https://catalog.registrar.ucla.edu/catalog/2023-24/letour.jsp?sa=nelc&sbar=1"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are advised to consult with departmental advisors to plan their course of study. The major is designed to be flexible, allowing students to pursue their interests within the field of Middle Eastern Studies."
+}

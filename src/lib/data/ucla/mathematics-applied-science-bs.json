@@ -1,0 +1,43 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Mathematics/Applied Science (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Mathematics/Applied Science major is an interdisciplinary program that provides a foundation in mathematical and scientific principles and prepares students for a broad range of career opportunities. Students gain a strong background in mathematics, as well as knowledge in a specific area of application, such as physics, computer science, or biology. The program emphasizes the development of problem-solving skills, analytical thinking, and computational techniques.",
+  "shortProgramDescription": "The Mathematics/Applied Science B.S. provides a strong foundation in mathematics and prepares students for careers in a variety of fields, including science, technology, and engineering.",
+  "classHighlights": [
+    "The major requires a set of core courses in mathematics, including calculus, linear algebra, differential equations, and real analysis. These courses provide a foundation in mathematical theory and techniques.",
+    "Students also complete a series of courses in their chosen area of application, such as physics, computer science, or biology. These courses provide a deep understanding of the subject matter and its applications.",
+    "Additional coursework includes probability and statistics, numerical analysis, and computational methods. These courses provide students with the tools and techniques needed to analyze and solve problems in their chosen field.",
+    "Students also have the opportunity to take electives in a variety of areas, including mathematics, computer science, and other fields. These electives allow students to explore their interests and tailor their education to their career goals."
+  ],
+  "learningOutcomes": [
+    "Develop a strong foundation in mathematical theory and techniques",
+    "Apply mathematical and scientific principles to solve problems in a variety of fields",
+    "Analyze and interpret data using statistical and computational methods",
+    "Communicate complex ideas and results effectively",
+    "Work effectively in a team environment",
+    "Pursue careers in a variety of fields, including science, technology, and engineering"
+  ],
+  "similarPrograms": [
+    {
+      "title": "Mathematics (B.A.)",
+      "link": "https://www.math.ucla.edu/undergrad/major/ba.html"
+    },
+    {
+      "title": "Mathematics (B.S.)",
+      "link": "https://www.math.ucla.edu/undergrad/major/bs.html"
+    },
+    {
+      "title": "Statistics (B.S.)",
+      "link": "https://statistics.ucla.edu/departments/undergraduate/statistics-major/"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=545",
+    "https://www.math.ucla.edu/undergrad/major/"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students must complete a set of core courses in mathematics and a series of courses in their chosen area of application. The major requires a minimum GPA of 2.0."
+}

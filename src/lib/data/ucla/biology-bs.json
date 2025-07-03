@@ -1,0 +1,44 @@
+{
+  "collegeName": "University of California, Los Angeles",
+  "programType": "Major",
+  "programName": "Biology (B.S.)",
+  "degreeAwarded": "Bachelor of Science",
+  "fullProgramDescription": "The Biology Major is designed to provide a broad background in the fundamental principles of biology, from the molecular and cellular level to the organismal and ecological level. The program emphasizes the development of critical thinking, analytical, and problem-solving skills, as well as effective communication. Students are exposed to a range of subdisciplines within biology, including genetics, evolution, ecology, and physiology. The curriculum includes laboratory and fieldwork, providing hands-on experience with experimental design, data collection, and analysis.",
+  "shortProgramDescription": "The Biology B.S. at UCLA provides a comprehensive education in the biological sciences, preparing students for careers or further study in fields such as research, healthcare, conservation, and education.",
+  "classHighlights": [
+    "Students begin with foundational courses in biology, chemistry, and mathematics, including Introduction to Biology (LS4), Genetics (LS7A), and Principles of Chemistry (Chem14A-14B).",
+    "The curriculum includes core courses in cellular and molecular biology, genetics, evolution, ecology, and physiology, such as Cell Biology (LS7B), Evolution (LS107), and Ecology (LS109).",
+    "Laboratory courses provide hands-on experience with experimental techniques, data analysis, and scientific writing, as in Genetics Laboratory (LS7A Lab) and Ecology Laboratory (LS109 Lab).",
+    "Upper-division electives allow students to explore specialized areas, such as microbiology, developmental biology, and conservation biology, through courses like Microbiology (LS 138) and Developmental Biology (LS 165).",
+    "The program emphasizes the development of critical thinking, problem-solving, and communication skills, preparing students for diverse careers or graduate study."
+  ],
+  "learningOutcomes": [
+    "Demonstrate a broad understanding of biological principles, from molecular and cellular processes to ecological systems.",
+    "Apply scientific methods, including experimental design, data analysis, and interpretation.",
+    "Communicate complex biological concepts effectively in written and oral forms.",
+    "Analyze and interpret biological data, including statistical and graphical representations.",
+    "Understand the principles of genetics, evolution, and ecology, and their interconnections."
+  ],
+  "similarPrograms": [
+    {
+      "title": "Microbiology, Immunology, and Molecular Genetics (MIMG)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=135"
+    },
+    {
+      "title": "Molecular, Cell, and Developmental Biology (MCD Biology)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=134"
+    },
+    {
+      "title": "Ecology, Behavior, and Evolution (EBE)",
+      "link": "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=125"
+    }
+  ],
+  "sources": [
+    "https://newstudents.ucla.edu/studyarea/?type=MAJ&code=123",
+    "https://catalog.ucla.edu/lifesciences/biology",
+    "https://www.bio.ucla.edu/undergraduate"
+  ],
+  "programDuration": "4 years (quarter system)",
+  "creditRequirements": "180 quarter units",
+  "additionalInformation": "Students are advised to consult with departmental advisors to plan their course sequence and electives. The major includes laboratory and fieldwork requirements."
+}
