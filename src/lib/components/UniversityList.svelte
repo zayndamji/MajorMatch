@@ -36,19 +36,24 @@
         style="flex-wrap: nowrap; overflow-x: hidden;"
       >
         {#each universities.slice(0, visibleCount) as uni}
-          <a 
-            href={'/universities' + uni.path} 
-            class="university-link mx-3 my-2"
-            aria-label={uni.name}
-            title={uni.name}
-          >
-            <img 
-              src={uni.imageUrl} 
-              alt={uni.name} 
-              class="university-icon"
-              loading="lazy"
-            />
-          </a>
+          <div class="university-item mx-3 my-2 has-text-centered">
+            <a 
+              href={'/universities' + uni.path} 
+              class="university-link"
+              aria-label={uni.name}
+              title={uni.name}
+            >
+              <img 
+                src={uni.imageUrl} 
+                alt={uni.name} 
+                class="university-icon"
+                loading="lazy"
+              />
+            </a>
+            <div class="short-name has-text-grey-light is-size-7 mt-1">
+              {uni.shortName}
+            </div>
+          </div>
         {/each}
       </div>
 
@@ -72,8 +77,14 @@
     max-width: 100%;
   }
 
+  .university-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 72px;
+  }
+
   .university-link {
-    display: inline-block;
     width: 72px;
     height: 72px;
     border: 1px solid #333;
@@ -94,5 +105,9 @@
     max-height: 100%;
     object-fit: contain;
     display: block;
+  }
+
+  .short-name {
+    line-height: 1.2;
   }
 </style>
