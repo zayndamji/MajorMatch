@@ -134,7 +134,10 @@
   }
 
   $: if (leftMajorId && leftUniversityId) fetchMajorDetails(leftUniversityId, leftMajorId, 'left');
+  $: if (!leftMajorId) leftMajorDetails = null;
+
   $: if (rightMajorId && rightUniversityId) fetchMajorDetails(rightUniversityId, rightMajorId, 'right');
+  $: if (!rightMajorId) rightMajorDetails = null;
 </script>
 
 <section class="section has-background-dark is-fullheight">
