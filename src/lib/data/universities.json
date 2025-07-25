@@ -43,23 +43,5 @@
     "imageUrl": "/images/ucla.png",
     "website": "https://www.ucla.edu",
     "path": "/ucla"
-  },
-  {
-    "id": "harvard",
-    "name": "Harvard University",
-    "shortName": "Harvard",
-    "description": "An Ivy League university in Cambridge, Massachusetts, known for academic rigor and a legacy of leadership. Harvard excels in fields like law, medicine, business, and the social sciences.",
-    "imageUrl": "/images/harvard.png",
-    "website": "https://www.harvard.edu",
-    "path": "/harvard"
-  },
-  {
-    "id": "yale",
-    "name": "Yale University",
-    "shortName": "Yale",
-    "description": "A historic Ivy League institution in Connecticut with strengths in liberal arts, law, and the performing arts. Yale is known for its collegiate traditions and cultural influence.",
-    "imageUrl": "/images/yale.png",
-    "website": "https://www.yale.edu",
-    "path": "/yale"
   }
 ]
